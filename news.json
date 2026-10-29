@@ -1,125 +1,397 @@
 {
- "updated": "2026-10-29T12:11:48.684851+00:00",
+ "updated": "2026-10-29T13:30:27.008149+00:00",
  "items": [
   {
-   "title": "Quizo vender las ruedas de un auto de alta gama robado en Marketplace: la detuvieron in fraganti",
-   "link": "https://www.infobae.com/sociedad/policiales/2026/10/29/quizo-vender-las-ruedas-de-un-auto-de-alta-gama-robado-en-marketplace-la-detuvieron-in-fraganti/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/QYEFDZKZPJBSROV5CUHW4JIXNA.jpg?auth=dd7ea0a24ae8638d14c73d3a70dacb6bcd8bf53529053feb5685e7088f767c4b&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:09:53+00:00"
-  },
-  {
-   "title": "Otro bombardeo de Putin a civiles: un drone ruso mató a trece personas en el andén de una estación de tren ucraniana",
-   "link": "https://www.infobae.com/america/mundo/2026/10/29/otro-bombardeo-de-putin-a-civiles-un-drone-ruso-mato-a-trece-personas-en-el-anden-de-una-estacion-de-tren-ucraniana/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/XUJTEFX4EZBSHPBXPUEGPD3ORY.JPG?auth=e147a293b9d832a88d83314087ce4ebccb8e0a9d50ad8643cccdbd29eca2db7c&smart=true&width=1280&height=854",
-   "date": "2026-10-29T12:09:39+00:00"
-  },
-  {
-   "title": "La cuestión docente: entre cambio tecnológico y desigualdades en el Perú",
-   "link": "https://www.infobae.com/peru/2026/10/29/la-cuestion-docente-entre-cambio-tecnologico-y-desigualdades-en-el-peru/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/X3FJ6E4IKJGA5KPPDJXNBNHFVY.jpeg?auth=01c96d297972d51a656056c1d0b5f3b23b52b5d385df59a72382a88581af2a41&smart=true&width=1536&height=1024",
-   "date": "2026-10-29T12:09:24+00:00"
-  },
-  {
-   "title": "Defensa de Álvaro Uribe pidió que sancionen a Miguel Ángel del Río por revelar información sobre el caso del expresidente: “Estricta reserva confidencial”",
-   "link": "https://www.infobae.com/colombia/2026/10/29/defensa-de-alvaro-uribe-pidio-que-sancionen-a-miguel-angel-del-rio-por-revelar-informacion-sobre-el-caso-del-expresidente-estricta-reserva-confidencial/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/FMHMTI4N7ZCZNBG6JJAEIZUP3Q.png?auth=c7ad44ce491fba461dcff1a094f0e165cc9d59aacb4093f4ca17e75c9ccc4045&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:09:20+00:00"
-  },
-  {
-   "title": "Siete de cada diez transportistas dicen que sus clientes no pagan por un flete con menos emisiones",
-   "link": "https://www.infobae.com/movant/2026/10/28/siete-de-cada-diez-transportistas-dicen-que-sus-clientes-no-pagan-por-un-flete-con-menos-emisiones/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/Z7JBI37Z3ZED7CTPCHYZKUUUJQ.jpg?auth=d4158182116650404a2ad33a36a1acaa2008a0fc23dbd353edf67585883c56e4&smart=true&width=1000&height=667",
-   "date": "2026-10-29T12:08:25+00:00"
-  },
-  {
-   "title": "Última hora del accidente de trenes en Toledo, en directo: ascienden a 69 las víctimas mortales",
-   "link": "https://www.infobae.com/espana/2026/10/29/ultima-hora-del-accidente-de-trenes-en-toledo-en-directo-la-guardia-civil-continua-trabajando-en-la-zona-en-busca-de-mas-posibles-victimas/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/OQRSCUALUBEH3IZ5LT7YMNPUQ4.jpg?auth=80e7990d5884630294bcd21f37db9a850ebb50182dfb82de2fdc2d9498ab0f3e&smart=true&width=3984&height=2656",
-   "date": "2026-10-29T12:08:04+00:00"
-  },
-  {
-   "title": "La UBA otorgará el título de doctor Honoris Causa al Papa León XIV en su visita a la Argentina",
-   "link": "https://www.infobae.com/politica/2026/10/28/la-uba-otorgara-el-titulo-de-doctor-honoris-causa-al-papa-leon-xiv-en-su-visita-a-la-argentina/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/VDZVXLY73RCK3B3JLTWWTNIDHU.jpg?auth=04732e232bcb18706d86b61f9a0c9fb7798f7a4273bf504c92652da7184631c3&smart=true&width=1920&height=1280",
-   "date": "2026-10-29T12:08:01+00:00"
-  },
-  {
-   "title": "Puente Piedra: cámaras captan a sujeto que dispara contra recepcionista y huye del hostal",
-   "link": "https://www.infobae.com/peru/2026/10/29/puente-piedra-camaras-captan-a-sujeto-que-dispara-contra-recepcionista-y-huye-del-hostal/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/SW6FCA566BDGFDWVVQL6RNO3CM.jpg?auth=03de18a75188b30302d5580ef3e126326044bd9d0d8b94c9d2ffe00491430150&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:07:58+00:00"
-  },
-  {
-   "title": "Precio del dólar subió en Perú: Así se cotiza el tipo de cambio hoy 29 de octubre",
-   "link": "https://www.infobae.com/peru/2026/10/28/dolar-hoy-en-peru-cotizacion-de-apertura-del-28-de-octubre/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/2XW3WTJXOZFU7LONBNYU5G3VAY.jpg?auth=29ae10930e2f06e24bfa8fc077780bf5c105c5bcf410e80b80e4691a5b15100e&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:07:47+00:00"
-  },
-  {
-   "title": "Lo compré, lo pagué, lo quiero: el desafío de explicar los tiempos reales del comercio exterior",
-   "link": "https://www.infobae.com/movant/2026/10/27/lo-compre-lo-pague-lo-quiero-el-desafio-de-explicar-los-tiempos-reales-del-comercio-exterior/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/U3XMW6XCJJEHFLTPUZUHX6M2UU.jpg?auth=d536efe838ce848a854c84fd5c66e508ec596b1b413881f125f45083cb760613&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:07:40+00:00"
-  },
-  {
-   "title": "Los 17 minutos y 25 kilómetros que condujeron a una tragedia evitable y que un operario de Adif tendrá que explicar",
-   "link": "https://www.infobae.com/espana/2026/10/29/los-17-minutos-y-25-kilometros-que-condujeron-a-una-tragedia-evitable-y-que-un-operario-de-adif-tendra-que-explicar/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/6TSUJTYARREI5LRVCW6ESMZZ4I.jpg?auth=766e1e442da2ecd605e2a2fc195aa7b54ea468f465f52d39aa40188c78c3e88d&smart=true&width=1920&height=1280",
-   "date": "2026-10-29T12:07:34+00:00"
-  },
-  {
-   "title": "Euro 6 llegará en 2030: Gobierno posterga por tercera vez el uso de combustibles más limpios en el país",
-   "link": "https://www.infobae.com/peru/2026/10/29/euro-6-llegara-en-2030-gobierno-posterga-por-tercera-vez-el-uso-de-combustibles-mas-limpios-en-el-pais/",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "https://www.infobae.com/resizer/v2/VRJHZFG7QFFFDIV2IUPAY6V5RI.jpg?auth=0b832e2408306ba89b5f9567bef7ae32e74d6ead3555b1e3f3cf31edb0373fb1&smart=true&width=1920&height=1080",
-   "date": "2026-10-29T12:07:13+00:00"
-  },
-  {
-   "title": "Paro docente nacional hoy: ¿hay clases este jueves 29 de octubre?",
-   "link": "https://www.lanacion.com.ar/sociedad/paro-docente-nacional-hoy-hay-clases-este-jueves-29-de-octubre-nid29102026/",
+   "title": "El Gobierno avanza sobre terrenos junto al Parque de la Costa: proyecta vender más de 60.000 m2",
+   "link": "https://www.lanacion.com.ar/propiedades/inmuebles-comerciales/terrenos-del-estado-el-gobierno-vendera-seis-manzanas-en-una-de-las-zonas-mas-buscadas-de-tigre-nid29102026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/OZT6S6PD6RH4LAGACBHHUJW35I.JPG?auth=7c64f201f3fba7eb07ed940b4bc5269e34f7040725f50e30acfef4833c0dc9f9&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T12:04:26+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/CLPTEJWEFVAKXIFBRKGS2DWKSM.JPG?auth=4989ed2d25f35f460687aaeb840112551cd7c0fb7b34482130de1972ccc7259f&smart=true&width=4096&height=2731",
+   "date": "2026-10-29T15:15:00+00:00"
   },
   {
-   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 29 de octubre, minuto a minuto",
-   "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid29102026/",
+   "title": "AEA defendió la libertad de prensa y pidió respeto al periodismo",
+   "link": "https://www.lanacion.com.ar/economia/aea-defendio-la-libertad-de-prensa-y-pidio-respeto-al-periodismo-nid29102026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/VU4KDTAO7ZGOXDP65RKJ7WUL4M.jpg?auth=f9284991cd1f14241d968a80a885a2c536841122127f93d433fa1547cd2e39a2&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T12:03:15+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/ZKBGZYW56ZAKRII7FNV4WNSHIA.jpeg?auth=bf81c1070f772ade8b766861966b608a55215588403ab3de8c6fe4cf9f27ef2d&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:28:59+00:00"
   },
   {
-   "title": "Noche de Halloween: las mejores películas de terror para ver por streaming",
-   "link": "https://www.lanacion.com.ar/espectaculos/noche-de-halloween-las-mejores-peliculas-de-terror-para-ver-por-streaming-nid29102026/",
+   "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/D3OX6YSC3NBYTEY67YNDH43LCY.jpg?auth=49aa91941a42e3d4d899fc0d45a3a7004be277b950588d01d1aab8245832b4bf&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T12:01:16+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/SBXLN3BSXZDNBIDNOFWRMDFOHM.jpg?auth=15ce2cc56c8c468559bcb2c4325dc2e238702b21f6c66c3a48dc85e3e3299951&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:27:56+00:00"
+  },
+  {
+   "title": "Cumplió el sueño de entrar a la cancha con Lionel Messi y conocer a David Beckham: quién es Huddy, el niño que enamoró a todos",
+   "link": "https://www.lanacion.com.ar/deportes/cumplio-el-sueno-de-entrar-a-la-cancha-con-lionel-messi-y-conocer-a-david-beckham-quien-es-huddy-el-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/6HL2OWZLHRCMNFKSZXZBRJN4PU.png?auth=43cda7e878aea8ac8bfee389be73863e3380c8e87586b6392d4ad1ac6f0cebe6&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:27:53+00:00"
+  },
+  {
+   "title": "Gisela Gilges, life coach: “No hace falta que duela para aprender a frenar en la vida”",
+   "link": "https://www.lanacion.com.ar/sociedad/gisela-gilges-life-coach-no-hace-falta-que-duela-para-aprender-a-frenar-en-la-vida-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/7VLS3C2JXFD4ZMISDJVIFQLXXU.JPG?auth=004c665f5e1cb3cc316b2e22c988a42f123f83ea5a86f54cfec0f06d5df29037&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:27:17+00:00"
+  },
+  {
+   "title": "Quién era Ana Martina Conte Grand, la podóloga argentina de 32 años que murió en el accidente de trenes en España",
+   "link": "https://www.lanacion.com.ar/el-mundo/quien-era-ana-martina-conte-grand-la-podologa-argentina-de-32-anos-que-murio-en-el-accidente-de-nid28102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/5VDNL6TNXNFG5ABQEPECVHH3CA.jpg?auth=c256bc5f92553e4bdfc1f5ee094aef9b835009d8538a20c29a8b253f9924fa3d&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:24:27+00:00"
+  },
+  {
+   "title": "Cancillería aclaró si hay colombianos muertos o heridos en el accidente de trenes en España que dejó más de 60 víctimas",
+   "link": "https://www.infobae.com/colombia/2026/10/29/cancilleria-aclaro-si-hay-colombianos-muertos-o-heridos-en-el-accidente-de-trenes-en-espana-que-dejo-mas-de-60-victimas/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/EFOKFO4GKNFZZHGPYSNREV4A7A.jpg?auth=bc123aaf016057a9f738865d5ccf11ff8912e387572b71a3381d955245199eea&smart=true&width=4000&height=2666",
+   "date": "2026-10-29T13:24:13+00:00"
+  },
+  {
+   "title": "Qué pasó con Flavio Bolsonaro y su huida a Estados Unidos: el recorrido, su paso por la Argentina y las últimas noticias hoy",
+   "link": "https://www.lanacion.com.ar/el-mundo/que-paso-con-flavio-bolsonaro-y-su-huida-a-estados-unidos-el-recorrido-su-paso-por-la-argentina-y-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/H4PQPIVNSNAHJP376OL4NEK5DY.JPG?auth=31e497ac5765cc973d71129065fafabf68b73bab3485f3d1d8de93017ae8dcd6&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:24:02+00:00"
+  },
+  {
+   "title": "Elecciones Estados Unidos 2026, EN VIVO: qué se sabe de las midterms y quién va ganando hoy, jueves 29 de octubre",
+   "link": "https://www.lanacion.com.ar/estados-unidos/washington/elecciones-estados-unidos-2026-en-vivo-que-se-sabe-de-las-midterms-hoy-jueves-29-de-octubre-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/H544P7WGTBHMLLPK6Z3AB5FKRA.jpg?auth=7b4849f76a3089af093bf26ed3eac83503b797d04db07f366dd92fe2d7db6e8c&smart=true&width=2000&height=1333",
+   "date": "2026-10-29T13:24:00+00:00"
+  },
+  {
+   "title": "Brote de meningitis en Mendoza: investigan dos fallecimientos más en el Hospital Privado",
+   "link": "https://www.infobae.com/sociedad/2026/10/29/brote-de-meningitis-en-mendoza-investigan-dos-fallecimientos-mas-en-el-hospital-privado/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/ZSOLZQC74RHAVIQLTNPFGVTCLQ.png?auth=1a6864daa834beadde47914bfaaa3df8b1d197e9a8726bd26e90cb8e46ff6e52&smart=true&width=959&height=518",
+   "date": "2026-10-29T13:23:45+00:00"
+  },
+  {
+   "title": "Los rumores de un triángulo amoroso entre dos figuras del tenis y una bailarina que desataron una interna en el equipo campeón de la Copa Davis",
+   "link": "https://www.infobae.com/deportes/2026/10/29/los-rumores-de-un-triangulo-amoroso-entre-dos-figuras-del-tenis-y-una-bailarina-que-desataron-una-interna-en-el-equipo-campeon-de-la-copa-davis/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/7YUFENFBCZGCZCEFH3VAIOGNLI.jpg?auth=0ea7805f3d71dc52f128ead34f449b9f321f624c21a4465f28a6a2dcdb96102c&smart=true&width=1920&height=1080",
+   "date": "2026-10-29T13:23:11+00:00"
+  },
+  {
+   "title": "Se empiezan a conocer los nombres de las víctimas mortales del accidente ferroviario de Toledo: un guardia civil y un reconocido inspector de Hacienda, entre los fallecidos",
+   "link": "https://www.infobae.com/espana/2026/10/28/se-empiezan-a-conocer-los-nombres-de-las-victimas-del-accidente-ferroviario-de-toledo-un-guardia-civil-y-un-reconocido-inspector-de-hacienda-entre-los-fallecidos/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/JF4DLKGNAFH67N3WIXZEWDUUQU.JPG?auth=f8ded1748d70a4956007e587c28da64909c7e892d0bf015cbc5d87d6576647d4&smart=true&width=6000&height=4000",
+   "date": "2026-10-29T13:23:10+00:00"
+  },
+  {
+   "title": "Florida queda entre los peores estados para conseguir empleo en Estados Unidos",
+   "link": "https://www.infobae.com/estados-unidos/2026/10/29/florida-queda-entre-los-peores-estados-para-conseguir-empleo-en-estados-unidos/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/K72FLA2RTYLLQPH4EI5E3QBSW4.jpg?auth=c8ca38f80c8e641f8635f166f7c713bfae789b5b6f141e40b42cbce6d32172c1&smart=true&width=3000&height=2000",
+   "date": "2026-10-29T13:23:09+00:00"
+  },
+  {
+   "title": "Quién es Arturo Elías Slim, uno de los jóvenes herederos de la millonaria fortuna de su abuelo Carlos Slim",
+   "link": "https://www.infobae.com/mexico/2026/10/26/quien-es-arturo-elias-slim-uno-de-los-jovenes-herederos-de-la-millonaria-fortuna-de-su-abuelo-carlos-slim/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/YXKOAWJIXVH4VBXPCHSFMEKBFE.webp?auth=e3bc81bc7e58bcca432f2f26fb1cbb2e5cd488b828bb425545ac539cb364eb36&smart=true&width=1065&height=663",
+   "date": "2026-10-29T13:22:59+00:00"
+  },
+  {
+   "title": "“Pity” Álvarez sufrió una crisis nerviosa cuando iban a conectarlo al juicio por zoom: cómo fue el episodio en el Hospital Tornú",
+   "link": "https://www.infobae.com/sociedad/policiales/2026/09/28/pity-alvarez-sufrio-una-crisis-nerviosa-cuando-iban-a-conectarlo-al-juicio-por-zoom-como-fue-el-episodo-en-el-hospital-tornu/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/M2HVL4344REGDFZE26VCFLMJEQ.png?auth=9bd3a96326ed9c9ef09af6e4eff4091326e56aad4d03795ed15a0f270df08425&smart=true&width=2752&height=1536",
+   "date": "2026-10-29T13:22:23+00:00"
+  },
+  {
+   "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
+   "link": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/OQLTZMFGPBCRVI7OTNS5AD5WCQ.png?auth=c9663b632441d95d9c9914257310c5fc9c1131a0e6474a86de8c44510cf44669&smart=true&width=1200&height=800",
+   "date": "2026-10-29T13:22:13+00:00"
+  },
+  {
+   "title": "El Govern revisará la seguridad en hospitales tras el asesinato de un herido en Tarragona",
+   "link": "https://www.infobae.com/espana/agencias/2026/10/29/el-govern-revisara-la-seguridad-en-hospitales-tras-el-asesinato-de-un-herido-en-tarragona/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T13:21:08+00:00"
+  },
+  {
+   "title": "Óscar Puente, en el punto de mira de los partidos tras el siniestro de Urda con 69 muertos",
+   "link": "https://www.infobae.com/espana/agencias/2026/10/29/oscar-puente-en-el-punto-de-mira-de-los-partidos-tras-el-siniestro-de-urda-con-69-muertos/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T13:20:52+00:00"
+  },
+  {
+   "title": "José Carbonell, psiquiatra: “Bloquear a tu expareja no es de ser una persona inmadura”",
+   "link": "https://www.infobae.com/espana/viajes/2026/10/29/jose-carbonell-psiquiatra-bloquear-a-tu-expareja-no-es-de-ser-una-persona-inmadura/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "https://www.infobae.com/resizer/v2/LTXFSRSCVZD4FAB7VS3IYYFTAA.jpeg?auth=08b4e0a0202715735bab2d9de6162bca25d3d7d7b74bf327a419df2b408fca07&smart=true&width=5054&height=3369",
+   "date": "2026-10-29T13:20:38+00:00"
+  },
+  {
+   "title": "Alimentos 3D y estimulación neuromuscular para combatir la disfagia que dejan los ictus",
+   "link": "https://www.infobae.com/espana/agencias/2026/10/29/alimentos-3d-y-estimulacion-neuromuscular-para-combatir-la-disfagia-que-dejan-los-ictus/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T13:20:35+00:00"
+  },
+  {
+   "title": "Choque de trenes en España, EN VIVO: qué pasó en Toledo y las últimas noticias del accidente mientras sigue la búsqueda de víctimas",
+   "link": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-en-vivo-que-paso-en-toledo-y-las-ultimas-noticias-del-accidente-mientras-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/YOG3U77V2ZDFPGCMIISWUVB73Q.JPG?auth=c4e02871013f589d6e1d30cffc547392e5cfd28c3564bc4757557e0860fc04c0&smart=true&width=2000&height=1292",
+   "date": "2026-10-29T13:20:34+00:00"
+  },
+  {
+   "title": "Luz Casal, Rozalén, Arde Bogotá y María José Llergo, premios Aupa! del congreso BIME",
+   "link": "https://www.infobae.com/espana/agencias/2026/10/29/luz-casal-rozalen-arde-bogota-y-maria-jose-llergo-premios-aupa-del-congreso-bime/",
+   "source": "Infobae",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T13:20:19+00:00"
+  },
+  {
+   "title": "Como un videojuego, pero para emergencias: crearon un simulador que enseña una técnica capaz de salvar vidas en espacios públicos",
+   "link": "https://www.lanacion.com.ar/sociedad/como-un-videojuego-pero-para-emergencias-crearon-un-simulador-que-ensena-una-tecnica-capaz-de-salvar-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/XKN42HAEGZHUXC6KUAVGKLXA74.jpg?auth=ad84bef3d2325f0a075bb4762e2d180582bba94fae3c6526d9a5094ded1bb312&smart=true&width=5729&height=3929",
+   "date": "2026-10-29T13:19:50+00:00"
+  },
+  {
+   "title": "Resultado de las elecciones en Israel 2026: quién gana en una elección reñida entre Netanyahu y Eisenkot",
+   "link": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/4YDSZY6Y7JACLDCGDECFWJ2BCU.png?auth=3e85eb13ddac432fc9bdadf314e916ef39543e1f5763878dfee72c90855aba29&smart=true&width=1200&height=800",
+   "date": "2026-10-29T13:19:13+00:00"
+  },
+  {
+   "title": "A una hora de Buenos Aires: el pueblo ideal para una escapada entre calles tranquilas y sabores tradicionales",
+   "link": "https://www.clarin.com/informacion-general/hora-buenos-aires-pueblo-ideal-escapada-calles-tranquilas-sabores-tradicionales_0_dMeF5RuHU0.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2018/10/03/9PtNwjq51_1200x630__1.jpg",
+   "date": "2026-10-29T13:15:00+00:00"
+  },
+  {
+   "title": "Bayern Munich, entre problemas de salud, lesiones y una alegría histórica",
+   "link": "https://www.ole.com.ar/futbol-internacional/liga-alemana-bundesliga/bayern-munich-lesiones-problemas-salud-alegria-historica-balon-oro-harry-kane_0_Zk7fmgKEnZ.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/W6JEyVfe8_1200x630__1.jpg",
+   "date": "2026-10-29T13:14:09+00:00"
+  },
+  {
+   "title": "El crimen de la maestra Nancy Godoy: hallaron su celular y buscan que la autopsia arroje la verdad de lo que pasó",
+   "link": "https://www.clarin.com/policiales/crimen-maestra-nancy-godoy-hallaron-celular-buscan-autopsia-arroje-verdad-paso_0_5MSC1naD5D.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/10/29/MovfKYGrx_1200x630__1.jpg",
+   "date": "2026-10-29T13:13:43+00:00"
+  },
+  {
+   "title": "Asamblea de Boca: de cuántos millones de dólares es el superávit",
+   "link": "https://www.ole.com.ar/boca-juniors/asamblea-representantes-boca-juniors-balanca-superavit_0_lljdFcO6ZL.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/09/08/XaYItP32x_1200x630__1.jpg",
+   "date": "2026-10-29T13:12:26+00:00"
+  },
+  {
+   "title": "Jubilados: por la falta de actualización, el bono pasó de representar casi la mitad a apenas 15,7% del haber mínimo",
+   "link": "https://www.clarin.com/economia/jubilados-falta-actualizacion-bono-paso-representar-mitad-apenas-157-minimo_0_MSZT4frmjX.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/17/5wOvcLiIK_1200x630__1.jpg",
+   "date": "2026-10-29T13:11:58+00:00"
+  },
+  {
+   "title": "Una abuela de 69 años murió ahogada en una isla española tras salvar a su nieta en el último día de las vacaciones familiares",
+   "link": "https://www.clarin.com/internacional/abuela-69-anos-murio-ahogada-isla-espanola-salvar-nieta-ultimo-dia-vacaciones-familiares_0_3csjLz8ovz.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/10/29/cE4In9fwV_1200x630__1.jpg",
+   "date": "2026-10-29T13:11:35+00:00"
+  },
+  {
+   "title": "Gasto en consumo personal subió 3,6% en EEUU en septiembre y subraya inflación persistente",
+   "link": "https://www.clarin.com/estados-unidos/gasto-en-consumo-personal-subio-3-6-en-eeuu-en-septiembre-y-subraya-inflacion-persistente_0_MbXzGoCPIn.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+   "date": "2026-10-29T13:10:18+00:00"
+  },
+  {
+   "title": "Caen solicitudes de ayuda por desempleo en EEUU, indicio de que despidos se mantienen bajos",
+   "link": "https://www.clarin.com/estados-unidos/caen-solicitudes-de-ayuda-por-desempleo-en-eeuu-indicio-de-que-despidos-se-mantienen-bajos_0_BanhFonuiw.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+   "date": "2026-10-29T13:10:11+00:00"
+  },
+  {
+   "title": "El ex Boca que hizo historia en River y elogió al equipo de Ponzio para el Súper: \"Tiene actitud y huevo\"",
+   "link": "https://www.ole.com.ar/river-plate/river-plate-jonatan-maidana-boca-superclasico-huevo-ponzio_0_anb0aPeByE.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/YJHrupLDs_1200x630__1.jpg",
+   "date": "2026-10-29T13:04:00+00:00"
+  },
+  {
+   "title": "Un dron de Rusia impactó en una estación ferroviaria de Ucrania: murieron 14 pasajeros que estaban esperando el tren en el andén",
+   "link": "https://www.clarin.com/mundo/dron-rusia-impacto-estacion-ferroviaria-ucrania-murieron-13-pasajeros-esperando-tren-anden_0_L7MRHbcKVm.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/10/29/LzHbEHTff_1200x630__1.jpg",
+   "date": "2026-10-29T13:02:34+00:00"
+  },
+  {
+   "title": "Una ciudad ucraniana en la zona de conflicto disfruta de un momento de paz",
+   "link": "https://www.clarin.com/new-york-times-international-weekly/ciudad-ucraniana-zona-conflicto-disfruta-momento-paz_0_dw8VHfyYbE.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/10/29/4W3di2Cvv_1200x630__1.jpg",
+   "date": "2026-10-29T13:01:38+00:00"
+  },
+  {
+   "title": "Thiago Cardozo se disculpó con los hinchas de Belgrano tras sus polémicos dichos",
+   "link": "https://www.ole.com.ar/belgrano/thiago-cardozo-disculpo-hinchas-belgrano-comentario-polemico-jugar-grande_0_uuRM5eRl1o.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/5YYpj694p_1200x630__1.jpg",
+   "date": "2026-10-29T13:00:55+00:00"
+  },
+  {
+   "title": "Dos astronautas inician una caminata espacial para instalar un panel solar en la EEI",
+   "link": "https://www.clarin.com/estados-unidos/dos-astronautas-inician-una-caminata-espacial-para-instalar-un-panel-solar-en-la-eei_0_vwuWFKxXV6.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+   "date": "2026-10-29T13:00:23+00:00"
+  },
+  {
+   "title": "Inflación se mantiene alta en EEUU, días antes de elecciones",
+   "link": "https://www.clarin.com/estados-unidos/inflacion-se-mantiene-alta-en-eeuu-dias-antes-de-elecciones_0_LlKSwfVtrj.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+   "date": "2026-10-29T13:00:17+00:00"
+  },
+  {
+   "title": "Platense, de pelear por la permanencia a jugar su cuarta final en cuatro años",
+   "link": "https://www.ole.com.ar/platense/platense-final-copa-argentina-atletico-tucuman-martin-palermo_0_MEWThgmWBV.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/lrs1Sb2tRb_1200x630__1.jpg",
+   "date": "2026-10-29T12:59:51+00:00"
+  },
+  {
+   "title": "Racing vs. Aldosivi, por el Torneo Clausura 2026: día, horario y dónde ver en vivo",
+   "link": "https://www.ole.com.ar/futbol-primera/racing-vs-aldosivi-partido-torneo-clausura-2026-dia-horario-ver_0_DzMIbmG2VV.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/gsBzpBeqE_1200x630__1.jpg",
+   "date": "2026-10-29T12:57:27+00:00"
+  },
+  {
+   "title": "Platense es finalista de la Copa Argentina: venció por penales a Atlético Tucumán y se anima a soñar",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUJtMWstdVFlQVkydnRkdjFHQkc5ako5UVJQWFY5VWdaM0RQZjZZc3hhMHhMdWw2N0hWR0R4dDYyd01jMmdTWEdYMjZSR1kyV1F4N3VudUg2cjRVUWsyS2JrTHNESmJlQUZzRUlnSnhKd00xdkx6M3ZRYWRyU1lhZHVBRVp0QUhJM0txc3ZrTTdSOXB6RzFVNXdUMnphWHY3S3NNLUdyeVJJTFlzdklUMnU4Nk81Y08zNXJfbU1uYTlQdzZfN2xTaWh1ZHNWTWhTYThr?oc=5",
+   "source": "La Nación",
+   "cat": "deportes",
+   "image": "",
+   "date": "2026-10-29T12:43:00+00:00"
+  },
+  {
+   "title": "Video: el tapón y el quiebre de tobillos a LeBron James que se hizo viral",
+   "link": "https://www.ole.com.ar/basquet/video-tapon-quiebre-tobillos-lebron-james-hizo-viral_0_kPl6raOxni.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/sobBzartS_1200x630__1.jpg",
+   "date": "2026-10-29T12:40:54+00:00"
+  },
+  {
+   "title": "Quién gana el superclásico: el voto de la gente",
+   "link": "https://www.ole.com.ar/futbol-primera/resultados-encuesta-ole-gana-superclasico-boca-river_0_mODf8ybQQj.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/RQOF45jGx_1200x630__1.jpg",
+   "date": "2026-10-29T12:39:16+00:00"
+  },
+  {
+   "title": "Sarmiento vs. Rosario Central, por el Torneo Clausura 2026: día, hora y cómo ver en vivo",
+   "link": "https://www.ole.com.ar/futbol-primera/sarmiento-junin-partido-torneo-clausura-2026-dia-hora-tv-ver_0_CiaHa18Tsr.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/4i5SkpIia_1200x630__1.jpg",
+   "date": "2026-10-29T12:39:08+00:00"
+  },
+  {
+   "title": "Cristiano Ronaldo, premio BOAT: el portugués obtuvo la distinción al mejor Balón de Oro de todos los tiempos",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUFAxQ0ZlMFhoakI4bk1uY09hMWh3WGZFcUEzd19kQmhpR1ZzMExpcUNsaUt1NkhYdVhrZnRuT1dlTlV3X0h6VEhvN1UweGlLcWxhMGxoX0ZubHAyMWk1TXBZTUg2MkJzSE9OQlRWdEhwWjBnS2FuX2VUS3pVbFUyQ1NvTVVjeFpRVDVpZmN2VW1oTVd0S25odERydnU4QzFqQXBWSWU2YzNLek1EZVktRlRFYlZTNFlpQ0RmSktDdFpKTDBtSlVRV2diWU10SXhPa2lFb05ZNE1xUVdjZWFWdVk5UFZ5SEVNWG5V?oc=5",
+   "source": "La Nación",
+   "cat": "deportes",
+   "image": "",
+   "date": "2026-10-29T12:38:00+00:00"
+  },
+  {
+   "title": "Cómo el nuevo mapa político de América Latina y el giro a la derecha estrechan los lazos de Israel con la región",
+   "link": "https://www.bbc.com/mundo/articles/cde0y18jxe5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Mundo",
+   "cat": "mundo",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8db3/live/00294ae0-ae32-11f1-acf8-4d215567657e.jpg",
+   "date": "2026-10-29T12:30:04+00:00"
+  },
+  {
+   "title": "Santiago Caputo fue identificado por un control policial tras el operativo de huida de Bolsonaro",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUzN0UTk2emtNZDBpUERUb28yYkx5MEhvMFE1VTVrX1RqWklzb0dpQThYZlR3LXRPbWNHZ1lBeTVoNGlVbXZUVlAyNU02UG0zU2Vha2U2U3ZicjNVWTJQRGJ4dGxWbVNvSWJlYThxd3IwbGFrQThXa2hqaDlVbE1XWnplMm5VYlpvMXJkZ0tFQTByYnA4U19vSW4zakxuSVFzbVJ0ZFh1R1paSkZLdU9TQks4Mk1Ta25hQjZPM0NDMHJTOFIxX01fTVp2TWJfSlQwMTJ6NnR2OTkwSHNXVnJz?oc=5",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T12:26:00+00:00"
+  },
+  {
+   "title": "Estudiantes de Río Cuarto vs. Gimnasia de La Plata, por el Torneo Clausura 2026: día, horario y cómo ver en vivo",
+   "link": "https://www.ole.com.ar/futbol-primera/estudiantes-rio-cuarto-vs-gimnasia-plata-partido-torneo-clausura-2026-dia-horario-tv_0_KrwarUFGjz.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/QzgH1z1W8_1200x630__1.jpg",
+   "date": "2026-10-29T12:22:54+00:00"
+  },
+  {
+   "title": "Confirman una víctima argentina en el choque de trenes en España y otra permanece desaparecida",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHJDYU1BNUFCaUpkRTdYU1NYOC1kNE45OV9Ld0xHUGFMRDZ0ZW53b1NaN1NEUmxlOFZGZUNSOUtKQmtWd1FlN2o2ZzJSTkFmWFo2ajRHTHlTbjFnNTVjc1dXSXlzNmlHNm5GTXZPbFY4QkNVRUYxNGVDNmJLOTkzSFp4V0VYR2czY0Z1VHA1QThGTTlKRmNvVC03Yms5X1ozODQ1Tmk5WXM1bEtKbTkzT2tDREVhY0VHZjc5dnVkSDZZVXRKbGJBNkIzOFV1UWp5X19PTHppZXJqY3VD?oc=5",
+   "source": "La Nación",
+   "cat": "mundo",
+   "image": "",
+   "date": "2026-10-29T12:12:00+00:00"
   },
   {
    "title": "El Salvador confirma que envió más de 2.000 soldados a Haití para rescatar a los cuatro militares desaparecidos por las bandas criminales",
@@ -130,116 +402,12 @@
    "date": "2026-10-29T12:00:49+00:00"
   },
   {
-   "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
-   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SBXLN3BSXZDNBIDNOFWRMDFOHM.jpg?auth=15ce2cc56c8c468559bcb2c4325dc2e238702b21f6c66c3a48dc85e3e3299951&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T12:00:00+00:00"
-  },
-  {
-   "title": "El reclamo de Mario Pergolini a Evelyn Botto por sus dichos sobre Carmen Barbieri: “Te va a escupir la comida”",
-   "link": "https://www.lanacion.com.ar/espectaculos/el-reclamo-de-mario-pergolini-a-evelyn-botto-por-sus-dichos-sobre-carmen-barbieri-te-va-a-escupir-la-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/UZLBWPZ45RFA7MGTAXBU4X2AN4.jpg?auth=8d63caf315615129516b374994cab2f19025f07e776f35857e65df49da152154&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:58:13+00:00"
-  },
-  {
-   "title": "Green card en EE.UU.: demandan al Uscis por mantener congelados trámites de refugiados y reducir a 10 días el plazo",
-   "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/green-card-en-eeuu-demandan-al-uscis-por-mantener-congelados-tramites-de-refugiados-y-reducir-a-10-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/T3AOOOFP45CVHAQQTJGSTNHXWQ.png?auth=4d42fbd675edddde612b412b9193371001a459ad443119b8a81ad933c1d61440&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:58:00+00:00"
-  },
-  {
-   "title": "Meghan Markle vuelve a la TV: después de los rumores, se suma como jurado de MasterChef Junior Australia",
-   "link": "https://www.lanacion.com.ar/espectaculos/personajes/meghan-markle-vuelve-a-la-tv-despues-de-los-rumores-se-suma-como-jurado-de-masterchef-junior-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/5GFASTHO3VCWVJHXDQM3KFI2RU.jpg?auth=bd1ec14eef5da03a4b4c949a1802d2b785ac6f9259f707e10f71fe296486a86f&smart=true&width=2042&height=1362",
-   "date": "2026-10-29T11:56:43+00:00"
-  },
-  {
-   "title": "El DHS ratificó multas migratorias impuestas desde 2025 y fijó el 16 de noviembre como fecha límite para reclamos",
-   "link": "https://www.lanacion.com.ar/estados-unidos/el-dhs-ratifico-multas-migratorias-impuestas-desde-2025-y-fijo-el-16-de-noviembre-como-fecha-limite-nid28102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/ETWKGEIK4FHFHAYOOOXYQXCQEU.jpg?auth=f1333f82d06af73faec5571be93b047e04f51187208a6647b5a933515e6218e4&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:52:47+00:00"
-  },
-  {
-   "title": "Últimas encuestas de las elecciones en Texas y quién gana la gobernación entre Abbott e Hinojosa",
-   "link": "https://www.lanacion.com.ar/estados-unidos/texas/ultimas-encuestas-de-las-elecciones-en-texas-y-quien-gana-la-gobernacion-entre-abbott-e-hinojosa-nid26102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/EKUCDHM7OVG6FKSHHPBJUGMZKY.jpg?auth=abf64cd92c661cc5824b13bb1d72eeead9108f762be1232438b33816e41677f0&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:48:49+00:00"
-  },
-  {
-   "title": "Palermo, antes de la final: \"Quiero que Boca gane todo, pero...\"",
-   "link": "https://www.ole.com.ar/platense/palermo-boca-platense-final-copa-argentina-maradona_0_W253tjW30T.html",
-   "source": "Olé",
+   "title": "El hincha elige: ¿qué delanteros deben acompañar a Merentiel ante River?",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDFFc24wVHkxdlMtMlZVbGZLaENmUktmRGY1UUplVXgxUF9qTW1RbDQ1YnRLMlpiWWJqUE80Z1hoT2N1cURHZ19wRDA5Zll4RVpPUkIwOVFPdmpmQV9Ma1hRNU9Xd2M1ZEI5SmZuRjRCbThhTXA2M1NXS2tEOGpDQWFyZXA5OXJEc1YtUF9CbGtQTE85RDRaMjVIaVc4VkZqM2JhMjF6UW0?oc=5",
+   "source": "TyC Sports",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/29/3j6VKQQ29_1200x630__1.jpg",
-   "date": "2026-10-29T11:48:39+00:00"
-  },
-  {
-   "title": "Elecciones Estados Unidos 2026, EN VIVO: qué se sabe de las midterms y quién va ganando hoy, jueves 29 de octubre",
-   "link": "https://www.lanacion.com.ar/estados-unidos/washington/elecciones-estados-unidos-2026-en-vivo-que-se-sabe-de-las-midterms-hoy-jueves-29-de-octubre-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/JCVE4D2ZLVBZDG67LFANQZLG3M.jpg?auth=11e3f1830d44c4551d5b82b00fc67d40b289354a49d14486cd99cef31b6f9d5b&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:46:18+00:00"
-  },
-  {
-   "title": "Barack Obama sobre el ICE: “No recuerdo que nadie hiciera campaña prometiendo enviar agentes enmascarados”",
-   "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/barack-obama-sobre-el-ice-no-recuerdo-que-nadie-hiciera-campana-prometiendo-enviar-agentes-nid28102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/LSIIB56NEND73DF6AXVBUQJG2A.jpg?auth=af8cd0e8930970ce7b36957a19085d4360aed67e321acd7ffb43499938042a2b&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:39:44+00:00"
-  },
-  {
-   "title": "Choque de trenes en España: los equipos de rescate registran los vagones en busca de sobrevivientes",
-   "link": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-los-equipos-de-rescate-registran-los-vagones-en-busca-de-sobrevivientes-nid29102026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/P4SBQKBS5VCP3POBM4LHSE5QDA.JPG?auth=b123669b6c70ca7200647d866c824fbd578b212a5b76a53bd81fdea4ae66be6d&smart=true&width=2000&height=1333",
-   "date": "2026-10-29T11:35:21+00:00"
-  },
-  {
-   "title": "Javier Milei y sus medidas, EN VIVO: Karina Milei, Santilli y Luis Caputo viajan a Rosario para impulsar las inversiones RIGI",
-   "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-karina-milei-santilli-luis-caputo-viajan-rosario-impulsar-inversiones-rigi_0_m5fgelr1v3.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/29/0obTZokKO_1200x630__1.jpg",
-   "date": "2026-10-29T11:35:09+00:00"
-  },
-  {
-   "title": "Choque de trenes en España: los equipos de rescate registran los vagones en busca de sobrevivientes",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbTAzOVY5ZlJMU2w0c2JheEJBU1pXempqTkY2dzctcDRrWExrWUlNSDgxRmQ1OHZ0UlpVVGNQZ1VnWDNMNlpSdkcwLWx1LVo1Znl4ZDg1dXhzQVIzYVkya216MjBjT25SdzBNakx6enB0MFBaLXhhdHJjbWhMMFRUV3RCR2hNLWdTUXdNNDRLRGpUWVZCbm43VUR2cUZtYk1oODlKUzQ4cTdqcUFScE5WODJvemZzc1pnTmlTN0dyREMtaVZSTmNrclVpN1BfOHdYMVhVRWJYSG5jY2loaGJ5NkZ3?oc=5",
-   "source": "La Nación",
-   "cat": "mundo",
    "image": "",
-   "date": "2026-10-29T11:35:00+00:00"
-  },
-  {
-   "title": "Quiniela de la Provincia: resultado del sorteo de la Primera de hoy, jueves 29 de octubre",
-   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-primera-hoy-jueves-29-octubre_0_phLsJKE6R1.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2020/06/26/9qaFf5P9k_1200x630__1.jpg",
-   "date": "2026-10-29T11:30:01+00:00"
-  },
-  {
-   "title": "El Endeavour y 100 piezas históricas permiten vivir la exploración espacial en California",
-   "link": "https://www.clarin.com/estados-unidos/el-endeavour-y-100-piezas-historicas-permiten-vivir-la-exploracion-espacial-en-california_0_syp3h1UpSz.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
-   "date": "2026-10-29T11:20:10+00:00"
+   "date": "2026-10-29T11:58:23+00:00"
   },
   {
    "title": "La crisis con Brasil pasa de la retórica a la acción",
@@ -250,44 +418,20 @@
    "date": "2026-10-29T11:17:00+00:00"
   },
   {
-   "title": "Choque de trenes en España: un día después de la tragedia, perros entrenados buscan restos humanos entre los vagones y las morgues están desbordadas",
-   "link": "https://www.clarin.com/mundo/choque-trenes-espana-dia-despues-tragedia-perros-entrenados-buscan-restos-humanos-vagones-morgues-desbordadas_0_D8i3uyjg22.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/28/VDk6oquDy_1200x630__1.jpg",
-   "date": "2026-10-29T11:16:15+00:00"
+   "title": "El robo de una vivienda quedó registrado por cámaras de seguridad en el Bº Santa Rosa de Lima",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMnZiVjUtZGc5NFhSYy1idDVqZDRPY2ZpWTU5aEJSOUVwaVFIZlNNU2VhcDU1Z1A5WVVsZEN0SzdZZDNiaG1oQ1hTT2ZWLWd0ZTdYbUpIdmFPRHVPRE9GaXZUV1BnSE54dVQ1T0JJeW8tV3M0R00zVHlYQ2lpZ0FZRGhMYXFSbmw5LU1lR0RXNktneGVtYlB4VnF2Q29FcS1JRUx1Unc5OGNDLTVDNThsVkxn?oc=5",
+   "source": "Diario Panorama",
+   "cat": "tecnologia",
+   "image": "",
+   "date": "2026-10-29T11:13:56+00:00"
   },
   {
-   "title": "SanCor Salud presenta Corporate: una nueva forma de cuidar la salud de las empresas",
-   "link": "https://www.clarin.com/brandstudio/sancor-salud-presenta-corporate-nueva-forma-cuidar-salud-empresas_0_qQLwGODpVo.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/25/koS1NKfpj_1200x630__1.jpg",
-   "date": "2026-10-29T11:15:52+00:00"
-  },
-  {
-   "title": "Más de 5.500 docentes participaron de un congreso histórico sobre inteligencia artificial en San Luis",
-   "link": "https://www.clarin.com/brandstudio/5500-docentes-participaron-congreso-historico-inteligencia-artificial-san-luis_0_LB2qH5G6Gd.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/28/jm2VMn3wA_1200x630__1.jpg",
-   "date": "2026-10-29T11:14:58+00:00"
-  },
-  {
-   "title": "Boca vs. River, EN VIVO: las últimas noticias del superclásico por el Torneo Clausura 2026",
-   "link": "https://www.ole.com.ar/futbol-primera/boca-vs-river-vivo-ultimas-noticias-superclasico-torneo-clausura-2026_0_S6ilkHpoS6.html",
-   "source": "Olé",
+   "title": "Tras un incidente con Colapinto, Pierre Gasly recibió 13.000 amenazas de muerte",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVnJ0alFBeGZ5b2ViTzdBcG5uQk9qZFNmN1hfV2hicHYwdXl0RWVGS1ZkUUk4MDA3VFNta21NMVpRTjRDU1Foa2ZXSUxmOEtYalBUTGNwanNjcU9meUJ2emJRa050blJ1bVMtanRsdlh0dUtXLXY5NzhxTlE5cy1WQy1tbG1ET0pMVzJEaGE5RVZOeUw1UWF5Z09CS2FIWDJuV3AxTWw0bW1QWEFqT1RueFRwdTVaNElrbHVwQWJxc1dyZE9OdkdrNjR3bzVhbm9ybWhLUW92WHg?oc=5",
+   "source": "La Nación",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/27/sLU5l6R51_1200x630__1.jpg",
-   "date": "2026-10-29T11:13:00+00:00"
-  },
-  {
-   "title": "Flávio Bolsonaro y su huida de Brasil, EN VIVO: tras su carta, el excandidato presidencial enfrenta duras críticas",
-   "link": "https://www.clarin.com/mundo/flavio-bolsonaro-huida-brasil-vivo-carta-excandidato-presidencial-enfrenta-duras-criticas_0_lPGyblMLEs.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/29/33ltjquo6_1200x630__1.jpg",
-   "date": "2026-10-29T11:00:46+00:00"
+   "image": "",
+   "date": "2026-10-29T10:59:00+00:00"
   },
   {
    "title": "\"Tengo 96 años y 15 millones de seguidores\": las abuelas que encontraron fama y dinero en TikTok",
@@ -298,44 +442,12 @@
    "date": "2026-10-29T10:57:20+00:00"
   },
   {
-   "title": "Investigarán al intendente de Pilar, Federico Achaval, por intentar quedarse con un predio donde funcionó un vacunatorio",
-   "link": "https://www.clarin.com/politica/investigaran-intendente-pilar-federico-achaval-intentar-quedarse-predio-funciono-vacunatorio_0_0GrC5jsHlz.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/25/eqaf_rUNu_1200x630__1.jpg",
-   "date": "2026-10-29T10:56:52+00:00"
-  },
-  {
-   "title": "El hincha elige: ¿qué delanteros deben acompañar a Merentiel ante River?",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbDFFc24wVHkxdlMtMlZVbGZLaENmUktmRGY1UUplVXgxUF9qTW1RbDQ1YnRLMlpiWWJqUE80Z1hoT2N1cURHZ19wRDA5Zll4RVpPUkIwOVFPdmpmQV9Ma1hRNU9Xd2M1ZEI5SmZuRjRCbThhTXA2M1NXS2tEOGpDQWFyZXA5OXJEc1YtUF9CbGtQTE85RDRaMjVIaVc4VkZqM2JhMjF6UW0?oc=5",
-   "source": "TyC Sports",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-29T10:50:59+00:00"
-  },
-  {
-   "title": "Euro hoy en Venezuela: precio y cotización de la divisa este jueves 29 de octubre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-jueves-29-de-octubre-de-2026_0_UamUuS1JL8.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2018/12/28/5LE22YAZM_1200x630__1.jpg",
-   "date": "2026-10-29T10:45:13+00:00"
-  },
-  {
-   "title": "Euro hoy en Uruguay: precio y cotización de la divisa este jueves 29 de octubre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-jueves-29-de-octubre-de-2026_0_yFidlEBHKZ.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2018/12/28/5LE22YAZM_1200x630__1.jpg",
-   "date": "2026-10-29T10:45:12+00:00"
-  },
-  {
-   "title": "Protesta por el choque de trenes en España: exigieron la renuncia del ministro de Transporte y apuntaron co...",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZjV0YTV4T2cxdzFyRDBFTTVsTFJ2SEQxYWtZSmZTLWREa3paakN3aDlTYUxfcGdrRVpTNXpuZUpiNzBhbmlvYU5Bck01cjV1dnlaN3ZoRENaVlRNa0RpODVKLUpBMEYwRUIzZG1EcWF5OFZUMnA2a2l5aHR6WVZrMGxLbFhfNW5hNk5LSzRSYzlRdG5YYmVDS3ZUa2g2blJYZkg2UUVGM1FsdXY2bWplV1FZazd2U3Rqb1BEZUNpdmZGVFJtdjhDMVRNTE55NFpOSWFncmF5b0JUMDZaTnVEdjFhTFdmZlF3Sk54SmVwVDR4czlqa29jNHZUYkg2Q2M1cUN4UlpkeHk4Slp3ZDFtUDYxbjZud9IBlgJBVV95cUxNZjV0YTV4T2cxdzFyRDBFTTVsTFJ2SEQxYWtZSmZTLWREa3paakN3aDlTYUxfcGdrRVpTNXpuZUpiNzBhbmlvYU5Bck01cjV1dnlaN3ZoRENaVlRNa0RpODVKLUpBMEYwRUIzZG1EcWF5OFZUMnA2a2l5aHR6WVZrMGxLbFhfNW5hNk5LSzRSYzlRdG5YYmVDS3ZUa2g2blJYZkg2UUVGM1FsdXY2bWplV1FZazd2U3Rqb1BEZUNpdmZGVFJtdjhDMVRNTE55NFpOSWFncmF5b0JUMDZaTnVEdjFhTFdmZlF3Sk54SmVwVDR4czlqa29jNHZUYkg2Q2M1cUN4UlpkeHk4Slp3ZDFtUDYxbjZudw?oc=5",
-   "source": "Rosario3",
+   "title": "Christine Lagarde adelanta su salida del BCE y presenta su dimisión: dejará el cargo en febrero de 2027",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUFBNTlLeTlzWlRiLWIyZjdoUkszVDFyT09BTm9hSGFobDhiNVhySkxlWnZ6RVdhYlh2eVVtY0JENC03UkhQb2VGNThwMl9ZSmNnUnlvZ2k4N3o3Q0ljd1Y1bUxweTgweTU0VmhXNzljeWJKTnNjZVRQT1hoTG1RT0lDUHJuanZQc3V6a29NWkE3N3puZmZLZUV1N1AycU5lb29xYVFXTGRsVWpuZjhoU2pLMkRTb0dhQWNDNk5lYnNQOVZhQ09pZDM0SFRKWURUV1d4dVoyUm80MTUtRGfSAfgBQVVfeXFMTTRVQU9OTXJQcTRHZGJiR2FycUg3ZFE2YnEwR1VCa2trNlNlMWt6SXZUN0E3alI4ZlhiX1AwTHg4TFotV0MtdW1YOE5uQjhISmZsaDd1N1FCWXE5M09KWFQ1cVVoVW9ueVRxZUNYakVUVUlTanplU0pSSTdQTmVlanlUUml6c2ZhZ1ozRmZvRUFmQXNHWFZBOS1RcDhsYm4xRTNlMVN0RmFQZEFKWVlXbzJ6eGdMVkFKQ1g3OERnWFhKS1V6QnctLWw4VFM2NDVuZWVqNFVqbUhDbU0tYXNMVXEyZ3luS3RpWHVfeTZ3S3k4VUNWZi13cWI?oc=5",
+   "source": "Infobae",
    "cat": "mundo",
    "image": "",
-   "date": "2026-10-29T10:26:00+00:00"
+   "date": "2026-10-29T10:41:07+00:00"
   },
   {
    "title": "\"Reanude con marcha normal\": qué dicen las grabaciones de las llamadas entre el operador y los maquinistas de los trenes que chocaron en España",
@@ -362,12 +474,20 @@
    "date": "2026-10-29T10:08:39+00:00"
   },
   {
-   "title": "Los últimos 10 superclásicos: resultados, goleadores y el historial reciente entre Boca y River",
-   "link": "https://www.ole.com.ar/futbol-primera/boca-vs-river-ultimos-enfrentamientos-historial-reciente-ambos_0_mbEwSkk6tX.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/28/tpEKW4J-D_1200x630__1.jpg",
-   "date": "2026-10-29T10:00:52+00:00"
+   "title": "Reino Unido: un hombre disfrazado del Joker amenazó con un cuchillo a los empleados de un supermercado y terminó tras las rejas",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNdHh0QlRrZi1KX2ZQNmd5dzZMNjQ1R29FcmpaVlptaE1fZjlZTFJVYjFNWkhhdXdEYjJ1X3ZlMm1tSnVqNjNfMkJER3hZQTlsYWZSMkdPZUFKWUxIaTViMjFvLU40SzgzWktKd3JNRUpISC1SbzI1NlMxOE5IejZ0d0dTc2JjaWdRUmEwaG5jeGNWQTZWSGhSN2VYYUZJc3hSbExhRFZRN3B3T0lkd0VSYm9yYzgzalpPVGlYNU9hNWZDdG9PU1JpbjF2ODk4QzF0clpvbTNTUGlvRHcxOHJGa3N3UWo0d21pNkp2S2RvdWc1WWpxRXBmX0Npdk0tUEdpWWNjR0owRdIBogJBVV95cUxNeTFob18xUmpnNDhfS2NxTVczc01scVk4TER0MThnTUh1clZBZzhwVFJyTXdLQ19RblVCRmpDd252SlFZQ2lleWhRSEFMWjhDaHdJa0poY3BHMWZPMmZhS3JNaHF3QVI0VjZkbW5mZVBJMjN4QlVTQXdqT1YzRHN5ZGwzWV81Y2cybV9Dc2pyU09ESEltOVMwVjZvUk9ZSm9iX016MnhWWU1TT1ZoR0U4ZXV4UVRmZzNpdnp6aXlmVFR5dzZfcXZPTnBYdkNXWm0xU1JWT2NWQzdGQW1NQ2JTMGh5N3psNWFnQ1dJU3dkLVkzVmdyUWowTVAyQmVvc2xXM2QxTTRZQjZnOVZmb0xlVzBIQl9RU3JsaEJURVV1Smx0QQ?oc=5",
+   "source": "Infobae",
+   "cat": "mundo",
+   "image": "",
+   "date": "2026-10-29T10:00:00+00:00"
+  },
+  {
+   "title": "La huida de Flávio Bolsonaro desnuda una alineación ideológica con Trump que prevalece sobre el derecho internacional en Latinoamérica",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQbHZ3aENWTlJpejFfS3o3WjBiZGV6eVRfTzlaUHp3eXpaSWN3NF9QT1NEWU1YdGNTM3IxaWFsYV9FWHVGNXZmRXRqdUg2Xzk2cGhNWEo0Q1QtRndOeG5wdzVLQ0ZNYk1aRk9qazlEVDl5dkVPc3JXb004UVhBYjVIbDh2elVzRlRSN1NzNDhqWWxBLTVyc2pENU5tMmJJT3pONFM0amNCVHppMktsbTRTTWRvUS02dUlRbzlNXzREWFhibkxMSmhxOGwtWW1IZlpZQVNZOHh1WmFMMF93ZFItbG0wUEFfS2pSbXFueU5zcm8zOXR6Zk5HanVzTkpXMlJaeTBTTTF2MVPSAZwCQVVfeXFMTXRXZFlXNm1jRFNXdUM4WHh1Wk5DWHdRcU5sSU9XVFF6NUR4T1dhN1hRWTRhM3RfY0Y1Smw4VkdpaEZlY2otcFdKNTFoN2ZGWmZ4dGV1bGVwTWN4Si1KWnd2UVJMRTlyQmJqYmFmVG9ZVktjT2VETkM3X1Z3TkFPNzFHaWc4aFBYTHRrVnk4elFXR25obGtuaDFRSFR2X3Y0SzRvM3h3clZ0S1Q1dVdIeVRWM1hPVXAyMUU4UHBwVkFacXRCXzdfRW03X1M4STJBSk1EOG1oR3c4SFc0SjJZQVQxSzlHUi1wUnNhc3UtMmtWM1lhVzY0MlRaV2xuaVp4ODRWMHZ6aEJIbWNOX3JvRlBsVjFCTzJTd2xmUkU?oc=5",
+   "source": "EL PAÍS",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T09:30:00+00:00"
   },
   {
    "title": "Inter Miami empató en el último minuto y Messi no podrá jugar el próximo partido",
@@ -375,15 +495,23 @@
    "source": "La Nueva Provincia",
    "cat": "deportes",
    "image": "",
-   "date": "2026-10-29T09:11:15+00:00"
+   "date": "2026-10-29T09:20:21+00:00"
   },
   {
-   "title": "Partidos de HOY, jueves 29 de octubre: agenda, horario y por dónde ver fútbol EN VIVO",
-   "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-29-octubre-horario-ver-futbol-vivo-tv-online-formaciones_0_HuJaOMbv21.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/09/11/3ZYofpil6_1200x630__1.jpg",
-   "date": "2026-10-29T09:00:50+00:00"
+   "title": "Así es el ejercicio de 30 segundos que ayuda a mejorar el equilibrio: cómo ponerlo en práctica",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS3NFMkdZbHF1Um1XNi1ScFRHblB0c3lnS2QyQXJkanZ2YWlxUmpjbVFhNVAzbWFOWUpJdmhaTVVuLVBibno0M3h3M0JNREVzMVFBb18tOTlMOElaNXpBZXQ4VngtSEI5aHNsY1NwcGk1bk1xam4yVm1YNk9FSFFqMmRWZXZ1dzF4QXNBaTM1X1c0aGJlRDhNSzQwNHRMUkhhakMteDh5RlZ0YllaMXd0TTNEX09zYXhZTVpuY3NuaFpEQnFKRFJDTEVUU0JVVnp00gHrAUFVX3lxTE9vemk3Zjlpb2FpZ2RZZXl1Sk15UkVmek1lSGtnNFIxU2NsUk43NTRCb2dVNzhiSlFrVDZSUDhZd1BmNjFOaDVKR0xicjE3QkMtUHowdkQ1N1Z0T0pmYTZNQ19FYUJmc195MVhYYS1ZSmZvWXctaUZlRjZPOXctQ3hRM3BEMllUY0k3UjVMX29PYXMwSzBTWWV5Slc5UVhZbkhNYVdwVVR2azZZVjI2S1Z0WndQaDdGdENkT0RIVUFPcm0wMEsxRlZlY0FFMzdiY25yYmJYd193WDNxWWM2ZWhJczNtY216ZEtBQzQ?oc=5",
+   "source": "Infobae",
+   "cat": "mundo",
+   "image": "",
+   "date": "2026-10-29T09:12:56+00:00"
+  },
+  {
+   "title": "El Senado tratará la Ley de Salud Mental y un proyecto de incentivo de inversiones para grandes empresas",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTVEtaGlvVkJ1YXV2bjdWU3JSaThsNzZQUlk0VnFSSFBKNy1pWkVYTUZoTUtCakJzTkVIeGZNRU4tSU5tcVpJNHNxRHpyQmphZm5KOVRnekNPZFNFcjRkbVh3T0dyNlFpMEFnOVg5RkFzQ0doUWp3Q0tCY1B3c1o5UDFoNkJjenBuc3VKSkpWM3FKY3o0blVSOWFvUlA3Sm9PTVI2SGFrS1RoVFc2bWR5ZWdwUnpMVjJHaHdDOWJ6dzhJUUlTbERIWmdBZXZRR1dQWjU4Uzg4cUcxcDTSAe8BQVVfeXFMT2NvVUhWbDJMcHR6U3UydzQ5bGhIU1RFV1ppdi1vWVJDekdlVTBaUEJfbnlnM2tsQU8tb3RpWVFBU1VpZTZDaG1KN3hMbTB2cXFQcFYxcmtDQVNBOTRwcVVrR2JvZWVEaWM1RkVQWG1OemN3VHN5LXBvN1dnQ2xTclJuU05ibUVUaDdaYmhlLXlEN0tMRUI3RFNfc3ozSkE4a0YtbTdidFZRc0pqdHFtTWRNUlVrWFdZY1VUZi1zMVE4VEtsN01VRFdWdzhKUEJLOEFBNVlEQnMteWxWZUo3T29aOWVyNy1Fai1JbC1sVE0?oc=5",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T09:00:00+00:00"
   },
   {
    "title": "Mario Feldman, experto en microbiología: “Estamos perdiendo la batalla contra las bacterias”",
@@ -394,28 +522,12 @@
    "date": "2026-10-29T09:00:00+00:00"
   },
   {
-   "title": "Trump dice que no se involucrará tras proclama de Bolsonaro",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDBuVG5DVFVuMVNGZS1nZVlwclp4UGh5aTFmUTk3U0F4U0Q2YjNrWENOcmZyT0NUdmxyNFdybmxyNEphUklXRW8zUGFJSWRxQ2swdlNZN2JDQkdBbXJGZWFSR2d6b2xnWXd1UXk1NWlXOEJ0RXdUc2lGaGp4VGxwV3hCeEVnMUQ1Ymh6RzBBVDllRGprMmFZVjgtekVxQdIBngFBVV95cUxNc1oxYkVJOFlKM1BoVE1TUTZFb2ZWNF9zbXEtV0pPajhacmJtaFlXVVVVZ2tsZlNkaHNTVGtMWEpEWmpNMXJsZUFhQ1J3aU1HWTB1bFFZWlYzQzZNQzVIU1dFODc1NkNLaHVlM29HYW5RSEZYT1ZLeXZKUUVQSVZDTVVJZ2trWWF4ZkhkbTFYWHVGbXJqV1FiSzNnLWt4QQ?oc=5",
-   "source": "DW.com",
-   "cat": "mundo",
-   "image": "",
-   "date": "2026-10-29T08:48:03+00:00"
-  },
-  {
-   "title": "El superclásico que puede marcar el futuro de Beltrán en River",
-   "link": "https://www.ole.com.ar/river-plate/santiago-beltran-futuro-boca-river-superclasico_0_RIcABM69eA.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/28/KSreCF87K_1200x630__1.jpg",
-   "date": "2026-10-29T08:36:49+00:00"
-  },
-  {
-   "title": "Gimnasia saca cuentas para alcanzar el objetivo de clasificar",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbXhXd0JpVDFqVDVCcEtsWVc3b04yU080dFU4OC1tMFBCS3ROV2k2QjJTWHZjOVpNeHd0MUdpeUNMYXpSb2RGUmZwWHgxc1VKalN1M1J1RmdELTM3bUJhMTlpQktFaWcwaWdXU2REbHdWVERrWE9DakwtaHdVdUh1UFB4MW5zdnV6bVBlTVdXTGg2ajJid1BUM0dwWHoyU0QyVi1QYi1TNWdhdmFLMTM4RXd3?oc=5",
+   "title": "Viaje a Río Cuarto y sin cambios en el equipo",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVlDMnFLbEh0bXdGSWhCTWpUNzdmUWstWFl5S2VacTRfSldGWl9obVEwQVhUcFplbVlMTU1DS2RidEhYS2RacDl2b1VBV0FqTkF6YWlrUjVnbHZjY09sTWR5S0lIRU9iLWloVHdrUzlXc3NaLUZ0c2tyY2ctNFR1WExmdEctMFhmZkhqNWVsV0NKZ18tM2taNlNCYXE?oc=5",
    "source": "Diario El Día de La Plata",
    "cat": "deportes",
    "image": "",
-   "date": "2026-10-29T07:07:00+00:00"
+   "date": "2026-10-29T07:06:00+00:00"
   },
   {
    "title": "Efemérides de hoy: qué pasó un 29 de octubre",
@@ -426,22 +538,6 @@
    "date": "2026-10-29T07:04:00+00:00"
   },
   {
-   "title": "“Lo maté porque era un enemigo de la gente buena”: las últimas palabras del anarquista que asesinó a un presidente estadounidense",
-   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUExuMm9EMTZnb2VmNThuREJWdVIwV3VzaGhVemJvQWNmcUdfLWg0SlVVcU92YzZYNmN5NnA3bWQxamdWS1JWemNwbm9mREZwdFVGX2xiWmNhVW5lMjRjNmROV1pMdjc4SUN6ZC1rZ1ZnN3EwUmJHekFtVm91azJvT0dVYlk0c2RET1loNkd5SEFncmt1LUVqNXM1bFJWR3c3a2o5RTR1d3N5a3N6MEZVLV80ZGM1R1p4RlpJYnJ0anNnNml4YTVBR1daeWxBTEZkajBDRmw3UmNvZ1hwU0FYZHEzWm1tQU1JT2hQN1haaHJPajFCV29pRGJOeDM2ZHZR0gGbAkFVX3lxTE1NclhqcnlzVWZoUnVLejd4aHhDMlJHNTNpVGxvdU9WVVR6c3dMS1MydDVYWGtNdXNFcWZlWF9TcGJZVEE5WFUweWl0RENIUVZtYmNrZ2F1ek92UGUwbm5UVWhlWmpkMFpMZzNDMjdqM2hXX0FDTy1Nd0JJV1JFRTJFd1JKVFVacmxtUzRIZEw5NXJJT2IxbU5sbHdRYUR0dlpDZVpQQTFWSV9YTTdPbkNQWlRCNGw3UGs1WHA3SkVoWEZrTWg2aWhFRFhwWi1JRzBmc1hVVzB6NXFuQjdhOENLRE5fYTBMeV94UDRXb0c5ekxJcjBMVnJoVE05LWFQbkV6TmJhQmpDUjF0M3M0dHM5ZG1TdktBVHU0Wlk?oc=5",
-   "source": "Infobae",
-   "cat": "mundo",
-   "image": "",
-   "date": "2026-10-29T06:39:00+00:00"
-  },
-  {
-   "title": "Especulaciones, ajustes y cautela: cómo le impactó al Gobierno el caso Bolsonaro local e internacionalmente",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUm9lNlZ2UUZJdkpRdGN1alFEVXhiVFRtTDVGLS1mbHlBMlZ1Z0FHQTNmV1F4c01fNDlua0J2MXZBQWFXX3gyLXJfODkwbkYyZHIxU3l4RVZJVmNYb3RMQ0xjYnB0V0I5NHMzdmt6bmVSSVBNQW9JSXhlYUVSV2pKdTJuRmV5SmRhMzJJYTlCcXNpQnhxazZ2ZXJUaFlQN0JKalllWXlwZW9KQnV6X3RZYk5VVmZLRktfb2RQMlhpWWFZU1VYc19PbHkzY0pxcUhwaFZQaVRkeFpnWGVtZWVmNFp1Y1_SAf8BQVVfeXFMTzM4ZUpIYUlqcklKQUd6VWVzdnVGbnczVmlzUHhfZG96cnB6cDNoMS1ROGlMVW5sN1k3M3phdDVBZk4waXg2VnVoN0ZWTlRTWFE3d3ZoWmVtdC1PbDNXcVR3Uk85a0QtZC1BVk9kdW9vY1l2Q1ZocVkzSjBKaDV6WFVLWDZqRFZ0X0FUbWlTQmV3alV3NzMxT2VwZVc1NUF3XzBMMVlQb01Hd0lRUTh1OVQzYmNFU0hvX0FUS0dZVVdNenk3OTdBMWlzcUYtdTV6aUZXVl9tUGh6MUF3VGkyaVZQZDgxR3AtaHM5UWhGd1F2enU5OHBINVJRR0pua0lV?oc=5",
-   "source": "Infobae",
-   "cat": "argentina",
-   "image": "",
-   "date": "2026-10-29T06:12:00+00:00"
-  },
-  {
    "title": "Cuál es la enfermedad que causa lesiones en la piel y puede afectar las articulaciones: su impacto en la calidad de vida",
    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQWd6YTlxYUM3S3YwWmdqN21kWHJjcjVSbmpwUktTNk80VndPWFZQSENlLVZjcGZEVllDRTFYTURYdzk1YmhGMC1COTA1cjhtUnpaRzU5NFZBaTRXNC1VdkxTcDBxbHhiR3FSdFdwc2ZDdDRmQVdlbGRRTTB1cWZkQkM2elVNM2c4X1B5R3g4aGVTNzZpV0NKSzlSbzBUajVtY2Y0Nk5nSHNTV0FWYnBSOXItRkpjT0tVdVJBM1BMRGdvY1ZyeFBkWnlPTXJTaGJmSUJBVk9tdWxIRDZmenB0c2RNcmV1Vi1qYnJwLW1uOGFqRFNPT2JqN1kzcHZmbEMyUlYyclBn0gGgAkFVX3lxTE93UzAwcEZlcVV4Y1c2aDVMYURsQ2ljNVlSRmlRR05NN1FmMUZsRFY3NGJ2b1F4aDdfcDMyR2xwME9vYnMxZG11TlNjQU1JOHpXaFBGOHp0Z0k1TkRxY3haM2hzR2J4MWdteFNSUno5WkdvU3FUbGFxcjBxUnU4QkJXNzBBYkR5Y0gzMEk2V3o5OXJoYkRXaTFCN0FyUkg0MldqMlJidFI2YndHUF83aU1lYjlPT0pQb2pfMG1ESTZ3MWFuZTM4R3BBUVFGc3c4bzlrb1Q1Q2MyVG54V1lSekppX3g1T1NQSFlfM21ZS2MxUmtIdXllejRlTnVlMzBOMFpwckNqQ0VIWlRWZllKRVZxc09LYmtQN29MeWJLME9TQg?oc=5",
    "source": "Infobae",
@@ -450,15 +546,7 @@
    "date": "2026-10-29T06:00:00+00:00"
   },
   {
-   "title": "9 frases de Palermo tras la histórica clasificación de Platense por Copa Argentina: el recuerdo de Maradona y un pedido por Boca",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVWxGN2NlZDhITVh6OE9YTlJCMjhaeE9xT0lfMFNIVGxHWnFPMUdiZTBVOUZENFVXWlZmY2ZwVElSTVYtYmdMbUFVR09WUEprTVFXTVd2NTBVcmJqY2VTbGlQUkxYSmN5T3p5dTFvSTFiaDhIdFVGZ1hOaGJXQmNJbE53WnByS0F2TXprMEJnUVNHNkVpLXRuOEdyT0hhcUJlNWdldENDbXpHVEFoUXpEQjVlRjJoekhqUFotMUQtcTVHeERqWXhwVjB2MzVCaEZ0Y3B3UlNYQWF0U2QwazNzQ0p0VTg3eTB6YmxRek9NLVNfOEZZd3YyZGpLd3dUS25tZEHSAZwCQVVfeXFMTUhwQWxZS0g2c2V0dk9aZmdHZHRCQmh6dnptQ1hWN3FBRm8xa19NSVhlS1JZZlluQ3NqUFAtdlRrc2JPanJ2VDZKUHRXWW85MXhrZlNla0wyN3JCUDI4MnZObmNqNkZudnJKb2ZTOVZaUlMxdV9xZjBZTDI5OEE4NW82ejVEM0cyY19reEtwR0M5ZEl3NTN5SkZVb19WSXgybVVuNkg2cFoxYTBpT29hV3pXcF84UXZHZFB6bk1iWVRjeURibEpLTVJzQTdzaS1IbWl4WUtYbFJRRXdraXhUdlpweGZwNTdjcVNPTTNxRU9ubkRaZVlITVJQUXhtdENlTndhU2lKSHlaWWFnbWI3VW5tenNlc0pBeHRxVWw?oc=5",
-   "source": "Infobae",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-29T04:50:00+00:00"
-  },
-  {
-   "title": "Elecciones en Israel EN VIVO | El bloque de Netanyahu mantiene 53 escaños y el de Eisenkot suma 48 con el 94% de los votos contados",
+   "title": "Elecciones en Israel EN VIVO | Netanyahu y Eisenkot lideran el conteo en medio de denuncias de injerencia extranjera",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZnZMSDhmVEdkMUhlWENBVUU1TVB5eTJTM001S0FnVmZ1M2RnZ0xlTU81ano1Y3cyNXE2LVo0aG5YREg2UWpkSHZZb0lINzVrN1EweG9ZS1hLN2FnbHd3a2Jfa1BkdERucS04VEd2RE94Ym9NQWlWTXREVXJnQjBfZDdEWVhEX18xaFlQQWZ4REZKYjFoNGhYb9IBswFBVV95cUxQbE9LUExmdGFoN3VMVzhROWdLTU5vZGRWUVdNM1VpV0NTV1hjRWZWdEp3WGhya3pnMnFkc21yd1NDQmsyRWstZzBKYkxDUTlJNzZOX3RVX09Tdm5TbjRjRm02V3N4Uk9HTkhWUUJwc1RxNUlnNWhhdWtpTUhMRVNqUTZSRmhQSHBoVGN3RTBpWlBWdXpXWWlwcEN4YmVvS0dLOEZsY2JqTDZ2QkNOMzFwOWdOcw?oc=5",
    "source": "Infobae",
    "cat": "mundo",
@@ -466,36 +554,12 @@
    "date": "2026-10-29T04:36:00+00:00"
   },
   {
-   "title": "Mundial Femenino Sub 17: buen ambiente, comodidad y las selecciones de Sudamérica dejando su marca",
-   "link": "https://www.ole.com.ar/futbol-femenino/mundial-femenino-sub-17-marruecos-selecciones-sudamericanas_0_M9yu9NH0CK.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/28/Wkli1w3AC_1200x630__1.jpg",
-   "date": "2026-10-29T04:27:48+00:00"
-  },
-  {
-   "title": "Tragedia aérea en Uruguay: un piloto murió tras el choque de dos avionetas que hacían acrobacias cerca de Montevideo",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd0pMbmpZQTZmZC1ZY2tjSE9RWnJaTGYxVW0ta015N0NKaDE2NE1tMm5yS1Y5dG5ucENvVTdLcmNkXzJhLWlaSWMyVm95VXNlT0JYOUtMQ1RfNlFOanRGZUZNXzF1RGZVOTc2d0RmVWIya1JiTjRCcHNtSjZMeVA3TllfNDVVZnZYOWptNkNTVXZVbUxVbnpUUktQQU1sdHhLZldrZHpHVlBiM25mMEg5RzBjV0pndUJ1WDNxcVY3QktrcGQwaDlKVGhyeW1yUjQxa1BiZ3lUMXU1R2JEZlE?oc=5",
-   "source": "La Nación",
+   "title": "La ONU aprueba la resolución contra el embargo a Cuba",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDhTbnc1cG1HcEVReXRLUG5FSGc4TDJ5RXhJRGoydEVndFp0dm91d3Y0NHFfOHIxcjYzc2VSanp4clFQdHItejRNZUdGMDlkTUZYQVhMMTZpTXExWTJUaGdtZFBHa1VEOTVSQ0NYUXV5NjJ4WkdEOXhIbHpJVXBTTTlibVZXUmdkVVJIMGtCLUQ3N1hZQ1F5dg?oc=5",
+   "source": "Página|12",
    "cat": "mundo",
    "image": "",
-   "date": "2026-10-29T04:21:00+00:00"
-  },
-  {
-   "title": "Superclásico: todos se quejan y la AFA no ayuda",
-   "link": "https://www.ole.com.ar/opinion/suoerclasico-quejan-afa-river-boca-trucco-var-error_0_yGvCSD6xX8.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/28/ZK_Vo_zFz_1200x630__1.jpg",
-   "date": "2026-10-29T04:12:21+00:00"
-  },
-  {
-   "title": "El gigante marroquí toma forma: así avanzan las obras del Estadio Hassan II, la gran carta de Marruecos para el Mundial 2030",
-   "link": "https://www.ole.com.ar/mundial/estadio-hassan-ii-marruecos-casablanca-imagenes-obra-mundial-2030_0_LHnGP7XG2m.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/29/zS_K9HRhG_1200x630__1.jpg",
-   "date": "2026-10-29T04:05:40+00:00"
+   "date": "2026-10-29T04:23:38+00:00"
   },
   {
    "title": "4 escenarios que se abren en Israel luego de que ni Netanyahu ni Eisenkot lograran mayoría absoluta en las elecciones",
@@ -506,28 +570,28 @@
    "date": "2026-10-29T03:56:08+00:00"
   },
   {
-   "title": "Platense es finalista de la Copa Argentina: venció por penales a Atlético Tucumán y se anima a soñar",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUJtMWstdVFlQVkydnRkdjFHQkc5ako5UVJQWFY5VWdaM0RQZjZZc3hhMHhMdWw2N0hWR0R4dDYyd01jMmdTWEdYMjZSR1kyV1F4N3VudUg2cjRVUWsyS2JrTHNESmJlQUZzRUlnSnhKd00xdkx6M3ZRYWRyU1lhZHVBRVp0QUhJM0txc3ZrTTdSOXB6RzFVNXdUMnphWHY3S3NNLUdyeVJJTFlzdklUMnU4Nk81Y08zNXJfbU1uYTlQdzZfN2xTaWh1ZHNWTWhTYThr?oc=5",
-   "source": "La Nación",
+   "title": "Argentina se despidió del Mundial Sub 17, pero hubo polémica",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVd1UHlGOHVKcFF5cGlTU1otVlBCTFJYYkp2US1tbEZ0U1pMVXRKZGxRWVhwc0FCSkFVMXVyWlFhcXF2ZGlFdW1FamdSSFlaYURDOUlXZ1E3NWUzXzI4cnFtRHd2dnMzRGZTd01YTG1yb0FUNElBM0poanFUY3p3ZGpxZFE0V0xmdlNxU1BPcTdTdDlKSEZ6SWxsNEpfTGFM?oc=5",
+   "source": "Página|12",
    "cat": "deportes",
    "image": "",
-   "date": "2026-10-29T03:16:00+00:00"
+   "date": "2026-10-29T03:36:13+00:00"
   },
   {
-   "title": "Palermo: otra final con Platense y un posible mano a mano con Boca",
-   "link": "https://www.ole.com.ar/futbol-primera/palermo-final-platense-copa-argentina-atletico-tucuman_0_1JSFvf1Mrh.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/29/QZa782PU4_1200x630__1.jpg",
-   "date": "2026-10-29T02:42:01+00:00"
+   "title": "\"No hay otro caso en la Argentina\": Neuquén capital volcará sus ingresos adicionales en obra pública",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzdRTGdmRkVFdW54d05CVW9TMDIyTEZ3VXRnWFMyTmdhTUpaTzFXdU42UkdwYV9oWHBVaXBPR1UtLTVwczdyM3RWejZtUWZuelEtU2NzXzg2ajExdW91UHpadlVZU3g3SVQ0MTJYNVJMWTUyVHVGcktnaEdZQ3JUd0ZWUlBCRks2NkdrbV80bXdCTVloVUFKUTl3M0Faa0FXN1FDb3kyV29EeldmbERyMk9ra0UyMWpMTlpDeXV1VC11a0pNcWxpM1V1empSNVBW0gHYAUFVX3lxTE55Q2ZGb01wbDZYaDdzaTQwSjVlOHVMS1pBN0hzOFhPTXhhdzRBY2pvVXZKaWdNQ1V3MFdIRm9yVXZWcWhsa01pOGZwaGtYZl9abTFJZW8zYnpTbkF0UFdXUEE3WUdMMzNFTWJETThrbFY4dHNLV1VlZ0xBR05WMHpDUWl6Ri03NjFQWW53bUZlZl82RkZTTlZuNjhYS0FNM182NGNBb3g3UDNELXRYc3V0LWZBNWFsR0NRZVBnOHhyRzBQejVoNDFYYWxpbUQxd2stOHA0RlBRUQ?oc=5",
+   "source": "Diario Río Negro",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-29T03:30:00+00:00"
   },
   {
-   "title": "Cozzani: el héroe de Platense que fue muy crítico con la organización de la Copa Argentina",
-   "link": "https://www.ole.com.ar/copa-argentina/cozzani-heroe-platense-critico-organizacion-copa-argentina_0_9oltsO2yJK.html",
-   "source": "Olé",
+   "title": "Se agotó la primera venta de entradas para la final de la Sudamericana: cómo sigue el protocolo",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMGp1dWozVDVad3p3WkxHNHNGWXNhZExlb09hb0lRY2ZJNVJKbE5ZbUJzdzBiZmZscHR6Q1dtY1hWbkhBYUJXSE0wU0duQ0JlRjhkbTJJRDFCa0ZFU2tZNHF3MTEzOUI2WFgzMzBVb3VmZWFITU5GSjktaGlGSjBhVG5xTm4tZV9yNWR2V2pDVWxWSjlOcWdJbHIwd0xJYzNKMDJpQlRXcmpyN0prZWMtY3JHUTRRLTZIU0pOZUsyNGxXUUxEbG15blFBNmJjT2hUQzQwSW9mMWhJa1NVZXlsalBkQzRrTEFweEg4ZUlRektfNUFDbjEwRmQ2Wk5rN0NTUU5GVVBpQlQ?oc=5",
+   "source": "TyC Sports",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/29/bJwQ1-46m_1200x630__1.jpg",
-   "date": "2026-10-29T02:38:43+00:00"
+   "image": "",
+   "date": "2026-10-29T02:44:35+00:00"
   },
   {
    "title": "Votó tercero a Lionel Messi y sexto a Harry Kane en el Balón de Oro y se arrepintió tras la gala: “Cometí un error”",
@@ -538,12 +602,12 @@
    "date": "2026-10-29T02:08:00+00:00"
   },
   {
-   "title": "Gerónimo Rulli atajó dos penales y el Manchester City avanzó a los cuartos de final de la Copa de la Liga inglesa",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMVZuWHg2OUl0RGNqVERFRTJXendwNlhoSm1mNXRjTHNTYkxoNUxFZHJ2Z0stU1hYa3FyYU1PR3B3U2ZaQWpHdlY0VkUtUm15cjZoN2FmdU5wajFOUzRqTEhQdGhmRE40aUlWLURfVWYwTlRaNWxXM3NHcGJja1pCM1VoYW53NUZIbERNMVJGeFNqcTVhcndEMTluNjJudWNRcndlN3JsWVdHT1RFZzV1dURLaWEtblZrZHBzWVM2ZGszb182bTFJUVdjTGVrSmttSTZsdXdYMDRUcXZXd1p6a0xuN2E1OHlSbDBGRnNFTdIBigJBVV95cUxQZ0FkenVmSVpGTEttX05QNGNCM3RyWHlva01vb0JGZHlvZkJHZnNpTnEzdS1yTXRVRDhxZWdjZnFhUWpPVFhoYTdVMjJhcU9GYXQ3QWNhU0dhOEQ1ZDRid1JXczB6YmZtX2ZnV0Y5MEpaV0JjOXg1a2NqM2lwaFhSNVpKWTVaamlQVXR0UllUVkdwUTh5a0RuUjA4T0hhWnBSYlgtX0ZRZEZBSDc4Z0JSUjNjVU5OWlFfUkJfV00tdVB4OENkTlphbUlDSDZCaVVQUFFOazJobGJLbktFQTBJQmJkUkpZd0hhM2wwR3lTY2FfaWJpN21HaXB3S2hmVDZMTU84Z0RPOUJEdw?oc=5",
-   "source": "Infobae",
-   "cat": "deportes",
+   "title": "Los hermanos Passaglia anunciaron que uno de ellos será candidato a presidente en 2027: “Nos vamos a parar enfrente de Milei y del kirchnerismo”",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNlAzcXR3OF9jOUIwVy00bUUzdTlpYXZ6dWRJdGQ3dnVpczFQZS1NQzNDWURheFRoMXhqSW5Ib3hLMW4wRkRUWF9VVXc1c1RVN1FIQUNjbUZrOXRKWExlaUIxVXgzdFlaVTNvTFFEaXY4R1N2Rlh2VTVBdnpBSks0YXRCNFFja3laV0lvWUxTUUFKUUU?oc=5",
+   "source": "Perfil",
+   "cat": "argentina",
    "image": "",
-   "date": "2026-10-29T01:04:00+00:00"
+   "date": "2026-10-29T01:51:42+00:00"
   },
   {
    "title": "Peleó por su escuela hasta el final, justicia por Nancy Godoy",
@@ -552,6 +616,14 @@
    "cat": "argentina",
    "image": "",
    "date": "2026-10-28T23:55:18+00:00"
+  },
+  {
+   "title": "Protesta e incidentes en Madrid tras la tragedia ferroviaria",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEF1UWNpVFBCQXpNZkR2a0ZETy1OR280S1ZEU3hSVkN2dHpHeDJzakhEVnlTQjJON2RGTS1yRmRXMTlEdHJFVWcybi1RODZWeVhSTHhJOFBiVE1FTUlDeTdQQmtPQzlqRS10NXJZZmM0OE5vNEx2dzZZM3BNZ0JSc09kTy03Tk1TMl93Q0hkMWU5QVp4amN6aXV1LWR5VGFscUhlcFJEUzA4dGFGZ3B3?oc=5",
+   "source": "La Nación",
+   "cat": "mundo",
+   "image": "",
+   "date": "2026-10-28T23:52:00+00:00"
   },
   {
    "title": "Crece el malestar de la CGT tras el desplante del PJ: \"El peronismo no tiene dueños\"",
@@ -570,14 +642,6 @@
    "date": "2026-10-28T23:21:40+00:00"
   },
   {
-   "title": "Argentina votó en contra de levantar el embargo de Estados Unidos a Cuba",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOC1Gb2dfMEpGMUJZZXBEMkdSMWJfeEZfb3RFbW1EWDdWUkhCWHZ4Tk9xZFpydTNCdzBZcHJHLVZXXzRoQkFqRjZfQ29VMGxSakNHMjJDNFdXQVFuTl9wMWpYdlN1RV82WVAxVnhNUkZtZGNHM1JQRTROS3Z0Q3VRU1hUY0V2R0pxUmZ4UEp1aE5MaWNyenlxZkNSUjBpOUVHeTloaDh5X3ZKVVlhUHFKYTZoNDJXdUxWZF9QWEdid1dkc0NHX25EZ0RCVnhCaHZ5b3RSWkxvRDRyX05kZ2pXNVEtZVpiN0RiUjhjUlNfTEUwLV80aGdEYWpMajJGLUppTWtVdg?oc=5",
-   "source": "El Litoral",
-   "cat": "mundo",
-   "image": "",
-   "date": "2026-10-28T22:53:59+00:00"
-  },
-  {
    "title": "Bañados, vegetación densa y sin señal de celular: así es el lugar donde encontraron el cuerpo de Nancy Godoy",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMkppV2hfcnB4Ukx2d2pua1lmWU1tOUNObEc2ZTJ5c3NpZld3UmxjZFJLQ0JubmxvT2k2dW9BMWw0R0lFeDRpZm4yWGdqYUhiWE9GT3E5V0FTbFVsWFNOanItV2RiUzVZZVBQQ05LMHZscXRVeDBtYzZXeklVWW1kRFEtbXgyUTlqTkk5cUV5MF82TUl5bS1haUhTY1czNmtNeXRmODlCSEhsc0Nubmg2UjNrWDE5UHgxSlZxRUJ2NU1jZVpISmtzSHkxWDdnQ1A5aXlEMWJEbGNuLUgzdmxHeHp6OXc2MVdIWGJDeU8zczQ1UUZf0gGPAkFVX3lxTE1MZGsyWTJkYmZZQW1pNElFWS1pMG5yUUF0Yzd2R3NuQ3NOeGZKUGp5VFdXcGx6V3d2YUFnc1R0dDhBMVNSbkgtMFkwOW5jeGlMaUlQOGFCdm4yaXZCa3F5aW9ibGxpN29aaHhfOTJKUWZRM0w4RS1zOGhjZTZMdEQ2aFlsNWlNMWRITFNkbFJ1dGVzVGdlTWdaRHNlNV9GbVNFYmxYaEZLR1FLYllVMVhmYVdONjdjTUowVktaS3VTTmNLTk9ZcEpna1MydTJtelJoLTFIYnNUNHpaSUNfSTNuOFFRTjI5bmRTMlZzZmdhSHJEMjhSUDl2aFN1Z2dXOFlzcXloYnZkTEhTblYtOUE?oc=5",
    "source": "Infobae",
@@ -586,12 +650,28 @@
    "date": "2026-10-28T22:41:00+00:00"
   },
   {
-   "title": "Fuerte operativo en la Ruta 22: controlaron decenas de vehículos y un hallazgo abrió una investigación",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVNCc29LenFfUjRRMUdlQUk4MGp2U0tNbERvckZlQmJWS0I0ZW90TTI1eHV4VjMzLWtDaWNpTW5OMXpKYy1sVHFuOElGT1FDeWRNNTVDZVhmRDk0MnN2aUI5Y0xVaGkxUXd3Q3BiVXdGZ3JWVkY0Q0xwNFhSM1g5NFpxek1HdDNKbzZDX2pPeHdHZ2ozSGJvbGsyd2JqQjhhVEI2Mkk5X2FaSG5scTh4QUxmb0lDX2hkOGJYTkRUVWhMLTFyMm9ac2RFR0tlZGFfMzZPMU1yN1E2MlnSAeABQVVfeXFMTk1XSW9RZGNlTVpUUi1HSUpCb0h4THFjcG9rakZZdEo1aGRORnVfajJLclZvVGxMREowRzlWSllpRUJLdUlmUnZRQW1fNUt2X3FoR1B1dW5QLV9WcVFtbHZadi1fckwwZTZWODk0TTQwQlIzQ2RubEg4cFNMN1JnbFJhMk1SODVPd0dKakl3X00tTE8wZDI4ckw1WXM3THduMTNLZ2ZCQkNjWnFXcVU3aXZQVEJyTk44RnN5MEswZ205TlZEVTBGYlRrOVB4NGV4c2dQdDdiRUhpdVZSMG1QMW0?oc=5",
-   "source": "LM Cipolletti",
-   "cat": "argentina",
+   "title": "Donald Trump anunció que prohibirá el uso del término \"Inteligencia Artificial\" en documentos oficiales de ...",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkdjWk1JMmFZdGZvRWgyVGl4dUJwNTNVLXFMWm10UFhHWmtlUVdVMmNIV2RmbHE0dnF5eVd1dmtqUXlaTkpLYXRZUUVMLTFrSG94d2dLQUwzMWFBWm4zXy1nM0NQSkc3M1VKT2JvVGV4bXFQWE5sUDdWckxqWHlVQktNVlhneEdyZ2RzMUJZbEc2QWxqN0lLdVRFcTVPd285UWxiZTJxaG1Ed1czaWpveXFfR3JiQzB3Mnl1YUZweVJrWjcyWlpWdFBaWjVUb2RpREVSVzN5VHJJdnBaVEZoSmZoVEtFcVhQSW1oUHh0bm1LVDRqd2RBQTB30gH6AUFVX3lxTE1mR2NaTUkyYVl0Zm9FaDJUaXh1QnA1M1UtcUxabXRQWEdaa2VRV1UyY0hXZGZscTR2cXl5V3V2a2pReVpOSkthdFlRRUwtMWtIb3h3Z0tBTDMxYUFabjNfLWczQ1BKRzczVUpPYm9UZXhtcVBYTmxQN1ZyTGpYeVVCS01WWGd4R3JnZHMxQllsRzZBbGo3SUt1VEVxNU93bzlRbGJlMnFobUR3VzNpam95cV9HcmJDMHcyeXVhRnB5UmtaNzJaWlZ0UFpaNVRvZGlERVJXM3lUckl2cFpURmhKZmhUS0VxWFBJbWhQeHRubUtUNGp3ZEFBMHc?oc=5",
+   "source": "Rosario3",
+   "cat": "tecnologia",
    "image": "",
-   "date": "2026-10-28T21:51:00+00:00"
+   "date": "2026-10-28T22:41:00+00:00"
+  },
+  {
+   "title": "Donald Trump evita comentar la autoproclamación de Flavio Bolsonaro pero considera \"extraños\" los comicios en Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeGV3RTFvMHlaY1UtUTRleE9lQmVUU1VrRk1IeDJCcEk5LWU2SEhVUUgtWkZ0WXdvMDlCNFBFNk4yN2Zkb243Q2FrMkMzdDhscFNYWW1Uald0dXZESC14MU1keEhfc2I0RW9vOEdHS2lmVmdqT1AyOHlaYThocjNYYzJXbFVRTU5tVkRtb200Tmllc1JuQnN1d0VGVERvWlh1dkpDUnVMR2JtN2R1SnFkdExvRDJGNVJrTWFQMmhBeWdfMnNST2lIOXhpWHVLX1NkZ3diUVB2SGhibzg?oc=5",
+   "source": "Clarin.com",
+   "cat": "mundo",
+   "image": "",
+   "date": "2026-10-28T22:12:15+00:00"
+  },
+  {
+   "title": "Rulli héroe en el City y Barco villano en el Chelsea: el arquero tapó dos penales y el Colo falló el suyo en la Copa de la Liga de Inglaterra",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZTA2Si1lT0FGRVhjVDU1SnN1T0c5X2UtbWNINkFzdWhMWGdyeVdaTV9ieUZjdEw1X0gzMFVhWFBuMmllR1F3TEtRRGF4OWNQMVU0WFY5aUNnSUN3MXpPczdWUUpKcXZYLXBOdE1TWk44Y1gwMWtKeUpfbUhoUDFyZnlNbWtHdlg5ZzB3N1hYcjlPRzZhc1pYa0xfNDlna0JjcVJyOTBCUElXeGEwcTkyRUc0TTMyTXVCWUM1ZnBqSEpYOUlDUUVJTG5ja08wQkJQUVNiNXRiTy1Ldw?oc=5",
+   "source": "Clarin.com",
+   "cat": "deportes",
+   "image": "",
+   "date": "2026-10-28T21:58:26+00:00"
   },
   {
    "title": "La trama oculta de la fuga de Flavio Bolsonaro a Estados Unidos: el rol clave de Santiago Caputo, dos jets privados y un misterioso ex agente de la DEA",
@@ -602,44 +682,12 @@
    "date": "2026-10-28T21:33:13+00:00"
   },
   {
-   "title": "¿No entró? El gol que reclamó Argentina en la eliminación ante Ghana del Mundial Sub-17",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWZTX2JwRGVaeGd6OWJwQlE1RWNWaklDTmhWOC1HZEJWMi1fd0NnMEJYQ2EzelRFdTNKeXNvSTRtU1NKRHNQTWFJYXRqSEp1bEMteExJMkF5eDFlQ0E1S3N4d0xzZ19IYUpINjRKVmhfdEtZWExuQmVOcEV3N2Zxek9DTkJHbGFxcjFtdTZVT0hOam1ydVc1R3hybXZYTWl6cmszWXZ4ekhaaHI5R3RSMXVISmlpZmpPc3JjYjRLOTBBaGFPdFlaY2FNNW02VnpmT1JGeDVSV2E2TmNKWlE?oc=5",
-   "source": "TyC Sports",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-28T21:09:58+00:00"
-  },
-  {
-   "title": "Investigan un “sofisticado ciberataque” que provocó una millonaria estafa a tres mutuales del interior de Santa Fe",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQTdvR1RCY3pqQ2hPVzM5MTUzOC1pVTRRYmtsbHpfbzNnc3RjZHoxRUR0MFA0Vm1EM1NhaXBBZ1FxR1dBaXFFMkY0WGVHeURUYW5rR1JWdjlCdlJZZzg1SFl3dUVNSlRwOW5rQUE4eGRBU1dkQllGNTI1NmNadENXVjRfRjUzNG1tQUFvTVY5MklsTEtUMFpKejNXUEo1ZW5MMGROV0tlc3RnNzlObkxxYWoyeE12MzlzSGpaNFAzeVpxd3FHeTFvbVpzQjBuRlRVOGZTbktuWHZZTUg0V0p5RUdtM2VIdw?oc=5",
-   "source": "La Nación",
-   "cat": "tecnologia",
-   "image": "",
-   "date": "2026-10-28T21:08:00+00:00"
-  },
-  {
-   "title": "Figueroa presentó un Presupuesto 2027 con una fuerte suba en obra pública",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjBXcGM4ZXBnUkFuaUx0TFpkR0xHSmlnV2VmeElpYnlFU3RNa2lXY2FCODM0TTk3UVlUYVYxcE5XQVpqM0FrSGozTk1RcEx0bkQtbktlcWZiYkFfaWw1SFVHR0NvekJqX3ltX1lNdVlTV09hLTBSNDlyN29SVTZtSTRLd0NoaFI1aVZPQkcteGZEaUdVdm12QjM1SXdJZHdIaVZweUhpXzZYMERmTmfSAbMBQVVfeXFMUEc4dm5vbmF5dTBhZjAyaW5lUEdXZUxNLV9QUF96MExFYllRbkYzdEh4QTlKa1NYSWViOFFiYXBSbzMtMU01YnBlSzh4SGdGN3FpbThtRVVqSlZ0UGtFdDR4T3pQSE0tM0ZkWWQ3TUY1NXpNYUpEb0dFSW5hd2FNSEd4aVVCTTNTbXU1SnhMNXpkTjFhcTdPWXZ6eUNrblNDVHcwM2Yxa21yUzlfMkdnSU9kcUU?oc=5",
-   "source": "Lmneuquen.com",
-   "cat": "argentina",
-   "image": "",
-   "date": "2026-10-28T20:25:00+00:00"
-  },
-  {
    "title": "Quiénes son los dos hermanos desaparecidos en un río de Santa Cruz: iban a viajar para probarse en un club de fútbol",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNV1BBcjFqMGZLRER2SWJPcXVWd0FQXy1kQlg4WG1LZWFtampWUXRGcXNBRDNucF9NeEtlYkFhaEx3TnFFQmx3U19ucUZvb1ZweDlGcjVkME9qMHl3RTF2U0c4b0RDR0FqMVplMnBOOURVZ2h5ZHFNTE45T1hKVzl1R0FjTXF2VkJDLUhPMVFIakVjQVo0TDZKZDhhakh1NDZ4Xy1fUjViSEVrZU1fMmIyX09JTkl0d255eE1uOWkwQlBUSThsd0FOU1hyZndieFprWHJKajNhSVdOalZDQVA0b2ZQZ0hnajNqRFRrWnA0VGNzd9IBjAJBVV95cUxQX0dVTFRxSnlkQkZkSGpWSVk1NF91M2VCS09PS2YtR1YxV2FENnYtTmV5LWpoMmcwMXo1N0d2QlVkZjZfQjJmN201NHZCV2F6V0t1MlpzTDE2UkR1OGVfOUd4bnNWX3hCSXhfcDlrV3duTDhnalA5ckZzVWFFeFBhU1o0Z0E0UUYzYy0tQ21aWjBoYVdwS3kzOWlOR2NXTURRVDJBemYzcU9UcjlvRkhuT3B2WmM2b3NMMDlvNjIzUzZ3eldFXzhJSzNYZTJad0FLMk93bHBTRnl0VTBDenVGdk5RcnB3R2JuajhIS3NKWVJkOFBuMWc0dmNsdVZlLTBuZlBDWEhlXzVSUGgw?oc=5",
    "source": "Infobae",
    "cat": "argentina",
    "image": "",
    "date": "2026-10-28T20:05:00+00:00"
-  },
-  {
-   "title": "El Superclásico tendrá seis campeones del mundo desde el arranque: cómo llega cada uno a un Boca-River histórico",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTWhJYXpGY1hMZWtSMUhHemlUeng0LXhGMEdVVmJIWW5rY0VzMzJZdlh5a3N3NVdibkZBVnAyaUhMNUotMXY5QTg1bmI5MlRJSUFaYXN1eHZsQnR0NGtrbG85ZEVnYVZiYlNDR2RFNk5CeGdkS2U4UFFHWW85TlNKeUpyM1A4cVNHVzluWC1UejYxZ1dUZXBCQ0dTZ3QwX3Q4S09HdFk5M0pZcmZZUHFvTy1Nck5tclFFRDR3WHpySUh2NUxJOEZURmc0ZUQ2a2laM0NmM3Q3UG5wZGV1VEJXYVdaRzRTYUk?oc=5",
-   "source": "La Nación",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-28T20:01:00+00:00"
   },
   {
    "title": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España",
@@ -650,20 +698,20 @@
    "date": "2026-10-28T19:32:00+00:00"
   },
   {
-   "title": "Conmebol falló al recurso de Flamengo contra Estudiantes y definió al finalista de la Libertadores",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMlFraUJ0a0Y2eGFZLWtVT2dxY3NReVNEUUhIdnpaYkNZaGwxeVlVX0cyTDhuMFJDbzh3N3ZmNW9zd1p5REpmQ0hPWERzc3YxZTl6bENSb2ZFb3NVTk51Wmd2aXNqNDNGeTRtU2U4eUQxU0otVzRRLTdXaVUtMlZzb3RRd3BTQjBiMWpYaEpaUXZkb1U0Q1F3ZEluSXpQME9YUUhYazgzbDlSWWcxYjJLbXBvT1RwSW9VNTRIbWVOcXY3Q1lWUHZRWi1EM21IU3lMNWxsZ3FnZk94aGdwX3BtbVNUX21uTXc2MC1uWXE3dlkwVjU4dEU2bw?oc=5",
-   "source": "El Gráfico",
+   "title": "CONMEBOL dio su veredicto tras el reclamo de Flamengo contra Estudiantes por la inclusión de Rojo",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFVGY2JwUWN0TkJDVDNMRDZEb2lIOWtqNTFMQjlxSFc0WHVXUTZaU2Z2Vjc2Nnl2eE80UGlWMGRkUWpfenNLeU1tVG5QcS01QXJ2aEltQ3VrT3QwckFKdmVteWk3SGhkbEpwUE5GN0NmY1hONXVsZ3p4ekcyTWZjeWhCbjJfT1c4UUpBak1JOEwzMkJ3bU1HdlZENmVBS2hRaVQ5cFA1Rl9RRkxSaGt2aWtsSEN1QmFadmRIYUNxYXFxc09odGVISGRoSzhPeFlCaFgtd3E0STEtRzJhdTJ3?oc=5",
+   "source": "ESPN Argentina",
    "cat": "deportes",
    "image": "",
-   "date": "2026-10-28T18:06:42+00:00"
+   "date": "2026-10-28T18:16:00+00:00"
   },
   {
-   "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel: ninguno alcanza la mayoría para formar gobierno",
-   "link": "https://www.bbc.com/mundo/articles/c6wyvk58x9pxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Mundo",
-   "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/788e/live/3e9257a0-d2f3-11f1-8d86-83eebc838351.png",
-   "date": "2026-10-28T17:25:05+00:00"
+   "title": "Boca vs. River: cuándo juegan, a qué hora y cómo ver el superclásico 2026 en vivo",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGZqVUlkaFVDekl0VUIxcDF6ZGJIREw2dUVxc2JIR0ZLVEJSWC12ZUtmVGd3OWVReUpoTU4yUUNLcUczbW00WjYzTmpER1Bhem1GWnJaVUI5MVplQ1RMU0QwUVNqcmZKVm85VkZrV3M1ZmJJZ3FnNjRCR1hzb3U4VVhSdGlvS014aFc2MzlkaWd4MnNnN0Z6TWlZVzdTWW5FWURnWjFNdHdoUjRJY1BfXzZOLXZtczZaLXFFenhNOGNsUdIBxwFBVV95cUxOVktJZkhYeGFUQXJPZ0RUQnJrcVFYOTFBd2lxV2xJWG95ZG9VamV3WmpQMUljLU1wTVZweGE1ZUE5RUs0UG1XMmRxRVlJSjFiTW03SDVTS00zTU1JX2RuZlNkTWxtbFBNZS1ybDZaWThmX0p5NG9zTTJMSjM0YmVrOGRIVHVPdkR1cFBzc2d2WnVtRUhDQWNDOVZFV2tyc21PejNfN2ZqYnFRTHp5SUdpcHlHODhSdWpLSTU0WEtaRUZ6WjlLVWNN?oc=5",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "",
+   "date": "2026-10-28T18:13:44+00:00"
   },
   {
    "title": "Las estaciones Shell ya tienen nueva operadora: quién está detrás del negocio",
@@ -690,28 +738,12 @@
    "date": "2026-10-28T14:50:43+00:00"
   },
   {
-   "title": "Cómo será la circulación vehicular durante el IRONMAN 2026",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2MxSFdvMnQzRkxqaHd0RlE0bURiZC1hM1VqREpudE0zQ3BIZG1odm9TbDFUVTRkUzI1WC1pd040R1dMTUlwVEdZbUhFS3huNnVmZXFKWk5SSU1haTk4dklncEV2Q1NHajNRQXpvREpWaFlSSHpyNFpfX0Z0SE1Pa1NpNWxERXdxREVad2tncmRpQmtrWWRhWWF2bXI4cXd6RnJ2U2t2aE1PajhKLUtj0gG0AUFVX3lxTE8tbF9KMUNPR1QzTUVKUlM0VXlRV0QtVFpBZ24xUFpPYXlkcVM5RFdUSkhJMEFpcGsxa0hnZXlBSUg4ck1mU0FxalZBc0k4TUd2Z2drVXRQeEZMQzI3WFYteUo4WEx0cnljN2g3VmtjTUZ5djZFZGpLMEE4elhZdHdta29xdlVSTFBXanBlQm9qUEgwQWl1RWhQaXY5bzZ6TTZSZ0FaTkZtUGY5NlZqY0lhd3RzTA?oc=5",
-   "source": "SI SAN JUAN",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-28T14:45:00+00:00"
-  },
-  {
    "title": "Empleados de Comercio acordaron un alza del 5,7% y un bono de $50.000: así quedan los salarios desde octubre de 2026",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaFZDV1V5dHM2dGp4OTZPOXRxcEoyTWxHV2QxeXdMUWRSNXNYZ0h3UTF3RDNxVTZPMkx4a19xYTBubHNCYm5TOE5TdXBnSnNhbXRMaDF5RjVoTUF4dkpPMVM5aFFTeUxhdTZjOXV4Nmx0aXhvZHVzYWRFc2txbXhJdmJYNXNnSzhQT2RabFI2UXV4YzQtNUZjZERqeU1HTDF5RXRuNWtkQTh5NUZ3bF8tei1YbmgxOEE5UjQwNXBqbUpKdGN0S01nY1VmR0pNRE95ckZLOWo1OUNJTXJjZXpB0gHzAUFVX3lxTE5rUGVGUGlhaVZBeW9CbkRYQldMZE5tVWNtbFQ0cWducUVsb1VIMC1nTk9Bc1NRcS1GNDg2cXZ2emRQMDRRYzdmWFpES0E0ai05dk9aMTBueE9CcGdnci1HeDNRVWIxTXZoNl9yQWp2bWV6M0tpU0hLdVo4TEcwMzMyMzBOY2pOT3JWS2JPaWJCZWlvdnpBNnE2N25majV0ZlF5Y0xFa3JmNnMtbUJqLTVOZlAwLUFXcGpGaGlFWUxxY1dvdHF5UDdVZHA0X2RCTTNzb3pBVlZQUUpIZ0JfQ1ExVEN4V3JhSE5qVFAzcE5MaTFZRQ?oc=5",
    "source": "TN",
    "cat": "argentina",
    "image": "",
    "date": "2026-10-28T14:30:46+00:00"
-  },
-  {
-   "title": "El Senado intentará aprobar mañana la reforma de la ley de salud mental y el RIIR",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkpfaGFNd1NOcWNmeWxfeUgwYVI1VDlYY1NTVGsxa2g2UlhhMDcwcDdBVV9Cbm1ONzlSVWVxV1BOMlc4RFpzT3JGM01lUGtFNVRUMmZsd2dhdEJuMnFQVlNPV2pESFJGWG95M2t0cklXU0ZlcFV2WFJWZGpENXd5WXM2cmFCdkFITVd0elhsQnpoRmNoYm01cnZ0MjJIckZIWWpJYVp2VHJCS184RnB3NzhlaVZwTXNtOThMQUxvQ0dQOS10V0JHSEpndw?oc=5",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "",
-   "date": "2026-10-28T14:11:00+00:00"
   },
   {
    "title": "Cuáles son los casos que tiene pendientes Flávio Bolsonaro con la justicia de Brasil",
@@ -730,28 +762,12 @@
    "date": "2026-10-28T13:22:00+00:00"
   },
   {
-   "title": "Guía útil para ver al Papa: inscripción previa, accesos a Fadea y elementos permitidos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVI1dE00OU9lOGRWR1JqUktjU29xRHRzSlRjTUNlQWd0TFRDc3pFVGpQN04zaUJoSWVKX2t6UkJhQVdMLUlENEZTZ195WnhxTzY1Tk1GSEVxVG40ZGsybFNvTlN2dHduU0RnbVZfYk96eWk3UHcycFJyVFVhVGhnTXlscGhVd0Fud3JZcjc0QzVKMl9nd2JBcHNOR21IX2s2Ukt1NGhSX2lwS25yTklieW5vMTJ5bkh2ekE4UHh2Y0t4akk0?oc=5",
-   "source": "La Voz del Interior",
-   "cat": "argentina",
-   "image": "",
-   "date": "2026-10-28T12:51:37+00:00"
-  },
-  {
    "title": "Esta inteligencia artificial predice el clima más rápido y barato. Los científicos todavía no saben cómo funciona del todo",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaDZtNVBkV1ltQzRveHo4M3lMZ1FOQnhjNFd2RWwwUVZWZ0FidktHU0JGVnJteXc5Ri00VFpMRjVDQlg0WmpIZGdZUWY1M2R3TEMzbDNNUHVscW1SMDMycjdSWk5Sam0wczVwYnR5UEctZWZGbGE3N1cyS0lleklyNXhSRVBfRjdBQkx5TVRpTWlOQ1I1OUV6NzdxQUFhRW1HYU5oTVFUZnh3ZG85SmQ1SUo2UzNpOEpobkthZnlTa1ZGbWlHNV9DY3FMZUhjSEdWYm1VYkhSSHN5QUZlTlJPNC15aE1vNllNU1E2bDk1V1hfbzQ?oc=5",
    "source": "Página|12",
    "cat": "tecnologia",
    "image": "",
    "date": "2026-10-28T12:32:42+00:00"
-  },
-  {
-   "title": "No es un auto eléctrico: la nueva apuesta de Tesla que sorprende al mundo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa19ad0lXQ2dtQ0Q4b1BGaWc5cUc4dXd6NHBGLTB3ZGh6Y2FUVzhpLWg1N0dhd0Y5Z1pGVFY1TUlqQXB5VkxtZmJURDVrQTBBRG5RcklQVUtPdFVlUzJoV2NZUXpFN256OVZrR2E0d1Yyb0VTUTJ6TG9zZEJpTFhfb3hhNW9vblYtZ0Q1dGxHVEg4WVM5SzZjWWVmaUI4Rll2czM3SkJHWEJ6ZzTSAbABQVVfeXFMTkF5WHAwQzRFQWpLbVM3WnZJV094eFNmYk42QjJjbkl6dk56ZEthM0M4X2pZbXQtT1pRX1dhajR0cWlGajJLdUFRcjBKZDBvWEpoejk4d1dTcEZtN1o2NC1qdEdrcTJUVVpkVjFxM3VyOG9ZTGQ4ajNuLURXR0lyLTVZai1DVzVrRGlUOGNnV0VsaVB6R2NMRXJTa3RfTkxKWWlBUmNQQXZfLVlQN3pRTm8?oc=5",
-   "source": "Ambito",
-   "cat": "tecnologia",
-   "image": "",
-   "date": "2026-10-28T12:10:00+00:00"
   },
   {
    "title": "La investigación del accidente de trenes en España señala las fallas en el sistema y una habilitación fatal",
@@ -770,20 +786,20 @@
    "date": "2026-10-28T10:55:00+00:00"
   },
   {
-   "title": "La polémica de Kylian Mbappé en China por un meme de Mao: qué dijo el Real Madrid",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV0p0alJ3NDRZWV9rSmZrdHpoeGg3U3oxU2lWWE04TnBUMjNyUmNUSGh2LTNUd0huYk5ydnlVNWl5RnFlSFppaDQ5SU1RX1FubXZMb1lBQTdLYVpkSTNzZm9ZcmdkeGdXaVprTXowdXVMS01HdlNYRWkwMDRWWnZNeDFyMDNLaWJ0bkZMRl8zSm8wR1Q2d0hhN043ZV9PaHloV1kxNHQ3R2xJMFQ2aTE5Yng2M3VDRmdi0gHMAUFVX3lxTFBPdTJlVzhPTGkwa0JLVndpSW5QMHZodVh2djlrUUVMNUNKeTBFUUdaaWYwQlNTakNsZmNUM3NQOUpWWGxyV1EwUWlReDMzblU4TjhSQlVyb0xFN2tnd0ZQODlORGFUaUxxRmlaVk9RRXh5bzRwU21xeDJaYzdrVWtTTlN3UkZOeGpfbHd1Ump0aXBabnJ0cXRCaDVEUGU4Yzc2Ymd6NHVFSmVkUHVkdXI2dTdZbmZ1b2F5SlNzNDNaZi1VU0JaRDl4OHJRZA?oc=5",
-   "source": "TN",
-   "cat": "deportes",
-   "image": "",
-   "date": "2026-10-28T09:47:56+00:00"
-  },
-  {
    "title": "Aprovechan grandes recitales para estafar a los fans: las 3 trampas más comunes y cómo protegerse",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczUyZkkteU53U1lONF9wbmk4Mk5MbXh6b01neTd1elE3OFkwOEpNeGlsWnloSHFZVzl0NVJMd1hfc2NiUXJPbXBCUTJ1U25PeVJWRnd0bHdoYlY0Zi1MVG1JSGlBZUpUS2trY3FzN2RtR0MtalFCUjBWbjFHYkVMZXFQQlJGNDU0NW9Od0lZRFEwWGhveXlyeXhlVnBna0psdGhfb0M1RmxBSXd5MnlNT24yem9hUE5GWDNiVDlR?oc=5",
    "source": "Clarin.com",
    "cat": "tecnologia",
    "image": "",
    "date": "2026-10-28T09:00:33+00:00"
+  },
+  {
+   "title": "Mi Próximo Paso y Mi Primer Emprendimiento: las inscripciones cierran este miércoles y no habrá prórroga",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZHJmR2E3ZmJ4SXd6X0ZTbS00cGtyRjFDWjBYSkJtc2V6T0xoaEV4b2xZYUxnS3lZUU1CWU1yT0NNQ3lXdnotSHhsT2huVnA3REs5QUJLdWVLSjZqcHRrOHNnV1FzaG9DR05Ua0FzaEV4cHpRcDNhQ1ZMY0Y5bFUzalp5LTdwd3VaRXpFb0hteVh2d0VRWmhPb05pdmREY1hnSG9Eem9KSXRHUWtQQkN6cEJlNnZNQkNaWTM4R3plN2ZOMGNWS09aU2pQMXFEWk5RN2RGRDZPQjQ4T2w2c0l4Z01Tekg5TmZ4MXhiUjhn0gHuAUFVX3lxTE9kcmZHYTdmYnhJd3pfRlNtLTRwa3JGMUNaMFhKQm1zZXpPTGhoRXhvbFlhTGdLeVlRTUJZTXJPQ01DeVd2ei1IeGxPaG5WcDdESzlBQkt1ZUtKNmpwdGs4c2dXUXNob0NHTlRrQXNoRXhwelFwM2FDVkxjRjlsVTNqWnktN3B3dVpFekVvSG15WHZ3RVFaaE9vTml2ZERjWGdIb0R6b0pJdEdRa1BCQ3pwQmU2dk1CQ1pZMzhHemU3Zk4wY1ZLT1pTalAxcURaTlE3ZEZENk9CNDhPbDZzSXhnTVN6SDlOZngxeGJSOGc?oc=5",
+   "source": "El Chorrillero",
+   "cat": "argentina",
+   "image": "",
+   "date": "2026-10-28T02:00:39+00:00"
   },
   {
    "title": "Simón Levy aseguró que Milei participó del operativo para sacar a Flávio Bolsonaro: “Gracias al presidente Milei, hoy Flávio está vivo”",
@@ -794,28 +810,12 @@
    "date": "2026-10-28T00:40:43+00:00"
   },
   {
-   "title": "Este miércoles cierra la inscripción a ‘Mi Próximo Paso’ y ‘Mi Primer Emprendimiento’",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3N0SnhXRUM2WXh1UEZfMjd3N0lqN2NjUEVaVFQzandPODdkRjViOVcxM25HM0dJQlc3ZmwycW01Qkthd3VWMHpPWGdGczhnZlFCUHo2QVR2S2cycGZlSzY3ZmVXMkVlWnJvQW5HTU5xalQzdGZ4RDRMV2RQX1hxb05wRG9UcEc3dy1WZ2taMWVBT1dGWk44a0JmYm1ndGRmTS1iam84eXFVUzNaci1fSDlaQ2FCMUJXNjZQNmg0a3U3T2xkbjZj?oc=5",
-   "source": "Agencia de Noticias San Luis",
-   "cat": "argentina",
-   "image": "",
-   "date": "2026-10-27T16:00:00+00:00"
-  },
-  {
    "title": "Escaparon de un control policial y fueron baleados por los efectivos: hay dos jóvenes internadas",
    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVIyZEZzSjdMaTdsdnVYRnc4TWU4aHk1NldaVUx3VjdacVNZU1FXajRlb1F3RVpSdHBlbktZOF93ZGVTNTl6VUl2QWszREU0N3pRZkVKdVE5cDEwNTNaakNoeWZBSXJaVlJGRHJzcWFpbGxZaVluZ2E0eHRqemYwdkZMYnpQeGQxZW9ycjU3N3M5a0dQNmFlQ2pTMkxfc2NZZW02T2VqU1pyMjY3VF8tSjJDRjBoT25oXzh0YlRtSXhSTWlzbUlyTjl4b1dIVEpnZlA5UWxWVWFaY3o2VVlR?oc=5",
    "source": "La Nación",
    "cat": "tecnologia",
    "image": "",
    "date": "2026-10-27T15:36:00+00:00"
-  },
-  {
-   "title": "Chile bajo alerta: un tornado causó destrozos y decretaron la emergencia por un posible alud",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUJLcXFKMUhtblNhNC1HNTY5X1pYaWlGcWlGS3VvZW5UbGZJTkJjN192MFFLVG5OVGdHcWhyWVBSaFhwbnlvRFlGUUFXZUNPc0g2d1FFTjJ6aE5NaGVPNUxxZ1pKNzRUQTBldE5sZFdrd3N5eEhVN2ZQamRlUUFXdVhYc3FlUmtkT1BieUJEMHF1SVhaOE5iTnRFOG9acHdzMWV5SE5STXk3ZjBrdU5ueTJ6dnd0YTREMjhLVGZVaw?oc=5",
-   "source": "Diario Panorama",
-   "cat": "mundo",
-   "image": "",
-   "date": "2026-10-27T01:35:30+00:00"
   },
   {
    "title": "Vacaciones en Brasil 2027: se abaratan los paquetes por la caída del real y subió 40% la demanda en agencias de viaje",
