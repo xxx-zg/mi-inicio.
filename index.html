@@ -16,8 +16,8 @@ body{margin:0;background:linear-gradient(180deg,var(--s1) 0,var(--s2) 220px,var(
 main{max-width:720px;margin:auto;padding:10px 12px 40px}
 .top{display:flex;align-items:center;justify-content:space-between;min-height:42px}
 .wx{display:flex;align-items:center;padding:7px 14px;border-radius:999px;background:var(--surf);color:var(--tx);text-decoration:none;font-size:14px}
-.pal{margin-left:auto;width:40px;height:40px;border-radius:50%;border:0;background:var(--surf);font-size:18px;cursor:pointer;padding:0}
 .logo{text-align:center;margin:24px 0 26px;font-size:clamp(52px,17vw,76px);font-weight:500;letter-spacing:-.055em;line-height:1}
+.logo img{display:block;margin:0 auto;max-width:90%;max-height:120px;width:auto;height:auto}.logo.img span{display:none}
 .logo .b{color:#4285f4}.logo .r{color:#ea4335}.logo .y{color:#fbbc05}.logo .g{color:#34a853}
 @media(prefers-color-scheme:dark){.logo span{color:var(--tx)}}
 .search{display:flex;align-items:center;gap:4px;height:64px;background:var(--bar);border-radius:32px;padding:0 10px 0 18px}
@@ -26,6 +26,13 @@ main{max-width:720px;margin:auto;padding:10px 12px 40px}
 .search input::placeholder{color:var(--mu);opacity:1}
 .ic{width:24px;height:24px;fill:var(--tx);flex:none}
 .sbtn{border:0;background:transparent;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;cursor:pointer;padding:0}
+.lens{fill:none;stroke:var(--tx);stroke-width:2;stroke-linecap:round}
+.sw{position:relative}
+.sug{position:absolute;left:0;right:0;top:70px;background:var(--surf);border-radius:28px;padding:8px 0;z-index:20;box-shadow:0 8px 28px rgba(0,0,0,.28);overflow:hidden}
+.sug button{display:flex;align-items:center;gap:14px;width:100%;border:0;background:none;color:var(--tx);font:inherit;font-size:16px;text-align:left;padding:12px 20px;cursor:pointer}
+.sug button svg{width:20px;height:20px;fill:var(--mu);flex:none}
+.sug button span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sug button.on,.sug button:hover{background:var(--bar)}
 .sbtn:active,.ib:active{background:var(--line)}
 .pills{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0 16px}
 .pill{display:flex;align-items:center;justify-content:center;gap:10px;height:56px;border-radius:28px;background:var(--bar);color:var(--tx);text-decoration:none;font-weight:500;font-size:15px}
@@ -40,11 +47,13 @@ main{max-width:720px;margin:auto;padding:10px 12px 40px}
 .chip{white-space:nowrap;border:1px solid var(--line);background:transparent;color:var(--tx);border-radius:999px;padding:8px 14px;font:inherit;font-size:14px;cursor:pointer}
 .chip.on{background:var(--bar);border-color:transparent;font-weight:500}
 .rf{flex:none;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:transparent;color:var(--tx);font-size:19px;cursor:pointer;padding:0}
-.feed{background:var(--surf);border-radius:28px;overflow:hidden}
+.feed{display:flex;flex-direction:column;gap:12px}
+.st{background:var(--surf);border-radius:28px;overflow:hidden}
 .lk{display:block;color:inherit;text-decoration:none}
 .sm .lk{display:flex;gap:16px;align-items:flex-start;padding:22px 20px 12px}
 .sm h3{flex:1;min-width:0}
-.big h3{padding:14px 20px 4px}
+.big h3{padding:16px 20px 4px}
+.big .im{margin:12px 12px 0;border-radius:22px;overflow:hidden}
 h3{margin:0;font-size:19px;font-weight:400;line-height:1.3}
 .th{width:96px;height:96px;flex:none;border-radius:20px;overflow:hidden;background:color-mix(in srgb,var(--tx) 9%,var(--surf))}
 .im{aspect-ratio:16/9;background:color-mix(in srgb,var(--tx) 9%,var(--surf))}
@@ -61,14 +70,15 @@ h3{margin:0;font-size:19px;font-weight:400;line-height:1.3}
 </head>
 <body>
 <main>
-  <div class="top"><a class="wx" id="wx" href="https://www.google.com/search?q=clima" hidden></a><button class="pal" id="pal" aria-label="Cambiar color">🎨</button></div>
-  <h1 class="logo" aria-label="Google"><span class="b">G</span><span class="r">o</span><span class="y">o</span><span class="b">g</span><span class="g">l</span><span class="r">e</span></h1>
-  <form class="search" id="sf">
+  <div class="top"><a class="wx" id="wx" href="https://www.google.com/search?q=clima" hidden></a></div>
+  <h1 class="logo" id="logo" aria-label="Google"><span class="b">G</span><span class="r">o</span><span class="y">o</span><span class="b">g</span><span class="g">l</span><span class="r">e</span></h1>
+  <div class="sw"><form class="search" id="sf">
     <svg class="gi" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
     <input id="q" placeholder="Buscar en Google o escribir una URL" autocomplete="off" autocapitalize="off" enterkeyhint="search" aria-label="Buscar en Google">
     <button type="button" class="sbtn" id="mic" aria-label="Búsqueda por voz"><svg class="ic" viewBox="0 0 24 24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm5.91-3c-.49 0-.9.36-.98.85C16.52 14.2 14.47 16 12 16s-4.52-1.8-4.93-4.15c-.08-.49-.49-.85-.98-.85-.61 0-1.09.54-1 1.14.49 3 2.89 5.35 5.91 5.78V20c0 .55.45 1 1 1s1-.45 1-1v-2.08c3.02-.43 5.42-2.78 5.91-5.78.1-.6-.39-1.14-1-1.14z"/></svg></button>
-    <button type="button" class="sbtn" id="lens" aria-label="Buscar con Google Lens"><svg class="ic" viewBox="0 0 24 24"><path d="M12 8.8a3.2 3.2 0 1 0 0 6.4 3.2 3.2 0 0 0 0-6.4zM9 2 7.17 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2h-3.17L15 2H9zm3 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/></svg></button>
+    <button type="button" class="sbtn" id="lens" aria-label="Buscar con Google Lens"><svg class="ic lens" viewBox="0 0 24 24"><path d="M3 8V6a3 3 0 0 1 3-3h2M16 3h2a3 3 0 0 1 3 3v2M21 16v2a3 3 0 0 1-3 3h-2M8 21H6a3 3 0 0 1-3-3v-2"/><circle cx="12" cy="12" r="3.6"/></svg></button>
   </form>
+    <div class="sug" id="sug" hidden></div></div>
   <div class="pills">
     <a class="pill" href="https://www.google.com/search?udm=50"><svg class="ic" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M19 1l.9 2.1L22 4l-2.1.9L19 7l-.9-2.1L16 4l2.1-.9z"/></svg>Modo IA</a>
     <a class="pill" href="https://www.google.com/imghp?hl=es"><svg class="ic" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>Imágenes</a>
@@ -120,16 +130,18 @@ const host=u=>{try{return new URL(u).hostname}catch(e){return''}};
 function ago(d){const t=Date.parse(d);if(!t)return'';const m=Math.max(1,Math.round((Date.now()-t)/60000));
   if(m<60)return m+' min';const h=Math.round(m/60);if(h<24)return h+' h';return Math.round(h/24)+' d'}
 function story(x,i){
-  const big=i%2===1&&x.image;
-  const img=x.image?`<img loading="lazy" referrerpolicy="no-referrer" src="${esc(x.image)}" onerror="this.remove()" alt="">`:'';
+  const big=i>0;
+  const img=x.image?`<img loading="lazy" referrerpolicy="no-referrer" src="${esc(x.image)}" onerror="this.closest('.st').remove()" alt="">`:'';
   const a=`<a class="lk" href="${esc(x.link)}" target="_blank" rel="noopener noreferrer">`;
   const lk=big?`${a}<div class="im">${img}</div><h3>${esc(x.title)}</h3></a>`:`${a}<h3>${esc(x.title)}</h3>${x.image?`<div class="th">${img}</div>`:''}</a>`;
   const h=host(x.link),L=esc(String(x.source||'?').charAt(0).toUpperCase());
   const av=h&&!h.includes('google.com')?`<img src="https://www.google.com/s2/favicons?domain=${esc(h)}&sz=64" data-l="${L}" onerror="this.parentNode.textContent=this.dataset.l" alt="">`:L;
   const t=ago(x.date);
   return `<article class="st ${big?'big':'sm'}" data-i="${i}">${lk}<div class="src"><span class="av">${av}</span><span class="sn"><b>${esc(x.source)}</b>${t?' · '+t:''}</span><button class="ib sh" aria-label="Compartir">${SH}</button><button class="ib hd" aria-label="Ocultar noticia">${MO}</button></div></article>`}
+const BLOCK=['infobae']; /* medios que no querés ver */
+const blocked=x=>BLOCK.some(b=>String(x.source||'').toLowerCase().includes(b)||host(x.link).includes(b));
 function render(){
-  cur=items.filter(x=>(active==='all'||x.cat===active)&&!hid.includes(x.link)).slice(0,40);
+  cur=items.filter(x=>x.image&&!blocked(x)&&(active==='all'||x.cat===active)&&!hid.includes(x.link)).slice(0,40);
   $('news').innerHTML=cur.map(story).join('');
   $('news').hidden=!cur.length;
   const st=$('status');
@@ -147,16 +159,6 @@ $('news').addEventListener('click',e=>{const art=e.target.closest('.st');if(!art
   if(e.target.closest('.sh')){if(navigator.share)navigator.share({title:x.title,url:x.link}).catch(()=>{});else location.href='https://wa.me/?text='+encodeURIComponent(x.title+' '+x.link)}
   if(e.target.closest('.hd')&&confirm('¿Ocultar esta noticia?')){hid.push(x.link);hid=hid.slice(-300);ls.set('hid',hid);render()}});
 loadNews();setInterval(loadNews,10*60*1000);
-
-/* Colores: el botón 🎨 cambia entre oliva, azul, verde, rosa y clásico */
-const P=[[['#fbfbef','#f1f1e2','#e7eabd'],['#151510','#21211b','#3a3b10']],
- [['#f8faff','#edf1fa','#d6e3fb'],['#111318','#1c1f26','#25395f']],
- [['#f6fbf6','#eaf2e9','#cdeacb'],['#101510','#1a221a','#244a28']],
- [['#fff8fa','#faeef2','#f8d3e2'],['#171114','#231b20','#59233f']],
- [['#ffffff','#f1f3f4','#f1f3f4'],['#202124','#2a2b2e','#303134']]];
-let pi=+ls.get('pal2',0)||0;
-function setPal(){const p=P[pi%P.length],s=document.documentElement.style;['l','d'].forEach((m,k)=>{const c=p[k];s.setProperty('--'+m+'bg',c[0]);s.setProperty('--'+m+'surf',c[1]);s.setProperty('--'+m+'bar',c[2])})}
-setPal();$('pal').onclick=()=>{pi=(pi+1)%P.length;ls.set('pal2',pi);setPal()};
 
 /* Clima (Open-Meteo, sin clave). Pide tu ubicación una vez; si no la das, usa Buenos Aires */
 const wxIcon=c=>c===0?'☀️':c<=2?'🌤️':c===3?'☁️':c<=48?'🌫️':c<=67?'🌧️':c<=77?'❄️':c<=82?'🌦️':'⛈️';
@@ -177,6 +179,37 @@ function setSky(){const h=new Date().getHours();let k=[['#b9c2f0','#e3e6fa'],['#
   for(const x of SKY)if(h>=x[0]&&h<x[1]){k=[x[2],x[3]];break}
   const st=document.documentElement.style;st.setProperty('--ls1',k[0][0]);st.setProperty('--ls2',k[0][1]);st.setProperty('--ds1',k[1][0]);st.setProperty('--ds2',k[1][1])}
 setSky();setInterval(setSky,10*60*1000);
+
+/* Sugerencias mientras escribís (servicio público de Google) */
+const SI='<svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>';
+const sug=$('sug');let sl=[],sel=-1,typed='',tm;
+function hideSug(){sug.hidden=true;sel=-1}
+function showSug(a){sl=a.slice(0,8);sel=-1;if(!sl.length)return hideSug();
+  sug.innerHTML=sl.map((t,i)=>`<button type="button" data-i="${i}">${SI}<span>${esc(t)}</span></button>`).join('');sug.hidden=false}
+function jsonp(u){return new Promise((ok,no)=>{const n='_sg'+Date.now(),sc=document.createElement('script');
+  const end=()=>{clearTimeout(t);delete window[n];sc.remove()},t=setTimeout(()=>{end();no()},4000);
+  window[n]=d=>{end();ok(d)};sc.onerror=()=>{end();no()};sc.src=u+'&callback='+n;document.head.appendChild(sc)})}
+async function getSug(q){const base='https://suggestqueries.google.com/complete/search?client=',e=encodeURIComponent(q);
+  try{const r=await fetch(base+'firefox&hl=es&q='+e);return(await r.json())[1]||[]}catch(x){}
+  return(await jsonp(base+'chrome&hl=es&q='+e))[1]||[]}
+$('q').addEventListener('input',()=>{typed=$('q').value.trim();clearTimeout(tm);if(!typed)return hideSug();
+  tm=setTimeout(async()=>{const q=typed;try{const a=await getSug(q);if($('q').value.trim()===q)showSug(a)}catch(e){hideSug()}},120)});
+$('q').addEventListener('keydown',e=>{if(sug.hidden||!sl.length)return;
+  if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();const n=sl.length+1;sel=((sel+1+(e.key==='ArrowDown'?1:-1)+n)%n)-1;
+    sug.querySelectorAll('button').forEach((b,i)=>b.classList.toggle('on',i===sel));$('q').value=sel<0?typed:sl[sel]}
+  if(e.key==='Escape')hideSug()});
+sug.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;$('q').value=sl[+b.dataset.i];go()});
+document.addEventListener('click',e=>{if(!e.target.closest('.sw'))hideSug()});
+
+/* Logo de Google rotativo: cambia cada DIAS días con los doodles de la carpeta doodles/ */
+const DIAS=2;
+const LOGOS={"L":["d01.webp","d02.webp","d03.webp","d04.webp","d06.webp","d07.webp","d08.webp","d10.webp","d11.webp","d12.webp","d13.webp","d14.webp","d15.webp","d16.webp","d17.webp","d18.webp","d19.webp","d20.webp","d21.webp","d22.webp","d24.webp","d25.webp","d26.webp","d27.webp","d28.webp","d29.webp","d30.webp","d31.webp","d32.webp"],"D":["d01.webp","d02.webp","d03.webp","d04.webp","d05.webp","d07.webp","d08.webp","d09.webp","d10.webp","d12.webp","d13.webp","d14.webp","d15.webp","d16.webp","d17.webp","d18.webp","d19.webp","d21.webp","d22.webp","d23.webp","d24.webp","d25.webp","d26.webp","d28.webp","d29.webp","d30.webp","d31.webp","d32.webp","d33.webp"]};
+function setLogo(){const dk=matchMedia('(prefers-color-scheme: dark)').matches,l=LOGOS[dk?'D':'L'],h=$('logo');
+  const day=Math.floor((Date.now()-new Date().getTimezoneOffset()*60000)/864e5);
+  const f=l[(Math.floor(day/DIAS)*7)%l.length];let im=h.querySelector('img');
+  if(!im){im=new Image();im.alt='Google';im.onerror=()=>{im.remove();h.classList.remove('img')};im.onload=()=>h.classList.add('img');h.appendChild(im)}
+  im.src='doodles/'+f}
+setLogo();matchMedia('(prefers-color-scheme: dark)').addEventListener('change',setLogo);
 </script>
 </body>
 </html>
