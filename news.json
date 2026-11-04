@@ -1,40 +1,472 @@
 {
- "updated": "2026-11-04T16:43:47.638821+00:00",
+ "updated": "2026-11-04T17:41:34.560402+00:00",
  "items": [
   {
-   "title": "Revés para Milei en la causa Libra: la Cámara de Casación aceptó tratar la queja de dos querellantes y podría reactivarse la investigación",
-   "link": "https://tn.com.ar/politica/2026/11/04/reves-para-milei-en-la-causa-libra-casacion-acepto-tratar-la-queja-de-dos-querellantes-y-podria-reactivarse-la-investigacion/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/PZS3MXGGZRH6NPTQKG4HSGOFLY.jpg?auth=cfb099f377b3c0c8eb8a8e9e0d19374923279254b799458a2e34a1720e0c4cdd",
-   "date": "2026-11-04T16:40:15+00:00"
-  },
-  {
-   "title": "Nutricionistas coinciden: los huevos revueltos no se deben acompañar con palta, sino con arroz y una base de verduras",
-   "link": "https://tn.com.ar/cocina/recetas/2026/11/04/nutricionistas-coinciden-los-huevos-revueltos-no-se-deben-acompanar-con-palta-sino-con-arroz-y-una-base-de-verduras/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/T66XBT5O4FBIHDB7ILOVBWQHIM.jpg?auth=37096a10e932b59a12b3fc56e366cc526e2c6f0858c57cd55f5550e848d2cf41",
-   "date": "2026-11-04T16:39:48+00:00"
-  },
-  {
-   "title": "Tras la salida del Grupo México, el Gobierno postergó la licitación del Belgrano Cargas",
-   "link": "https://www.cronista.com/economia-politica/tras-la-salida-del-grupo-mexico-el-gobierno-postergo-la-licitacion-del-belgrano-cargas/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/ZGEJN7GUXREJ3KPVRYZHH67PYM.jpg?auth=9bc4c4c582b8282824ec521ee944d4f6f6d3ca035b7b8b76b4ac37dbca673c39&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:39:45+00:00"
-  },
-  {
-   "title": "El arquero del choque fatal habló por primera vez: el dolor de Jesús Owono tras la muerte del jugador del Tenerife",
-   "link": "https://perfil.com/deportes/el-arquero-del-choque-fatal-hablo-por-primera-vez-el-dolor-de-jesus-owono-tras-la-muerte-del-jugador-del-tenerife-af61m6C3hf2u",
+   "title": "Mario Riorda: \"En Argentina se va a discutir lo mismo que en las elecciones de EE.UU, los problemas económicos y los límites democráticos\"",
+   "link": "https://perfil.com/modo-fontevecchia/mario-riorda-en-argentina-se-va-a-discutir-lo-mismo-que-en-las-eleccions-de-ee.uu-los-problemas-economicos-y-los-limites-democraticos-azPZd2c7YKJP",
    "source": "Perfil",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/f73a78af64d5-perfil-1.webp",
-   "date": "2026-11-04T16:39:00+00:00"
+   "image": "https://media.perfil.com/prod/images/gm_preview/dc39f83e38f0-mario-riorda-1579831.jpg",
+   "date": "2026-11-04T17:38:36+00:00"
   },
   {
-   "title": "Caso Libra: Casación admitió a dos querellantes y podría reactivarse la causa",
+   "title": "El mundo reacciona a la derrota de Trump: Festejos y amenazas en Irán, entusiasmo de Pedro Sánchez y cautela en Rusia",
+   "link": "https://www.lanacion.com.ar/el-mundo/el-mundo-reacciona-a-la-derrota-de-trump-festejos-y-amenazas-en-iran-entusiasmo-de-pedro-sanchez-y-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/MAG4QZQX35ECRAU2KIIUX5DT3M.JPG?auth=b0695c4f66b3e1dbe330546f845beeae7123ad0c65b5144d61a2aeea837f39d5&smart=true&width=2689&height=1793",
+   "date": "2026-11-04T17:38:32+00:00"
+  },
+  {
+   "title": "Who Is Abdul El-Sayed, the Democrat Set to Become the First Muslim U.S. Senator",
+   "link": "https://www.cronista.com/en/today/who-is-abdul-el-sayed-the-democrat-set-to-become-the-first-muslim-us-senator/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/35QUXDVX35GGRJ3TIQMWAGM4ZI.jpg?auth=60fcdf97ad20dc4b4483490cf5eb9d0870fea081ac37cca0e75fc6eb12e3bd97&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:37:45+00:00"
+  },
+  {
+   "title": "El insólito recorrido de un proyecto de ley que Milei firmó de madrugada y pidió retirar tres días después",
+   "link": "https://www.lanacion.com.ar/politica/el-insolito-recorrido-de-un-proyecto-de-ley-que-milei-firmo-de-madrugada-y-pidio-retirar-tres-dias-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/3AYIDA7PJFBQFANR2AL6YSY4DM.jpg?auth=406910d1bb252cdb97ef2c60dac4893fd2e58d09a33987dc8655fd446d1940f6&smart=true&width=2000&height=1333",
+   "date": "2026-11-04T17:37:20+00:00"
+  },
+  {
+   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del miércoles 4 de octubre minuto a minuto",
+   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-miercoles-4-de-octubre-minuto-a-minuto-2/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/VIRPXUKTIBFONDJTTPSAV6J4WA.jpg?auth=67bfef3fa3fe8608e33ebb82c5284928b95c4cc21118c6476a748fa1409327d8&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:37:12+00:00"
+  },
+  {
+   "title": "Asignación por Embarazo: ANSES automatiza la acreditación de las retenciones acumuladas",
+   "link": "https://perfil.com/economia/asignacion-por-embarazo-anses-automatiza-la-acreditacion-de-las-retenciones-acumuladas-a50-jsm-amG480c4rmAG",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/d3b17cc74451-que-hay-que-tener-en-cuenta-para-designar-a-un-apoderado-para-tramites-o-cobros.webp",
+   "date": "2026-11-04T17:37:03+00:00"
+  },
+  {
+   "title": "Sánchez celebra la derrota de Trump en Estados Unidos y lanza una advertencia a Feijóo y Abascal: “La ola ultra ya no crece, se desmorona”",
+   "link": "https://www.cronista.com/espana/politica-es/sanchez-celebra-la-derrota-de-trump-en-estados-unidos-y-lanza-una-advertencia-a-feijoo-y-abascal-la-ola-ultra-ya-no-crece-se-desmorona/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/P3GRZXKU7BD2FB4U3WZS6RRCX4.jpg?auth=8dd97f5ed0d0c0adba2ac4cdc052d0efcf115c76c56957d25763503576f231ef&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:35:20+00:00"
+  },
+  {
+   "title": "Se aproxima el “Pampero”, un fenómeno que traerá frío invernal con temperaturas mínimas de hasta 7°: las zonas afectadas",
+   "link": "https://www.lanacion.com.ar/sociedad/se-aproxima-el-pampero-un-fenomeno-que-traera-frio-invernal-con-temperaturas-minimas-de-hasta-7-las-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/UJ2Q3FZUIZBIPMUDBRFV6CQZHA.png?auth=ca94735d39674dcfb0c86e5554c81b0a1d9e23012cfd471940237cb7ddc39746&smart=true&width=1200&height=800",
+   "date": "2026-11-04T17:35:00+00:00"
+  },
+  {
+   "title": "La trampa de la realidad paralela: el peligro de una universidad sin estadísticas confiables",
+   "link": "https://www.lanacion.com.ar/opinion/la-trampa-de-la-realidad-paralela-el-peligro-de-una-universidad-sin-estadisticas-confiables-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/R4X66XG44ZBERDVDPSPZO2ZQLM.jpg?auth=1dadce279c485a3f1d9105593d576cccc25c87b24f6a6663eae46cfb506adbbe&smart=true&width=2000&height=1333",
+   "date": "2026-11-04T17:34:56+00:00"
+  },
+  {
+   "title": "Axel Kicillof recorrió Luján y buscó politizar la visita del Papa: “León continúa el mensaje de Francisco de la justicia social”",
+   "link": "https://www.lanacion.com.ar/politica/axel-kicillof-recorrio-lujan-y-busco-politizar-la-visita-del-papa-leon-continua-el-mensaje-de-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/VYQMAX4CCNHUNGKOEALHMQ45TU.jpg?auth=e10557789da0099b0ea30652d832dd133ec73334ec3ae8043455549f20bab666&smart=true&width=4744&height=3162",
+   "date": "2026-11-04T17:34:22+00:00"
+  },
+  {
+   "title": "After 59 years, KFC and Taco Bell announce temporary closure of all locations in this US territory",
+   "link": "https://www.cronista.com/en/today/after-59-years-kfc-and-taco-bell-announce-temporary-closure-of-all-locations-in-this-us-territory/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/ROPYJX6LIJA3TMYBTEKXUNKJXA.jpg?auth=5223cdd5726dfdc7c74ae2c1ab8618cd3b7436f86895dea604f92d7749630cd4&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:34:14+00:00"
+  },
+  {
+   "title": "Reproches y pases de factura de los republicanos a Trump tras la dura derrota electoral: el sorpresivo mensaje de JD Vance",
+   "link": "https://www.lanacion.com.ar/estados-unidos/reproches-y-pases-de-factura-de-los-republicanos-a-trump-tras-la-dura-derrota-electoral-el-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/73DBCRBGT5FXDI6I4KBG2E4EIY.JPG?auth=86ad253841c8b6cb4d7f25e2991fadb9ea00de428ec59b399ffc8871dff41039&smart=true&width=3318&height=2212",
+   "date": "2026-11-04T17:34:05+00:00"
+  },
+  {
+   "title": "Dolli Irigoyen se enojó con Mike Amigorena por su actitud en MasterChef y no se guardó nada: “Te estoy hablando”",
+   "link": "https://www.lanacion.com.ar/espectaculos/dolli-irigoyen-se-enojo-con-mike-amigorena-por-su-actitud-en-masterchef-y-no-se-guardo-nada-te-estoy-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/IYA4OZF4N5HYFDQ3ADRIVPN6LA.jpg?auth=a4796d892a108a8523994f9093d83cb3e3b451a92ca8d19d194761e4365a1931&smart=true&width=2000&height=1333",
+   "date": "2026-11-04T17:33:47+00:00"
+  },
+  {
+   "title": "La desgarradora despedida de Roberto Peña a su amigo Daniel Bifulco: “Siempre fuiste el Jaimito por excelencia”",
+   "link": "https://tn.com.ar/show/famosos/2026/11/04/la-desgarradora-despedida-de-roberto-pena-a-su-amigo-daniel-bifulco-siempre-fuiste-el-jaimito-por-excelencia/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/THFG2N33HVDDFELIV6OLF6DJO4.jpg?auth=144c2024ffe1711f7f799f3c8ec264bd47dbf69ed1c89ce7caad916b138fa08c",
+   "date": "2026-11-04T17:33:43+00:00"
+  },
+  {
+   "title": "Jesús Owono, el arquero que protagonizó el choque fatal con Jesús de Miguel: “Siento un dolor enorme”",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/jesus-owono-el-arquero-que-protagonizo-el-choque-fatal-con-jesus-de-miguel-siento-un-dolor-enorme-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/MTQTHT66FJAZPGGYUXJZ37XAUQ.jpg?auth=7ddefca7def6f6b76b0cf9f043f01be0eaf91c240e4803f4a850b9a9cc78bea2&smart=true&width=3936&height=2624",
+   "date": "2026-11-04T17:33:41+00:00"
+  },
+  {
+   "title": "Nelson Castro le salvó la vida a una pasajera que se descompensó en el avión rumbo a Roma",
+   "link": "https://www.lanacion.com.ar/espectaculos/nelson-castro-le-salvo-la-vida-a-una-pasajera-que-se-descompenso-en-pleno-vuelo-rumbo-a-roma-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/KY3CZJCF5FADBKWCKCXSD4JOAI.JPG?auth=25d9062c163f416c3ce4701937ff7645f11ccda252fb26761e8c908fd4717bbd&smart=true&width=925&height=617",
+   "date": "2026-11-04T17:33:24+00:00"
+  },
+  {
+   "title": "El mensaje que Chano escribió hace 15 años y que pronosticó un éxito de Tan Biónica: “La cantaré ad eternum”",
+   "link": "https://www.lanacion.com.ar/espectaculos/el-tuit-que-chano-escribio-hace-15-anos-y-que-pronostico-un-hit-de-tan-bionica-la-cantare-ad-eternum-nid04112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/ZH65DPK6IVGS7H3VDGSY7234EQ.png?auth=959aad1c641293d43d0e6b9cdec5edf6844e7b0979d83007bbf0a8b62978d118&smart=true&width=2000&height=1333",
+   "date": "2026-11-04T17:33:16+00:00"
+  },
+  {
+   "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, miércoles 04 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-miercoles-04-noviembre_0_SabSfuPnhg.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/09/01/LDcQlufvU_1200x630__1.jpg",
+   "date": "2026-11-04T17:33:01+00:00"
+  },
+  {
+   "title": "José Coronado, protagonista del atrapante thriller policial de Netflix, “Jotade” de sólo cuatro episodios",
+   "link": "https://perfil.com/entretenimiento/jose-coronado-protagonista-del-atrapante-thriller-policial-de-netflix-a50-jotade-de-solo-cuatro-episodios-aGRK41L1hRho",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/e8e9c07b139f-coronado3.webp",
+   "date": "2026-11-04T17:32:32+00:00"
+  },
+  {
+   "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, miércoles 04 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-miercoles-04-noviembre_0_kcPVgFkLqQ.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/09/07/jOO2DYthU_1200x630__1.jpg",
+   "date": "2026-11-04T17:32:00+00:00"
+  },
+  {
+   "title": "Estrella de reality show fue detenida por segunda vez: chocó una ambulancia bajo los efectos del alcohol y reveló su lucha con la salud mental",
+   "link": "https://www.clarin.com/estados-unidos/estrella-reality-show-detenida-segunda-vez-choco-ambulancia-efectos-alcohol-revelo-lucha-salud-mental_0_pivQt0F5jJ.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/04/i7tM-oDJA_1200x630__1.jpg",
+   "date": "2026-11-04T17:31:37+00:00"
+  },
+  {
+   "title": "Los Kovalivker se desligaron de la causa ANDIS y no respondieron las preguntas del fiscal",
+   "link": "https://perfil.com/politica/los-kovalivker-se-desligaron-de-la-causa-andis-y-no-respondieron-las-preguntas-del-fiscal-aWcPR5z3mGiH",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/19d6d9889fda-proyecto-nuevo-2026-11-04t103928097.webp",
+   "date": "2026-11-04T17:31:36+00:00"
+  },
+  {
+   "title": "Encuesta: quién es el equipo más beneficiado del fútbol argentino; no es Riestra ni Barracas",
+   "link": "https://perfil.com/cordoba/encuesta-quien-es-el-equipo-mas-beneficiado-del-futbol-argentino-no-es-riestra-ni-barracas-a7Axi9f4Mvqx",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/7ee62bda014b-arbitros-torneo-clausura-2317136.webp",
+   "date": "2026-11-04T17:31:09+00:00"
+  },
+  {
+   "title": "Santiago Caputo se hizo eco de la campaña de reclutamiento de la SIDE",
+   "link": "https://perfil.com/politica/santiago-caputo-se-hizo-eco-de-la-campana-de-reclutamiento-de-la-side-auzDM1s8NP23",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/ffc67810932c-santiago-caputo-2312739.webp",
+   "date": "2026-11-04T17:31:09+00:00"
+  },
+  {
+   "title": "Quiniela de la Provincia: resultado del sorteo de la Vespertina de hoy, miércoles 04 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-vespertina-hoy-miercoles-04-noviembre_0_tXzCp1VeUE.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/06/25/QWj8idQPo_1200x630__1.jpg",
+   "date": "2026-11-04T17:31:01+00:00"
+  },
+  {
+   "title": "¿Quiénes suenan como posibles sucesores de Trump para 2028?",
+   "link": "https://www.clarin.com/estados-unidos/quienes-suenan-como-posibles-sucesores-de-trump-para-2028_0_hJtTznzENP.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+   "date": "2026-11-04T17:30:21+00:00"
+  },
+  {
+   "title": "EEUU: Desestiman caso contra científica nacida en Rusia acusada de contrabandear embriones de rana",
+   "link": "https://www.clarin.com/estados-unidos/eeuu-desestiman-caso-contra-cientifica-nacida-en-rusia-acusada-de-contrabandear-embriones-de-rana_0_jD2ybiE9UV.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+   "date": "2026-11-04T17:30:13+00:00"
+  },
+  {
+   "title": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, miércoles 04 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-vespertina-hoy-miercoles-04-noviembre_0_KhVMkwxOGy.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2022/06/08/U1XBZuQ4w_1200x630__1.jpg",
+   "date": "2026-11-04T17:30:00+00:00"
+  },
+  {
+   "title": "Con la salida de Rafecas, en Comodoro Py quedarán vacantes cinco de los doce juzgados de instrucción",
+   "link": "https://www.clarin.com/politica/salida-rafecas-comodoro-py-quedaran-vacantes-doce-juzgados-instruccion_0_LQVcUzP9eL.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/29/Y7f4aRiE-_1200x630__1.jpg",
+   "date": "2026-11-04T17:29:56+00:00"
+  },
+  {
+   "title": "Sin harina refinada: cómo hacer pancakes de calabaza con una crema de almendras y canela",
+   "link": "https://tn.com.ar/cocina/recetas/2026/11/04/sin-harina-refinada-como-hacer-pancakes-de-calabaza-con-una-crema-de-almendras-y-canela/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/XTNOKOZVB5BPPHHAWTAUAQRC7E.png?auth=b7b402663ae96edd837a9bd7c56011a935585a18afc4f3e67bff0c0a0dfbe369",
+   "date": "2026-11-04T17:29:55+00:00"
+  },
+  {
+   "title": "De Lilia Lemoine al \"niño nazi\" libertario: \"Te corrió un trava en minifalda\"",
+   "link": "https://perfil.com/politica/de-lilia-lemoine-al-nino-nazi-libertario-te-corrio-un-trava-en-minifalda-aTOo93w3M7of",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/110459eac26b-lilia-lemoine-2314606-1.webp",
+   "date": "2026-11-04T17:29:47+00:00"
+  },
+  {
+   "title": "Derrota de Trump: Cristina Kirchner, Alberto Fernández y Mayra Mendoza festejaron en redes",
+   "link": "https://perfil.com/politica/derrota-de-trump-cristina-kirchner-alberto-fernandez-y-mayra-mendoza-festejaron-en-redes-aSM555v2RND4",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/5c0b4475a3bd-cfk-trump-2361097.webp",
+   "date": "2026-11-04T17:29:26+00:00"
+  },
+  {
+   "title": "Trump responds to defeat and challenges Democrats: ‘They’ll send over things that are insane, and I’ll veto them’",
+   "link": "https://www.cronista.com/en/today/trump-responds-to-defeat-and-challenges-democrats-theyll-send-over-things-that-are-insane-and-ill-veto-them/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/HFHYRU7RSVG6LOYHOYJEAB5HTU.jpg?auth=caf0b9bf074d8db0ca705ca928a7d7a309b017ab2e0297c5a57d22715bb53a15&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:29:04+00:00"
+  },
+  {
+   "title": "Las 5 claves del triunfo demócrata: cómo quedó el Congreso de EE.UU. y cómo se reconfiguró el poder en los estados",
+   "link": "https://tn.com.ar/internacional/2026/11/04/las-5-claves-del-triunfo-democrata-como-quedo-el-congreso-de-eeuu-y-como-se-reconfiguro-el-poder-en-los-estados/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/QEGX2T65QBEH5FWCVAYBPVG3SU.jpg?auth=b7231e85627766824dfbc39c6b03d2aba70cbfe256539d14fec31b121c59a294",
+   "date": "2026-11-04T17:28:44+00:00"
+  },
+  {
+   "title": "Juicio a Lotocki: Carmen Barbieri dijo que el cirujano era \"un encantador\" y que una de las víctimas casi se muere en su casa",
+   "link": "https://www.clarin.com/policiales/juicio-lotocki-carmen-barbieri-dijo-cirujano-encantador-victimas-muere-casa_0_NuMCgBtxz4.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/04/XFcz3Tc5F_1200x630__1.jpg",
+   "date": "2026-11-04T17:28:22+00:00"
+  },
+  {
+   "title": "Máxima Zorreguieta conquistó con su falda midi de jean: el detalle bordado que transformó un clásico del guardarropa",
+   "link": "https://perfil.com/entretenimiento/maxima-zorreguieta-conquisto-con-su-falda-midi-de-jean-el-detalle-bordado-que-transformo-un-clasico-del-guardarropa-aqVG58R7lJIR",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f1f96dd7edca-foto-apertura-notas-2026-11-04t131421321.webp",
+   "date": "2026-11-04T17:27:37+00:00"
+  },
+  {
+   "title": "Visita del Papa: cómo es y quiénes hicieron el mural con su imagen que lo recibirá en el Cottolengo Don Orione",
+   "link": "https://www.clarin.com/zonales/visita-papa-hicieron-mural-imagen-recibira-cottolengo-don-orione_0_SIEBW51mfH.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/10/26/WBjcLI5JS_1200x630__1.jpg",
+   "date": "2026-11-04T17:26:59+00:00"
+  },
+  {
+   "title": "Importadores y exportadores: cómo afecta el tipo de cambio a sus márgenes",
+   "link": "https://www.cronista.com/mexico/finanzas-economia/importadores-y-exportadores-como-afecta-el-tipo-de-cambio-a-sus-margenes/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/FZ7YMIS5V5E7XMRSQS3ZFRGGVE.jpg?auth=f91c259e19cca2f7497694a7823ec78aaba769ca677c98fc87087e5cdee9ae2b&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:26:45+00:00"
+  },
+  {
+   "title": "El embajador de la India recorrió Puerto Quequén",
+   "link": "https://www.cronista.com/transport-cargo/el-embajador-de-la-india-recorrio-puerto-quequen/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/26WCSS24NZD7NF5UGFHYGPL66M.jpeg?auth=02edc087d53c88941b2da64e8e9dc5ca3061beb1d76af158a045a9a71ed0b8ca&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:25:25+00:00"
+  },
+  {
+   "title": "DS-5504 Form | The United States lets citizens replace their passport for free if they spot these errors on the document",
+   "link": "https://www.cronista.com/en/immigration/ds-5504-form-the-united-states-lets-citizens-replace-their-passport-for-free-if-they-spot-these-errors-on-the-document/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/2W6ZCCDM3VCBTHQN2EK74YZGVY.png?auth=0af117444d7485667ef7a6d16532c7715035c249ee287445f7788ff125331068&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:24:36+00:00"
+  },
+  {
+   "title": "Stade Rennes empató con Olympiacos 0 a 0 por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/04/stade-rennes-vs-olympiacos-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/4SVDO2B4AKGWDKCM2IAP5LQBG4.UjW3?auth=6f98311803fd88e4fe9a3b076149860add8920b51558a5baac088c4bc5f2c2d0",
+   "date": "2026-11-04T17:23:27+00:00"
+  },
+  {
+   "title": "Quiénes son los diputados de Bullrich en la foto que desafía al Gobierno",
+   "link": "https://perfil.com/politica/quienes-son-los-diputados-de-bullrich-en-la-foto-que-desafia-al-gobierno-aiyEt9z8Zv3t",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/4251b754d7a2-img6262.webp",
+   "date": "2026-11-04T17:22:22+00:00"
+  },
+  {
+   "title": "El vicepresidente de EE.UU. reconoció que la guerra con Irán fue determinante en la derrota republicana: \"Los votantes nos abandonaron\"",
+   "link": "https://tn.com.ar/internacional/2026/11/04/el-vicepresidente-de-eeuu-reconocio-que-la-guerra-con-iran-fue-clave-en-la-derrota-los-votantes-nos-abandonaron/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/PRAAQH2Y5NFRTPYT3ABYSPI7GE.oyPoF1?auth=087928fa3aa0ec1b8ff3a72c7d6e63891b607c4b680adc7f1cfa6fd5761f0ee4",
+   "date": "2026-11-04T17:21:45+00:00"
+  },
+  {
+   "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este miércoles 4 de noviembre",
+   "link": "https://tn.com.ar/economia/2026/11/04/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-miercoles-4-de-noviembre/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/O7JDDHJFA5ELZDGTPETSGNTFQE.jpg?auth=9b8fc8a103fd87b9d3bcf5b24845fe0ce395f3b4e20c3959f7713fb79f3fb52e",
+   "date": "2026-11-04T17:20:36+00:00"
+  },
+  {
+   "title": "El Gobierno decidió retirar todo el proyecto de reforma del mercado de capitales tras la polémica por los Cedear",
+   "link": "https://tn.com.ar/economia/2026/11/04/el-gobierno-decidio-retirar-todo-el-proyecto-de-reforma-del-mercado-de-capitales-tras-la-polemica-por-los-cedear/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/FXXDVQPDPVAEZAAZMWKMJHW2JE.jpg?auth=b4101a947c00ba90828b0f836ff855acfef95edec53328cc8071e7a04e44f530",
+   "date": "2026-11-04T17:20:36+00:00"
+  },
+  {
+   "title": "5 razones que explican la abrumadora derrota del Partido Republicano",
+   "link": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Mundo",
+   "cat": "mundo",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
+   "date": "2026-11-04T17:20:28+00:00"
+  },
+  {
+   "title": "Caso $LIBRA: Casación habilitó una nueva revisión judicial y damnificados podrán insistir para ser querellantes",
+   "link": "https://www.ambito.com/politica/caso-libra-casacion-habilito-una-nueva-revision-judicial-y-damnificados-podran-insistir-ser-querellantes-n6341524",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/11f65d370596f69a6784c9284449557a/adjuntos/239/imagenes/043/748/0043748114/1200x675/693x335:713x355/causa-libra.jpg",
+   "date": "2026-11-04T17:18:00+00:00"
+  },
+  {
+   "title": "Así quedó el Congreso de Estados Unidos: los demócratas consiguieron la mayoría y complicaron a Trump",
+   "link": "https://tn.com.ar/internacional/2026/11/03/elecciones-en-estados-unidos-en-vivo-como-esta-conformado-el-congreso-y-cuantas-bancas-gana-cada-partido/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/3I3VQMIZSVCNJMNSEVIVXKGWIQ.jpg?auth=47b4a06a743c608b8cf22c41f1b38fe661f2042f2141cf4e9dd5a0766429554d",
+   "date": "2026-11-04T17:15:40+00:00"
+  },
+  {
+   "title": "Caos bancario en Paraguay: Santiago Peña pidió serenidad a los ahorristas",
+   "link": "https://www.ambito.com/mundo/caos-bancario-paraguay-santiago-pena-pidio-serenidad-los-ahorristas-n6341508",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/d7981f7dcd5a7f8ce336911ab2c71f0a/adjuntos/239/imagenes/043/748/0043748046/santiago-pena-ueno-bank.jpeg",
+   "date": "2026-11-04T17:13:00+00:00"
+  },
+  {
+   "title": "Caputo rechazó una devaluación y un “plan platita”: su receta para enfrentar el 2027",
+   "link": "https://www.cronista.com/economia-politica/caputo-rechazo-una-devaluacion-y-planteo-su-receta-para-enfrentar-el-2027/",
+   "source": "El Cronista",
+   "cat": "argentina",
+   "image": "https://www.cronista.com/resizer/v2/LPTG5OZHBNF6ZHROMJNDCLMCFA.jpeg?auth=59ace5b10d91c0436f9d568ae3eb6856dab6eb54c8edc7d570a531d48044a346&smart=true&width=1200&height=900",
+   "date": "2026-11-04T17:07:22+00:00"
+  },
+  {
+   "title": "Por la gloria: las nueve finales que puede jugar Boca en sólo 43 días...",
+   "link": "https://www.ole.com.ar/boca-juniors/boca-calendario-final-defensa-justicia-tabla-anual-torneo-clausura-copa-sudamericana_0_dh3W8BQqJq.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/04/DDjzZixXl_1200x630__1.jpg",
+   "date": "2026-11-04T17:03:01+00:00"
+  },
+  {
+   "title": "No ganaron los demócratas, perdió Donald Trump",
+   "link": "https://www.ambito.com/mundo/no-ganaron-los-democratas-perdio-donald-trump-n6341469",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/8e85422bcad1d54f99b57e6ff04d4210/adjuntos/239/imagenes/043/748/0043748110/1200x675/609x217:629x237/donald-trump-veto.jpg",
+   "date": "2026-11-04T17:00:00+00:00"
+  },
+  {
+   "title": "Kicillof presentó el operativo para la misa del Papa en Luján y criticó al Gobierno: “No podemos naturalizar la crueldad”",
+   "link": "https://tn.com.ar/politica/2026/11/04/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-al-pais-las-actividades-oficiales-y-las-ultimas-noticias/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/VK2663XKCBEWVL542CLWOOS5VY.jpg?auth=36493b007c501e3c959c16fcbe5e4b878851855099ffba7a1898c0ab042e5826",
+   "date": "2026-11-04T16:56:34+00:00"
+  },
+  {
+   "title": "Elecciones en EEUU 2026 EN VIVO: resultados, reacción de Trump, estrategia demócrata en el Congreso y últimas noticias",
+   "link": "https://www.ambito.com/mundo/elecciones-estados-unidos-2026-medio-termino-legislativas-donald-trump-congreso-casa-blanca-partido-republicano-democratas-4-noviembre",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/3dad13ff4597a97f8d78b940007b75c0/adjuntos/239/imagenes/043/744/0043744087/1200x675/809x304:829x324/elecciones-eeuu-legislativas-2026-trump-congreso.jpg",
+   "date": "2026-11-04T16:52:00+00:00"
+  },
+  {
+   "title": "¡De estreno!: el nuevo look de Franco Colapinto para el Gran Premio de Brasil",
+   "link": "https://www.ole.com.ar/autos/francocolapinto-granpremiodebrasil-alpine-interlagos-pierregasly-mercadolibre_0_gbz1bblP7E.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/04/8EE5-LR0c_1200x630__1.jpg",
+   "date": "2026-11-04T16:46:23+00:00"
+  },
+  {
+   "title": "Jesús Owono rompió el silencio tras el fallecimiento de De Miguel",
+   "link": "https://www.ole.com.ar/futbol-internacional/espana/texto-andorra-jesus-miguel-tenerife-comunicado-jesus-owono_0_MZUZT6zEAu.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/04/FW0cy25Pi_1200x630__1.jpg",
+   "date": "2026-11-04T16:45:33+00:00"
+  },
+  {
+   "title": "Bonos y acciones locales: la city señala que la elección en EEUU pesará menos que la dinámica política de la Argentina",
+   "link": "https://www.ambito.com/finanzas/bonos-y-acciones-locales-la-city-senala-que-la-eleccion-eeuu-pesara-menos-que-la-dinamica-politica-la-argentina-n6341476",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/bebf9670f167589a53709824ba3495e3/adjuntos/239/imagenes/043/560/0043560260/1200x675/3876x1743:3896x1763/mercados-finanzas-bolsas-acciones-inversiones-cedears-riesgo-pais-vivo.jpg",
+   "date": "2026-11-04T16:44:00+00:00"
+  },
+  {
+   "title": "Los Kovalivker rechazaron la acusación por el caso ANDIS: negaron haber manejado las compras y pidieron anular la investigación",
+   "link": "https://www.ambito.com/politica/los-kovalivker-rechazaron-la-acusacion-el-caso-andis-negaron-haber-manejado-las-compras-y-pidieron-anular-la-investigacion-n6341498",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/a0e0f6d0acc1dc27b53e5d683fb29c3c/adjuntos/239/imagenes/042/733/0042733089/hermanos-kovalivker.jpeg",
+   "date": "2026-11-04T16:42:00+00:00"
+  },
+  {
+   "title": "Caso $LIBRA: Casación evalúa el recurso de queja de dos inversores y la causa volvería a tener querellantes",
    "link": "https://www.cronista.com/economia-politica/caso-libra-casacion-admitio-a-dos-querellantes-y-podria-reactivarse-la-causa/",
    "source": "El Cronista",
    "cat": "argentina",
@@ -42,28 +474,12 @@
    "date": "2026-11-04T16:38:55+00:00"
   },
   {
-   "title": "Planes de pago de ARCA para empresas: quiénes podrán acceder tras el anuncio de Caputo",
-   "link": "https://www.cronista.com/economia-politica/planes-de-pago-de-arca-para-empresas-quienes-podran-acceder-tras-el-anuncio-de-caputo/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/CPYZBBYGRNET7EXQNMI2LSVTXE.jpg?auth=1b4ed89104e4259783985b54d677e4b26cc2ab8206f6bc809e8a39be2690fbc3&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:36:53+00:00"
-  },
-  {
-   "title": "El Jardín Botánico de la Ciudad de Buenos Aires suma un recorrido educativo para descubrir el mundo de las plantas",
-   "link": "https://perfil.com/ciudad-de-buenos-aires/el-jardin-botanico-de-buenos-aires-suma-un-recorrido-educativo-para-descubrir-su-mundo-a2A7F9W4nNZ3",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/c128c6db9fe2-proyecto-nuevo-2026-11-04t115342829.webp",
-   "date": "2026-11-04T16:36:52+00:00"
-  },
-  {
-   "title": "Fiebre de Cyber Monday: cómo comprar seguro, a buen precio y asegurarse de que el pedido llegue a destino",
-   "link": "https://perfil.com/economia/fiebre-de-cyber-monday-como-comprar-seguro-y-a-buen-precio-a50-jsm-alZoq4o7AX1Y",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/8b1bbbef45cc-como-evitar-las-estafas-durante-el-cyber-monday-800814.jpg",
-   "date": "2026-11-04T16:36:40+00:00"
+   "title": "Liverpool - Fenerbahce, en VIVO por la Champions League: Alexis Mac Allister titular en Turquía",
+   "link": "https://www.ole.com.ar/futbol-internacional/champions/liverpool-fenerbahce-vivo-champions-league-alexis-macallister-titular-turquia_0_YhG5FQmOxM.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/04/CYDARh7IG_1200x630__1.jpg",
+   "date": "2026-11-04T16:38:20+00:00"
   },
   {
    "title": "Los ADRs operan mixtos y el riesgo país se sostiene por encima de los 830 puntos tras la elección en EEUU",
@@ -74,156 +490,12 @@
    "date": "2026-11-04T16:36:00+00:00"
   },
   {
-   "title": "Murió a los 93 años Tinto Brass, el director de la película “Calígula” y un ícono del cine italiano",
-   "link": "https://tn.com.ar/show/famosos/2026/11/04/murio-a-los-93-anos-tinto-brass-el-director-de-la-pelicula-caligula-y-un-icono-del-cine-italiano/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/7MIOL2OYJVEJ7EOULC2G22NIPQ.jpg?auth=161995d78af5ed6adb4eb70fc7c1f8c27cbebfd3304b3c69f11a6df2a90fb825",
-   "date": "2026-11-04T16:35:32+00:00"
-  },
-  {
-   "title": "En vivo - Stade Rennes vs. Olympiacos: 0 - 0, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/04/stade-rennes-vs-olympiacos-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/4SVDO2B4AKGWDKCM2IAP5LQBG4.UjW3?auth=6f98311803fd88e4fe9a3b076149860add8920b51558a5baac088c4bc5f2c2d0",
-   "date": "2026-11-04T16:34:27+00:00"
-  },
-  {
-   "title": "La CTA cambia de mando: el “peso pesado” que se hará cargo de la central obrera en reemplazo de Hugo Yasky",
-   "link": "https://www.cronista.com/economia-politica/la-cta-cambia-de-mando-el-peso-pesado-que-se-hara-cargo-de-la-central-obrera-en-reemplazo-de-hugo-yasky/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/UVVPXYO32FGZPBDPNGBMSOYXIA.jpg?auth=55973b12a369669bf5aa6a8523df7c07ec5e5aea94214ad3689a0e7f2608a182&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:34:23+00:00"
-  },
-  {
-   "title": "Luis Caputo descartó sobresaltos en los mercados tras la derrota de Trump: “Algunos decían que hoy íbamos a tener un miércoles negro”",
-   "link": "https://tn.com.ar/economia/2026/11/04/caputo-descarto-sobresaltos-en-los-mercados-tras-la-derrota-de-trump-algunos-decian-que-hoy-ibamos-a-tener-un-miercoles-negro/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/36NVTVFSN5HPHPL4HGLSO7RYBI.jpg?auth=a524867cf658155faa15dc14ba3da482c49556f99f26cf4bf50df5c2df7652b8",
-   "date": "2026-11-04T16:34:02+00:00"
-  },
-  {
-   "title": "Quién era Fernando “Nano” Villarnovo, el exrugbier cordobés que murió en Australia",
-   "link": "https://www.lanacion.com.ar/sociedad/un-rugbier-argentino-de-34-anos-murio-en-australia-y-su-familia-organiza-una-colecta-para-despedirlo-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/EYJBWQDOWBHITGZBU6YESBHZIE.webp?auth=1997353925310067fe3e027b3cc18ea3e41a9cfcbf7599a3f85674cc838df08a&smart=true&width=1200&height=677",
-   "date": "2026-11-04T16:33:58+00:00"
-  },
-  {
-   "title": "Se aproxima el “Pampero”, un fenómeno que traerá frío invernal con temperaturas mínimas de hasta 7°: las zonas afectadas",
-   "link": "https://www.lanacion.com.ar/sociedad/se-aproxima-el-pampero-un-fenomeno-que-traera-frio-invernal-con-temperaturas-minimas-de-hasta-7-las-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/UJ2Q3FZUIZBIPMUDBRFV6CQZHA.png?auth=ca94735d39674dcfb0c86e5554c81b0a1d9e23012cfd471940237cb7ddc39746&smart=true&width=1200&height=800",
-   "date": "2026-11-04T16:33:41+00:00"
-  },
-  {
-   "title": "The silent mistake that can get your ESTA denied for travel to the U.S.: visiting these countries means you must apply for a visa",
-   "link": "https://www.cronista.com/en/today/the-silent-mistake-that-can-get-your-esta-denied-for-travel-to-the-us-visiting-these-countries-means-you-must-apply-for-a-visa/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/NDPUWWPFNVBXXCYUKOXUIIBX5Y.png?auth=8890d18631bf7794630f65f22c7605ca6143c4b42bcbd604af45e3ee62744286&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:33:26+00:00"
-  },
-  {
-   "title": "Los demócratas recuperan el control del Congreso y cambia el escenario para Trump: todas las reacciones",
-   "link": "https://www.cronista.com/internacionales/elecciones-en-estados-unidos-2026-en-vivo-que-se-vota-el-impacto-en-argentina-y-las-ultimas-noticias/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/45W6URDRYNBFHLU23FTH7T2OX4.jpeg?auth=77d4d1a07013c6abeb45645863decf7ff236bd80054290d90de377e6a259a633&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:33:09+00:00"
-  },
-  {
-   "title": "Que pasó con el Ueno Bank en Paraguay y que sucederá con los ahorros de casi 3 millones de clientes",
-   "link": "https://perfil.com/economia/que-paso-con-el-ueno-bank-en-paraguay-y-que-sucedera-con-los-ahorros-de-casi-3-millones-de-clientes-akRIu5P10Qk5",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/152a81e15aec-000d6ca447.webp",
-   "date": "2026-11-04T16:32:50+00:00"
-  },
-  {
-   "title": "Jennifer Aniston, 57 años, sobre cómo se cuida: “Antes pensaba que entrenar era transpirar durante 45 minutos o una hora”",
-   "link": "https://www.lanacion.com.ar/salud/jennifer-aniston-57-anos-sobre-como-se-cuida-antes-pensaba-que-entrenar-era-transpirar-durante-45-nid03112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/EUBGTL737JGH3PI3U5WXTRBTYY.png?auth=74326c1c084a4b9c0bbcfbd88ffd6c80cda4ba7db192bebfb9431b72919b5cd2&smart=true&width=515&height=433",
-   "date": "2026-11-04T16:31:53+00:00"
-  },
-  {
-   "title": "Qué pasa si un home run o un foul golpea y lastima a un espectador: la doctrina legal que protege a los equipos y a los estadios de las demandas",
-   "link": "https://www.cronista.com/usa/trending/que-pasa-si-un-home-run-o-un-foul-golpea-y-lastima-a-un-espectador-la-doctrina-legal-que-protege-a-los-equipos-y-a-los-estadios-de-las-demandas/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/M4YAJUIVURANRCLH7JQ6324EAE.jpg?auth=e9bb5bec657005d32d61809bd05f602cde43fe6314a7c0aae7adbf6fb384383a&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:31:42+00:00"
-  },
-  {
-   "title": "Casación abrió una puerta en la causa $LIBRA: revisará si dos inversores pueden ser querellantes luego de que Milei sea sobreseído",
-   "link": "https://perfil.com/politica/casacion-abrio-una-puerta-en-la-causa-libra-revisara-si-dos-inversores-pueden-ser-querellantes-luego-de-que-milei-sea-sobreseido-aAvFc6E5l9uC",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/890badf2fdbd-caso-libra-2252074.webp",
-   "date": "2026-11-04T16:31:32+00:00"
-  },
-  {
    "title": "\"Esto es un desastre\": republicanos indignados culpan a Trump de la estrepitosa derrota en las elecciones de mitad de mandato",
    "link": "https://www.bbc.com/mundo/articles/c3dxw0kxkgd2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
    "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d711/live/606773e0-d872-11f1-85ab-b3cc3b5498c6.jpg",
    "date": "2026-11-04T16:31:09+00:00"
-  },
-  {
-   "title": "Las 5 claves del triunfo demócrata: cómo quedó el Congreso de EE.UU. y cómo se reconfiguró el poder en los estados",
-   "link": "https://tn.com.ar/internacional/2026/11/04/las-5-claves-del-triunfo-democrata-como-quedo-el-congreso-de-eeuu-y-como-se-reconfiguro-el-poder-en-los-estados/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/QEGX2T65QBEH5FWCVAYBPVG3SU.jpg?auth=b7231e85627766824dfbc39c6b03d2aba70cbfe256539d14fec31b121c59a294",
-   "date": "2026-11-04T16:30:55+00:00"
-  },
-  {
-   "title": "Javier Milei y sus medidas, en vivo: el Presidente viaja a España y guarda silencio tras la elección intermedia en EE.UU.",
-   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-viaja-a-espana-y-guarda-silencio-tras-la-eleccion-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/RSGTNEQ7HNBPVMOKGONT4XVI34.png?auth=9c8394e1b8a1d16f9d1b1b22791fd2a1254599d8ff3ccfe6cb104a3cd5d88ddd&smart=true&width=1586&height=1000",
-   "date": "2026-11-04T16:30:44+00:00"
-  },
-  {
-   "title": "Presidente del Tribunal Supremo de Bolivia abandona el país y denuncia persecución política",
-   "link": "https://www.clarin.com/estados-unidos/presidente-del-tribunal-supremo-de-bolivia-abandona-el-pais-y-denuncia-persecucion-politica_0_CsVJiztLnp.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
-   "date": "2026-11-04T16:30:17+00:00"
-  },
-  {
-   "title": "Los demócratas que reclamaron frenar el auxilio de Trump a la Argentina ahora controlarán el Capitolio",
-   "link": "https://www.lanacion.com.ar/politica/los-democratas-que-reclamaron-frenar-el-auxilio-de-trump-a-la-argentina-ahora-controlaran-el-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/22WUZFYDO5FJ7H54Q2AF22CRQQ.jpg?auth=ac5acc9de18124c743e158eb13ec324c3234ff91e0c8dfd13ff4856fdbcdedb3&smart=true&width=6000&height=4000",
-   "date": "2026-11-04T16:30:17+00:00"
-  },
-  {
-   "title": "Vance culpa a la guerra en Irán de la estrepitosa derrota republicana en las legislativas",
-   "link": "https://www.clarin.com/estados-unidos/vance-culpa-a-la-guerra-en-iran-de-la-estrepitosa-derrota-republicana-en-las-legislativas_0_5J1OMtNgeL.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
-   "date": "2026-11-04T16:30:13+00:00"
-  },
-  {
-   "title": "El Gobierno posterga hasta diciembre la privatización del Belgrano Cargas y flexibiliza condiciones para atraer interesados",
-   "link": "https://www.clarin.com/economia/gobierno-posterga-diciembre-privatizacion-belgrano-cargas-flexibiliza-condiciones-atraer-interesados_0_IXRyIEv0RL.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2024/10/23/db8hwupcz_1200x630__1.jpg",
-   "date": "2026-11-04T16:29:46+00:00"
   },
   {
    "title": "Liga Nacional: triunfos de Gimnasia de CR, Instituto y La Unión",
@@ -234,204 +506,12 @@
    "date": "2026-11-04T16:29:42+00:00"
   },
   {
-   "title": "Moria Casán se enteró en vivo de que Sofía Gala enfrenta un juicio y quedó en shock: “¿Qué le pasó a mi hija?\"",
-   "link": "https://tn.com.ar/show/famosos/2026/11/04/moria-casan-se-entero-en-vivo-de-que-sofia-gala-enfrenta-un-juicio-y-quedo-en-shock-que-le-paso-a-mi-hija/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/AZVKLLLUAZEDXNI7ROWS2GYTR4.jpg?auth=486984cfb703caac818dcf316723a67a93186d7118d5c56bbdbb157e6957e8a5",
-   "date": "2026-11-04T16:29:40+00:00"
-  },
-  {
-   "title": "Viaje del papa León XIV a la Argentina: cuándo llega, las misas confirmadas y las últimas noticias",
-   "link": "https://www.lanacion.com.ar/sociedad/viaje-del-papa-leon-xiv-a-la-argentina-cuando-llega-las-misas-confirmadas-y-las-ultimas-noticias-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/EXREW3WI7ZFVJOBFUZCXC5MNEI.jpg?auth=bc675c0c57e11f33470a9d58793c6a670ca9d2aac5e1e1b78fb8754d415415ad&smart=true&width=6000&height=4000",
-   "date": "2026-11-04T16:29:22+00:00"
-  },
-  {
-   "title": "Casi 2,000 Boeing 737 deberán pasar por una inspección después de que varios aviones se movieran de arriba abajo durante el vuelo",
-   "link": "https://www.cronista.com/mexico/actualidad-mx/casi-2000-boeing-737-deberan-pasar-por-una-inspeccion-despues-de-que-varios-aviones-se-movieran-de-arriba-abajo-durante-el-vuelo/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/VAYP7ZLXAZD6NBA6XEZL2DA5IU.jpg?auth=b6d1ec0a2f2bee3b3ddc6423624747554b6ef0017137378503bea0e106fa9e1b&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:27:45+00:00"
-  },
-  {
-   "title": "Ley de semillas: la federación de distribuidores de insumos reclama un lugar en la mesa de debate con el Gobierno",
-   "link": "https://www.lanacion.com.ar/economia/campo/ley-de-semillas-los-multiplicadores-reclaman-un-lugar-en-la-mesa-de-debate-con-el-gobierno-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/2NDATQS7MFEGXMNVNCVW7NW4YQ.jpg?auth=f96a29a636179d2886942a229fa6d87ed9da69ac7d627201b25d52f3be08a704&smart=true&width=4592&height=3448",
-   "date": "2026-11-04T16:26:57+00:00"
-  },
-  {
-   "title": "Mareos y desmayos: cuándo son una señal de alarma y qué hacer, según Jorge Tartaglione",
-   "link": "https://www.lanacion.com.ar/sociedad/mareos-y-desmayos-cuando-son-una-senal-de-alarma-y-que-hacer-segun-jorge-tartaglione-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/QJDFRMARNNED7OIDTVY2S2WFRU.jpg?auth=e3c257a84ebb5633d6bc8c031f3056a4b5b050284d3b7c65b0958d81513b3f97&smart=true&width=1700&height=1133",
-   "date": "2026-11-04T16:26:48+00:00"
-  },
-  {
-   "title": "Lo ordena el Reglamento de Tránsito: cruzar 6 veces el semáforo en rojo frente a las cámaras obliga a los conductores a realizar trabajo comunitario en CDMX",
-   "link": "https://www.cronista.com/mexico/actualidad-mx/lo-ordena-el-reglamento-de-transito-cruzar-6-veces-el-semaforo-en-rojo-frente-a-las-camaras-obliga-a-los-conductores-a-realizar-trabajo-comunitario-en-cdmx/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/R3CAQRZGBFDYDHQRVTANO6MOPY.jpg?auth=1bfbf37d7e29aff34c6ae49c43477ed954cca216ba0bf7525a31a3fba0130047&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:24:43+00:00"
-  },
-  {
-   "title": "Confirmed | Lost or stolen passports are immediately canceled and cannot be used, even if they are found later",
-   "link": "https://www.cronista.com/en/today/confirmed-lost-or-stolen-passports-are-immediately-canceled-and-cannot-be-used-even-if-they-are-found-later/",
-   "source": "El Cronista",
-   "cat": "argentina",
-   "image": "https://www.cronista.com/resizer/v2/TOYO4NOMWJCTZEUXDNHN3GM6JE.jpg?auth=4a9eb6138b9772291a377d161b1e477ede4a6db65ca6661e13a161b94cdcb8f5&smart=true&width=1200&height=900",
-   "date": "2026-11-04T16:24:43+00:00"
-  },
-  {
-   "title": "Tomás Etcheverry logró su primer triunfo ante un top 10 y avanzó a octavos de final en el Masters 1000 de París",
-   "link": "https://tn.com.ar/deportes/tenis/2026/11/04/tomas-etcheverry-logro-su-primer-triunfo-ante-un-top-10-y-avanzo-a-octavos-de-final-en-el-masters-1000-de-paris/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/4VQPA6JN25CI3NYMIKE4YLBABA.jpg?auth=029418ebab322e59a5383d588d2623c63e19246368d9147dd14d34cf73934c1b",
-   "date": "2026-11-04T16:24:13+00:00"
-  },
-  {
-   "title": "Femicidios: una mujer muere cada 30 horas, el peor octubre desde 2022",
-   "link": "https://perfil.com/nea/femicidios-una-mujer-muere-cada-30-horas-el-peor-octubre-desde-2022-aK1Vl4T1g6hY",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/4c61bcf11b82-femicidios.webp",
-   "date": "2026-11-04T16:21:33+00:00"
-  },
-  {
-   "title": "Chaco volvió a exportar zapallos a Chile tras años de interrupción comercial",
-   "link": "https://perfil.com/nea/chaco-volvio-a-exportar-zapallos-a-chile-tras-anos-de-interrupcion-comercial-aA55q0J3FDQW",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/f1d5ebe88172-image-2026-11-04t131231350.webp",
-   "date": "2026-11-04T16:20:29+00:00"
-  },
-  {
-   "title": "Elecciones en Estados Unidos 2026, EN VIVO: republicanos vs. demócratas y las últimas noticias de cómo quedan la Cámara y el Senado, voto a voto",
-   "link": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-estados-unidos-2026-en-vivo-republicanos-vs-democratas-y-las-ultimas-noticias-de-como-nid03112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SB5LZVUN6RDCRGJDZKFAME5EE4.JPG?auth=bdf6c18b4cf38d19a8e549f5bc0c12c05d4684ad978f03a37b9515963964b4e2&smart=true&width=3409&height=2273",
-   "date": "2026-11-04T16:20:18+00:00"
-  },
-  {
-   "title": "Habló el arquero que protagonizó el choque fatal con el futbolista de Tenerife: “Son los días más difíciles de mi vida”",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/04/hablo-el-arquero-que-protagonizo-el-choque-fatal-con-el-futbolista-de-tenerife-son-los-dias-mas-dificiles-de-mi-vida/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/53PE5RNDEBATJKRXYB53HYWMW4.jpg?auth=a5452e0f330f844b70b0cb579f61f54ee7ff71003b2c33cc4115bc2a629db30f",
-   "date": "2026-11-04T16:20:15+00:00"
-  },
-  {
-   "title": "Líderes mundiales que chocaron con Trump muestran alivio y cautela tras derrota republicana",
-   "link": "https://www.clarin.com/estados-unidos/lideres-mundiales-que-chocaron-con-trump-muestran-alivio-y-cautela-tras-derrota-republicana_0_cNyp4h3h3g.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-   "date": "2026-11-04T16:20:06+00:00"
-  },
-  {
-   "title": "Stefano Di Carlo fue autocrítico con el presente de River y apuntó contra los árbitros: \"Pedimos que Ramírez no nos dirija más\"",
-   "link": "https://perfil.com/deportes/stefano-di-carlo-critico-de-los-arbitrajes-lo-que-hacen-con-river-es-para-disciplinar-dirigentes-aEPX21D6DBDP",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/a6b09de1eecf-mixcollage-04-nov-2026-01-13-pm-8903.webp",
-   "date": "2026-11-04T16:19:30+00:00"
-  },
-  {
-   "title": "Papa León XIV en Claypole: dónde queda el Cottolengo Don Orione y cómo es el lugar que visitará",
-   "link": "https://www.clarin.com/informacion-general/papa-leon-xiv-claypole-queda-cottolengo-don-orione-lugar-visitara_0_nsCEkCZrKB.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/07/01/ieCGRp8El_1200x630__1.jpg",
-   "date": "2026-11-04T16:18:57+00:00"
-  },
-  {
-   "title": "Un gigante tecnológico creará 2000 puestos de trabajo en la Argentina y planea invertir US$300 millones en la región",
-   "link": "https://www.lanacion.com.ar/tecnologia/un-gigante-tecnologico-creara-2000-puestos-de-trabajo-en-la-argentina-y-planea-invertir-us300-nid04112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/ROZLLMM2QJD7BD3L3FZ4UG5STA.jpg?auth=bfb1d88081ca30d320aa62c302c43c118ee6ea9a1222dde91103ecb64ade0de0&smart=true&width=3200&height=2133",
-   "date": "2026-11-04T16:18:47+00:00"
-  },
-  {
-   "title": "Miguel Ponce se refirió al comportamiento de los mercados tras conocerse la derrota de Trump en las elecciones: “Hoy es una fiesta”",
-   "link": "https://perfil.com/canal-e/miguel-ponce-se-refirio-al-comportamiento-de-los-mercados-tras-conocerse-la-derrota-de-trump-en-las-elecciones-hoy-es-una-fiesta-afRHs3y2rcXZ",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/95225c84b9f7-0.webp",
-   "date": "2026-11-04T16:17:26+00:00"
-  },
-  {
-   "title": "Noche de los Museos récord: más de 350 museos y espacios culturales abrirán sus puertas",
-   "link": "https://www.clarin.com/cultura/noche-museos-record-350-museos-espacios-culturales-abriran-puertas_0_LGOhRdMmCy.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/04/BVNUQT8p3_1200x630__1.jpg",
-   "date": "2026-11-04T16:17:04+00:00"
-  },
-  {
-   "title": "Liverpool con Alexis Mac Allister vs Fenerbahce, EN VIVO: hora, cómo ver y minuto a minuto",
-   "link": "https://www.clarin.com/deportes/liverpool-alexis-mac-allister-vs-fenerbahce-vivo-hora-ver-minuto-minuto_0_hTnVQyWkhd.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/04/jTa6uF7-k_1200x630__1.jpg",
-   "date": "2026-11-04T16:16:56+00:00"
-  },
-  {
-   "title": "Renuncia en Argentinos por la Educación tras la reunión con Milei: una exministra se fue del comité por \"una insalvable discrepancia ética y política\"",
-   "link": "https://www.clarin.com/politica/reunion-milei-renuncio-integrante-comite-argentinos-educacion-insalvable-discrepancia-etica-politica_0_1DKdWxskCH.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/04/cbtuu5Lo3_1200x630__1.jpg",
-   "date": "2026-11-04T16:15:34+00:00"
-  },
-  {
-   "title": "Llevamos años cambiando las sábanas cada semana: la ciencia apunta a que lo importante no es cuándo las cambias, sino cómo las lavas",
-   "link": "https://www.clarin.com/estados-unidos/llevamos-anos-cambiando-sabanas-semana-ciencia-apunta-importante-cambias-lavas_0_8oBMFolnHa.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2022/03/21/sziS9co6R_1200x630__1.jpg",
-   "date": "2026-11-04T16:14:27+00:00"
-  },
-  {
-   "title": "El arquero Owono rompió el silencio y habló de la muerte de Jesús de Miguel: \"Son los días más difíciles de mi vida\"",
-   "link": "https://www.clarin.com/deportes/arquero-owono-rompio-silencio-hablo-muerte-jesus-miguel-dias-dificiles-vida_0_lWT0P6Pjgf.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/04/lLJhSOXIF_1200x630__1.jpg",
-   "date": "2026-11-04T16:14:03+00:00"
-  },
-  {
    "title": "Masters 1000 de Paris: Etcheverry consiguió su primer triunfo ante un top 10 y se metió en octavos de final",
    "link": "https://www.ole.com.ar/tenis/masters-1000-paris-etcheverry-consiguio-primer-triunfo-ante-top-10-metio-octavos-final_0_K5K338ogu7.html",
    "source": "Olé",
    "cat": "deportes",
    "image": "https://www.ole.com.ar/images/2026/11/04/XQpXzLIQM_1200x630__1.jpg",
    "date": "2026-11-04T16:12:15+00:00"
-  },
-  {
-   "title": "Del caso Cecilia a juez de Cámara: Jorge Cáceres Olivera asumió un nuevo cargo en Chaco",
-   "link": "https://perfil.com/nea/del-caso-cecilia-a-juez-de-camara-jorge-caceres-olivera-asumio-un-nuevo-cargo-en-chaco-aUFKh4t5EPrA",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/a4b81ed6a249-descarga-31.webp",
-   "date": "2026-11-04T16:09:06+00:00"
-  },
-  {
-   "title": "Elecciones en EEUU 2026 EN VIVO: resultados, reacción de Trump, estrategia demócrata en el Congreso y últimas noticias",
-   "link": "https://www.ambito.com/mundo/elecciones-estados-unidos-2026-medio-termino-legislativas-donald-trump-congreso-casa-blanca-partido-republicano-democratas-4-noviembre",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/3dad13ff4597a97f8d78b940007b75c0/adjuntos/239/imagenes/043/744/0043744087/1200x675/809x304:829x324/elecciones-eeuu-legislativas-2026-trump-congreso.jpg",
-   "date": "2026-11-04T16:08:00+00:00"
   },
   {
    "title": "Di Carlo, sobre el nivel de River: el “no pateó al arco”, el futuro de Ponzio y \"este campeonato hay que ganarlo\"",
@@ -450,22 +530,6 @@
    "date": "2026-11-04T15:55:21+00:00"
   },
   {
-   "title": "Axel Kicillof destacó el mensaje de León XIV y prepara un operativo para recibir a millones de fieles en Luján",
-   "link": "https://www.ambito.com/politica/axel-kicillof-destaco-el-mensaje-leon-xiv-y-prepara-un-operativo-recibir-millones-fieles-lujan-n6341303",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/698ef80dff9e1156992bba2593f0fd80/adjuntos/239/imagenes/043/710/0043710755/kicillof-dia-la-lealtad.jpeg",
-   "date": "2026-11-04T15:49:00+00:00"
-  },
-  {
-   "title": "Di Carlo evitó hablar sobre una posible vuelta de Ramón Díaz a River y confirmó cuándo se definirá el DT para 2027",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/04/di-carlo-evito-hablar-sobre-la-vuelta-de-ramon-diaz-a-river-y-confirmo-cuando-se-definira-el-dt-para-2027/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/U2APJ4QBKRDNFKHIJVGTENVHUQ.jpg?auth=c3ebab5713f8e93361da0cb72ecbba643ebfef2b8ffcd312037202d0e482d494",
-   "date": "2026-11-04T15:48:41+00:00"
-  },
-  {
    "title": "El desafío de atrapar a las nuevas generaciones de hinchas",
    "link": "https://www.ole.com.ar/ole-sports-summit-congreso/ole-summit-consultora-ey-habitos-audiencia_0_8Vpq7CDIPc.html",
    "source": "Olé",
@@ -482,60 +546,12 @@
    "date": "2026-11-04T15:39:24+00:00"
   },
   {
-   "title": "Charles Leclerc fue papá por primera vez y no estará en la primera práctica de Interlagos: ¿quién manejará la Ferrari?",
-   "link": "https://www.ole.com.ar/autos/charles-leclerc-papa-primera-vez-hija-bianca-viaje-monaco-anuncio-ausente-gran-premio-brasil-interlagos-reemplazo-dino-beganovic_0_9Dp8oTOLQ1.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/04/NR0kQysV3_1200x630__1.jpg",
-   "date": "2026-11-04T15:32:58+00:00"
-  },
-  {
-   "title": "El recuerdo de un jugador de Suiza sobre Messi en el cruce de cuartos del Mundial: \"¿Viste que están dispuestos a ir a la guerra por él?\"",
-   "link": "https://www.ole.com.ar/messi/recuerdo-jugador-suiza-messi-partido-mundial-2026_0_vCeuFQJoP9.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/07/12/JHeObwBm4_1200x630__1.jpg",
-   "date": "2026-11-04T15:29:41+00:00"
-  },
-  {
    "title": "Cooperación estratégica: en medio de tensiones por Malvinas, Argentina se suma a las prácticas de ciberdefensa en Chile",
    "link": "https://www.ambito.com/politica/cooperacion-estrategica-medio-tensiones-malvinas-argentina-se-suma-las-practicas-ciberdefensa-chile-n6341454",
    "source": "Ámbito",
    "cat": "argentina",
    "image": "https://media.ambito.com/p/849c3450869b91b0132a7cf8592650c4/adjuntos/239/imagenes/043/747/0043747693/1200x675/841x639:861x659/trabun-2026.jpeg",
    "date": "2026-11-04T15:27:00+00:00"
-  },
-  {
-   "title": "La contundente posición del presidente del Inter sobre un posible regreso de Mauro Icardi: \"No entra en nuestros planes\"",
-   "link": "https://www.ole.com.ar/futbol-internacional/italia/mauroicardi-inter-giuseppemarotta-lautaromartinez_0_SbN9MzLk4E.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/09/14/GicjtOeZn_1200x630__1.jpg",
-   "date": "2026-11-04T15:26:07+00:00"
-  },
-  {
-   "title": "¿Por qué la cancha de Newell's se llama Marcelo Bielsa?",
-   "link": "https://www.ole.com.ar/newells-old-boys/cancha-newells-llama-marcelo-bielsa-nombres-detras-estadios_0_pFp9mcIGgl.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/04/qGHaP9SZ0_1200x630__1.jpg",
-   "date": "2026-11-04T15:12:06+00:00"
-  },
-  {
-   "title": "¿Wall Street celebra la victoria demócrata en EEUU? La bolsa norteamericana se dispara más de 2%",
-   "link": "https://www.ambito.com/finanzas/los-futuros-wall-street-suben-y-el-dolar-se-debilita-la-derrota-electoral-donald-trump-n6341282",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/b064cf9bdb1504e735d9d4d1133ebb54/adjuntos/239/imagenes/041/587/0041587854/mercados-wall-street-bolsas-eeuu.jpg",
-   "date": "2026-11-04T15:07:00+00:00"
-  },
-  {
-   "title": "Jorge Macri: \"El Gobierno está volviendo a lo básico, lo mismo que la Ciudad hace 20 años\"",
-   "link": "https://www.ambito.com/politica/jorge-macri-el-gobierno-esta-volviendo-lo-basico-lo-mismo-que-la-ciudad-hace-20-anos-n6341450",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/c35c880de32650569620312a0517fbaa/adjuntos/239/imagenes/043/145/0043145857/macri-jorge.JPG",
-   "date": "2026-11-04T15:05:00+00:00"
   },
   {
    "title": "Las consecuencias económicas de una \"ola azul\" en el Congreso de EEUU",
@@ -562,12 +578,12 @@
    "date": "2026-11-04T13:21:27+00:00"
   },
   {
-   "title": "Oficial: suspenden juicios fiscales y embargos de ARCA a pymes hasta mediados de 2027",
-   "link": "https://www.ambito.com/economia/oficial-suspenden-juicios-fiscales-y-embargos-arca-pymes-mediados-2027-n6341277",
-   "source": "Ámbito",
+   "title": "Con una chicana en inglés, Cristina Kirchner celebró la derrota de Trump en EE.UU.: “¡Beautiful morning!”",
+   "link": "https://tn.com.ar/politica/2026/11/04/con-un-mensaje-en-ingles-cristina-kirchner-celebro-la-derrota-de-trump-en-eeuu-beautiful-morning/",
+   "source": "TN",
    "cat": "argentina",
-   "image": "https://media.ambito.com/p/d1f0bcb09201673744f337c0dd23f3f2/adjuntos/239/imagenes/043/585/0043585559/1200x675/913x374:933x394/industria-empleo-pymes-actividad-economica.jpg",
-   "date": "2026-11-04T13:15:00+00:00"
+   "image": "https://tn.com.ar/resizer/v2/7K4EYNF6SFA6HHEUCVBRDHG6JA?auth=b460e7f53c1da9852d8d2052c5a7b048df38ed690ee9deffe54b65f8906ea797",
+   "date": "2026-11-04T13:02:52+00:00"
   },
   {
    "title": "Quiénes son los grandes vencedores de la triunfal noche demócrata",
@@ -586,14 +602,6 @@
    "date": "2026-11-04T10:05:33+00:00"
   },
   {
-   "title": "Grandes empresas, pymes y RIGI: ¿existe un vínculo virtuoso con proveedores locales?",
-   "link": "https://www.ambito.com/economia/grandes-empresas-pymes-y-rigi-existe-un-vinculo-virtuoso-proveedores-locales-n6341130",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/590ca256301e7c531332f9afcc1a0cc5/adjuntos/239/imagenes/043/582/0043582542/1200x675/670x260:690x280/energia-mineria-rigi.png",
-   "date": "2026-11-04T10:00:00+00:00"
-  },
-  {
    "title": "\"No lo considero un revés para mí\": la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso",
    "link": "https://www.bbc.com/mundo/articles/ck62y4ql3wggo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -610,6 +618,14 @@
    "date": "2026-11-04T08:29:12+00:00"
   },
   {
+   "title": "Análisis: los demócratas destrozan el mapa político de Trump en una noche histórica",
+   "link": "https://www.bbc.com/mundo/articles/cwy8lzy41z7lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Mundo",
+   "cat": "mundo",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb44/live/543807b0-d7fa-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-04T06:54:58+00:00"
+  },
+  {
    "title": "Los demócratas recuperan la Cámara y el Senado en una noche triunfal e infligen una \"derrota aplastante\" a Trump y sus aliados",
    "link": "https://www.bbc.com/mundo/articles/cv62y9278jz0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -618,23 +634,7 @@
    "date": "2026-11-04T06:11:03+00:00"
   },
   {
-   "title": "\"Terremoto electoral\" en Texas: quién es James Talarico, el primer demócrata en ganar un lugar en el Senado desde 1988",
-   "link": "https://www.bbc.com/mundo/articles/cwg7xk8ljmdyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Mundo",
-   "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f401/live/b7d8c340-d822-11f1-a9b6-0f4245e849b7.jpg",
-   "date": "2026-11-04T04:19:23+00:00"
-  },
-  {
-   "title": "Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
-   "link": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Mundo",
-   "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b123/live/8c1666c0-d7ca-11f1-a719-bf3dc3a3d5b5.jpg",
-   "date": "2026-11-03T21:28:19+00:00"
-  },
-  {
-   "title": "\"Trump sigue siendo su presidente\": la Casa Blanca reacciona a la ola de triunfos demócratas en las elecciones de mitad de mandato; sigue aquí los resultados y las reacciones",
+   "title": "\"Trump sigue siendo su presidente\": la Casa Blanca reacciona a la ola de triunfos demócratas en las elecciones de mitad de mandato; sigue aquí los resultados",
    "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
    "cat": "mundo",
