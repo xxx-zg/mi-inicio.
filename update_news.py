@@ -19,12 +19,18 @@ FEEDS = [
     ("argentina", "TN", "https://tn.com.ar/arc/outboundfeeds/rss/?outputType=xml", GS.format("tn.com.ar")),
     ("argentina", "Telefe Noticias", "https://www.telefenoticias.com.ar/arc/outboundfeeds/rss/?outputType=xml", GS.format("telefenoticias.com.ar")),
     ("argentina", "El Destape", "https://www.eldestapeweb.com/feed", GS.format("eldestapeweb.com")),
-    ("argentina", "El Cronista", "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml", GS.format("cronista.com")),
+    ("economia", "El Cronista", "https://www.cronista.com/arc/outboundfeeds/rss/?outputType=xml", GS.format("cronista.com")),
     ("deportes", "TyC Sports", "https://www.tycsports.com/arc/outboundfeeds/rss/?outputType=xml", GS.format("tycsports.com")),
     ("deportes", "ESPN", "https://www.espn.com.ar/espn/rss/news", GS.format("espn.com.ar")),
     ("deportes", "Olé", "https://www.ole.com.ar/rss/ultimas-noticias/", GS.format("ole.com.ar")),
     ("mundo", "BBC Mundo", "https://feeds.bbci.co.uk/mundo/rss.xml", None),
     ("tecnologia", "Xataka", "https://www.xataka.com/feed", None),
+    ("economia", "Ámbito Economía", "https://www.ambito.com/rss/pages/economia.xml", GS.format("ambito.com/economia")),
+    ("economia", "Clarín Economía", "https://www.clarin.com/rss/economia/", GS.format("clarin.com/economia")),
+    ("espectaculos", "Clarín Espectáculos", "https://www.clarin.com/rss/espectaculos/", GS.format("clarin.com/espectaculos")),
+    ("espectaculos", "Perfil Espectáculos", "https://www.perfil.com/feed/espectaculos", None),
+    ("ciencia", "Xataka Ciencia", "https://www.xatakaciencia.com/feed", None),
+    ("ciencia", "Muy Interesante", "https://www.muyinteresante.com/feed", None),
 ]
 # Medios que NO querés ver (se compara con el nombre y con el dominio del link)
 BLOCKED = ["infobae"]

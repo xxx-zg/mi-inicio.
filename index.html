@@ -9,6 +9,20 @@
 <style>
 :root{color-scheme:light dark;--ls1:#9fd0ff;--ls2:#dcefff;--ds1:#1b3b63;--ds2:#1a2638;--s1:var(--ls1);--s2:var(--ls2);--lbg:#fbfbef;--lsurf:#f1f1e2;--lbar:#e7eabd;--dbg:#151510;--dsurf:#21211b;--dbar:#3a3b10;--bg:var(--lbg);--surf:var(--lsurf);--bar:var(--lbar);--tx:#1b1c14;--mu:#5d5e4f;--line:#cfd0c0;--blue:#1a73e8}
 @media(prefers-color-scheme:dark){:root{--s1:var(--ds1);--s2:var(--ds2);--bg:var(--dbg);--surf:var(--dsurf);--bar:var(--dbar);--tx:#e8e6d9;--mu:#a9a99b;--line:#3d3d34;--blue:#8ab4f8}}
+html,body{overscroll-behavior-y:contain}
+.ptr{position:fixed;top:0;left:50%;width:40px;height:40px;margin-left:-20px;border-radius:50%;background:var(--bar);color:var(--tx);display:grid;place-items:center;font-size:20px;z-index:50;transform:translateY(-60px);transition:transform .2s;pointer-events:none}
+.ptr.spin span{display:inline-block;animation:sp .8s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
+.pop{position:fixed;z-index:60;background:var(--surf);border:1px solid var(--line);border-radius:16px;padding:6px;min-width:210px;box-shadow:0 8px 28px rgba(0,0,0,.35)}
+.pop button{display:block;width:100%;text-align:left;border:0;background:none;color:var(--tx);font:inherit;font-size:15px;padding:12px 14px;border-radius:10px;cursor:pointer}
+.pop button:active{background:var(--bar)}
+.ov{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:70;display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:var(--bg);border-radius:28px 28px 0 0;width:100%;max-width:720px;max-height:80vh;overflow:auto;padding:20px 16px 28px}
+.sheet h2{margin:0;font-size:20px;font-weight:500}
+.row{display:flex;align-items:center;gap:12px;padding:10px 4px;border-bottom:1px solid var(--line)}
+.row span{flex:1;min-width:0;font-size:15px}
+.row button{flex:none;border:1px solid var(--line);background:none;color:var(--tx);border-radius:999px;padding:7px 14px;font:inherit;font-size:14px;cursor:pointer}
+button.pill{border:0;font:inherit;font-weight:500;font-size:15px;cursor:pointer}
+.sc{-webkit-touch-callout:none;-webkit-user-select:none;user-select:none}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 [hidden]{display:none!important}
 html{background:var(--bg)}
@@ -69,6 +83,7 @@ h3{margin:0;font-size:19px;font-weight:400;line-height:1.3}
 </style>
 </head>
 <body>
+<div class="ptr" id="ptr"><span>↻</span></div>
 <main>
   <div class="top"><a class="wx" id="wx" href="https://www.google.com/search?q=clima" hidden></a></div>
   <h1 class="logo" id="logo" aria-label="Google"><span class="b">G</span><span class="r">o</span><span class="y">o</span><span class="b">g</span><span class="g">l</span><span class="r">e</span></h1>
@@ -81,11 +96,11 @@ h3{margin:0;font-size:19px;font-weight:400;line-height:1.3}
     <div class="sug" id="sug" hidden></div></div>
   <div class="pills">
     <a class="pill" href="https://www.google.com/search?udm=50"><svg class="ic" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.47 6.47 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/><path d="M19 1l.9 2.1L22 4l-2.1.9L19 7l-.9-2.1L16 4l2.1-.9z"/></svg>Modo IA</a>
-    <a class="pill" href="https://www.google.com/imghp?hl=es"><svg class="ic" viewBox="0 0 24 24"><path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/></svg>Imágenes</a>
+    <button type="button" class="pill" id="inc"><svg class="ic lens" viewBox="0 0 24 24"><path d="M2.5 11h19M6.5 11l1.6-6.5h7.8l1.6 6.5"/><circle cx="7.5" cy="16.5" r="3"/><circle cx="16.5" cy="16.5" r="3"/><path d="M10.5 16h3"/></svg>Incógnito</button>
   </div>
   <div class="scard"><div class="scrow" id="sc"></div></div>
   <div class="bar">
-    <div class="chips" id="chips"><button class="chip on" data-cat="all">Todas</button><button class="chip" data-cat="argentina">Argentina</button><button class="chip" data-cat="deportes">Deportes</button><button class="chip" data-cat="mundo">Mundo</button><button class="chip" data-cat="tecnologia">Tecnología</button></div>
+    <div class="chips" id="chips"><button class="chip on" data-cat="all">Todas</button><button class="chip" data-cat="argentina">Argentina</button><button class="chip" data-cat="deportes">Deportes</button><button class="chip" data-cat="economia">Economía</button><button class="chip" data-cat="espectaculos">Espectáculos</button><button class="chip" data-cat="ciencia">Ciencia</button><button class="chip" data-cat="mundo">Mundo</button><button class="chip" data-cat="tecnologia">Tecnología</button></div>
     <button class="rf" id="rf" aria-label="Actualizar noticias">↻</button>
   </div>
   <div id="status" class="status" hidden></div>
@@ -107,7 +122,7 @@ $('mic').onclick=()=>{const SR=window.SpeechRecognition||window.webkitSpeechReco
   const r=new SR();r.lang='es-AR';r.onresult=e=>{$('q').value=e.results[0][0].transcript;go()};r.onerror=()=>$('q').focus();try{r.start()}catch(e){$('q').focus()}};
 
 /* Accesos directos: se guardan en el celular. Mantené apretado uno para quitarlo. */
-const defSC=[['Facebook','facebook.com'],['YouTube','youtube.com'],['Infobae','infobae.com'],['X','x.com'],['Clarín','clarin.com'],['TyC Sports','tycsports.com'],['ESPN','espn.com.ar'],['Telefe','telefenoticias.com.ar']];
+const defSC=[['Facebook','facebook.com'],['YouTube','youtube.com'],['X','x.com'],['Clarín','clarin.com'],['TyC Sports','tycsports.com'],['ESPN','espn.com.ar'],['Telefe','telefenoticias.com.ar']];
 let sc=ls.get('sc2',defSC);if(!Array.isArray(sc))sc=defSC;
 function drawSC(){
   $('sc').innerHTML=sc.map((s,i)=>`<a class="sc" href="https://${esc(s[1])}" data-i="${i}"><span class="bub"><img src="https://www.google.com/s2/favicons?domain=${esc(s[1])}&sz=128" data-l="${esc(s[0].charAt(0).toUpperCase())}" onerror="this.parentNode.textContent=this.dataset.l" alt=""></span><span class="l">${esc(s[0])}</span></a>`).join('')
@@ -115,16 +130,21 @@ function drawSC(){
   $('add').onclick=()=>{const u=prompt('Dirección del sitio (ej: lanacion.com.ar)');if(!u)return;
     try{const h=new URL(/^https?:\/\//i.test(u)?u:'https://'+u).hostname.replace(/^www\./,'');
       const n=prompt('Nombre',h.split('.')[0])||h;sc.push([n,h]);ls.set('sc2',sc);drawSC()}catch(e){alert('Esa dirección no es válida')}};
-  document.querySelectorAll('a.sc').forEach(a=>a.addEventListener('contextmenu',e=>{e.preventDefault();
-    const i=+a.dataset.i;if(confirm('¿Quitar '+sc[i][0]+'?')){sc.splice(i,1);ls.set('sc2',sc);drawSC()}}));
+  document.querySelectorAll('a.sc').forEach(a=>{const i=+a.dataset.i;let t,fired=false;
+    const ask=(x,y)=>{fired=true;popMenu(x,y,[['Quitar '+sc[i][0],()=>{sc.splice(i,1);ls.set('sc2',sc);drawSC()}]])};
+    const st=e=>{fired=false;const p=e.touches[0];t=setTimeout(()=>ask(p.clientX,p.clientY),550)},en=()=>clearTimeout(t);
+    a.addEventListener('touchstart',st,{passive:true});['touchend','touchmove','touchcancel'].forEach(k=>a.addEventListener(k,en,{passive:true}));
+    a.addEventListener('contextmenu',e=>{e.preventDefault();if(!document.getElementById('pop'))ask(e.clientX,e.clientY)});
+    a.addEventListener('click',e=>{if(fired){e.preventDefault();fired=false}})});
 }
 drawSC();
 
 /* Noticias: las lee de news.json, que actualiza GitHub cada 30 minutos */
 const SH='<svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>';
 const MO='<svg viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"/></svg>';
+let hsrc=ls.get('hsrc',[]),hidT=ls.get('hidT',{});
 let items=[],cur=[],failed='',hid=ls.get('hid',[]),active=ls.get('cat','all');
-if(!['all','argentina','deportes','mundo','tecnologia'].includes(active))active='all';
+if(!['all','argentina','deportes','economia','espectaculos','ciencia','mundo','tecnologia'].includes(active))active='all';
 document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c.dataset.cat===active));
 const host=u=>{try{return new URL(u).hostname}catch(e){return''}};
 function ago(d){const t=Date.parse(d);if(!t)return'';const m=Math.max(1,Math.round((Date.now()-t)/60000));
@@ -137,9 +157,9 @@ function story(x,i){
   const h=host(x.link),L=esc(String(x.source||'?').charAt(0).toUpperCase());
   const av=h&&!h.includes('google.com')?`<img src="https://www.google.com/s2/favicons?domain=${esc(h)}&sz=64" data-l="${L}" onerror="this.parentNode.textContent=this.dataset.l" alt="">`:L;
   const t=ago(x.date);
-  return `<article class="st ${big?'big':'sm'}" data-i="${i}">${lk}<div class="src"><span class="av">${av}</span><span class="sn"><b>${esc(x.source)}</b>${t?' · '+t:''}</span><button class="ib sh" aria-label="Compartir">${SH}</button><button class="ib hd" aria-label="Ocultar noticia">${MO}</button></div></article>`}
+  return `<article class="st ${big?'big':'sm'}" data-i="${i}">${lk}<div class="src"><span class="av">${av}</span><span class="sn"><b>${esc(x.source)}</b>${t?' · '+t:''}</span><button class="ib sh" aria-label="Compartir">${SH}</button><button class="ib hd" aria-label="Más opciones">${MO}</button></div></article>`}
 const BLOCK=['infobae']; /* medios que no querés ver */
-const blocked=x=>BLOCK.some(b=>String(x.source||'').toLowerCase().includes(b)||host(x.link).includes(b));
+const blocked=x=>hsrc.includes(x.source)||BLOCK.some(b=>String(x.source||'').toLowerCase().includes(b)||host(x.link).includes(b));
 function render(){
   cur=items.filter(x=>x.image&&!blocked(x)&&(active==='all'||x.cat===active)&&!hid.includes(x.link)).slice(0,40);
   $('news').innerHTML=cur.map(story).join('');
@@ -157,7 +177,10 @@ $('chips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)
   document.querySelectorAll('.chip').forEach(c=>c.classList.remove('on'));b.classList.add('on');active=b.dataset.cat;ls.set('cat',active);render()});
 $('news').addEventListener('click',e=>{const art=e.target.closest('.st');if(!art)return;const x=cur[+art.dataset.i];if(!x)return;
   if(e.target.closest('.sh')){if(navigator.share)navigator.share({title:x.title,url:x.link}).catch(()=>{});else location.href='https://wa.me/?text='+encodeURIComponent(x.title+' '+x.link)}
-  if(e.target.closest('.hd')&&confirm('¿Ocultar esta noticia?')){hid.push(x.link);hid=hid.slice(-300);ls.set('hid',hid);render()}});
+  const hb=e.target.closest('.hd');
+  if(hb){const r=hb.getBoundingClientRect();popMenu(r.right-110,r.bottom,[
+    ['Ocultar esta noticia',()=>{hid.push(x.link);hidT[x.link]={t:x.title};hid=hid.slice(-300);Object.keys(hidT).forEach(k=>{if(!hid.includes(k))delete hidT[k]});ls.set('hid',hid);ls.set('hidT',hidT);render()}],
+    ['No mostrar más '+x.source,()=>{if(!hsrc.includes(x.source))hsrc.push(x.source);ls.set('hsrc',hsrc);render()}]])}});
 loadNews();setInterval(loadNews,10*60*1000);
 
 /* Clima (Open-Meteo, sin clave). Pide tu ubicación una vez; si no la das, usa Buenos Aires */
@@ -202,7 +225,7 @@ sug.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return
 document.addEventListener('click',e=>{if(!e.target.closest('.sw'))hideSug()});
 
 /* Logo de Google rotativo: cambia cada DIAS días con los doodles de la carpeta doodles/ */
-const DIAS=2;
+const DIAS=1;
 const LOGOS={"L":["d01.webp","d02.webp","d03.webp","d04.webp","d06.webp","d07.webp","d08.webp","d10.webp","d11.webp","d12.webp","d13.webp","d14.webp","d15.webp","d16.webp","d17.webp","d18.webp","d19.webp","d20.webp","d21.webp","d22.webp","d24.webp","d25.webp","d26.webp","d27.webp","d28.webp","d29.webp","d30.webp","d31.webp","d32.webp"],"D":["d01.webp","d02.webp","d03.webp","d04.webp","d05.webp","d07.webp","d08.webp","d09.webp","d10.webp","d12.webp","d13.webp","d14.webp","d15.webp","d16.webp","d17.webp","d18.webp","d19.webp","d21.webp","d22.webp","d23.webp","d24.webp","d25.webp","d26.webp","d28.webp","d29.webp","d30.webp","d31.webp","d32.webp","d33.webp"]};
 function setLogo(){const dk=matchMedia('(prefers-color-scheme: dark)').matches,l=LOGOS[dk?'D':'L'],h=$('logo');
   const day=Math.floor((Date.now()-new Date().getTimezoneOffset()*60000)/864e5);
@@ -210,6 +233,35 @@ function setLogo(){const dk=matchMedia('(prefers-color-scheme: dark)').matches,l
   if(!im){im=new Image();im.alt='Google';im.onerror=()=>{im.remove();h.classList.remove('img')};im.onload=()=>h.classList.add('img');h.appendChild(im)}
   im.src='doodles/'+f}
 setLogo();matchMedia('(prefers-color-scheme: dark)').addEventListener('change',setLogo);
+
+/* Menú flotante (atajos y noticias) */
+function closePop(){const p=document.getElementById('pop');if(p)p.remove();document.removeEventListener('pointerdown',away)}
+function away(e){if(!e.target.closest('#pop'))closePop()}
+function popMenu(x,y,items){closePop();const p=document.createElement('div');p.className='pop';p.id='pop';
+  items.forEach(it=>{const b=document.createElement('button');b.textContent=it[0];b.onclick=()=>{closePop();it[1]()};p.appendChild(b)});
+  document.body.appendChild(p);const w=p.offsetWidth,h=p.offsetHeight;
+  p.style.left=Math.max(8,Math.min(x-w/2,innerWidth-w-8))+'px';p.style.top=Math.max(8,Math.min(y,innerHeight-h-8))+'px';
+  setTimeout(()=>document.addEventListener('pointerdown',away),0)}
+
+/* Botón Incógnito: recuperar noticias y medios que ocultaste */
+$('inc').onclick=()=>{const ov=document.createElement('div');ov.className='ov';document.body.appendChild(ov);
+  const draw=()=>{const rows=hid.slice().reverse().map(l=>`<div class="row"><span>${esc((hidT[l]&&hidT[l].t)||host(l)||l)}</span><button data-l="${esc(l)}">Mostrar</button></div>`).join('');
+    const srs=hsrc.map(s=>`<div class="row"><span>${esc(s)}</span><button data-s="${esc(s)}">Permitir</button></div>`).join('');
+    ov.innerHTML=`<div class="sheet"><div class="row" style="border:0"><h2 style="flex:1">Ocultado por vos</h2><button data-x="1">Cerrar</button></div>${srs?'<p class="status">Medios que no querés ver</p>'+srs:''}${rows?'<p class="status">Noticias ocultas</p>'+rows:''}${!srs&&!rows?'<p class="status">Todavía no ocultaste nada.</p>':''}</div>`};
+  draw();
+  ov.addEventListener('click',e=>{const b=e.target.closest('button');if(e.target===ov||(b&&b.dataset.x))return ov.remove();if(!b)return;
+    if(b.dataset.l){hid=hid.filter(l=>l!==b.dataset.l);ls.set('hid',hid)}
+    if(b.dataset.s){hsrc=hsrc.filter(s=>s!==b.dataset.s);ls.set('hsrc',hsrc)}
+    draw();render()})};
+
+/* Deslizar hacia abajo para actualizar las noticias */
+(function(){const p=$('ptr');let y0=0,dy=0,on=false,busy=false;
+  addEventListener('touchstart',e=>{if(scrollY<=0&&!busy&&e.touches.length===1&&!document.querySelector('.ov')){y0=e.touches[0].clientY;on=true;dy=0}},{passive:true});
+  addEventListener('touchmove',e=>{if(!on)return;dy=e.touches[0].clientY-y0;
+    if(dy>0&&scrollY<=0){p.style.transition='none';p.style.transform='translateY('+(Math.min(dy,150)*.6-60)+'px) rotate('+dy*2+'deg)'}else p.style.transform=''},{passive:true});
+  addEventListener('touchend',async()=>{if(!on)return;on=false;p.style.transition='';
+    if(dy>90){busy=true;p.classList.add('spin');p.style.transform='translateY(16px)';await loadNews();
+      setTimeout(()=>{p.classList.remove('spin');p.style.transform='';busy=false},400)}else p.style.transform=''},{passive:true})})();
 </script>
 </body>
 </html>
