@@ -1,157 +1,45 @@
 {
- "updated": "2026-11-05T18:39:20.528019+00:00",
+ "updated": "2026-11-05T19:42:35.519013+00:00",
  "items": [
   {
-   "title": "Régimen patrimonial durante el matrimonio: ¿se puede cambiar? Qué dice la ley, qué papeles piden, cuánto se paga y quién puede pedirlo",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/regimen-patrimonial-durante-el-matrimonio-se-puede-cambiar-que-dice-la-ley-que-papeles-piden-cuanto-se-paga-y-quien-puede-pedirlo/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/VVAZAFH2FZAXXM6JMPKS4XGXQA.jpg?auth=2d56a459067c522a0db9d0af5d77c18d269ec1587bb6a889012d8fa5c671c4c4&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:36:27+00:00"
-  },
-  {
-   "title": "¿Qué le pasa al diésel cuando hace mucho frío? El dato del combustible que todo conductor tiene que conocer",
-   "link": "https://www.cronista.com/informacion-gral/que-le-pasa-al-diesel-cuando-hace-mucho-frio-el-dato-del-combustible-que-todo-conductor-tiene-que-conocer-2/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/6FAJIBVHPFFNBF3V4EINPZF2F4.png?auth=777c4d5bba3638d3536329651db202d86799b754b70e27df54b8e52c68a72efd&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:36:11+00:00"
-  },
-  {
-   "title": "RDI: Quiénes son los polémicos jueces propuestos por Mahiques para logra blindar la privatización de AySA",
-   "link": "https://perfil.com/mas-perfil/rdi-quienes-son-los-polemicos-jueces-propuestos-por-mahiques-para-logra-blindar-la-privatizacion-de-aysa-a546t5i8PTxQ",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/1bafdfb697a9-mahiques-2222580.webp",
-   "date": "2026-11-05T18:35:48+00:00"
-  },
-  {
-   "title": "En vivo - Real Sociedad vs. Lyon: 1 - 0, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/real-sociedad-vs-lyon-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/PU43CWN7NYZGJSMNFXOJWKFXM4.jByW?auth=0f6948f13363ed29703e6c9d6e6516627e79c43dd044f0b8df801f4d8459973e",
-   "date": "2026-11-05T18:35:29+00:00"
-  },
-  {
-   "title": "En vivo - Sparta Praga vs. Bournemouth: 1 - 0, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/sparta-praga-vs-bournemouth-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/CBREBQRK5RDA7IX66J74M4PVOM.jpg?auth=3cb25c4be51520c380b54da6b955d7efe57ecc5527767dc3ff3b3831751a2f91",
-   "date": "2026-11-05T18:35:27+00:00"
-  },
-  {
-   "title": "Qué significa la luz amarilla con un signo de exclamación que aparece en el tablero del auto",
-   "link": "https://www.cronista.com/usa/trending/que-significa-la-luz-amarilla-con-un-signo-de-exclamacion-que-aparece-en-el-tablero-del-auto/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/PHJS5TNSAFG5FHPFMHW7QHIFX4.png?auth=3c7540c71557128fd45ef35dbeabb3c31a3694a21ff5e29aaf9bbfbf340cecb4&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:35:14+00:00"
-  },
-  {
-   "title": "Llevaba 100 mil lingotes de oro, 400 barras de plata mexicana y medio millón de piezas de joyería: el trágico final del “Dorado de los mares”, el barco que se hundió rumbo a Cádiz en 1641",
-   "link": "https://www.cronista.com/mexico/actualidad-mx/llevaba-100-mil-lingotes-de-oro-400-barras-de-plata-mexicana-y-medio-millon-de-piezas-de-joyeria-el-tragico-final-del-dorado-de-los-mares-el-barco-que-se-hundio-rumbo-a-cadiz-en-1641/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/7O5OWQBFSZB3DBROA5KVJJK4ZA.jpg?auth=02386e75ad92ef88241c9a94355ca4c4de14576e0106a66d7da4fc787c7d1f35&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:34:45+00:00"
-  },
-  {
-   "title": "En vivo - Levski Sofia vs. Jagiellonia: 0 - 0, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/levski-sofia-vs-jagiellonia-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/URERFXUFK3VL2QXBJ3Q427R764.ECE?auth=ac92571d78a44bc628e712fa45dd1c9b699e7e1e545c67c937c081d7b28ff5f6",
-   "date": "2026-11-05T18:34:29+00:00"
-  },
-  {
-   "title": "En vivo - Anderlecht vs. Salzburgo: 1 - 0, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/anderlecht-vs-salzburgo-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/OLLAQLZA6BCGJHVRVFNJ5RQLQE.jpg?auth=3609cf8b3703fccc6a411aad2cf42739d102e91a51a23a4020945e24f3193f6f",
-   "date": "2026-11-05T18:34:29+00:00"
-  },
-  {
-   "title": "En vivo - NEC vs. Omonia: 0 - 1, por la fecha 4 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/nec-vs-omonia-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/PXZW4SGMXVHMDJQ67MRDBXCYPU.jpg?auth=862860d0eabfb04cf6a4be3e8a31b9d7336881cd2ffc838a595d23d38eb874af",
-   "date": "2026-11-05T18:34:29+00:00"
-  },
-  {
-   "title": "En vivo - Lillestrom SK vs. Viktoria Plzen: 0 - 1, por la fecha 4 de la UEFA Europa League",
+   "title": "Viktoria Plzen le ganó a Lillestrom SK 1 a 0 por la fecha 4 de la UEFA Europa League",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/05/lillestrom-sk-vs-viktoria-plzen-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/HDJBHPKP65EFGXXSAWIRIBNX5I.YUYOPN?auth=5f048e7c78cd46dcc5780dc1dafa96283c253daf9ae904bac292d325c868fb15",
-   "date": "2026-11-05T18:34:29+00:00"
+   "date": "2026-11-05T19:39:30+00:00"
   },
   {
-   "title": "Aldosivi vs. River, EN VIVO: el minuto a minuto del partido",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/aldosivi-vs-river-en-vivo-nid05112026/",
-   "source": "La Nación",
+   "title": "En vivo - Milan vs. Ferencváros: 0 - 2, por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/milan-vs-ferencvaros-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/LWT2HQI2SVFTJFPC6UDL7NU27Q.JPG?auth=2cf9a575296a4862ac8f45fa6d48fa875b5175ee6ea2eda582aafb4793da4588&smart=true&width=2000&height=1333",
-   "date": "2026-11-05T18:34:05+00:00"
+   "image": "https://tn.com.ar/resizer/v2/EWG3VWKANZXCDOBFNK52SWJKJE.l9?auth=161c47b0eb9c731399e405a9c15784bff92022314f84bee7af9311d6732dff35",
+   "date": "2026-11-05T19:39:29+00:00"
   },
   {
-   "title": "México lidera emisión global de bonos soberanos y consolida la mayor recompra de deuda de economías emergentes",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/mexico-lidera-emision-global-de-bonos-soberanos-y-consolida-la-mayor-recompra-de-deuda-de-economias-emergentes/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/L2E57SNGFJEFFALNMJNMILFPT4.jpg?auth=b7602fa8b28fc7f2652c3f5fac6ca0edbadfc0536720d3fb626e30ae7e6186fa&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:33:31+00:00"
+   "title": "En vivo - Real Sociedad vs. Lyon: 1 - 1, por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/real-sociedad-vs-lyon-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/PU43CWN7NYZGJSMNFXOJWKFXM4.jByW?auth=0f6948f13363ed29703e6c9d6e6516627e79c43dd044f0b8df801f4d8459973e",
+   "date": "2026-11-05T19:39:29+00:00"
   },
   {
-   "title": "En vivo - Crystal Palace vs. Hoffenheim: 0 - 1, por la fecha 4 de la UEFA Europa League",
+   "title": "En vivo - Levski Sofia vs. Jagiellonia: 1 - 0, por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/levski-sofia-vs-jagiellonia-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/URERFXUFK3VL2QXBJ3Q427R764.ECE?auth=ac92571d78a44bc628e712fa45dd1c9b699e7e1e545c67c937c081d7b28ff5f6",
+   "date": "2026-11-05T19:39:29+00:00"
+  },
+  {
+   "title": "Crystal Palace empató con Hoffenheim 1 a 1 por la fecha 4 de la UEFA Europa League",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/05/crystal-palace-vs-hoffenheim-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/GUK7HPWJXZAB3IOBXR2JY4WZFA.jpg?auth=0680dd7f9b8c8094e9b373c0c05b9e8e4d752bbfb55a1ab939c2f78b9d94b091",
-   "date": "2026-11-05T18:33:28+00:00"
-  },
-  {
-   "title": "En la previa a la visita del Papa, la Iglesia volvió a reclamar por la ley de ludopatía: “Les pido a los senadores que se pongan las pilas”",
-   "link": "https://tn.com.ar/politica/2026/11/05/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-al-pais-las-misas-confirmadas-y-las-ultimas-noticias/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/MLPXDA47J5HL7GFVIELBBONO7I.jpg?auth=9af79561c96b0991bc35b7e93a611612bf5053c2b7226b3363b3f62d9f1ee48f",
-   "date": "2026-11-05T18:33:19+00:00"
-  },
-  {
-   "title": "Planifican un inmenso estadio con capacidad para 135,000 espectadores: busca convertirse en el más grande del mundo y será un símbolo cultural del país",
-   "link": "https://www.cronista.com/usa/trending/planifican-un-inmenso-estadio-con-capacidad-para-135000-espectadores-busca-convertirse-en-el-mas-grande-del-mundo-y-sera-un-simbolo-cultural-del-pais/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/F5VKRVQQURFBNCIFSEHWGASUFA.jpg?auth=4bbf4e491829b90089d36de57d88b8e3781e4a903f789623c44dfadd808d4650&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:33:14+00:00"
-  },
-  {
-   "title": "¿River entra a la Libertadores 2027? Qué necesita para llegar a la copa",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/river-entra-a-la-libertadores-2027-que-necesita-para-llegar-a-la-copa-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/56MATJPFIBF2HJCZRGEFSJXFNM.JPEG?auth=350f480d904c7bb1f360cd4b93649ccaef6b762559ff42abfe21d49d03e90379&smart=true&width=2500&height=1666",
-   "date": "2026-11-05T18:32:27+00:00"
-  },
-  {
-   "title": "Reducido de la Primera Nacional: formato y cruces por el segundo ascenso",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/reducido-de-la-primera-nacional-formato-y-cruces-por-el-segundo-ascenso-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/ICL5P6XC4NDWDC7KPFONTHXBOA.jpg?auth=ae952974e14d23a7ea3f9053525f56e31d1a91aa4547c3796326857f3271438d&smart=true&width=1457&height=1093",
-   "date": "2026-11-05T18:31:55+00:00"
-  },
-  {
-   "title": "A qué hora juega hoy River vs. Aldosivi y por dónde se puede ver en vivo",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-river-vs-aldosivi-y-por-donde-se-puede-ver-en-vivo-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/LB3SVS7OXBBXLBLQRR2EJIJQZQ.JPG?auth=6946b061662fd0556ddd08eb7845d6e61de048b3be47098295544442dde24213&smart=true&width=1191&height=893",
-   "date": "2026-11-05T18:31:46+00:00"
+   "date": "2026-11-05T19:38:30+00:00"
   },
   {
    "title": "Qué se sabe de la renuncia del presidente de Paraguay, Santiago Peña",
@@ -159,95 +47,463 @@
    "source": "La Nación",
    "cat": "argentina",
    "image": "https://resizer.glanacion.com/resizer/v2/VKIJ5MPH4VE3XJJJ6SV4CWEZWE.jpg?auth=8608606648060ed4eeda717e86bc919f30ed93b1008b6a8a36721cf481f5b233&smart=true&width=2048&height=1365",
-   "date": "2026-11-05T18:31:41+00:00"
+   "date": "2026-11-05T19:38:28+00:00"
   },
   {
-   "title": "Créditos hipotecarios: se frenó el crecimiento de los préstamos pese al impulso de los fondos de la ANSES",
-   "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-se-freno-el-crecimiento-de-los-prestamos-pese-al-impulso-de-los-fondos-de-la-nid05112026/",
+   "title": "Detuvieron a tres menores cuando entraban a una vivienda de San Isidro: fueron imputados por robo agravado",
+   "link": "https://www.lanacion.com.ar/seguridad/detuvieron-a-tres-menores-cuando-entraban-a-una-vivienda-de-san-isidro-fueron-imputados-por-robo-nid05112026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/U2756VDKVJAHVDHGG7IR3REOGI.JPG?auth=4e976e6ecdeff0a966def80174d8cd0865cd271e4a2833302b6803a5643b6e2d&smart=true&width=2000&height=1333",
-   "date": "2026-11-05T18:30:57+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/3RURXXLLMNHLZDWK7LGENAUDK4.jpeg?auth=e9129c68be575cefc85e9d70afa4cae4cf48c578beaf062ef48936afc6342a0d&smart=true&width=2000&height=1333",
+   "date": "2026-11-05T19:38:25+00:00"
   },
   {
-   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 5 de noviembre, minuto a minuto",
-   "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05112026/",
+   "title": "Mauricio Macri respaldó la continuidad del rumbo económico, pero le reclamó más diálogo al Gobierno",
+   "link": "https://tn.com.ar/politica/2026/11/05/mauricio-macri-respaldo-la-continuidad-del-rumbo-economico-pero-le-reclamo-mas-dialogo-al-gobierno/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/QC5WOPQJXJDN5AGGRVIAW2Q3QA.JPG?auth=e42917b3c9c4ab45496508ea606325b3195424e5f826d637c279db2a20ef6b5b",
+   "date": "2026-11-05T19:38:24+00:00"
+  },
+  {
+   "title": "NEC le ganó a Omonia 3 a 1 por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/nec-vs-omonia-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/PXZW4SGMXVHMDJQ67MRDBXCYPU.jpg?auth=862860d0eabfb04cf6a4be3e8a31b9d7336881cd2ffc838a595d23d38eb874af",
+   "date": "2026-11-05T19:37:30+00:00"
+  },
+  {
+   "title": "Aldosivi vs. River, EN VIVO: el minuto a minuto del partido",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/aldosivi-vs-river-en-vivo-nid05112026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/HGBZWIHSVVDBVBCF23NUUJ2XLY.jpg?auth=40e09115afc78a149c92d253c6c6877abd691d700b49b22373bfe4895a7d234d&smart=true&width=2000&height=1333",
-   "date": "2026-11-05T18:30:57+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/IV4SVNWRFRE7VDU5HPV4GF75EM.JPG?auth=5842210c0c1910f64fb7c3065ff0caabaf792df6b886ffb7159117c42d7c67aa&smart=true&width=2000&height=1333",
+   "date": "2026-11-05T19:37:26+00:00"
   },
   {
-   "title": "Revelaron quién es la famosa actriz que interpretará a Anna en \"Frozen, El Musical\"",
-   "link": "https://perfil.com/entretenimiento/revelaron-quien-es-la-famosa-actriz-que-interpretara-a-anna-en-frozen-el-musical-aBG0l2S5u4le",
+   "title": "En la previa a la visita del Papa, la Iglesia volvió a reclamar por la ley de ludopatía: “Les pido a los senadores que se pongan las pilas”",
+   "link": "https://tn.com.ar/politica/2026/11/05/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-cuando-llega-al-pais-las-misas-confirmadas-y-las-ultimas-noticias/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/MLPXDA47J5HL7GFVIELBBONO7I.jpg?auth=9af79561c96b0991bc35b7e93a611612bf5053c2b7226b3363b3f62d9f1ee48f",
+   "date": "2026-11-05T19:37:12+00:00"
+  },
+  {
+   "title": "La “venganza” de Horacio Cartes: la disputa por el poder en Paraguay que terminó con la caída de Santiago Peña",
+   "link": "https://www.lanacion.com.ar/el-mundo/la-venganza-de-horacio-cartes-la-disputa-por-el-poder-en-paraguay-que-termino-con-la-caida-de-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/4JJER3VPTBDJTKM746FMJEO264.JPG?auth=e440d74c65e21a98b31e53ca4710297b805db7c4d2ffc95bebfdca13a70ff4cd&smart=true&width=2000&height=1333",
+   "date": "2026-11-05T19:35:57+00:00"
+  },
+  {
+   "title": "En vivo - Sparta Praga vs. Bournemouth: 1 - 3, por la fecha 4 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/sparta-praga-vs-bournemouth-en-vivo-por-la-fecha-4-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/CBREBQRK5RDA7IX66J74M4PVOM.jpg?auth=3cb25c4be51520c380b54da6b955d7efe57ecc5527767dc3ff3b3831751a2f91",
+   "date": "2026-11-05T19:35:29+00:00"
+  },
+  {
+   "title": "Habilitan un nuevo medio de pago de peajes en dos autopistas camino a la Ciudad de Buenos Aires: tiene 50% de descuento",
+   "link": "https://www.lanacion.com.ar/autos/habilitan-un-nuevo-medio-de-pago-de-peajes-en-dos-autopistas-camino-a-la-ciudad-de-buenos-aires-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/WXCMSC3KURDD5J6NW3NLFHHSMM.jpeg?auth=d47e0555503dc9f50c321ca19358dbc8e5bea2a04a515d2415c219dc3074aea4&smart=true&width=4160&height=3120",
+   "date": "2026-11-05T19:35:27+00:00"
+  },
+  {
+   "title": "Rosenkratz tensiona con Rosatti e insiste en modificar la forma en que se seleccionan jueces",
+   "link": "https://perfil.com/politica/rosenkratz-tensiona-con-rosatti-e-insiste-en-modificar-la-forma-en-que-se-seleccionan-jueces-aV2mN4Y1dYla",
    "source": "Perfil",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/2eb0f103528d-rtbhyj6.webp",
-   "date": "2026-11-05T18:30:32+00:00"
+   "image": "https://media.perfil.com/prod/images/gm_preview/130b68e655d1-proyecto-nuevo-2026-11-05t152129113.webp",
+   "date": "2026-11-05T19:35:17+00:00"
   },
   {
-   "title": "De las primeras alertas a la renuncia de Santiago Peña: la cronología del escándalo de Ueno Bank que sacude a Paraguay",
-   "link": "https://www.lanacion.com.ar/economia/de-las-primeras-alertas-a-la-renuncia-de-santiago-pena-la-cronologia-del-escandalo-de-ueno-bank-que-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/EUWG3C5XERCPZM5VH64DDQC7CE.JPG?auth=72e9a084d1e847dddd98a89778a915a165e09e83988566ae0c2800fda32029b9&smart=true&width=5850&height=3900",
-   "date": "2026-11-05T18:29:10+00:00"
-  },
-  {
-   "title": "El Papa en el conurbano: Claypole, el barrio que se prepara para recibir a León XIV, entre la esperanza y la frustración social",
-   "link": "https://www.lanacion.com.ar/politica/el-papa-en-el-conurbano-claypole-el-barrio-que-se-prepara-para-recibir-a-leon-xiv-entre-la-esperanza-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/D5M2Y3JE3VFLXIIFTVJ34JKQUY.JPG?auth=39c08d1d88c0df6772307656a1363fa2e18c79b8d615dc6db4bf110df009eb67&smart=true&width=2000&height=1333",
-   "date": "2026-11-05T18:28:49+00:00"
-  },
-  {
-   "title": "Quién es Pedro Alliana, el vice de Santiago Peña que asumirá la presidencia de Paraguay",
-   "link": "https://www.cronista.com/internacionales/quien-es-pedro-alliana-el-vice-de-santiago-pena-que-asumira-la-presidencia-de-paraguay/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/YY666LG4FJBO7FZ72MQYPQI5DA.jpg?auth=2ac15fd5635baa271a498b4844e35eb1b4ce7b6513b0edff8f951978aa1e19d7&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:28:16+00:00"
-  },
-  {
-   "title": "Visita del papa León XIV a la Argentina: se disparó el turismo en los principales destinos que recorrerá el Sumo Pontífice",
-   "link": "https://www.cronista.com/informacion-gral/visita-del-papa-leon-xiv-a-la-argentina-se-disparo-el-turismo-en-los-principales-destinos-que-recorrera-el-sumo-pontifice/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/CLEAZMHQDNDPBGF3B7PKKT62TA.jpeg?auth=ffd5d2a4d941872a51b2076ddca423e8cb12a4018979281b8aaf58ba224a93b0&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:27:20+00:00"
-  },
-  {
-   "title": "Baños limpios y cronómetro en mano: el control sorpresa del CEO de YPF que ahora va por un millón de barriles",
-   "link": "https://www.lanacion.com.ar/economia/banos-limpios-y-cronometro-en-mano-el-control-sorpresa-del-ceo-de-ypf-que-ahora-va-por-un-millon-de-nid05112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/IUXMZTNHPJBH5CEVWGBROV55UU.JPG?auth=bb567fa6c82806830dfdc68c0e493d0c444f978453c968c0a069161d182133fc&smart=true&width=6000&height=4000",
-   "date": "2026-11-05T18:26:20+00:00"
-  },
-  {
-   "title": "Crisis en Paraguay: cómo es la interna política detrás del escándalo financiero que hundió al presidente Santiago Peña",
-   "link": "https://tn.com.ar/internacional/2026/11/05/crisis-en-paraguay-como-es-la-interna-politica-detras-del-escandalo-financiero-que-hundio-al-presidente-santiago-pena/",
+   "title": "River visita a Aldosivi con el objetivo de asegurar la localía en los playoffs del Torneo Clausura",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/05/river-visita-a-aldosivi-con-el-objetivo-de-asegurar-la-localia-en-los-playoffs-del-torneo-clausura/",
    "source": "TN",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/7VMYLANA4BD6VIUS6EVSBLQFZE.jpg?auth=4549795e6f9051efd2a7d9d84f58a95cab1defc2bb7531cb0c477c8ff1b47712",
-   "date": "2026-11-05T18:22:45+00:00"
+   "image": "https://tn.com.ar/resizer/v2/BV3TZAQTCBHV5IK2LWSZ2V5R2I.jpg?auth=3ac7fe01e8f220e04badec61b7ca1cc6d901f62255b278603d9526aa187dcfa3",
+   "date": "2026-11-05T19:34:30+00:00"
   },
   {
-   "title": "La angustia de Dallys Ferreira por la caída de Ueno Bank en Paraguay: “Mis ahorros estaban allí”",
-   "link": "https://tn.com.ar/show/famosos/2026/11/05/la-angustia-de-dallys-ferreira-por-la-caida-de-ueno-bank-en-paraguay-mis-ahorros-estaban-alli/",
-   "source": "TN",
+   "title": "A qué hora juega hoy River vs. Aldosivi y por dónde se puede ver en vivo",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-river-vs-aldosivi-y-por-donde-se-puede-ver-en-vivo-nid05112026/",
+   "source": "La Nación",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/4N3BWE5ZTBG37HITGFUSVFFRGQ.png?auth=552fd0242a767d6c9ac93078cbce2e0121d2ba1c0f97beb43d0f10d3bb2be1cc",
-   "date": "2026-11-05T18:21:50+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/LB3SVS7OXBBXLBLQRR2EJIJQZQ.JPG?auth=6946b061662fd0556ddd08eb7845d6e61de048b3be47098295544442dde24213&smart=true&width=1191&height=893",
+   "date": "2026-11-05T19:33:17+00:00"
   },
   {
-   "title": "El país más poderoso de América latina: ya estrenó y avanzará en la fabricación de sus propios cazas supersónicos equipados con misiles Meteor y tecnología de guerra electrónica de 360 grados",
-   "link": "https://www.cronista.com/usa/trending/el-pais-mas-poderoso-de-america-latina-ya-estreno-y-avanzara-en-la-fabricacion-de-sus-propios-cazas-supersonicos-equipados-con-misiles-meteor-y-tecnologia-de-guerra-electronica-de-360-grados/",
+   "title": "Por orden de la Ley S8795: amplían las licencias pagas desde el 1° de enero para trabajadores de la construcción en Nueva York",
+   "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/por-orden-de-la-ley-s8795-amplian-las-licencias-pagas-desde-el-1-de-enero-para-trabajadores-de-la-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/NJZJPBMI3RHTVLRK5JRBVMOGKM.jpg?auth=2080ed0c0f9234882082626f6ba5317cd7967c19be890d3c8212cc15267fbab9&smart=true&width=2000&height=1333",
+   "date": "2026-11-05T19:33:00+00:00"
+  },
+  {
+   "title": "Un importante incendio destruyó una casa en Brooklyn: murieron seis personas y nueve resultaron heridas",
+   "link": "https://www.lanacion.com.ar/estados-unidos/un-importante-incendio-destruyo-una-casa-en-brooklyn-murieron-seis-personas-y-nueve-resultaron-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/MQLWHMIFCZFG5OMWHWFVNCIUP4.JPG?auth=5e6e8a2be97aaf2a46233071648c1e19af9d0aa9a82fb2606a2115ee833ae470&smart=true&width=4096&height=2731",
+   "date": "2026-11-05T19:31:34+00:00"
+  },
+  {
+   "title": "Capitanich: \"El gobierno nacional sigue haciendo papelones en el mundo\"",
+   "link": "https://perfil.com/nea/capitanich-el-gobierno-nacional-sigue-haciendo-papelones-en-el-mundo-aqC1q2p0erVu",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/09e4d2e968f0-hqwnjhgwgaakmk3.webp",
+   "date": "2026-11-05T19:30:37+00:00"
+  },
+  {
+   "title": "RDC: la investigación por la tragedia ferroviaria en España salpica al entorno de Pedro Sánchez y suma seis detenidos",
+   "link": "https://perfil.com/mas-perfil/rdc-la-investigacion-por-la-tragedia-ferroviaria-en-espana-salpica-al-entorno-de-pedro-sanchez-y-suma-seis-detenidos-aN2nA8i8p9bF",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/38407015dbcd-pedro-sanchez-durante-una-sesion-del-parlamento-para-votar-un-decreto-gubernamen.webp",
+   "date": "2026-11-05T19:30:37+00:00"
+  },
+  {
+   "title": "Navy delays installation of hypersonic CPS missiles and modernization of three U.S.-built destroyers; each round costs more than $60 million and can strike targets at long range",
+   "link": "https://www.cronista.com/en/today/navy-delays-installation-of-hypersonic-cps-missiles-and-modernization-of-three-us-built-destroyers-each-round-costs-more-than-60-million-and-can-strike-targets-at-long-range/",
    "source": "El Cronista",
    "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/NEJ3QCBZVFG5RB6RAMPVXHSEFM.jpg?auth=ef8938d01ce7a24f3c6519102a965ba46b37b438249a3fdc0a5468a2bc02b697&smart=true&width=1200&height=900",
-   "date": "2026-11-05T18:20:57+00:00"
+   "image": "https://www.cronista.com/resizer/v2/QEC4B7G2UZCC3HE2UUJTM336MQ.jpg?auth=de44ee12b3f69bd305dd6ba25dcaf13bba4c2bb8c6466e1edb8f36104fda1353&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:29:40+00:00"
+  },
+  {
+   "title": "Rosenkrantz insiste con la reforma del sistema de selección de jueces, ante la demora en su tratamiento",
+   "link": "https://www.lanacion.com.ar/politica/rosenkrantz-insiste-con-la-reforma-del-sistema-de-seleccion-de-jueces-ante-la-demora-en-su-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/TSTH5PQD7RHXPH3UXISIAKIAPQ.jpeg?auth=9611b35532df36fd8fcbc7bef609d0686e5eac751056824dd82822a1638c0dd5&smart=true&width=1662&height=1307",
+   "date": "2026-11-05T19:28:04+00:00"
+  },
+  {
+   "title": "Galicia Asset Management lanzó gForce, el primer ETF de la Argentina",
+   "link": "https://perfil.com/comercial/galicia-asset-management-lanzo-gforce-el-primer-etf-de-la-argentina-a7uOZ3N5bz4v",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/09d943ff7444-unnamed-2026-11-05t161922916.webp",
+   "date": "2026-11-05T19:27:37+00:00"
+  },
+  {
+   "title": "Diego Ramos, tras su eliminación de MasterChef: por qué no “encajó” en el reality y su decepción con uno de los jurados",
+   "link": "https://www.lanacion.com.ar/espectaculos/personajes/diego-ramos-tras-su-eliminacion-de-masterchef-por-que-no-encajo-en-el-reality-y-su-decepcion-con-uno-nid05112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/P3M7T65JJBECFIOERKWACCO6ZU.jpg?auth=5425d87f24d10934d467a5a5577447007b999827f73391c967d790ca2fca6534&smart=true&width=2000&height=1333",
+   "date": "2026-11-05T19:27:11+00:00"
+  },
+  {
+   "title": "Buscan a Gabriel Ferranti, vecino de Ribera de Manantiales",
+   "link": "https://perfil.com/cordoba/buscan-a-gabriel-ferranti-vecino-de-ribera-de-manantiales-aKDAq4g34C38",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/8dac606226bd-ferranti.webp",
+   "date": "2026-11-05T19:26:02+00:00"
+  },
+  {
+   "title": "Qué pasa con los ahorros de Ueno Bank y cómo recuperar el dinero tras la crisis en Paraguay",
+   "link": "https://www.clarin.com/mundo/pasa-ahorros-ueno-bank-recuperar-dinero-crisis-paraguay_0_xRtM2Be8fi.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/05/JQ68ktr2y_1200x630__1.jpg",
+   "date": "2026-11-05T19:25:21+00:00"
+  },
+  {
+   "title": "Valentina Barbier, la hija de Juliana Awada, marca tendencia con su look dark romántico: transparencia y campera de cuero con aires góticos",
+   "link": "https://perfil.com/entretenimiento/valentina-barbier-la-hija-de-juliana-awada-marca-tendencia-con-su-look-dark-romantico-transparencia-y-campera-de-cuero-con-aires-goticos-alVgc5v1ECV2",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/6646c210c9d5-foto-apertura-notas-2026-11-05t145851891.webp",
+   "date": "2026-11-05T19:25:17+00:00"
+  },
+  {
+   "title": "El alto nivel de mora genera grandes dudas sobre la recuperación del crédito",
+   "link": "https://www.cronista.com/finanzas-mercados/el-alto-nivel-de-mora-hace-que-la-recuperacion-del-credito-en-pesos-ses-incierta/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/3ETEWJBPSVAFZCT7Z5XNY6J37U.jpg?auth=72be50b7f3adbcd474c44fb7d15a3c7c84ad1fd2c60fb962f14e72c697278c98&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:24:58+00:00"
+  },
+  {
+   "title": "De la carpa a las primeras fotos desde adentro: la AFA mostró su nueva y cuestionada sede de Pilar",
+   "link": "https://www.clarin.com/deportes/carpa-primeras-fotos-adentro-afa-mostro-nueva-cuestionada-sede-pilar_0_eiFcG2FjGu.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/05/xzGOmejcX_1200x630__1.jpg",
+   "date": "2026-11-05T19:23:29+00:00"
+  },
+  {
+   "title": "Ueno Bank: del desembarco fastuoso en Buenos Aires a la crisis que dejó a casi 1.000 trabajadores en la incertidumbre",
+   "link": "https://www.ambito.com/negocios/ueno-bank-del-desembarco-fastuoso-buenos-aires-la-crisis-que-dejo-casi-1000-trabajadores-la-incertidumbre-n6342017",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/2cc7ab0452126a8fe55bdf700fb81426/adjuntos/239/imagenes/043/750/0043750424/1200x675/smart/logo-itti.webp",
+   "date": "2026-11-05T19:21:00+00:00"
+  },
+  {
+   "title": "De financiera a banco: cómo surgió Ueno Bank y provocó uno de los peores cimbronazos en  Paraguay",
+   "link": "https://www.cronista.com/internacionales/de-financiera-a-banco-como-surgio-ueno-bank-y-llego-a-estallar-la-bomba-que-dejo-sin-presidente-a-paraguay/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/25YXF4TUIREVTGE6CMNX7PZGGM.jpeg?auth=ef76c84ba74b1a95849da76cf8edbc5e677e64fc631501010702975756299b5d&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:20:39+00:00"
+  },
+  {
+   "title": "EEUU anuncia sanciones contra empresas del sector petrolero y electrónico en Cuba",
+   "link": "https://www.clarin.com/estados-unidos/eeuu-anuncia-sanciones-contra-empresas-del-sector-petrolero-y-electronico-en-cuba_0_xJir9Ob1aQ.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+   "date": "2026-11-05T19:20:37+00:00"
+  },
+  {
+   "title": "Flávio Bolsonaro niega haber recibido ayuda de gobiernos para su huída a EE.UU.",
+   "link": "https://www.clarin.com/estados-unidos/flavio-bolsonaro-niega-haber-recibido-ayuda-de-gobiernos-para-su-huida-a-ee-uu_0_0Hsomym8i6.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+   "date": "2026-11-05T19:20:31+00:00"
+  },
+  {
+   "title": "Líder demócrata en Senado avisa: \"Si Trump veta leyes, habrá debacle republicana en 2028\"",
+   "link": "https://www.clarin.com/estados-unidos/lider-democrata-en-senado-avisa-si-trump-veta-leyes-habra-debacle-republicana-en-2028_0_UNR16MENoI.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
+   "date": "2026-11-05T19:20:28+00:00"
+  },
+  {
+   "title": "It carried 100,000 gold ingots, 400 bars of Mexican silver, and half a million pieces of jewelry: The tragic end of the “El Dorado de los mares,” the ship that sank en route to Cádiz in 1641",
+   "link": "https://www.cronista.com/en/today/it-carried-100000-gold-ingots-400-bars-of-mexican-silver-and-half-a-million-pieces-of-jewelry-the-tragic-end-of-the-el-dorado-de-los-mares-the-ship-that-sank-en-route-to-cadiz-in-1641/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/7O5OWQBFSZB3DBROA5KVJJK4ZA.jpg?auth=02386e75ad92ef88241c9a94355ca4c4de14576e0106a66d7da4fc787c7d1f35&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:19:45+00:00"
+  },
+  {
+   "title": "Pedro Alfonso celebra 15 años en Carlos Paz con la obra \"Manos Arriba\", junto a Paula Chaves y un elenco de lujo",
+   "link": "https://perfil.com/entretenimiento/pedro-alfonso-celebra-15-anos-en-carlos-paz-con-la-obra-manos-arriba-junto-a-paula-chaves-y-un-elenco-de-lujo-aWmse5q1vXRp",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/6a2a45b667ac-dvtr.webp",
+   "date": "2026-11-05T19:19:35+00:00"
+  },
+  {
+   "title": "¿Es imposible adelgazar después de la menopausia? Qué dice la ciencia sobre esta creencia",
+   "link": "https://www.cronista.com/informacion-gral/es-imposible-adelgazar-despues-de-la-menopausia-que-dice-la-ciencia-sobre-esta-creencia/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/ZEWYXIELRVA5ZJ75TEPZ5RGHDM.jpg?auth=76b74f171e93235d519a2d9e7539d918ee89ba968b483a3532746231fb3f4605&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:18:53+00:00"
+  },
+  {
+   "title": "Luján realiza una instalación artística participativa antes de la visita del Papa León XIV",
+   "link": "https://perfil.com/comercial/lujan-realiza-una-instalacion-artistica-participativa-antes-de-la-visita-del-papa-leon-xiv-aklEa2F15J6N",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/910e7050db6c-whatsapp-image-2026-11-05-at-144516-perfil-institucionales.webp",
+   "date": "2026-11-05T19:18:11+00:00"
+  },
+  {
+   "title": "El riesgo país de Paraguay salta 16% y el dólar trepa 10% tras la renuncia de Santiago Peña",
+   "link": "https://www.ambito.com/finanzas/el-dolar-salta-10-paraguay-y-el-riesgo-pais-se-eleva-16-la-renuncia-su-presidente-n6342004",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/b052f2bc8e24597df0d03fa91648b976/adjuntos/239/imagenes/041/796/0041796685/1200x675/smart/guaraniespng.png",
+   "date": "2026-11-05T19:16:00+00:00"
+  },
+  {
+   "title": "Hasta tres años de prisión y multas de 345.000 euros: en RDC explicaron las sanciones por incumplir las restricciones a las protestas en Francia",
+   "link": "https://perfil.com/mas-perfil/hasta-tres-anos-de-prision-y-multas-de-345.000-euros-en-rdc-explicaron-las-sanciones-por-incumplir-las-restricciones-a-las-protestas-en-francia-agVyX1T895lM",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/4b51550e4de5-proyecto-nuevo-2026-10-24t105335207.webp",
+   "date": "2026-11-05T19:13:41+00:00"
+  },
+  {
+   "title": "AmCham advirtió que un cambio de gobierno en EEUU podría restarle prioridad al vínculo con la Argentina",
+   "link": "https://www.ambito.com/economia/amcham-advirtio-que-un-cambio-gobierno-eeuu-podria-restarle-prioridad-al-vinculo-la-argentina-n6342069",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/04c1fbb332205399c8e1e171def7bcdd/adjuntos/239/imagenes/043/714/0043714847/1200x675/461x906:481x926/javier-milei-y-donald-trump.png",
+   "date": "2026-11-05T19:13:00+00:00"
+  },
+  {
+   "title": "Video: tras las polémicas del superclásico, la roja que reclamó River ante Aldosivi",
+   "link": "https://www.ole.com.ar/river-plate/video-roja-reclamo-river-aldosivi-lucas-pata-castro-almada-montiel-arbitro-clausura_0_ljskpH6L2y.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/05/TNbtx-TFY_1200x630__1.jpg",
+   "date": "2026-11-05T19:11:57+00:00"
+  },
+  {
+   "title": "La Met Gala presenta un nuevo tema tras la controversia con Galliano",
+   "link": "https://www.clarin.com/estados-unidos/la-met-gala-presenta-un-nuevo-tema-tras-la-controversia-con-galliano_0_e5t7JAD15r.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+   "date": "2026-11-05T19:10:24+00:00"
+  },
+  {
+   "title": "José Luis Daza reconoció un crecimiento \"menor al esperado\", pero ve señales positivas y una \"impaciencia muy grande\"",
+   "link": "https://www.ambito.com/economia/jose-luis-daza-reconocio-un-crecimiento-menor-al-esperado-pero-ve-senales-positivas-y-una-impaciencia-muy-grande-n6342052",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/9385db1aa5cdd4e1928a38c9244bfed0/adjuntos/239/imagenes/043/593/0043593530/jose-luis-daza.jpeg",
+   "date": "2026-11-05T19:09:00+00:00"
+  },
+  {
+   "title": "José Luis Daza reconoció un crecimiento \"menor al esperado\", pero ve señales positivas y una \"impaciencia muy grande\"",
+   "link": "https://www.ambito.com/economia/jose-luis-daza-reconocio-un-crecimiento-menor-al-esperado-pero-ve-senales-positivas-y-una-impaciencia-muy-grande-n6342052",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/9385db1aa5cdd4e1928a38c9244bfed0/adjuntos/239/imagenes/043/593/0043593530/jose-luis-daza.jpeg",
+   "date": "2026-11-05T19:09:00+00:00"
+  },
+  {
+   "title": "Con la despedida de Cristiano, todas las estrellas que se retiraron de su selección tras el Mundial 2026",
+   "link": "https://www.ole.com.ar/futbol-internacional/cristiano-ronaldo-messi-mundial-2026-retiro-figuras-idolos-seleccion-neymar-ochoa_0_da7qZoDPP3.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/05/Fo-Vvv7Ai_1200x630__1.jpg",
+   "date": "2026-11-05T19:07:18+00:00"
+  },
+  {
+   "title": "El 41% de los hogares estadounidenses no llega a cubrir lo básico: en RDI expusieron las razones detrás del voto castigo a Trump",
+   "link": "https://perfil.com/mas-perfil/el-41-de-los-hogares-estadounidenses-no-llega-a-cubrir-lo-basico-en-rdi-expusieron-las-razones-detras-del-voto-castigo-a-trump-aCmCT8g5xQ4h",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/29d4e8adb04a-0.webp",
+   "date": "2026-11-05T19:07:01+00:00"
+  },
+  {
+   "title": "Feria del Libro de Vicente López: más de 500 expositores y grandes autores",
+   "link": "https://www.clarin.com/cultura/feria-libro-vicente-lopez-500-expositores-grandes-autores_0_7yYPYUHd9J.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/05/fGvfnu3hp_1200x630__1.jpg",
+   "date": "2026-11-05T19:04:06+00:00"
+  },
+  {
+   "title": "Riesgo país, cerca de los 930 puntos: el Gobierno apunta a factores externos, pero el mercado mira las encuestas",
+   "link": "https://www.clarin.com/economia/riesgo-pais-cerca-930-puntos-gobierno-apunta-factores-externos-mercado-mira-encuestas_0_HQapTL70hz.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/03/aapmzGCR3_1200x630__1.jpg",
+   "date": "2026-11-05T19:02:18+00:00"
+  },
+  {
+   "title": "Clarín lanza el decimotercer capítulo de “Detrás del Crimen”: Rodolfo “Willy” Pregliasco, el físico que reconstruye crímenes a partir de los disparos",
+   "link": "https://www.clarin.com/informacion-general/clarin-lanza-decimotercer-capitulo-detras-crimen-rodolfo-willy-pregliasco-fisico-reconstruye-crimenes-partir-disparos_0_egaGVaZfCF.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/05/VK3o5QeI7_1200x630__1.jpg",
+   "date": "2026-11-05T19:01:52+00:00"
+  },
+  {
+   "title": "Elecciones en EE.UU: Sheinbaum vincula las redadas de ICE y el racismo con el giro del voto latino hacia los demócratas",
+   "link": "https://www.cronista.com/mexico/actualidad-mx/elecciones-en-eeuu-sheinbaum-vincula-las-redadas-de-ice-y-el-racismo-con-el-giro-del-voto-latino-hacia-los-democratas/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/LBV3RMSXCVDC5OVXXSSABQ2Z74.jpg?auth=fa6af789ec779af691765f4a10ed159b468a1205eeabf66d1e0f01a083477f8e&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:01:20+00:00"
+  },
+  {
+   "title": "La advertencia de Rosenkrantz a los abogados por el Consejo de la Magistratura: “La próxima vayan a votar”",
+   "link": "https://www.cronista.com/economia-politica/la-advertencia-de-rosenkrantz-a-los-abogados-por-el-consejo-de-la-magistratura-la-proxima-vayan-a-votar/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/4LRBUH7DLNHO7JZT4Z6NVPQ72M.jpeg?auth=141ad9eae8b4c37be9c5ae11fcb39bde5f49b7b4fbe86194dbe097c7d53a256d&smart=true&width=1200&height=900",
+   "date": "2026-11-05T19:00:48+00:00"
+  },
+  {
+   "title": "Empresas tecnológicas y grupos ecologistas negocian salvaguardas para centros de datos",
+   "link": "https://www.clarin.com/estados-unidos/empresas-tecnologicas-y-grupos-ecologistas-negocian-salvaguardas-para-centros-de-datos_0_Dk3vCPSyiL.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+   "date": "2026-11-05T19:00:26+00:00"
+  },
+  {
+   "title": "Supermercados Dia cambia de manos: el dueño de ChangoMás compró la cadena española",
+   "link": "https://www.ambito.com/negocios/supermercados-dia-cambia-manos-el-dueno-changomas-compro-la-cadena-espanola-n6342050",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/c50fe8118a7a6edfae8ed8980e93336a/adjuntos/239/imagenes/038/243/0038243077/1200x675/smart/grupo-diajpg.jpg",
+   "date": "2026-11-05T18:56:00+00:00"
+  },
+  {
+   "title": "El dólar mayorista retrocedió previo al feriado bancario, pero sumó su cuarta semana consecutiva al alza",
+   "link": "https://www.ambito.com/finanzas/el-dolar-se-mantiene-cerca-maximos-historicos-nominales-y-la-devaluacion-del-real-brasil-enciende-alertas-n6341762",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/d751d2c1dc58e5e999ebf5ac31d23048/adjuntos/351/imagenes/041/346/0041346926/1200x675/smart/dolar-tipo-cambio-divisa.jpg",
+   "date": "2026-11-05T18:54:00+00:00"
+  },
+  {
+   "title": "Es argentino, admira a Haaland y firmó contrato con Santos de Brasil hasta 2029 con una cláusula millonaria",
+   "link": "https://www.ole.com.ar/futbol-internacional/ignacio-pereira-salmon-juveni-contrato-profesional-santos-brasil-argentina_0_7giBLdivPr.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/05/zwZbVomZm_1200x630__1.jpg",
+   "date": "2026-11-05T18:53:58+00:00"
+  },
+  {
+   "title": "Aldosivi vs. River, EN VIVO: Beltrán chocó con Otamendi y el Tiburón se encontró con el gol, pero el VAR salvó al Millo",
+   "link": "https://www.ole.com.ar/futbol-primera/aldosivi-vs-river-vivo-minuto-minuto-partido-torneo-clausura-fecha16_0_h9r9bVagbD.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/05/ZfFA-nFwQ_1200x630__1.jpg",
+   "date": "2026-11-05T18:50:00+00:00"
+  },
+  {
+   "title": "YPF, a un contrato de cerrar el paquete de Argentina LNG",
+   "link": "https://www.cronista.com/economia-politica/ypf-a-un-contrato-de-cerrar-el-paquete-comercial-de-argentina-lng/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/EV5MZWLYJFC5RJCU2GHD2LHJNQ.jpg?auth=db8a49e019105538b2bcc756afc89aeded7d15c5d589a344b6d40c59f7cc1afc&smart=true&width=1200&height=900",
+   "date": "2026-11-05T18:37:49+00:00"
+  },
+  {
+   "title": "Advierten que la recaudación de impuestos se sostiene solo por \"factores excepcionales\"",
+   "link": "https://www.ambito.com/economia/advierten-que-la-recaudacion-impuestos-se-sostiene-solo-factores-excepcionales-n6341858",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/787aa490af0ef2f8c659825e00a19439/adjuntos/239/imagenes/043/727/0043727684/1200x675/2146x1043:2166x1063/impuestos-arca-ganancias-ingresos-brutos.jpg",
+   "date": "2026-11-05T18:37:00+00:00"
+  },
+  {
+   "title": "Advierten que la recaudación de impuestos se sostiene solo por \"factores excepcionales\"",
+   "link": "https://www.ambito.com/economia/advierten-que-la-recaudacion-impuestos-se-sostiene-solo-factores-excepcionales-n6341858",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/787aa490af0ef2f8c659825e00a19439/adjuntos/239/imagenes/043/727/0043727684/1200x675/2146x1043:2166x1063/impuestos-arca-ganancias-ingresos-brutos.jpg",
+   "date": "2026-11-05T18:37:00+00:00"
+  },
+  {
+   "title": "Los dos referentes de River que estuvieron en el palco del Minella",
+   "link": "https://www.ole.com.ar/river-plate/river-plate-aldosivi-martinez-quarta-gonzalo-montiel-palco-tribuna-presentes_0_atwX7BaitQ.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/05/K7BPf7ng1_1200x630__1.jpg",
+   "date": "2026-11-05T18:35:39+00:00"
+  },
+  {
+   "title": "\"También fuimos víctimas\": el contundente comunicado de los jugadores de Paraguay por la crisis que afecta al país",
+   "link": "https://www.ole.com.ar/informacion-general/comunicado-jugadores-paraguay-crisisfinanciera-uenobank_0_8GvLQ8emHC.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/06/05/JycoV8DGh_1200x630__1.jpg",
+   "date": "2026-11-05T18:34:12+00:00"
   },
   {
    "title": "Cristiano Ronaldo se retiró de Portugal: los diez récords que lo convirtieron en leyenda",
@@ -282,31 +538,7 @@
    "date": "2026-11-05T18:11:05+00:00"
   },
   {
-   "title": "“El Rey atendió a Kast y no a Milei por insultar a Pedro Sánchez”",
-   "link": "https://perfil.com/modo-fontevecchia/el-rey-atendio-a-kast-y-no-a-milei-por-insultar-a-pedro-sanchez-ahUvP3z1ZwyX",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/3b91e71bca4d-fernando-gonzalez-en-la-escuela-de-comunicacion-775816.jpg",
-   "date": "2026-11-05T18:05:28+00:00"
-  },
-  {
-   "title": "Ultra Buenos Aires 2027 confirmó nueva sede: fechas y todo lo que se sabe del festival",
-   "link": "https://perfil.com/entretenimiento/ultra-buenos-aires-2027-confirmo-nueva-sede-fechas-y-todo-lo-que-se-sabe-del-festival-a50-aPkjG8b3SRB9",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/c8be9a07be78-captura-de-pantalla-2026-11-05-124413.webp",
-   "date": "2026-11-05T18:04:37+00:00"
-  },
-  {
-   "title": "El multitudinario funeral de Jesús de Miguel en España",
-   "link": "https://www.ole.com.ar/futbol-internacional/espana/mundo-futbol-despide-jesus-miguel-multitudinario-funeral-espana-toledo-navahermosa-velorio-paso_0_qfNQAPiHLy.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/05/dkk-jaqB6_1200x630__1.jpg",
-   "date": "2026-11-05T18:02:50+00:00"
-  },
-  {
-   "title": "El riesgo país se dispara arriba de los 920 puntos y una acción se hunde 16% a dos días de la \"ola demócrata\" en EEUU",
+   "title": "El riesgo país se dispara casi 9% y queda a un paso de los 930 puntos a dos días de la \"ola demócrata\" en EEUU",
    "link": "https://www.ambito.com/finanzas/los-bonos-dolares-arrancan-rojo-wall-street-mientras-que-el-riesgo-pais-supera-los-850-puntos-n6341870",
    "source": "Ámbito",
    "cat": "argentina",
@@ -314,28 +546,12 @@
    "date": "2026-11-05T18:02:00+00:00"
   },
   {
-   "title": "\"Yo vi al enemigo, y somos nosotros\": el histórico colapso del equipo de Trump desde adentro",
-   "link": "https://www.clarin.com/new-york-times-international-weekly/vi-enemigo-historico-colapso-equipo-trump-adentro_0_0RXKuhOEwv.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/DOfmPwNdp_1200x630__1.jpg",
-   "date": "2026-11-05T18:00:43+00:00"
-  },
-  {
-   "title": "Tasas hipotecarias en EEUU bajan por tercera semana consecutiva",
-   "link": "https://www.clarin.com/estados-unidos/tasas-hipotecarias-en-eeuu-bajan-por-tercera-semana-consecutiva_0_7gahocnXwi.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
-   "date": "2026-11-05T18:00:16+00:00"
-  },
-  {
-   "title": "El operativo de los Menem y Karina Milei para demarcarse de Bullrich ya empezó y hay cortocircuitos en el equipo de la ex ministra",
-   "link": "https://www.clarin.com/politica/operativo-menem-karina-milei-demarcarse-bullrich-empezo-cortocircuitos-equipo-ex-ministra_0_92bgfH2aaQ.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/952nmsEIV_1200x630__1.jpg",
-   "date": "2026-11-05T17:58:43+00:00"
+   "title": "¿Por qué el cuerpo humano emite luz visible?",
+   "link": "https://muyinteresante.okdiario.com/ciencia/por-que-el-cuerpo-humano-emite-luz-visible.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/por-que-el-cuerpo-humano-emite-luz.jpg",
+   "date": "2026-11-05T18:01:36+00:00"
   },
   {
    "title": "Santiago Peña renuncia a la presidencia de Paraguay pero la Cámara de Diputados aprueba someterlo a juicio político por el caso Ueno Bank",
@@ -346,70 +562,6 @@
    "date": "2026-11-05T17:57:00+00:00"
   },
   {
-   "title": "F1 GP de Brasil: horarios del entrenamiento y clasificación, cómo y dónde ver la Fórmula 1",
-   "link": "https://www.clarin.com/informacion-general/f1-gp-brasil-horarios-entrenamiento-clasificacion-ver-formula-1_0_ZTMR6uGsXi.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/02/GtJyreRMx_1200x630__1.jpg",
-   "date": "2026-11-05T17:56:25+00:00"
-  },
-  {
-   "title": "El look etéreo y romántico de María Vázquez: vestido blanco, transparencias y volados",
-   "link": "https://perfil.com/entretenimiento/el-look-etereo-y-romantico-de-maria-vazquez-vestido-blanco-transparencias-y-volados-aYi8s6E6SVBY",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/7c4d63954863-foto-apertura-notas-2026-11-05t143131620.webp",
-   "date": "2026-11-05T17:55:45+00:00"
-  },
-  {
-   "title": "Mató a un joven, salió de la cárcel antes de cumplir su condena y volvió a atacar: le dieron cadena perpetua",
-   "link": "https://www.clarin.com/internacional/mato-joven-salio-carcel-cumplir-condena-volvio-atacar-dieron-cadena-perpetua_0_Q1WIitDmbm.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/riZLGQ5C-_1200x630__1.jpg",
-   "date": "2026-11-05T17:53:58+00:00"
-  },
-  {
-   "title": "Cómo era Nicki Nicole antes de la fama: los recuerdos de su infancia en Rosario",
-   "link": "https://perfil.com/entretenimiento/como-era-nicki-nicole-antes-de-la-fama-los-recuerdos-de-su-infancia-en-rosario-aR0eR1d8U7dp",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/7d7f3d0edeec-foto-apertura-notas-2026-11-05t121831820.webp",
-   "date": "2026-11-05T17:53:23+00:00"
-  },
-  {
-   "title": "El Papa almorzará carne cordobesa durante su visita: qué corte le servirán y de dónde proviene",
-   "link": "https://perfil.com/cordoba/el-papa-almorzara-carne-cordobesa-durante-su-visita-que-corte-le-serviran-y-de-donde-proviene-azFYa8r9z63C",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/f35ea4e59cb8-bife-de-chorizo.webp",
-   "date": "2026-11-05T17:53:04+00:00"
-  },
-  {
-   "title": "Aldosivi vs. River, EN VIVO: el Millonario domina el partido, pero no logra romper el cero",
-   "link": "https://www.ole.com.ar/futbol-primera/aldosivi-vs-river-vivo-minuto-minuto-partido-torneo-clausura-fecha16_0_h9r9bVagbD.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/05/4Ey_zdoiP_1200x630__1.jpg",
-   "date": "2026-11-05T17:52:00+00:00"
-  },
-  {
-   "title": "La NASA presenta el X-70, un avión experimental tripulado para probar tecnologías de vuelo",
-   "link": "https://www.clarin.com/estados-unidos/la-nasa-presenta-el-x-70-un-avion-experimental-tripulado-para-probar-tecnologias-de-vuelo_0_p5YztMlwwo.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/27/-I2w8bjWX_1200x630__1.jpg",
-   "date": "2026-11-05T17:50:20+00:00"
-  },
-  {
-   "title": "La primera ayuda de Colapinto al debutante Camara: meterlo en el grupo de WhatsApp de los pilotos de Fórmula 1",
-   "link": "https://www.ole.com.ar/autos/francocolapinto-rafaelcamara-formula1-whatsapp-gabrielbortoleto_0_6X786lomPb.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/05/bx2gPq9kq_1200x630__1.jpg",
-   "date": "2026-11-05T17:50:10+00:00"
-  },
-  {
    "title": "La Cámara de Diputados de Paraguay aprobó por unanimidad el juicio político contra Santiago Peña",
    "link": "https://www.ambito.com/mundo/la-camara-diputados-paraguay-aprobo-unanimidad-el-juicio-politico-contra-santiago-pena-n6341884",
    "source": "Ámbito",
@@ -418,68 +570,12 @@
    "date": "2026-11-05T17:50:00+00:00"
   },
   {
-   "title": "Se consolida un canal para la venta de hacienda con destino a exportación de carne",
-   "link": "https://www.clarin.com/rural/consolida-canal-venta-hacienda-destino-exportacion-carne_0_OLkqpogI6e.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/jSrzXHhQt_1200x630__1.jpg",
-   "date": "2026-11-05T17:49:59+00:00"
-  },
-  {
-   "title": "Gimnasia de La Plata vs Belgrano, EN VIVO, por el Torneo Clausura: a qué hora juegan, formaciones y cómo ver el partido",
-   "link": "https://www.clarin.com/deportes/gimnasia-plata-vs-belgrano-vivo-torneo-clausura-hora-juegan-formaciones-ver-partido_0_6bpZtQ37M4.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/k6BJhaKkg_1200x630__1.jpg",
-   "date": "2026-11-05T17:46:30+00:00"
-  },
-  {
-   "title": "El desgarrador mensaje de la familia de Jesús de Miguel tras su fallecimiento: \"Deja un vacío imposible de llenar\"",
-   "link": "https://perfil.com/entretenimiento/el-desgarrador-mensaje-de-la-familia-de-jesus-de-miguel-tras-su-fallecimiento-deja-un-vacio-imposible-de-llenar-a2JHI6v0dS2W",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/065516f55067-jesus-de-miguel.webp",
-   "date": "2026-11-05T17:46:00+00:00"
-  },
-  {
-   "title": "AmCham advierte que la nueva conformación del Congreso de EE.UU. condicionaría el apoyo financiero a la Argentina",
-   "link": "https://perfil.com/economia/amcham-advierte-que-la-nueva-conformacion-del-congreso-de-ee.uu.-condicionaria-el-apoyo-financiero-a-la-argentina-apxaX9H3t12S",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/f9af8b2195fc-javier-milei-y-donald-trump-2272933.webp",
-   "date": "2026-11-05T17:45:30+00:00"
-  },
-  {
-   "title": "Cristiano Ronaldo anunció su retiro de la Selección de Portugal tras 23 años: \"Portugal estará siempre en mí\"",
-   "link": "https://perfil.com/entretenimiento/cristiano-ronaldo-anuncio-su-retiro-de-la-seleccion-de-portugal-tras-23-anos-portugal-estara-siempre-en-mi-aO45Y5Y3lLjn",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/7c52b2c96e26-cristiano-ronaldo-2346639.webp",
-   "date": "2026-11-05T17:44:09+00:00"
-  },
-  {
    "title": "La política de subsidios al transporte suma quejas entre gobernadores y sube a los intendentes al ring",
    "link": "https://www.ambito.com/ambito-nacional/la-politica-subsidios-al-transporte-suma-quejas-gobernadores-y-sube-los-intendentes-al-ring-n6342013",
    "source": "Ámbito",
    "cat": "argentina",
    "image": "https://media.ambito.com/p/b5c42b476e987115f7024b9c904f492c/adjuntos/239/imagenes/043/617/0043617326/colectivos-transporte-publico-paradas-sube-paro.jpg",
    "date": "2026-11-05T17:43:00+00:00"
-  },
-  {
-   "title": "Bomberos voluntarios aprendieron a intervenir en choques e incendios de autos eléctricos",
-   "link": "https://www.clarin.com/zonales/bomberos-voluntarios-aprendieron-intervenir-choques-incendios-autos-electricos_0_mhfWXvR6kW.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/02/bZRSax5w1_1200x630__1.jpg",
-   "date": "2026-11-05T17:39:14+00:00"
-  },
-  {
-   "title": "Argentina sigue siendo el país que más recursos le extrae al campo: la carga equivale al 13,5% de sus ingresos",
-   "link": "https://www.clarin.com/rural/argentina-sigue-pais-recursos-extrae-campo-carga-equivale-135-ingresos_0_HNI2Y8MY44.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2025/04/19/ULPUrQmxD_1200x630__1.jpg",
-   "date": "2026-11-05T17:38:22+00:00"
   },
   {
    "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
@@ -506,68 +602,12 @@
    "date": "2026-11-05T17:33:01+00:00"
   },
   {
-   "title": "El marido de Dua Lipa podría ser el próximo James Bond y ya tiene el visto bueno de Pierce Brosnan",
-   "link": "https://www.clarin.com/espectaculos/marido-dua-lipa-podria-proximo-james-bond-visto-bueno-pierce-brosnan_0_wATxzuvBwS.html",
-   "source": "Clarín Espectáculos",
-   "cat": "espectaculos",
-   "image": "https://www.clarin.com/img/2026/11/05/JU-q5rNtW_1200x630__1.jpg",
-   "date": "2026-11-05T17:32:17+00:00"
-  },
-  {
-   "title": "Etcheverry cayó en octavos del Masters 1000 de París ante el australiano que eliminó a Djokovic",
-   "link": "https://www.ole.com.ar/tenis/etcheverry-cayo-octavos-masters-1000-paris_0_t2e4DRSKas.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/05/rmrJK8xd6_1200x630__1.jpg",
-   "date": "2026-11-05T17:27:48+00:00"
-  },
-  {
-   "title": "Crisis en Paraguay: las claves para entender el conflicto con Ueno Bank que terminó en la renuncia de Santiago Peña",
-   "link": "https://www.cronista.com/internacionales/crisis-en-paraguay-las-claves-para-entender-el-conflicto-con-ueno-bank-que-termino-en-la-renuncia-de-santiago-pena/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/P25QLM4CTRCLLJ2IFLU2MGXJU4.jpg?auth=cd37a996110b9cf14773baaacf122454428e3cdcc020347ed8c5b0573132e435&smart=true&width=1200&height=900",
-   "date": "2026-11-05T17:21:55+00:00"
-  },
-  {
-   "title": "La sorpresa de Ponzio en el 11 de River para jugar ante Aldosivi",
-   "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-sorpresa-11-titular-santiago-espindola_0_5AHN7lvXWg.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/21/2YaFd2zUe_1200x630__1.jpg",
-   "date": "2026-11-05T17:12:00+00:00"
-  },
-  {
-   "title": "Todos los récords que rompió el Como con su histórica goleada frente al Lens por la Champions",
-   "link": "https://www.ole.com.ar/futbol-internacional/champions/champions-league-lens-goleada-nico-paz-record_0_iGjuFLvo92.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/05/40Hg8pwux_1200x630__1.jpg",
-   "date": "2026-11-05T17:02:02+00:00"
-  },
-  {
-   "title": "El dólar salta 10% en Paraguay y el riesgo país se eleva 16% tras la renuncia de su presidente",
-   "link": "https://www.ambito.com/finanzas/el-dolar-salta-10-paraguay-y-el-riesgo-pais-se-eleva-16-la-renuncia-su-presidente-n6342004",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/b052f2bc8e24597df0d03fa91648b976/adjuntos/239/imagenes/041/796/0041796685/1200x675/smart/guaraniespng.png",
-   "date": "2026-11-05T17:00:00+00:00"
-  },
-  {
    "title": "Anthony Ippolito, de no haber boxeado nunca a convertirse en Rocky: el exigente entrenamiento para interpretar a Sylvester Stallone",
    "link": "https://www.clarin.com/espectaculos/anthony-ippolito-boxeado-convertirse-rocky-exigente-entrenamiento-interpretar-sylvester-stallone_0_MhR2nT1vi7.html",
    "source": "Clarín Espectáculos",
    "cat": "espectaculos",
    "image": "https://www.clarin.com/img/2025/09/01/8uHpQV1k7_1200x630__1.jpg",
    "date": "2026-11-05T16:55:40+00:00"
-  },
-  {
-   "title": "Quién es Pedro Alliana, la figura que asume la presidencia de Paraguay tras la renuncia de Santiago Peña",
-   "link": "https://www.ambito.com/mundo/quien-es-pedro-alliana-la-figura-que-asume-la-presidencia-paraguay-lugar-santiago-pena-n6341991",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/7c3d796d6dab08eb0e1bccc878204d68/adjuntos/239/imagenes/043/750/0043750410/pedro-alliana.jpg",
-   "date": "2026-11-05T16:45:00+00:00"
   },
   {
    "title": "Santiago Peña renunció a la presidencia de Paraguay en medio del escándalo de Ueno Bank y se profundiza la crisis política",
@@ -602,6 +642,14 @@
    "date": "2026-11-05T16:15:45+00:00"
   },
   {
+   "title": "¿Una botella de vidrio es siempre más ecológica que una de plástico?",
+   "link": "https://muyinteresante.okdiario.com/ciencia/botella-vidrio-plastico-cual-es-mas-ecologica.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/una-botella-de-vidrio-es-siempre-mas.jpg",
+   "date": "2026-11-05T16:01:18+00:00"
+  },
+  {
    "title": "El escándalo de Ueno Bank en Paraguay ya impacta a la Argentina: suspenden a 1.000 empleados de una consultora que le presta servicios",
    "link": "https://www.clarin.com/economia/escandalo-ueno-bank-paraguay-impacta-argentina-suspenden-1000-empleados-consultora-presta-servicios_0_wr2xvqpDiA.html",
    "source": "Clarín Economía",
@@ -626,14 +674,6 @@
    "date": "2026-11-05T15:12:11+00:00"
   },
   {
-   "title": "Investigan si el Gobierno usó fondos públicos para facilitar la salida de Flávio Bolsonaro de la Argentina",
-   "link": "https://www.ambito.com/politica/investigan-si-el-gobierno-uso-fondos-publicos-facilitar-la-salida-flavio-bolsonaro-la-argentina-n6341921",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/8022fdaafe0770b46d54ae04c570d03e/adjuntos/239/imagenes/043/477/0043477446/javier-milei-flavio-bolsonaro.jpeg",
-   "date": "2026-11-05T15:11:56+00:00"
-  },
-  {
    "title": "Cuánto cuesta el libro de León XIV, \"La fuerza del Evangelio\" y dónde comprarlo",
    "link": "https://www.ambito.com/economia/cuanto-cuesta-el-libro-leon-xiv-la-fuerza-del-evangelio-y-donde-comprarlo-n6325182",
    "source": "Ámbito Economía",
@@ -648,14 +688,6 @@
    "cat": "economia",
    "image": "https://www.clarin.com/img/2026/11/05/YvGicxZkL_1200x630__1.jpg",
    "date": "2026-11-05T15:05:10+00:00"
-  },
-  {
-   "title": "Vladimir Werning, vice del BCRA: \"La rentabilidad de los sectores exportadores tiene un efecto derrame fuertísimo\"",
-   "link": "https://www.ambito.com/economia/vladimir-werning-vice-del-bcra-la-rentabilidad-los-sectores-exportadores-tiene-un-efecto-derrame-fuertisimo-n6341886",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/b5387d08a94887ef751c8bddf259291f/adjuntos/239/imagenes/042/937/0042937631/werningbcrajpg.png",
-   "date": "2026-11-05T14:53:00+00:00"
   },
   {
    "title": "Vladimir Werning, vice del BCRA: \"La rentabilidad de los sectores exportadores tiene un efecto derrame fuertísimo\"",
@@ -680,6 +712,22 @@
    "cat": "economia",
    "image": "https://www.clarin.com/img/2026/11/03/S5ojny47f_1200x630__1.jpg",
    "date": "2026-11-05T14:21:51+00:00"
+  },
+  {
+   "title": "Se vendió Dia: el Grupo de Narváez, dueño de ChangoMás, se quedó con la cadena de supermercados",
+   "link": "https://www.cronista.com/negocios/se-vendio-dia-del-grupo-de-narvaez-dueno-de-changomas-se-quedo-con-la-cadena-de-supermercados/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/6SVSGYSKA5EHJM7PWT7UGISXPI.jpg?auth=1b3c3d1aa6212881f31f7e1e4be8e28196bcfec0eed1cbb0f545e7c6b7faf1b4&smart=true&width=1200&height=900",
+   "date": "2026-11-05T14:16:28+00:00"
+  },
+  {
+   "title": "Comprar para alquilar: el récord de oferta hace bajar los precios y achica la renta de invertir en ladrillos",
+   "link": "https://www.cronista.com/economia-politica/comprar-para-alquilar-el-record-de-oferta-hace-bajar-los-precios-y-achica-la-renta-de-invertir-en-ladrillos/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/B6JRZINZVFCFFCLFYVQYYOXRIA.png?auth=e82a6ca0c3ca57ece25fd1800c8e8ef7d97c2b821362c30eaa36071256c1d3b4&smart=true&width=1200&height=900",
+   "date": "2026-11-05T14:14:39+00:00"
   },
   {
    "title": "Por la crecida del Paraná y el Uruguay, el gobierno de Entre Ríos declaró la emergencia agropecuaria en la zona de islas e inundables",
@@ -722,14 +770,6 @@
    "date": "2026-11-05T13:39:26+00:00"
   },
   {
-   "title": "El mapa de apoyos de Javier Milei comienza a debilitarse",
-   "link": "https://www.ambito.com/politica/el-mapa-apoyos-javier-milei-comienza-debilitarse-n6341822",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/b70d585b1e9efdb5fbef0ff226534721/adjuntos/239/imagenes/043/677/0043677596/milei-trump-.jpg",
-   "date": "2026-11-05T13:38:00+00:00"
-  },
-  {
    "title": "China exige una baja de aranceles a EEUU para destrabar la compra de productos agrícolas",
    "link": "https://www.ambito.com/economia/china-exige-una-baja-aranceles-eeuu-destrabar-la-compra-productos-agricolas-n6341802",
    "source": "Ámbito Economía",
@@ -770,14 +810,6 @@
    "date": "2026-11-05T11:31:25+00:00"
   },
   {
-   "title": "ARCA prorrogó hasta junio de 2027 la moratoria para pymes, monotributistas y entidades sin fines de lucro",
-   "link": "https://www.ambito.com/economia/arca-prorrogo-junio-2027-la-moratoria-pymes-monotributistas-y-entidades-fines-lucro-n6341753",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/4dba0d3159357d6df8bed0fb470a6d26/adjuntos/239/imagenes/043/620/0043620149/1200x675/859x320:879x340/billetera-virtual-arca-celular.jpg",
-   "date": "2026-11-05T11:20:00+00:00"
-  },
-  {
    "title": "\"Ha llegado el día de devolver la camiseta número 7\": Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
    "link": "https://www.bbc.com/mundo/articles/ck8dz330rjmvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -800,22 +832,6 @@
    "cat": "espectaculos",
    "image": "https://www.clarin.com/img/2024/08/21/7EQxdTEMz_1200x630__1.jpg",
    "date": "2026-11-05T10:15:02+00:00"
-  },
-  {
-   "title": "Advierten que el poder de fuego del FMI quedó rezagado",
-   "link": "https://www.ambito.com/economia/advierten-que-el-poder-fuego-del-fmi-quedo-rezagado-n6341691",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/aca73cf8104bee0dc0ab2e198ecfda59/adjuntos/239/imagenes/043/369/0043369696/1200x675/smart/fmi-dolaresjpg.jpg",
-   "date": "2026-11-05T10:00:00+00:00"
-  },
-  {
-   "title": "¿Puede EEUU volver a rescatar a la Argentina? Dudas tras la ola azul y cuestionamientos por no salir antes al mercado",
-   "link": "https://www.ambito.com/economia/puede-eeuu-volver-rescatar-la-argentina-dudas-la-ola-azul-y-cuestionamientos-no-salir-antes-al-mercado-n6341673",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/a601f9acfdead034d6951597f7fdfe2c/adjuntos/239/imagenes/043/714/0043714849/1200x675/700x450:720x470/javier-milei-y-donald-trump.png",
-   "date": "2026-11-05T10:00:00+00:00"
   },
   {
    "title": "¿Quién mató al famoso arqueólogo británico James Starkey hace 88 años? Descubren nuevas pistas sobre un crimen que desconcertó a los historiadores",
@@ -890,12 +906,12 @@
    "date": "2026-11-05T03:51:50+00:00"
   },
   {
-   "title": "Denuncian a empresa de los Neuss por evadir impuestos por $6.600 millones",
-   "link": "https://www.ambito.com/politica/denuncian-empresa-los-neuss-evadir-impuestos-6600-millones-n6341680",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/0e7959a26a7b5102bbf49790e9bd6485/adjuntos/239/imagenes/043/358/0043358623/1200x675/smart/neuss.jpeg",
-   "date": "2026-11-05T03:00:00+00:00"
+   "title": "Un Stone con Mario Pergolini: Ronnie Wood visitó El Trece antes de su esperado show en Buenos Aires",
+   "link": "https://www.clarin.com/espectaculos/stone-mario-pergolini-ronnie-wood-visito-canal-13-esperado-show-buenos-aires_0_Q4Ou7banDI.html",
+   "source": "Clarín Espectáculos",
+   "cat": "espectaculos",
+   "image": "https://www.clarin.com/img/2026/11/05/nPPSHGEnU_1200x630__1.jpg",
+   "date": "2026-11-05T03:01:18+00:00"
   },
   {
    "title": "Resuelven el código secreto de un candado de hace más de 400 años encontrado en un naufragio: cuatro letras ocultaban la clave",
@@ -930,22 +946,6 @@
    "date": "2026-11-04T18:01:09+00:00"
   },
   {
-   "title": "Orient dinamita el precio de su clásico Bambino para conquistar a los amantes de la relojería",
-   "link": "https://muyinteresante.okdiario.com/bazar/orient-dinamita-el-precio-de-su-clasico-bambino-para-conquistar-a-los-amantes-de-la-relojeria.html",
-   "source": "Muy Interesante",
-   "cat": "ciencia",
-   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/Orient-Bambino-RA-AP0003S-rebajado-og.jpg",
-   "date": "2026-11-04T16:29:25+00:00"
-  },
-  {
-   "title": "¿Cómo podemos ver una explosión estelar que ocurrió hace más de 12.000 millones de años?",
-   "link": "https://muyinteresante.okdiario.com/ciencia/james-webb-posible-supernova-12000-millones-anos.html",
-   "source": "Muy Interesante",
-   "cat": "ciencia",
-   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/como-podemos-ver-una-explosion-estelar.jpg",
-   "date": "2026-11-04T16:01:19+00:00"
-  },
-  {
    "title": "Los gráficos y mapas que muestran la magnitud del histórico triunfo de los demócratas en EE.UU.",
    "link": "https://www.bbc.com/mundo/articles/c63dj78e4z40o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -954,11 +954,11 @@
    "date": "2026-11-04T13:21:27+00:00"
   },
   {
-   "title": "Renuncia de Santiago Peña: Diputados de Paraguay votan por unanimidad el juicio político al presidente a pesar de su dimisión",
+   "title": "Crisis en Paraguay: renuncia el presidente Santiago Peña por el escándalo de Ueno Bank",
    "link": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
    "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5c6/live/ec5e8750-d938-11f1-95ea-8df9a040b6bf.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/21f39400-d948-11f1-93e1-3b657b665bcf.jpg",
    "date": ""
   }
  ]
