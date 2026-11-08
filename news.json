@@ -1,6 +1,302 @@
 {
- "updated": "2026-11-08T23:24:15.679101+00:00",
+ "updated": "2026-11-08T23:57:57.569987+00:00",
  "items": [
+  {
+   "title": "“Lo vi, me tiembla todo”: fervor en la ciudad por la presencia del papa León XIV, del centro a Palermo",
+   "link": "https://www.lanacion.com.ar/sociedad/va-a-pasar-por-aca-furor-en-el-centro-porteno-por-la-presencia-del-papa-en-la-ciudad-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/FP3IT5WZTNBYDF2HYQHQ5HO6FQ.JPG?auth=24bf99d7b3782fa3487d4be67fed394de1f5786e80a9d223743125bdab6dbb08&smart=true&width=2000&height=1331",
+   "date": "2026-11-08T23:54:07+00:00"
+  },
+  {
+   "title": "La visita del Papa pone en pausa la grieta pero no el dilema político y económico",
+   "link": "https://www.clarin.com/opinion/visita-papa-pone-pausa-grieta-dilema-politico-economico_0_A4eyAtG29n.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/08/IIeChq95N_1200x630__1.jpg",
+   "date": "2026-11-08T23:53:47+00:00"
+  },
+  {
+   "title": "León XIV inició una visita histórica a la Argentina: homenaje a San Martín, reunión con Milei y discurso crítico en el Palacio Libertad",
+   "link": "https://www.cronista.com/economia-politica/leon-xiv-en-argentina-en-vivo-la-visita-del-papa-minuto-a-minuto-y-su-agenda-en-buenos-aires-cordoba-y-lujan/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/QSJJOKFD3VCYPOF7GHMOONJ654.jpg?auth=24a1940434f4aa17db2369a698e39d50eddf3fb50a9decf4559953f759c00def&smart=true&width=1200&height=900",
+   "date": "2026-11-08T23:53:46+00:00"
+  },
+  {
+   "title": "Así se vivió entre los fieles la visita de León XIV a la plaza San Martín",
+   "link": "https://www.lanacion.com.ar/sociedad/asi-se-vivio-entre-los-fieles-la-visita-de-leon-xiv-a-la-plaza-san-martin-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/OI7SUADMUVBKZHARI5ZXTNTGMU.JPG?auth=e489d2750a0d3ad16da0d4dd5fb6c4eeed819edec4d7126abe6ea589dfaa49f9&smart=true&width=2000&height=1369",
+   "date": "2026-11-08T23:53:43+00:00"
+  },
+  {
+   "title": "Condenaron a 18 años de cárcel al líder de la secta de los “sanadores egipcios”",
+   "link": "https://www.lanacion.com.ar/seguridad/condenaron-a-18-anos-de-carcel-al-lider-de-la-secta-de-los-sanadores-egipcios-nid06112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/NCLJU7HULBCSRMOLPNKDNRILQQ.jpg?auth=58c06d27c7cfb6c3a18bc18c21c5b7c9544f5fca6845c312cc701ba055d29c7a&smart=true&width=720&height=540",
+   "date": "2026-11-08T23:53:20+00:00"
+  },
+  {
+   "title": "Papa León XIV en la Argentina, EN VIVO: el arribo al país, la agenda del domingo y las últimas noticias hoy",
+   "link": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-llegada-a-la-argentina-y-las-ultimas-noticias-de-su-agenda-en-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/FNVZM3H3L5A7PKSXIAAP7MUF3M.jpg?auth=055ef5c670d759f37287fa099a4c29673ef0631102dd3aad619913b83296d127&smart=true&width=2000&height=1333",
+   "date": "2026-11-08T23:53:14+00:00"
+  },
+  {
+   "title": "Milei, sobre el pedido de diálogo del Papa: “En la Argentina, los debates no son honestos intelectualmente”",
+   "link": "https://www.lanacion.com.ar/politica/milei-sobre-el-pedido-de-consensos-del-papa-en-la-argentina-los-debates-no-son-honestos-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/AVKJATTJJNDCXJOSXCYYHMPP5U.JPG?auth=d8870efaaa895f980b51fab86cd88b8f03b5deb7a8d251719a7240e41b7d1f44&smart=true&width=2000&height=1333",
+   "date": "2026-11-08T23:52:29+00:00"
+  },
+  {
+   "title": "Rating: cuánto midió la cobertura de la llegada del Papa León XIV a la Argentina",
+   "link": "https://www.lanacion.com.ar/espectaculos/personajes/rating-cuanto-midio-la-cobertura-de-la-llegada-del-papa-leon-xiv-a-la-argentina-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/54YPYMKG6RCVDLHBLARSPVLRL4.JPG?auth=3ee2ca1c5b560c237b15148e449bccef8bed3e43ccb07fe3d4098d9d2779babb&smart=true&width=2998&height=2000",
+   "date": "2026-11-08T23:50:43+00:00"
+  },
+  {
+   "title": "Luka Doncic no jugará el domingo ante los Pistons de Detroit",
+   "link": "https://www.clarin.com/estados-unidos/luka-doncic-no-jugara-el-domingo-ante-los-pistons-de-detroit_0_fSfW3Rxvkk.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
+   "date": "2026-11-08T23:50:03+00:00"
+  },
+  {
+   "title": "En vivo - Central Córdoba (SE) vs. Lanús: 1 - 1, por la fase de grupos de la Liga Profesional",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/08/central-cordoba-se-vs-lanus-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/373VB3NH5JGH5CVU7EMQMRSOJE.jpg?auth=71e270421f7d3f20754ad322823c210f8da1001f6877a41b26bc2e59f5f3498f",
+   "date": "2026-11-08T23:49:29+00:00"
+  },
+  {
+   "title": "La llegada del papa León XIV a la Argentina: las imágenes de una jornada histórica",
+   "link": "https://www.lanacion.com.ar/politica/la-llegada-del-papa-leon-xiv-a-la-argentina-las-imagenes-de-una-jornada-historica-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/ZLPDJRFEOBH5VHV6OZLS5D3BAE.JPG?auth=9ed65188b4d9c41ae43db2a91ac4b91c777f1759d4e79732b85ceabf21c1ef2d&smart=true&width=2000&height=1333",
+   "date": "2026-11-08T23:47:56+00:00"
+  },
+  {
+   "title": "Hernán Drago se sinceró sobre el amor en \"PH, Podemos Hablar\": “Voy a estar solo el resto de mi vida”",
+   "link": "https://perfil.com/entretenimiento/hernan-drago-se-sincero-sobre-el-amor-en-ph-podemos-hablar-voy-a-estar-solo-el-resto-de-mi-vida-aVJ5I4a6xopn",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/12bbcd17215c-texto-del-parrafo-2026-11-08t200138530.webp",
+   "date": "2026-11-08T23:47:03+00:00"
+  },
+  {
+   "title": "León XIV pidió cuidar a los adultos mayores y reclamó una economía al servicio de las personas ante Milei",
+   "link": "https://perfil.com/politica/leon-xiv-pidio-cuidar-a-los-adultos-mayores-y-reclamo-una-economia-al-servicio-de-las-personas-ante-milei-a9X7X1G4oPzi",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/2a408992ba19-000d6v94tq.webp",
+   "date": "2026-11-08T23:46:50+00:00"
+  },
+  {
+   "title": "León XIV pidió que la producción de energía y la minería beneficien a las comunidades y cuiden el ambiente",
+   "link": "https://www.ambito.com/energia/leon-xiv-pidio-que-la-produccion-y-la-mineria-beneficien-las-comunidades-y-cuiden-el-ambiente-n6343017",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/1792e06e76a02c27c796443853389d23/adjuntos/239/imagenes/043/755/0043755723/papa-leon-xiv-energia-y-mineria.png",
+   "date": "2026-11-08T23:45:00+00:00"
+  },
+  {
+   "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este domingo 8 de noviembre",
+   "link": "https://tn.com.ar/economia/2026/11/08/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-domingo-8-de-noviembre/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/FFBWSHWVUFEN7OVKCXYNUZKKFI.jpg?auth=a0ad83c89da4908e98d35d7dce0472bbd45c55b83a4d7ef5dc3037bb091988c5",
+   "date": "2026-11-08T23:44:35+00:00"
+  },
+  {
+   "title": "La alarmante frase de un dirigente del Bayern Munich sobre la salud de Jamal Musiala: \"Padece una enfermedad que no es fácil de curar\"",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/08/la-frase-de-un-dirigente-sobre-la-salud-de-una-de-las-figuras-del-bayern-munich-padece-una-enfermedad-que-no-es-facil-de-curar/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/6SQ7TAQH65G65OS4F6D2IVBATA.jpg?auth=d4198c500a3f658ad9f5a66b616db7e60f573fe9ba83b6a92422f2455a7b16af",
+   "date": "2026-11-08T23:43:53+00:00"
+  },
+  {
+   "title": "La Natividad La Dolfina, campeón de Tortugas: los invencibles resistieron la amenaza y alcanzaron su quinto título",
+   "link": "https://www.lanacion.com.ar/deportes/polo/la-natividad-la-dolfina-campeon-de-tortugas-los-invencibles-resistieron-la-amenaza-y-alcanzaron-su-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/XGZDHMWMT5ESJPKQCORBMGUUDE.jpeg?auth=8533678a67e2a2e217fbe6b575001a8e94767b5021f492973222fd29148f764a&smart=true&width=3800&height=2533",
+   "date": "2026-11-08T23:43:43+00:00"
+  },
+  {
+   "title": "Contra lo esperado, Mauricio Macri asistió al Palacio Libertad para recibir al papa León XIV",
+   "link": "https://www.lanacion.com.ar/deportes/contra-lo-esperado-mauricio-macri-llego-al-palacio-libertad-para-recibir-al-papa-leon-xiv-nid08112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/7DVUZDVH2BA37OYLTPQAUVU3YA.jpg?auth=8b2e269fe90fc3d84be175dc5844b4649a585432c11ae742f4cec6540d16d10d&smart=true&width=743&height=496",
+   "date": "2026-11-08T23:43:25+00:00"
+  },
+  {
+   "title": "El Papa ya está en Sudamérica. La intimidad del viaje de León XIV",
+   "link": "https://www.lanacion.com.ar/el-mundo/el-papa-ya-esta-en-vuelo-la-intimidad-del-vuelo-del-papa-a-sudamerica-nid06112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/7ZOOISKOIJBA7LS5BIDRJLINYQ.JPG?auth=d635aa8e904eed8d07a141980f9cb31f3881771d3e373a628b818e611f46ec64&smart=true&width=8256&height=5504",
+   "date": "2026-11-08T23:43:13+00:00"
+  },
+  {
+   "title": "Qué dijeron los medios internacionales sobre la visita de León XIV a la Argentina: “Hay cordialidad a pesar de sus divergencias”",
+   "link": "https://tn.com.ar/internacional/2026/11/08/que-dijeron-los-medios-internacionales-sobre-la-visita-de-leon-xiv-a-la-argentina-hay-cordialidad-a-pesar-de-sus-divergencias/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/TRRPC4O4EFHHLC4A57WHJFV67A.jpg?auth=c875da021ba13dad2ed97f468a7122e5535ca12b53c9af51e35a1b9345e2911a",
+   "date": "2026-11-08T23:42:48+00:00"
+  },
+  {
+   "title": "Frente a Milei, León XIV marcó límites al modelo económico y reclamó que “la economía debe estar al servicio de la persona”",
+   "link": "https://perfil.com/cordoba/frente-a-milei-leon-xiv-marco-limites-al-modelo-economico-y-reclamo-que-la-economia-debe-estar-al-servicio-de-la-persona-aRkkf7B6Ohnf",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/2a408992ba19-000d6v94tq.webp",
+   "date": "2026-11-08T23:41:23+00:00"
+  },
+  {
+   "title": "La Natividad-La Dolfina sigue imparable: campeón de Tortugas, estiró su racha a 20 victorias al hilo y va por todo en Palermo",
+   "link": "https://www.clarin.com/deportes/natividad-la-dolfina-sigue-imparable-campeon-tortugas-estiro-racha-20-victorias-hilo-va-palermo_0_HEQ7y09X18.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/08/qoggHLp5H_1200x630__1.jpg",
+   "date": "2026-11-08T23:40:42+00:00"
+  },
+  {
+   "title": "León XIV: “Quien ejerce la autoridad tiene el deber de actuar con prudencia y reconocer los límites del poder\"",
+   "link": "https://tn.com.ar/sociedad/2026/11/08/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-a-que-hora-llega-hoy-las-misas-confirmadas-y-las-ultimas-noticias/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/UGWURSSESJAVLO7FJY75FTZBJI.jpg?auth=26c38dfea225172e1e1c56ce9373314d748cb632602f4b68c4af4d3a1c695b0f",
+   "date": "2026-11-08T23:35:33+00:00"
+  },
+  {
+   "title": "Menciones a la democracia, Borges, el tango y el mate: las principales definiciones del papa León XIV en Argentina",
+   "link": "https://www.ambito.com/politica/menciones-la-democracia-borges-el-tango-y-el-mate-las-frases-mas-detacadas-del-discurso-del-papa-leon-xiv-argentina-n6343035",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/12f39e9c18ba26efaf289b4765456892/adjuntos/239/imagenes/043/755/0043755793/1200x675/634x246:654x266/leon-xiv-palacio-libertadjpg.jpeg",
+   "date": "2026-11-08T23:33:00+00:00"
+  },
+  {
+   "title": "De festejar en la cancha a publicar mensajes intimidatorios: la reacción del hincha que creyó que Rosario Central era campeón",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/08/de-festejar-en-la-cancha-a-publicar-mensajes-de-enojo-la-reaccion-del-hincha-que-creyo-que-rosario-central-era-campeon/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/H2EJJYQVMBBA3GKBHGVNMGY4N4.jpg?auth=c2698a7561b18c190e90f9da3164519306cce55835ccf6069752a37b9f70bc83",
+   "date": "2026-11-08T23:32:01+00:00"
+  },
+  {
+   "title": "Campaz fue baja en Colombia: va otro jugador del fútbol argentino",
+   "link": "https://www.ole.com.ar/futbol-internacional/america/jamintoncampaz-nestorlorenzo-seleccioncolombia-rosariocentral-oscarcortes-huracan_0_7V1GGEOzMx.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/08/9iVHkeQ0G_1200x630__1.jpg",
+   "date": "2026-11-08T23:30:24+00:00"
+  },
+  {
+   "title": "Nvidia investiga presunto espionaje de China a su ejecutivo Jensen Huang",
+   "link": "https://www.clarin.com/estados-unidos/nvidia-investiga-presunto-espionaje-de-china-a-su-ejecutivo-jensen-huang_0_UtxQtZlH5n.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+   "date": "2026-11-08T23:30:13+00:00"
+  },
+  {
+   "title": "Los 76ers vencen a los Bulls 127-121 con 29 de Jaylen Brown y 27 de Tyrese Maxey",
+   "link": "https://www.clarin.com/estados-unidos/los-76ers-vencen-a-los-bulls-127-121-con-29-de-jaylen-brown-y-27-de-tyrese-maxey_0_L5uZpYfr1x.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
+   "date": "2026-11-08T23:30:03+00:00"
+  },
+  {
+   "title": "Cómo quitar las manchas de aceite de la ropa: el ingrediente de cocina que ayuda a absorber la grasa antes del lavado",
+   "link": "https://www.cronista.com/usa/lifestyle/como-quitar-las-manchas-de-aceite-de-la-ropa-el-ingrediente-de-cocina-que-ayuda-a-absorber-la-grasa-antes-del-lavado/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/FVTCR5YBEVGZRLW4TP7TOJSEV4.png?auth=ecbe3dadb5453a124b83c0566490e01fdf1453df8e2faccc64471471351031d0&smart=true&width=1200&height=900",
+   "date": "2026-11-08T23:30:00+00:00"
+  },
+  {
+   "title": "Chocó con un pozo en la ruta, rompió su moto y demandó al Estado: la Justicia ordenó indemnizarlo con $1,8 millones",
+   "link": "https://tn.com.ar/policiales/2026/11/08/choco-con-un-pozo-en-la-ruta-rompio-su-moto-y-demando-al-estado-la-justicia-ordeno-indemnizarlo/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/AEOXSE5RXFDMJMMY7WJGG7H73A.png?auth=c0f8f01b44504a21715071c5b759d605f0137f48a6e095099ea608be981ce830",
+   "date": "2026-11-08T23:29:05+00:00"
+  },
+  {
+   "title": "El detrás de escena del primer discurso de León XIV: Macri, Villarruel, Kicillof y los gestos de una intensa jornada",
+   "link": "https://www.cronista.com/economia-politica/el-detras-de-escena-del-primer-discurso-de-leon-xiv-macri-villarruel-kicillof-y-los-gestos-de-una-intensa-jornada/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/RBF2I2SUIFANHKFL2MHXGAXUWY.jpg?auth=37bd01d081fbc1d4c505c90595ebc70db8d26add74719bdb0f8fbc0094b714bb&smart=true&width=1200&height=900",
+   "date": "2026-11-08T23:28:07+00:00"
+  },
+  {
+   "title": "Así les fue a los convocados de la Selección Argentina antes de la doble fecha de amistosos",
+   "link": "https://www.ole.com.ar/seleccion/seleccion-argentina-convocados-uruguay-costa-rica-lista-boletin_0_FvbwwNfJ8I.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/08/xnJzMbkkQ_1200x630__1.jpg",
+   "date": "2026-11-08T23:27:41+00:00"
+  },
+  {
+   "title": "Atento Boca: comienza la venta de tickets para la semifinal ante Banfield",
+   "link": "https://www.ole.com.ar/boca-juniors/atento-boca-comienza-venta-tickets-semifinal-banfield_0_NbIDGs9ASa.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/07/br4Jy35Gk_1200x630__1.jpg",
+   "date": "2026-11-08T23:27:31+00:00"
+  },
+  {
+   "title": "La visita de León XIV y el punto que la une con la Marcha del Orgullo",
+   "link": "https://www.clarin.com/sociedad/visita-leon-xiv-punto-une-marcha-orgullo_0_fQuZJlUPBu.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/08/hATR4usLo_1200x630__1.jpg",
+   "date": "2026-11-08T23:25:51+00:00"
+  },
+  {
+   "title": "La Natividad La Dolfina festejó en Tortugas ante La Hache y va por la Triple Corona de polo",
+   "link": "https://www.ole.com.ar/polo/abierto-tortugas-natividad-dolfina-vencio-hache-sigue-afilada_0_49ko82qOZC.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/08/kVbridytz_1200x630__1.jpg",
+   "date": "2026-11-08T23:24:55+00:00"
+  },
+  {
+   "title": "Camilo José Cela, escritor español: “La muerte es una amarga pirueta de la que no guardan recuerdo los muertos, sino los vivos”",
+   "link": "https://tn.com.ar/sociedad/2026/11/08/camilo-jose-cela-escritor-espanol-la-muerte-es-una-amarga-pirueta-de-la-que-no-guardan-recuerdo-los-muertos-sino-los-vivos/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/BCRGGKENAFFDDBI3BLQFTI4S5A.jpg?auth=5fff6f9a7524ad5ec87c163c43cb13217218c15e1c83dd810a4018ddb07db320",
+   "date": "2026-11-08T23:24:45+00:00"
+  },
+  {
+   "title": "Pampita fue a Aeroparque y mostró la llegada del papa León XIV: “Señales”",
+   "link": "https://perfil.com/entretenimiento/pampita-fue-a-aeroparque-y-mostro-la-llegada-del-papa-leon-xiv-senales-audqG5a7jY4C",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/d7b2d55c6304-pampita-2362531.webp",
+   "date": "2026-11-08T23:23:59+00:00"
+  },
   {
    "title": "Todas las fotos de la llegada de León XIV a la Argentina",
    "link": "https://www.ambito.com/politica/todas-las-fotos-la-llegada-leon-xiv-la-argentina-n6342978",
@@ -26,44 +322,12 @@
    "date": "2026-11-08T23:17:03+00:00"
   },
   {
-   "title": "La boda de Pepito Cibrián y Ana María Cores: el matrimonio que sacudió al espectáculo argentino",
-   "link": "https://www.lanacion.com.ar/espectaculos/la-boda-de-pepito-cibrian-y-ana-maria-cores-el-matrimonio-que-sacudio-al-espectaculo-argentino-nid08112026/",
-   "source": "La Nación",
+   "title": "El papa León XIV en la Ciudad: pirotecnia en la villa 31, el mensaje de la torre de control, las campanadas y la camiseta del Newman",
+   "link": "https://www.clarin.com/sociedad/papa-leon-xiv-ciudad-campanadas-iglesias-pirotecnia-villa-31-llaves-plaza-mayo-fervor-calles_0_KTpbVKaU9N.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/TQRPHD6D4FCBDJRZ5X6LRBOY4U.jpg?auth=5b750b5c1719de6d5c860017bc14676560a7e448c53152dcae0ed8d4ca0eae28&smart=true&width=2000&height=1333",
-   "date": "2026-11-08T23:17:00+00:00"
-  },
-  {
-   "title": "Mauro Icardi respondió a la denuncia de Wanda Nara y cuestionó el allanamiento a su casa: “Jamás le pegué”",
-   "link": "https://tn.com.ar/show/famosos/2026/11/08/mauro-icardi-nego-haber-agredido-a-su-hija-y-cuestiono-el-allanamiento-a-su-casa-jamas-le-pegue/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/422AT3MBJNH4BHKZTNG57MLXYM.jpg?auth=3ee601a64755d471249c4bcbe5728d463542549e11bee0892472aeae152fee5d",
-   "date": "2026-11-08T23:16:36+00:00"
-  },
-  {
-   "title": "En vivo - Central Córdoba (SE) vs. Lanús: 1 - 1, por la fase de grupos de la Liga Profesional",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/08/central-cordoba-se-vs-lanus-en-vivo-por-la-fase-de-grupos-de-la-liga-profesional-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/373VB3NH5JGH5CVU7EMQMRSOJE.jpg?auth=71e270421f7d3f20754ad322823c210f8da1001f6877a41b26bc2e59f5f3498f",
-   "date": "2026-11-08T23:16:28+00:00"
-  },
-  {
-   "title": "Papa León XIV en la Argentina, EN VIVO: el arribo al país, la agenda del domingo y las últimas noticias hoy",
-   "link": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-en-vivo-su-llegada-a-la-argentina-y-las-ultimas-noticias-de-su-agenda-en-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/FNVZM3H3L5A7PKSXIAAP7MUF3M.jpg?auth=055ef5c670d759f37287fa099a4c29673ef0631102dd3aad619913b83296d127&smart=true&width=2000&height=1333",
-   "date": "2026-11-08T23:15:39+00:00"
-  },
-  {
-   "title": "Así se vivió entre los fieles la visita de León XIV a la plaza San Martín",
-   "link": "https://www.lanacion.com.ar/sociedad/asi-se-vivio-entre-los-fieles-la-visita-de-leon-xiv-a-la-plaza-san-martin-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/OI7SUADMUVBKZHARI5ZXTNTGMU.JPG?auth=e489d2750a0d3ad16da0d4dd5fb6c4eeed819edec4d7126abe6ea589dfaa49f9&smart=true&width=2000&height=1369",
-   "date": "2026-11-08T23:15:36+00:00"
+   "image": "https://www.clarin.com/img/2026/11/08/mGvyaAwMr_1200x630__1.jpg",
+   "date": "2026-11-08T23:16:33+00:00"
   },
   {
    "title": "Milei destacó la presencia de todo el arco político y recordó a Francisco en su discurso ante el Papa",
@@ -74,30 +338,6 @@
    "date": "2026-11-08T23:15:09+00:00"
   },
   {
-   "title": "Milei moderó su discurso ante el papa León XIV: “Me alegra ver a dirigentes de todo el arco político”",
-   "link": "https://www.lanacion.com.ar/politica/milei-en-la-visita-del-papa-leon-xiv-me-alegra-ver-dirigentes-de-todo-el-arco-politico-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/WXCID6JBB5FQ3LU375HBPZTRNM.jpg?auth=a3795259428417b86a4626c95128b917c9705dcaaf60c187e1aa66da6412a5a6&smart=true&width=1200&height=800",
-   "date": "2026-11-08T23:14:48+00:00"
-  },
-  {
-   "title": "Rating: cuánto midió la cobertura de la llegada del Papa León XIV a la Argentina",
-   "link": "https://www.lanacion.com.ar/espectaculos/rating-cuanto-midio-la-cobertura-de-la-llegada-del-papa-leon-xiv-a-la-argentina-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/DGPXVI3OMNG3TB7RI4AH34XOSE.JPG?auth=a5b4c004d03928fd0f96bb5c481ff688b478f5e6de09738de42ee376f18a2c2a&smart=true&width=2000&height=1333",
-   "date": "2026-11-08T23:14:42+00:00"
-  },
-  {
-   "title": "León XIV inició una visita histórica a la Argentina: homenaje a San Martín, reunión con Milei y discurso crítico en el Palacio Libertad",
-   "link": "https://www.cronista.com/economia-politica/leon-xiv-en-argentina-en-vivo-la-visita-del-papa-minuto-a-minuto-y-su-agenda-en-buenos-aires-cordoba-y-lujan/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/QSJJOKFD3VCYPOF7GHMOONJ654.jpg?auth=24a1940434f4aa17db2369a698e39d50eddf3fb50a9decf4559953f759c00def&smart=true&width=1200&height=900",
-   "date": "2026-11-08T23:12:58+00:00"
-  },
-  {
    "title": "Primer mensaje de León XIV: pidió “ejercer el poder con prudencia” y reclamó una economía “al servicio de la gente”",
    "link": "https://www.cronista.com/economia-politica/primer-mensaje-de-leon-xiv-pidio-ejercer-el-poder-con-prudencia-y-reclamo-una-economia-al-servicio-de-la-gente/",
    "source": "El Cronista",
@@ -106,36 +346,20 @@
    "date": "2026-11-08T23:12:46+00:00"
   },
   {
-   "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este domingo 8 de noviembre",
-   "link": "https://tn.com.ar/economia/2026/11/08/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-domingo-8-de-noviembre/",
-   "source": "TN",
+   "title": "Semana corta en los mercados: el Gobierno enfrenta una rueda clave, tras las fuertes caídas en bonos y acciones",
+   "link": "https://www.clarin.com/economia/semana-corta-mercados-gobierno-enfrenta-rueda-clave-fuertes-caidas-bonos-acciones_0_rSiFFSWCiC.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/FFBWSHWVUFEN7OVKCXYNUZKKFI.jpg?auth=a0ad83c89da4908e98d35d7dce0472bbd45c55b83a4d7ef5dc3037bb091988c5",
-   "date": "2026-11-08T23:12:33+00:00"
+   "image": "https://www.clarin.com/img/2026/09/07/-H501RPFo_1200x630__1.jpg",
+   "date": "2026-11-08T23:12:43+00:00"
   },
   {
-   "title": "León XIV: “Quien ejerce la autoridad tiene el deber de actuar con prudencia y reconocer los límites del poder\"",
-   "link": "https://tn.com.ar/sociedad/2026/11/08/viaje-del-papa-leon-xiv-a-la-argentina-en-vivo-a-que-hora-llega-hoy-las-misas-confirmadas-y-las-ultimas-noticias/",
-   "source": "TN",
+   "title": "Trump dice que \"supone que subió\" su riqueza tras reporte sobre aumento de 3.000 millones",
+   "link": "https://www.clarin.com/estados-unidos/trump-dice-que-supone-que-subio-su-riqueza-tras-reporte-sobre-aumento-de-3-000-millones_0_XVjBQGhN2u.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/UGWURSSESJAVLO7FJY75FTZBJI.jpg?auth=26c38dfea225172e1e1c56ce9373314d748cb632602f4b68c4af4d3a1c695b0f",
-   "date": "2026-11-08T23:10:21+00:00"
-  },
-  {
-   "title": "Contra lo esperado, Mauricio Macri asistió al Palacio Libertad para recibir al papa León XIV",
-   "link": "https://www.lanacion.com.ar/deportes/contra-lo-esperado-mauricio-macri-llego-al-palacio-libertad-para-recibir-al-papa-leon-xiv-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/MWK2KTABGVFLPOSVUR7ELATKIU.jpg?auth=4e2dfe9213263d43913b211c6ddd94d55df5caafd52cc29b32c40b841a27c1ab&smart=true&width=597&height=399",
-   "date": "2026-11-08T23:09:08+00:00"
-  },
-  {
-   "title": "“Lo vi, me tiembla todo”: fervor en el centro porteño por la presencia del papa León XIV en la ciudad",
-   "link": "https://www.lanacion.com.ar/sociedad/va-a-pasar-por-aca-furor-en-el-centro-porteno-por-la-presencia-del-papa-en-la-ciudad-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/FP3IT5WZTNBYDF2HYQHQ5HO6FQ.JPG?auth=24bf99d7b3782fa3487d4be67fed394de1f5786e80a9d223743125bdab6dbb08&smart=true&width=2000&height=1331",
-   "date": "2026-11-08T23:04:25+00:00"
+   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
+   "date": "2026-11-08T23:10:11+00:00"
   },
   {
    "title": "Hoy es la Luna nueva en Escorpio 2026: qué signos se verán más afectados, según la astrología",
@@ -144,14 +368,6 @@
    "cat": "argentina",
    "image": "https://www.clarin.com/img/2025/08/20/3S225ykSd_1200x630__1.jpg",
    "date": "2026-11-08T23:01:29+00:00"
-  },
-  {
-   "title": "Buscan voluntarios para vivir en el Lago de Como: ofrecen una habitación privada y comida gratuita por trabajar en un astillero 4 horas al día",
-   "link": "https://tn.com.ar/sociedad/2026/11/08/buscan-voluntarios-para-vivir-en-el-lago-de-como-ofrecen-una-habitacion-privada-y-comida-gratuita-por-trabajar-en-un-astillero/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/MWM7SXHUMNGVFNXHSBANWUP5UQ.jpg?auth=a06473fbde825328be36e6567443964bbcd425e691be21f08bdf1d09cad8eec0",
-   "date": "2026-11-08T23:01:03+00:00"
   },
   {
    "title": "María Belén Ludueña y su bebé Vito Macri, protagonistas de la bienvenida porteña al Papa León XIV",
@@ -170,52 +386,12 @@
    "date": "2026-11-08T23:00:21+00:00"
   },
   {
-   "title": "Mario Alonso Puig, sobre expresar las emociones: “Aguantarse, enferma”",
-   "link": "https://www.lanacion.com.ar/sociedad/mario-alonso-puig-sobre-expresar-las-emociones-aguantarse-enferma-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/22KHVBHYLNEVLF6Z6SZ5SXSX2A.jpg?auth=1148895241217a924b0f9d4d3e0a8a38d1b0d4838e514099e8527aa1f97c90e4&smart=true&width=3636&height=2727",
-   "date": "2026-11-08T23:00:00+00:00"
-  },
-  {
-   "title": "Qué son las cadenas miofasciales y cómo se trabajan en las clases de pilates",
-   "link": "https://www.lanacion.com.ar/lnmas/que-son-las-cadenas-miofasciales-y-como-se-trabajan-en-las-clases-de-pilates-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/AVSJVA2NIJHHRNGMYUJF6BVEII.JPG?auth=212dcbfe2565f1b15836f2805d3e4968150fbaca1ac7b44af1a2a1fc188b2184&smart=true&width=2000&height=1333",
-   "date": "2026-11-08T23:00:00+00:00"
-  },
-  {
-   "title": "El Papa en el Palacio Libertad: un mensaje ante todo el arco político, en el que cada sector rescató lo más cercano a su postura",
-   "link": "https://www.lanacion.com.ar/politica/el-papa-en-el-palacio-libertad-un-mensaje-ante-todo-el-arco-politico-en-el-que-cada-sector-resalto-nid08112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/P2CJ4Q6YMJBYVHWDHPMYTUDS6Y.jpg?auth=bf832e079dd554fd4459da9e5eb6a0a5e2dc349717c024458662cfe23fcc290e&smart=true&width=2000&height=1333",
-   "date": "2026-11-08T22:58:29+00:00"
-  },
-  {
-   "title": "Fiorentina empató con Juventus 2 a 2 por la fecha 11 de la Serie A de Italia",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/08/fiorentina-vs-juventus-en-vivo-por-la-fecha-11-de-la-serie-a-de-italia-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/HGQVQ7ELQ3TRKDHJ5HXIA5SVHE.CrTc?auth=49e43bda17fe8f75c635ef15b0d253bc236b6d07ba4da400b8eaa6246184c4d7",
-   "date": "2026-11-08T22:58:27+00:00"
-  },
-  {
    "title": "Video: el golazo de Gianluca Prestianni en la liga portuguesa y sus números notables antes de la fecha FIFA",
    "link": "https://www.ole.com.ar/futbol-internacional/video-golazo-gianluca-prestianni-liga-portuguesa-notables-numeros-fecha-fifa_0_GGO9OKLNpP.html",
    "source": "Olé",
    "cat": "deportes",
    "image": "https://www.ole.com.ar/images/2026/11/08/4jl2CKqEb_1200x630__1.jpg",
    "date": "2026-11-08T22:55:25+00:00"
-  },
-  {
-   "title": "Primer mensaje del Papa: pidió diálogo, límites en el poder y una economía al servicio de la gente",
-   "link": "https://www.clarin.com/politica/primer-mensaje-papa-pidio-dialogo-limites-poder-economia-servicio-gente_0_pKEZjZzkQu.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/-IP_K6XR6_1200x630__1.jpg",
-   "date": "2026-11-08T22:54:47+00:00"
   },
   {
    "title": "Palmeiras pasó a otra final: Copa Brasil",
@@ -226,52 +402,12 @@
    "date": "2026-11-08T22:54:46+00:00"
   },
   {
-   "title": "\"Me alegra ver a todo el arco político\": el mensaje de Javier Milei y la mención de Francisco que desató una ovación en el Palacio Libertad",
-   "link": "https://www.clarin.com/politica/alegra-ver-arco-politico-mensaje-javier-milei-mencion-francisco-desato-ovacion-palacio-libertad_0_R5PSDr3WXA.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/HMpgNTaTm_1200x630__1.jpg",
-   "date": "2026-11-08T22:53:21+00:00"
-  },
-  {
-   "title": "Paraguay: tras la caída de Peña, el gobierno se rearma y \"pesificará\" los depósitos en dólares atrapados en Ueno",
-   "link": "https://www.clarin.com/mundo/paraguay-caida-pena-gobierno-rearma-pesificara-depositos-dolares-atrapados-ueno_0_tXX1EpwDZr.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/pL8535VHW_1200x630__1.jpg",
-   "date": "2026-11-08T22:53:15+00:00"
-  },
-  {
-   "title": "Carlos Alcaraz se consagró campeón del Masters 1000 de París y llega en gran nivel al último torneo de la temporada",
-   "link": "https://tn.com.ar/deportes/tenis/2026/11/08/carlos-alcaraz-se-consagro-campeon-del-masters-1000-de-paris-y-llega-en-gran-nivel-al-ultimo-torneo-de-la-temporada/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/NIDZOQNZKFH5HKSC4WQ5P3BLQI.jpg?auth=b03079466bec424b65faca76b9e8b510bffd28868ffc9dd2f00589ec28e4c7a3",
-   "date": "2026-11-08T22:52:07+00:00"
-  },
-  {
    "title": "Video: el momento en que el papa León XIV salió a la puerta de la Nunciatura para saludar a los vecinos",
    "link": "https://tn.com.ar/sociedad/2026/11/08/video-el-momento-en-que-el-papa-leon-xiv-salio-a-la-puerta-de-la-nunciatura-para-saludar-a-los-vecinos/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/JVWZSZ4HSZGQPFOKIE5PFIZYRU.jpg?auth=f99acafb940c8de241efc765f1236794c783ea24c75ada157c272d19f74563d2",
    "date": "2026-11-08T22:51:37+00:00"
-  },
-  {
-   "title": "Manchester United sigue rompiendo récords (negativos): le hicieron dos goles en tres minutos, remontó un partido de locos y está en zona de descenso tras 40 años",
-   "link": "https://www.clarin.com/deportes/manchester-united-sigue-rompiendo-records-negativos-hicieron-goles-minutos-remonto-partido-locos-zona-descenso-40-anos_0_MnxJ1GgIPO.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/uBYjI3Xs46_1200x630__1.jpg",
-   "date": "2026-11-08T22:49:49+00:00"
-  },
-  {
-   "title": "Todo el arco político celebró la llegada del papa León XIV y destacó su mensaje de fraternidad",
-   "link": "https://www.ambito.com/politica/la-recibio-al-papa-leon-xiv-y-destaco-su-mensaje-fraternidad-n6343002",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/65bcd2105ead9044676084feda3ef5be/adjuntos/239/imagenes/043/755/0043755665/1200x675/smart/visita-papa.jpg",
-   "date": "2026-11-08T22:48:00+00:00"
   },
   {
    "title": "Relegada de la Casa Rosada, Villarruel saludó a León XIV luego de su discurso ante Milei",
@@ -294,16 +430,8 @@
    "link": "https://www.ambito.com/politica/el-palacio-libertad-recibe-leon-xiv-javier-milei-victoria-villarruel-y-gobernadores-una-misma-convocatoria-n6342986",
    "source": "Ámbito",
    "cat": "argentina",
-   "image": "https://media.ambito.com/p/223283070b78c3b8c1d5d7c5326ff580/adjuntos/239/imagenes/040/584/0040584451/1200x675/smart/cck_kirchner_panoramica_1200_diajpg.jpg",
+   "image": "https://media.ambito.com/p/f7e676bbfd7bd17a1bc12a26212b6444/adjuntos/239/imagenes/043/755/0043755792/1200x675/680x643:700x663/palacio-libertad-papa-leon-xiv.jpeg",
    "date": "2026-11-08T22:45:00+00:00"
-  },
-  {
-   "title": "Quién es el bombero detenido en el operativo de seguridad por el papa León XIV: ¿peligro real o paranoia oficial?",
-   "link": "https://www.clarin.com/policiales/bombero-detenido-operativo-seguridad-papa-leon-xiv-peligro-real-paranoia-oficial_0_L7JTsd958p.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/299sRcf9i_1200x630__1.jpg",
-   "date": "2026-11-08T22:42:35+00:00"
   },
   {
    "title": "Jorge Macri le entregó las llaves de la Ciudad al Papa León XIV, acompañado por María Belén Ludueña y su hijo Vito",
@@ -312,38 +440,6 @@
    "cat": "argentina",
    "image": "https://media.perfil.com/prod/images/gm_preview/68bdc38926a0-rg6y.webp",
    "date": "2026-11-08T22:37:03+00:00"
-  },
-  {
-   "title": "Julián Álvarez asistió a Giuliano Simeone, pero no alcanzó: Atlético cayó ante Barcelona",
-   "link": "https://perfil.com/deportes/julian-alvarez-asistio-a-giuliano-simeone-pero-no-alcanzo-atletico-cayo-ante-barcelona-aBVtf8T687SY",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/3bdb6263d79a-perfil-2.webp",
-   "date": "2026-11-08T22:35:12+00:00"
-  },
-  {
-   "title": "Borges, Gardel y el Martín Fierro, las referencias de León XIV a la cultura argentina",
-   "link": "https://tn.com.ar/sociedad/2026/11/08/borges-gardel-y-el-martin-fierro-las-referencias-de-leon-xiv-a-la-cultura-argentina/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/NWSV3EWWX5E7JLRWTJ7UXOCUQ4.jpg?auth=e477f2df8cc55262801a1fe320f82e0bf1c53c2335cb7060d922eb4584219979",
-   "date": "2026-11-08T22:34:32+00:00"
-  },
-  {
-   "title": "Jorge Macri le entregó las llaves de la Ciudad de Buenos Aires al papa León XIV",
-   "link": "https://perfil.com/politica/jorge-macri-le-entrego-las-llaves-de-la-ciudad-de-buenos-aires-al-papa-leon-xiv-aZi8C6E5aUEg",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/a57fc9d76f70-papa3.webp",
-   "date": "2026-11-08T22:30:32+00:00"
-  },
-  {
-   "title": "El mensaje completo del Papa en Argentina: “Vengo a la patria donde el Papa Francisco comenzó una historia”",
-   "link": "https://www.clarin.com/politica/mensaje-completo-papa-argentina-economia-debe-servicio-persona_0_dICmDns8FL.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/5uUWs4sKo_1200x630__1.jpg",
-   "date": "2026-11-08T22:28:45+00:00"
   },
   {
    "title": "Milei recordó a Francisco, celebró la presencia de todo el arco político y le pidió a León XIV que “rece por la Argentina”",
@@ -378,46 +474,6 @@
    "date": "2026-11-08T22:20:00+00:00"
   },
   {
-   "title": "Del frío invernal al calor rozando los 30 °C: así estará el tiempo con León XIV",
-   "link": "https://perfil.com/clima/clima-en-la-visita-del-papa-leon-xiv-el-pronostico-del-tiempo-aUXRB7k4o77A",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/d76ccbad2899-000d6ux6dh.webp",
-   "date": "2026-11-08T22:17:17+00:00"
-  },
-  {
-   "title": "Elecciones en Vélez: cuándo se vota, quiénes son los candidatos y cómo fue el año del Fortín",
-   "link": "https://perfil.com/deportes/elecciones-en-velez-cuando-se-vota-quienes-son-los-candidatos-y-como-fue-el-ano-del-fortin-aBkpK3U9JY7v",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/6f25a90a2ed5-perfil-1.webp",
-   "date": "2026-11-08T22:15:59+00:00"
-  },
-  {
-   "title": "Una princesa británica llega a las Malvinas en la previa de las audiencias de Argentina y el Reino Unido ante el Tribunal del Mar",
-   "link": "https://www.clarin.com/politica/princesa-britanica-llega-malvinas-previa-audiencias-argentina-reino-unido-tribunal-mar_0_6oxpg9IA8M.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2022/11/22/DzKvjuFe1_1200x630__1.jpg",
-   "date": "2026-11-08T22:14:15+00:00"
-  },
-  {
-   "title": "En 2022, Ryan Reynolds y Blake Lively donaron 500.000 dólares a Water First; cuatro años después, ocho aprendices indígenas se graduaron como operadores de agua",
-   "link": "https://www.clarin.com/estados-unidos/2022-ryan-reynolds-blake-lively-donaron-500000-dolares-water-first-anos-despues-aprendices-indigenas-graduaron-operadores-agua_0_pxW3sc9soZ.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/10/24/f3lYcabpS_1200x630__1.jpg",
-   "date": "2026-11-08T22:13:28+00:00"
-  },
-  {
-   "title": "Quién es quién en el encuentro más esperado por gremios y  empresarios con el Papa",
-   "link": "https://www.clarin.com/economia/encuentro-esperado-gremios-empresarios-papa_0_exDW5yhe05.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/08/bjaFSwNZo_1200x630__1.jpg",
-   "date": "2026-11-08T22:06:17+00:00"
-  },
-  {
    "title": "Quién es quién en el encuentro más esperado por gremios y  empresarios con el Papa",
    "link": "https://www.clarin.com/economia/encuentro-esperado-gremios-empresarios-papa_0_exDW5yhe05.html",
    "source": "Clarín Economía",
@@ -450,14 +506,6 @@
    "date": "2026-11-08T21:48:00+00:00"
   },
   {
-   "title": "Independiente, su crisis copera y la única vía que lo clasifica a la Libertadores",
-   "link": "https://www.ole.com.ar/independiente/independiente-libertadores-sudamericana-clausura-argentinosjuniors_0_Pje7tp7hxV.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/08/tWccSjS-T_1200x630__1.jpg",
-   "date": "2026-11-08T21:44:14+00:00"
-  },
-  {
    "title": "Jorge Macri le entregó al papa León XIV la \"Llave de la Ciudad\"",
    "link": "https://www.ambito.com/jorge-macri-le-entrego-al-papa-leon-xiv-la-llave-la-ciudad-n6342997",
    "source": "Ámbito",
@@ -482,38 +530,6 @@
    "date": "2026-11-08T21:31:48+00:00"
   },
   {
-   "title": "Colo Colo campeón: primer título del Tano Ortiz",
-   "link": "https://www.ole.com.ar/futbol-internacional/colocolo-fernandoortiz-ligadechile-nublense-arturovidal-javiercorrea_0_aJAf9foI8F.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/08/aUZlSACs5_1200x630__1.jpg",
-   "date": "2026-11-08T21:29:17+00:00"
-  },
-  {
-   "title": "Atentos, hinchas de Boca: este martes con tu Olé, ¡el póster del campeón de Liga!",
-   "link": "https://www.ole.com.ar/boca-juniors/poster-ole-boca-campeon-tablaanual-xeneize-vascoarruabarrena-vueltaolimpica-fiesta-consagracion_0_t0m9WO97yw.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/08/q7do-BCKN_1200x630__1.jpg",
-   "date": "2026-11-08T21:26:51+00:00"
-  },
-  {
-   "title": "Central Córdoba vs. Lanús, por el Torneo Clausura, hoy EN VIVO: Salvio empató para el Grana",
-   "link": "https://www.ole.com.ar/futbol-primera/centralcordoba-lanus-torneoclausura-defensa-river-barracas_0_K9ysCjP4pC.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/08/_fCChn8Ti_1200x630__1.jpg",
-   "date": "2026-11-08T21:18:17+00:00"
-  },
-  {
-   "title": "El Gobierno enviará a los conductores a estudiar y presentarse en talleres de sensibilización para recuperar los puntos de la licencia",
-   "link": "https://www.cronista.com/mexico/actualidad-mx/el-gobierno-enviara-a-los-conductores-a-estudiar-y-presentarse-en-talleres-de-sensibilizacion-para-recuperar-los-puntos-de-la-licencia/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/Y5LPXEHI6BAATAPAXFZUNWRDN4.jpg?auth=013f4eff67abf2423e77925d329d33642428d91f7c400cfb019b4d2c91645aa0&smart=true&width=1200&height=900",
-   "date": "2026-11-08T21:11:00+00:00"
-  },
-  {
    "title": "El papa León XIV realizó un homenaje en el Monumento al General San Martín",
    "link": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-realizo-un-homenaje-el-monumento-al-general-san-martin-n6342979",
    "source": "Ámbito",
@@ -536,14 +552,6 @@
    "cat": "argentina",
    "image": "https://media.ambito.com/p/a452f18be5dbe9129e6799b00b59dd57/adjuntos/239/imagenes/043/755/0043755376/1200x675/smart/milei-y-el-papa.jpg",
    "date": "2026-11-08T20:19:00+00:00"
-  },
-  {
-   "title": "\"Bienvenido a la Argentina, Santo Padre\": el emotivo mensaje de la torre de control que recibió al papa León XIV",
-   "link": "https://www.ambito.com/informacion-general/bienvenido-la-argentina-santo-padre-el-mensaje-la-torre-control-que-recibio-al-papa-leon-xiv-n6342968",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/9955a5c5f558e2c7463689f4bd852486/adjuntos/239/imagenes/043/755/0043755285/1200x675/smart/leon-xiv-argentina.jpeg",
-   "date": "2026-11-08T20:00:00+00:00"
   },
   {
    "title": "Sylvester Stallone contó cómo terminó la feroz rivalidad de 20 años con Arnold Schwarzenegger: peleas, celos y una reconciliación inesperada",
@@ -688,14 +696,6 @@
    "cat": "economia",
    "image": "https://media.ambito.com/p/50811e0567fd167306393c1b011ffaa9/adjuntos/239/imagenes/043/754/0043754637/1200x675/smart/leon-xiv-juanico.jpg",
    "date": "2026-11-08T15:41:00+00:00"
-  },
-  {
-   "title": "Con el riesgo electoral de fondo: ¿qué tasas de interés proyecta el mercado para 2027?",
-   "link": "https://www.cronista.com/finanzas-mercados/con-el-riesgo-electoral-de-fondo-que-tasas-de-interes-proyecta-el-mercado-para-2027/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/W45GBV2CJFFLFERDH3C6LXOIZ4.png?auth=6de69525a20e5e688fbebaeddff1a375e8c67111fd10ca77dec37204b05ac645&smart=true&width=1200&height=900",
-   "date": "2026-11-08T15:23:38+00:00"
   },
   {
    "title": "Rating del sábado: cómo le fue a PH después del escándalo y cuánto midió la mesa de Juana Viale",
