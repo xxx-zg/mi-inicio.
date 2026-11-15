@@ -1,61 +1,477 @@
 {
- "updated": "2026-11-15T00:01:56.012888+00:00",
+ "updated": "2026-11-15T01:39:23.109813+00:00",
  "items": [
   {
-   "title": "En vivo - Deportivo Madryn vs. Deportivo Maipú: 3 - 1, por la llave 5 de la Primera Nacional",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/14/deportivo-madryn-vs-deportivo-maipu-en-vivo-por-la-llave-5-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/6IM6VLJIGRDRZJLFXVDLWGTG7I.jpg?auth=18c765b34d6156b0ebadd7b951cb8c6862c8cde6e7671f60feb24027a550ffa3",
-   "date": "2026-11-14T23:58:28+00:00"
+   "title": "Paredes aclaró cómo está físicamente y explicó por qué salió ante Banfield",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17517358/leandro-paredes-cambio-estado-fisico-banfield-vs-boca-semifinales-copa-argentina-2026",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745927_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:57:17+00:00"
   },
   {
-   "title": "Boca le ganó por 3-0 a Banfield en Mendoza y jugará la final de la Copa Argentina con Platense",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-banfield-en-vivo-nid14112026/",
+   "title": "Vasco Arruabarrena: \"Es importante acostumbrarte a ganar y más en este club\"",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17517313/que-dijo-el-vasco-arruabarrena-despues-de-boca-vs-banfield-final-copa-argentina",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745924_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:57:17+00:00"
+  },
+  {
+   "title": "Boca sigue en carrera por todos los títulos: así está en cada torneo",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17181998/boca-sigue-en-carrera-todos-los-titulos-asi-esta-en-cada-torneo",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717380_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:35:16+00:00"
+  },
+  {
+   "title": "Por un título más: Boca goleó a Banfield y se metió a la final de la Copa Argentina",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17501259/banfield-vs-boca-semifinales-copa-argentina-2026-equipo-fecha-hora-y-tv-en-vivo",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745900_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:34:45+00:00"
+  },
+  {
+   "title": "Portugal comenzó la era post CR7 con dura derrota",
+   "link": "https://www.espn.com.ar/futbol/nota/_/id/17505934/portugal-vs-dinamarca-nations-league-equipo-fecha-hora-y-tv-en-vivo",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745828_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:24:00+00:00"
+  },
+  {
+   "title": "Los Pumas vencieron a Italia, en Génova",
+   "link": "https://www.espn.com.ar/rugby/nota/_/id/17510795/rugby-los-pumas-italia-nations-championship-horario-vivo-resultado-argentina",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745632_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:24:00+00:00"
+  },
+  {
+   "title": "River jugó dos amistosos contra Gimnasia",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17515174/river-jugo-dos-amistosos-ante-gimnasia-monumental-como-le-fue",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745672_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T02:24:00+00:00"
+  },
+  {
+   "title": "Lozano liquidó la clasificación de Boca vs. Banfield en Copa Argentina",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17517073/video-gol-de-lozano-banfield-vs-boca-semifinales-copa-argentina-2026",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745907_1199x674_16%2D9.jpg",
+   "date": "2026-11-15T01:46:03+00:00"
+  },
+  {
+   "title": "Villa marcó un golazo para el 2-0 de Boca vs. Banfield en la Copa Argentina",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17516999/video-gol-de-villa-boca-vs-banfield-semifinales-copa-argentina-2026",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745896_742x297_5%2D2.png",
+   "date": "2026-11-15T01:46:02+00:00"
+  },
+  {
+   "title": "Exquisito pase de Paredes y cabezazo de Ascacibar para el 1-0 de Boca vs. Banfield",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17516885/video-gol-de-ascacibar-asistencia-paredes-banfield-vs-boca-semifinales-copa-argentina-2026",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745887_1296x729_16%2D9.jpg",
+   "date": "2026-11-15T01:46:02+00:00"
+  },
+  {
+   "title": "Las 3 verduras que podés cultivar en cajones de madera reciclados: crecen bien y necesitan poco espacio en el jardín o balcón",
+   "link": "https://tn.com.ar/sociedad/jardineria/2026/11/14/las-3-verduras-que-podes-cultivar-en-cajones-de-madera-reciclados-crecen-bien-y-necesitan-poco-espacio-en-el-jardin-o-balcon/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/TF2NWZ2LXZFPFH6YKPKFYK6TFQ.png?auth=b851c8deeed6dc5e8f39619064949030a3c2429cec44aaab38f126f1a73680ca",
+   "date": "2026-11-15T01:35:25+00:00"
+  },
+  {
+   "title": "Un jugador de Patronato chocó en Entre Ríos y dio positivo en alcoholemia",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/un-jugador-de-patronato-choco-en-entre-rios-y-dio-positivo-en-alcoholemia-nid14112026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/WK7J2HSILFGBNLJXMZ5FLHG4AQ.JPG?auth=670690fdfbd495a52cbf10043a3bbce6e4e501d1028d53d2370cf84a350ff1e5&smart=true&width=3000&height=1999",
-   "date": "2026-11-14T23:58:22+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/BN3REFUTQZFZ7KDDMJ53IH7LLE.png?auth=08618e601d3a5c3b341091f33ebec30204e1010f217097d34fc5f60b6c365cc7&smart=true&width=738&height=510",
+   "date": "2026-11-15T01:34:48+00:00"
   },
   {
-   "title": "Todo lo que hay que saber sobre la final de la Copa Argentina que disputarán Boca y Platense",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/14/boca-y-platense-jugaran-la-final-de-la-copa-argentina-2026-cuando-es-el-partido-y-en-donde-se-disputara/",
+   "title": "San Cirano venció a Curupaytí y volvió a la elite del rugby de Buenos Aires tras una década de espera",
+   "link": "https://www.lanacion.com.ar/deportes/rugby/san-cirano-vencio-a-curupayti-y-volvio-a-la-elite-del-rugby-de-buenos-aires-tras-una-decada-de-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/KTXF7H4FTJGHFDWZOP5EORG7C4.JPG?auth=dbd5ea51c6808b32c8e4e7c0d6491e22a90b487bab740c2d8e07b1528c50591a&smart=true&width=3000&height=1833",
+   "date": "2026-11-15T01:27:06+00:00"
+  },
+  {
+   "title": "“Con el corazón en los Andes”: sacerdotes agustinos le regalaron al papa León XIV una pintura de Mercedes Fariña",
+   "link": "https://www.lanacion.com.ar/cultura/con-el-corazon-en-los-andes-sacerdotes-agustinos-le-regalaron-al-papa-leon-xiv-una-pintura-de-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/AZCFWWORMRHPDJRCHOXM77NDRM.jpg?auth=4106c100d5954b9f6e37f860759f42d6236cefe12a753a77dd6c2ba0a57e4395&smart=true&width=2000&height=1333",
+   "date": "2026-11-15T01:24:50+00:00"
+  },
+  {
+   "title": "La tapa del Diario PERFIL del domingo 15 de noviembre de 2026",
+   "link": "https://perfil.com/actualidad/la-tapa-del-diario-perfil-del-domingo-15-de-noviembre-de-2026-ae0Ao1d98SVy",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/b3c61a3f6881-tapachicadomingo.webp",
+   "date": "2026-11-15T01:24:26+00:00"
+  },
+  {
+   "title": "Un importante empresario del agro compró 10.000 hectáreas en una zona con condiciones excepcionales",
+   "link": "https://www.lanacion.com.ar/economia/campo/un-importante-empresario-del-agro-compro-10000-hectareas-en-una-zona-con-condiciones-excepcionales-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/UMAPJCMJ3BHX7PRLGBC2WEQOSA.webp?auth=af4530a6ff94716f291d5c382df23854406785492c6d48fccf4ddb51c7bb3287&smart=true&width=1920&height=1080",
+   "date": "2026-11-15T01:21:35+00:00"
+  },
+  {
+   "title": "El divertido ida y vuelta entre el Vasco Arruabarrena y Paredes: \"En el truco pierde bastante, no es tan bueno como dicen...\"",
+   "link": "https://www.ole.com.ar/boca-juniors/divertido-ida-vuelta-vasco-arrubarrena-paredes-truco-pierde-bastante_0_Ui56kVJlCl.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/15/-otZWikfC_1200x630__1.jpg",
+   "date": "2026-11-15T01:21:18+00:00"
+  },
+  {
+   "title": "Con “Legend of Zelda: Ocarina of Time” como la estrella del año, Nintendo presentó su catálogo de lanzamientos para 2027",
+   "link": "https://tn.com.ar/tecno/juegos/2026/11/14/con-legend-of-zelda-ocarina-of-time-como-la-estrella-del-ano-nintendo-presento-su-catalogo-de-lanzamientos-para-2027/",
    "source": "TN",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/5Y4YOJZPMFED7JCX6NKJS6OCQQ.jpg?auth=ee8821616ece70590bf1e966b150c271dd46323988a378b3f377ea5dc177fdb2",
-   "date": "2026-11-14T23:57:58+00:00"
+   "image": "https://tn.com.ar/resizer/v2/EMSHFCYROJHB7OBRD5UAN6V4AI.png?auth=31123e79d726ec57bde8d949f06ca33bb8ec5cf85192feb0779dfafbad694f73",
+   "date": "2026-11-15T01:18:37+00:00"
   },
   {
-   "title": "Real Pilar le ganó a Talleres de Escalada 2 a 1 por la llave 2 de la Primera División B",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/14/real-pilar-vs-talleres-de-escalada-en-vivo-por-la-llave-2-de-la-primera-division-b-hora-donde-ver-y-formaciones/",
+   "title": "Una batalla inédita. Cuatro economistas ya están en carrera por la presidencia",
+   "link": "https://www.lanacion.com.ar/economia/una-batalla-inedita-cuatro-economistas-ya-estan-en-carrera-por-la-presidencia-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://www.lanacion.com.ar/pf/resources/images/placeholderLN-1200x800.jpg?d=2080",
+   "date": "2026-11-15T01:16:31+00:00"
+  },
+  {
+   "title": "Boca avanza: su mejor momento coincide con el tiempo en que se definen los títulos",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/boca-avanza-su-mejor-momento-coincide-con-el-tiempo-en-que-se-definen-los-titulos-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/VRLNDBUDONE4JJBGNX4VHHIESU.JPG?auth=fadc85d5815ea0b2686f8faf0463ac9c89492c9ebdabfb127e311b2920655f07&smart=true&width=2000&height=1333",
+   "date": "2026-11-15T01:15:43+00:00"
+  },
+  {
+   "title": "Troglio a Olé: \"Boca jugó mucho mejor\"",
+   "link": "https://www.ole.com.ar/copa-argentina/troglio-copa-argentina-boca-banfield_0_sCn18xVKg2.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/14/lxcUJktSE_1200x630__1.jpg",
+   "date": "2026-11-15T01:15:43+00:00"
+  },
+  {
+   "title": "Se viene la final: día, hora y TV de Boca vs. Atlético Mineiro, por el título de la Copa Sudamericana",
+   "link": "https://www.ole.com.ar/boca-juniors/proximo-partido-boca-final-copa-sudamericana-2026-atletico-mineiro-dia-horario-sede_0_P2PDvBlYpv.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/21/inhnYJudL_1200x630__1.jpg",
+   "date": "2026-11-15T01:11:37+00:00"
+  },
+  {
+   "title": "Noche de los Museos: de bombas de semillas a un bosque de pinturas y una iglesia de cartón",
+   "link": "https://www.lanacion.com.ar/cultura/noche-de-los-museos-de-bombas-de-semillas-a-un-bosque-de-pinturas-y-una-iglesia-de-carton-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/AA6LQDJW2NDTZGDIGFXUXM5KVY.jpg?auth=cc3da59fc5ec3ea0d68f4dd64c33877a091e866f1b53a5166cf9c265cc93eb41&smart=true&width=5680&height=3786",
+   "date": "2026-11-15T01:10:17+00:00"
+  },
+  {
+   "title": "🔴 Dólar oficial hoy y dólar blue: a cuánto cotizan este sábado 14 de noviembre",
+   "link": "https://tn.com.ar/economia/2026/11/14/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-sabado-14-de-noviembre/",
    "source": "TN",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/M6Y56HTOPRH3JPAS3PPZC4FD4U.jpg?auth=c156b52d8c4e06967d77391ceeaefcfceaa197a9e44493330470b5c2ac4f9199",
-   "date": "2026-11-14T23:56:30+00:00"
+   "image": "https://tn.com.ar/resizer/v2/JJCXTPIWFFA6TGA7OC5L3ZTWWM.jpg?auth=4783fd41b1f8b8ae3d7255c779a8ea464ffd927d2ae9d27e56589dce8493c2d9",
+   "date": "2026-11-15T01:08:33+00:00"
   },
   {
-   "title": "En vivo - Gimnasia Jujuy vs. Almirante Brown: 0 - 0, por la llave 3 de la Primera Nacional",
+   "title": "Con 70% de plástico, 20% de cáscaras de huevo y 10% de arena: el invento de 2026 que permite fabricar baldosas sin cemento",
+   "link": "https://tn.com.ar/sociedad/2026/11/14/con-70-de-plastico-20-de-cascaras-de-huevo-y-10-de-arena-el-invento-de-2026-que-permite-fabricar-baldosas-sin-cemento/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/W2U6TMEYW5EUPGEGNM3VDDWUFQ.png?auth=59cb444a39bf9ce5da5ed58c90cea5a6a0a5f4b2af3cbfc91e8fb9b174e310da",
+   "date": "2026-11-15T01:05:51+00:00"
+  },
+  {
+   "title": "Gimnasia Jujuy le ganó a Almirante Brown 2 a 0 por la llave 3 de la Primera Nacional",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/14/gimnasia-jujuy-vs-almirante-brown-en-vivo-por-la-llave-3-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/OG7WH2RUYNBYZPW2OIXOXPWK4Y.jpg?auth=b14247472c4815cc4e67f0aadac562a071f7ee6928b656bda380baf641a694ca",
-   "date": "2026-11-14T23:56:28+00:00"
+   "date": "2026-11-15T01:04:30+00:00"
   },
   {
-   "title": "El insólito gol en contra que hizo el arquero de Comunicaciones, que cayó como local 3-2 ante Arsenal, por la Primera B",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/el-insolito-gol-en-contra-que-hizo-el-arquero-de-comunicaciones-que-cayo-como-local-3-2-ante-arsenal-nid14112026/",
+   "title": "Papa León XIV en Perú, EN VIVO: la misa en Santa Cruz de Succhabamba hoy, minuto a minuto",
+   "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-la-misa-en-santa-cruz-de-succhabamba-hoy-minuto-a-minuto-nid14112026/",
    "source": "La Nación",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/E7NLHRKWIRFHPPW63UN5QNPSUQ.JPG?auth=ac19f5b13d3eae79e2c19368a1dc6e06612ed409ab11c7aac85d07d4566a7f2f&smart=true&width=2000&height=1333",
-   "date": "2026-11-14T23:56:16+00:00"
+   "image": "https://resizer.glanacion.com/resizer/v2/HB6E57QIDVBTFOGKFHVFDL3VFQ.JPG?auth=4dd660742423b9c45f14706f1d24b7486c9e2031119e43cb01e1a4dfd9460a7b&smart=true&width=3184&height=2120",
+   "date": "2026-11-15T01:03:33+00:00"
   },
   {
-   "title": "Boca goleó a Banfield en Mendoza y jugará la final de la Copa Argentina ante Platense",
+   "title": "Argentina volvió a quedar en el segundo puesto de países con mayor inflación de Latinoamérica",
+   "link": "https://www.ambito.com/economia/argentina-volvio-quedar-el-segundo-puesto-paises-mayor-inflacion-latinoamerica-n6345351",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/b984db2deeeff6d70e413ddbe13c0748/adjuntos/239/imagenes/043/684/0043684638/1200x675/606x332:626x352/salarios-pesos-inflacion-sueldo.jpg",
+   "date": "2026-11-15T01:03:00+00:00"
+  },
+  {
+   "title": "Argentina volvió a quedar en el segundo puesto de países con mayor inflación de Latinoamérica",
+   "link": "https://www.ambito.com/economia/argentina-volvio-quedar-el-segundo-puesto-paises-mayor-inflacion-latinoamerica-n6345351",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/b984db2deeeff6d70e413ddbe13c0748/adjuntos/239/imagenes/043/684/0043684638/1200x675/606x332:626x352/salarios-pesos-inflacion-sueldo.jpg",
+   "date": "2026-11-15T01:03:00+00:00"
+  },
+  {
+   "title": "La Casa Rosada frena los preparativos de la campaña hasta resolver la suspensión de las PASO y los acuerdos con los gobernadores",
+   "link": "https://tn.com.ar/politica/2026/11/14/la-casa-rosada-frena-los-preparativos-de-la-campana-hasta-resolver-la-suspension-de-las-paso-y-los-acuerdos-con-los-gobernadores/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/XPTTKKMBLZCJNOEE3YAHS46PYM.jpeg?auth=d438522e07b6a3c20508724a6d6182cf62b0bc67d856bc1dafb1589c89c57fd8",
+   "date": "2026-11-15T01:01:39+00:00"
+  },
+  {
+   "title": "Encontraron muerto a un hombre de 60 años en Córdoba y detuvieron a su hijo: investigan un posible parricidio",
+   "link": "https://tn.com.ar/policiales/2026/11/14/encontraron-muerto-a-un-hombre-de-60-anos-en-cordoba-y-detuvieron-a-su-hijo-investigan-un-posible-parricidio/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/ZLFJY7SGAZAIVA24JFQWXBELJ4.png?auth=54187dcdeddbb68621d9936ad35d88684716684cd91b6935aef565c5f956bf3d",
+   "date": "2026-11-15T01:00:26+00:00"
+  },
+  {
+   "title": "La frase a lo Bianchi de Arruabarrena y qué dijo del cambio de Paredes",
+   "link": "https://www.ole.com.ar/boca-juniors/rodolfo-arruabarrena-conferencia-partido-boca-banfield-copa-argentina_0_k2RpQ0QLrF.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/14/4q8FVBUdI_1200x630__1.jpg",
+   "date": "2026-11-15T01:00:19+00:00"
+  },
+  {
+   "title": "Crematofobia: qué es el miedo irracional al dinero y a quiénes afecta más",
+   "link": "https://www.lanacion.com.ar/sociedad/crematofobia-que-es-el-miedo-irracional-al-dinero-y-a-quienes-afecta-mas-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/T5AWQFT675DR3PXLCCM4SOQK5Y.jpg?auth=027faa6e27a99c5c752b3b1839ac48feeff3300d14c5e45dd2591bc3345f1953&smart=true&width=7360&height=4912",
+   "date": "2026-11-15T01:00:00+00:00"
+  },
+  {
+   "title": "Por qué el Platense de Martín Palermo hinchará por Boca antes de enfrentarlo en la final de Copa Argentina",
+   "link": "https://www.ole.com.ar/futbol-primera/platense-martinpalermo-copaargentina-sudamericana-libertadores-boca_0_XgnZfaDkvs.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/29/gzFJAoA2y_1200x630__1.jpg",
+   "date": "2026-11-15T00:57:28+00:00"
+  },
+  {
+   "title": "Escándalo en la Primera Nacional: suspendieron Madryn-Maipú por una agresión al arquero",
+   "link": "https://www.ole.com.ar/futbol-ascenso/deportivomadryn-deportivomaipu-primeranacional-reducido_0_ZLuE36CcCy.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/15/ZJdS4I3pK_1200x630__1.jpg",
+   "date": "2026-11-15T00:56:13+00:00"
+  },
+  {
+   "title": "La Noche de los Museos 2026 en fotos: las imágenes de una gran jornada cultural en Buenos Aires",
+   "link": "https://perfil.com/arte-cultura/la-noche-de-los-museos-2026-en-fotos-las-imagenes-de-una-gran-jornada-cultural-en-buenos-aires-ap0Ge7o33CRy",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/9f34edec1cf8-proyecto-nuevo-2026-11-13t160258974.webp",
+   "date": "2026-11-15T00:51:51+00:00"
+  },
+  {
+   "title": "Video: el tremendo gol en contra en la liga uruguaya",
+   "link": "https://www.ole.com.ar/futbol-internacional/america/video-tremendo-gol-liga-uruguaya_0_4kwyZyWDcU.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/15/TzRXGhy1b_1200x630__1.jpg",
+   "date": "2026-11-15T00:50:11+00:00"
+  },
+  {
+   "title": "Las potencias globales convergen en Manila en el inicio de la cumbre de la ASEAN",
+   "link": "https://www.clarin.com/estados-unidos/las-potencias-globales-convergen-en-manila-en-el-inicio-de-la-cumbre-de-la-asean_0_XJnqjv3pUQ.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+   "date": "2026-11-15T00:50:08+00:00"
+  },
+  {
+   "title": "Boca goleó 3-0 a Banfield en Mendoza y jugará la final de la Copa Argentina ante Platense",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/14/boca-enfrentara-a-banfield-en-mendoza-en-busca-del-pase-a-la-final-de-la-copa-argentina/",
    "source": "TN",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/XPTQK6UJU5EWPGH56VHBLHHD4U.jpg?auth=5b32b330ed6fe62144d58a2fe8687f4e119cc3f217bd408d4582ae072caeea7d",
-   "date": "2026-11-14T23:53:20+00:00"
+   "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-419-53fce8a8e8931794701031686-1794701637.jpg?auth=d10fcea3fa605767898251293af522a396ff766dc5116a7ab19ab72619aa56ff&width=1023",
+   "date": "2026-11-15T00:48:50+00:00"
+  },
+  {
+   "title": "Se viene El Niño récord: el mapa mes a mes de dónde más va a llover en Argentina hasta mayo",
+   "link": "https://www.cronista.com/informacion-gral/se-viene-el-nino-record-el-mapa-mes-a-mes-de-donde-mas-va-a-llover-en-argentina-hasta-mayo/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/JKPOSFTPAVFLTGT6JEZINWTO4I.jpg?auth=2bfb920f4f8dea51529be4273bbc8fecc0cfadc2a442abd66ee46d44d3cf8be4&smart=true&width=1200&height=900",
+   "date": "2026-11-15T00:48:50+00:00"
+  },
+  {
+   "title": "Crisis aérea en Estados Unidos: advierten que seguirán las cancelaciones de vuelos en Nueva York durante el domingo",
+   "link": "https://tn.com.ar/internacional/2026/11/13/estados-unidos-ordeno-la-suspension-de-todos-sus-vuelos-por-una-falla-en-el-sistema-de-comunicaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/NHTFHBXHZNYWVL4U5FGC7T6LWY.jpg?auth=45dc72c6389c4d82391bda3b062ee9c52ffb914d866f9b92b2f7682fb08addaa",
+   "date": "2026-11-15T00:48:13+00:00"
+  },
+  {
+   "title": "Lejos de Jorge Macri, la UCR porteña apuesta a tener candidato a jefe de gobierno y explora alianzas rumbo a 2027",
+   "link": "https://www.lanacion.com.ar/politica/con-criticas-a-jorge-macri-la-ucr-portena-apuesta-a-tener-candidato-a-jefe-de-gobierno-y-explora-nid14112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/ZELK5DVAG5H35OZOOEQEFBW54Y.jpeg?auth=908a983ab4cd03482536b75b7f2589217525a55c7e725e127075c7679f433f2c&smart=true&width=1600&height=1066",
+   "date": "2026-11-15T00:48:02+00:00"
+  },
+  {
+   "title": "Explosión en Remedios de Escalada: MetroGAS comenzó a restablecer el servicio en la zona",
+   "link": "https://perfil.com/sociedad/explosion-en-remedios-de-escalada-metrogas-comenzo-a-restablecer-el-servicio-en-la-zona-aEI0A9F0FFfH",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f8af09d21a14-gas.webp",
+   "date": "2026-11-15T00:44:56+00:00"
+  },
+  {
+   "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, sábado 14 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-sabado-14-noviembre_0_VMyzIGh92v.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/09/01/rX73bpwcD_1200x630__1.jpg",
+   "date": "2026-11-15T00:41:14+00:00"
+  },
+  {
+   "title": "Oficial y confirmado | El IRS recomienda obtener un código de seis dígitos para proteger las declaraciones de impuestos: cómo solicitarlo antes del 16 de noviembre",
+   "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-irs-recomienda-obtener-codigo-digitos-proteger-declaraciones-impuestos-solicitarlo-16-noviembre_0_bl9eriRE6g.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/11/E92r0AfVU_1200x630__1.jpg",
+   "date": "2026-11-15T00:41:04+00:00"
+  },
+  {
+   "title": "Probar el pollo frito favorito de Taylor Swift es saber que nunca pasará de moda",
+   "link": "https://www.clarin.com/estados-unidos/probar-pollo-frito-favorito-taylor-swift-saber-pasara-moda_0_Lpq8jKM1sG.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2025/08/13/yXWTV6xb9_1200x630__1.jpg",
+   "date": "2026-11-15T00:39:04+00:00"
+  },
+  {
+   "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, sábado 14 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-sabado-14-noviembre_0_NIEKkcbhrj.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/09/07/M4VJWcr6c_1200x630__1.jpg",
+   "date": "2026-11-15T00:36:09+00:00"
+  },
+  {
+   "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, sábado 14 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-sabado-14-noviembre_0_R1lOC0MM9i.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2022/06/08/RxxH5cbSo1_1200x630__1.jpg",
+   "date": "2026-11-15T00:36:08+00:00"
+  },
+  {
+   "title": "El Boca de Arruabarrena sigue imparable, goleó a Banfield en Mendoza y se metió en la final de la Copa Argentina",
+   "link": "https://www.clarin.com/deportes/boca-arruabarrena-sigue-imparable-goleo-banfield-mendoza-metio-final-copa-argentina_0_lXbvevRCyn.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/15/cnob5tSnr_1200x630__1.jpg",
+   "date": "2026-11-15T00:34:50+00:00"
+  },
+  {
+   "title": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
+   "link": "https://www.clarin.com/estados-unidos/darwin-murio-poder-demostrarlo-150-anos-despues-ciencia-acaba-darle-razon-planta-carnivora_0_BHWVchYbvQ.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/06/12/0Iql2A-j3v_1200x630__1.jpg",
+   "date": "2026-11-15T00:33:04+00:00"
+  },
+  {
+   "title": "Milei enfatizó que buscará la reelección: “El objetivo para 2031 es comercializar con el 90% del planeta”",
+   "link": "https://www.cronista.com/economia-politica/milei-enfatizo-que-buscara-la-reeleccion-el-objetivo-para-2031-es-comercializar-con-el-90-del-planeta/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/TM7QMES2QZFQTARUQTN67ACTYY.jpeg?auth=fcc3ed96370d577fb022e7e76cbff0013dced3b4ac54dda258f6ee2a5045ee48&smart=true&width=1200&height=900",
+   "date": "2026-11-15T00:32:59+00:00"
+  },
+  {
+   "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, sábado 14 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-sabado-14-noviembre_0_Dnv6AkA5Gb.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/06/26/9qaFf5P9k_1200x630__1.jpg",
+   "date": "2026-11-15T00:31:03+00:00"
+  },
+  {
+   "title": "La insólita respuesta de Jorge Jesus cuando le consultaron por Cristiano Ronaldo: \"Solo falta para...\"",
+   "link": "https://www.ole.com.ar/futbol-internacional/insolita-repuesta-jorge-jesus-cristiano-ronaldo_0_Y3jIkHfZ8c.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/06/mIn_h3RSz_1200x630__1.jpg",
+   "date": "2026-11-15T00:26:14+00:00"
+  },
+  {
+   "title": "Con Boca a la final de la Copa Argentina: ¿Por qué Platense aún no se clasificó a la Libertadores?",
+   "link": "https://www.ole.com.ar/platense/platense-clasifico-copa-argentina-boca-final-copa-libertadores-clasificacion_0_9YJWXakEA5.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/15/R2t8l3u7h_1200x630__1.jpg",
+   "date": "2026-11-15T00:25:28+00:00"
+  },
+  {
+   "title": "Un ave rapaz rescatada regresó a su hábitat natural tras superar problemas de salud: \"Se recuperó rápidamente\"",
+   "link": "https://www.clarin.com/internacional/ave-rapaz-rescatada-regreso-habitat-natural-superar-problemas-salud-recupero-rapidamente_0_qjgigAosn4.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/14/mPctu9kf0_1200x630__1.jpg",
+   "date": "2026-11-15T00:25:09+00:00"
+  },
+  {
+   "title": "Trump, Putin y Xi Jinping se reúnen por el arsenal nuclear: qué se juega y por qué es histórica la cumbre",
+   "link": "https://www.cronista.com/internacionales/trump-putin-y-xi-se-reunen-por-el-arsenal-nuclear-que-se-juega-y-por-que-es-historica-la-cumbre/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/XV6IUV3VZZGINBDQZ2TDSNRSXI.jpg?auth=84fff320bf226f59b05f4123261d0626d8717b5329c73ed9bae4f44ff1c197bc&smart=true&width=1200&height=900",
+   "date": "2026-11-15T00:14:05+00:00"
+  },
+  {
+   "title": "Pedro Alfonso presentó elenco para Carlos Paz",
+   "link": "https://perfil.com/cordoba/pedro-alfonso-presento-elenco-para-carlos-paz-a9Qn14f1bAOP",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/61d79d490915-pedro-alfonso-carlos-paz-2026.webp",
+   "date": "2026-11-15T00:13:54+00:00"
+  },
+  {
+   "title": "\"Condiciones excepcionales para la producción agrícola\": una importante empresa del agro compró 10.000 hectáreas en Río Negro",
+   "link": "https://www.clarin.com/rural/condiciones-excepcionales-produccion-agricola-importante-empresa-agro-compro-10000-hectareas-rio-negro_0_OnZ5cZxp4k.html",
+   "source": "Clarín Economía",
+   "cat": "economia",
+   "image": "https://www.clarin.com/img/2026/11/14/M0J5ijkZZ_1200x630__1.jpg",
+   "date": "2026-11-15T00:08:40+00:00"
+  },
+  {
+   "title": "El uno por uno de la goleada de Boca y el pase a la final de la Copa Argentina",
+   "link": "https://www.ole.com.ar/boca-juniors/puntajes-jugadores-boca-partido-banfield-copa-argentina-semifinal_0_FXcrrMBz89.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/15/RT7n95OzS_1200x630__1.jpg",
+   "date": "2026-11-15T00:01:42+00:00"
   },
   {
    "title": "Boca vs Platense: la final que definirá al campeón de la Copa Argentina 2026",
@@ -66,78 +482,6 @@
    "date": "2026-11-14T23:52:59+00:00"
   },
   {
-   "title": "Resultado de Boca vs. Banfield: así terminó el partido de semifinales de la Copa Argentina 2026",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-hoy-boca-vs-banfield-y-por-donde-se-puede-ver-en-vivo-nid14112026-2/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/NU6PMKVDENHOXEPMM4MI7XX2UQ.JPG?auth=267463d7b24349bedbbd7783275870224401335fd4af90db6f562bebb7d73acb&smart=true&width=2000&height=1333",
-   "date": "2026-11-14T23:52:45+00:00"
-  },
-  {
-   "title": "Así quedó la final de la Copa Argentina 2026, tras el triunfo de Boca",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/asi-quedo-la-final-de-la-copa-argentina-2026-tras-el-triunfo-de-boca-nid14112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SVMF6QLJLJEOJGP425G7ZOTP2Y.jpg?auth=4919973fa466c0efddb97affa2cd97eb28398d4dc0aec3eb4259b13551d4e23a&smart=true&width=2000&height=1333",
-   "date": "2026-11-14T23:52:00+00:00"
-  },
-  {
-   "title": "Con baile, música y un look impecable: así fue la gran aparición de la reina Máxima en el Palacio Noordeinde",
-   "link": "https://www.lanacion.com.ar/el-mundo/con-baile-musica-y-un-look-impecable-asi-fue-la-gran-aparicion-de-la-reina-maxima-en-el-palacio-nid13112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/BMHIKO62CVHCZLHKIC2GXRVJ7E.png?auth=9f347b7531807c353f63a81200abc7506241fd8762fd88c0b4329804a7bb00bf&smart=true&width=2000&height=1333",
-   "date": "2026-11-14T23:49:24+00:00"
-  },
-  {
-   "title": "Por qué es beneficioso hervir hojas de laurel con clavos de olor y ramas de canela",
-   "link": "https://www.lanacion.com.ar/lifestyle/por-que-es-beneficioso-hervir-hojas-de-laurel-con-clavos-de-olor-y-ramas-de-canela-nid11112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/3XZ5PXK4X5FBVIPCLPOKFZPHPA.png?auth=b054cff795b798cb9adbb65983adfd62f5020c8645d4366e2bec0738ab9c6532&smart=true&width=2000&height=1333",
-   "date": "2026-11-14T23:49:21+00:00"
-  },
-  {
-   "title": "“Yo tenía dos hijos”: cómo hicieron Selva Alemán y Arturo Puig para reorganizar sus vidas y acelerar a fondo por un flechazo inesperado",
-   "link": "https://www.lanacion.com.ar/espectaculos/yo-tenia-dos-hijos-como-hicieron-selva-aleman-y-arturo-puig-para-reorganizar-sus-vidas-y-acelerar-a-nid12112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/5ETJJCY7NJDCXDYNMNEHODB7AM.jpg?auth=f8dd2c94ee94f69919073fcedc84676e32d8850b0b7d7abbe46ae557ec057915&smart=true&width=1260&height=840",
-   "date": "2026-11-14T23:49:16+00:00"
-  },
-  {
-   "title": "Cumplió 105 años, recorre Pamplona con sus hijos y contó qué le gusta cenar: “Un bocadillo de sardinas o uno de tocino del bueno”",
-   "link": "https://www.lanacion.com.ar/lifestyle/cumplio-105-anos-recorre-pamplona-con-sus-hijos-y-conto-que-le-gusta-cenar-un-bocadillo-de-sardinas-nid13112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/KFBKDQCGQZD3DDT5CROGAPS66E.jpg?auth=9ac6a62b5321cff6b6b509c320c8bf1d78ee169f392226ee7e90535fddffa17f&smart=true&width=6000&height=4000",
-   "date": "2026-11-14T23:49:13+00:00"
-  },
-  {
-   "title": "Oli Reyes, de 42 años, dejó todo y se mudó a un pequeño pueblo: “Yo tenía tres armarios llenos de ropa, y digo, ¿de todo eso qué usaba?”",
-   "link": "https://www.lanacion.com.ar/lifestyle/oli-reyes-de-42-anos-dejo-todo-y-se-mudo-a-un-pequeno-pueblo-yo-tenia-tres-armarios-llenos-de-ropa-y-nid13112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/BRLQIQ4STJB7TKRTVECUO37UY4.png?auth=8e7959649065431494bfac0d2d4cdab20929ebe3e13de8be48b5c8ed385524a1&smart=true&width=1309&height=736",
-   "date": "2026-11-14T23:48:59+00:00"
-  },
-  {
-   "title": "Una pareja con cuatro hijos construyó su casa de 232 m² en el desierto con más de 360 toneladas de tierra",
-   "link": "https://www.lanacion.com.ar/lifestyle/una-pareja-con-cuatro-hijos-construyo-su-casa-de-232-m-en-el-desierto-con-mas-de-360-toneladas-de-nid13112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/L534XPMZFBD4NKXPWJXYFKSBWM.jpg?auth=0a922ed1bc0b1f518af22890c20531a2bd5160eb3f316145dc47e7656d2c3e8c&smart=true&width=6000&height=4000",
-   "date": "2026-11-14T23:48:55+00:00"
-  },
-  {
-   "title": "Detuvieron en Perú a otro acusado por el triple crimen de Florencio Varela: sería el custodio del tío de “Pequeño J”",
-   "link": "https://tn.com.ar/policiales/2026/11/14/detuvieron-en-peru-a-otro-acusado-por-el-triple-crimen-de-florencio-varela-seria-el-custodio-del-tio-de-pequeno-j/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/HORBNKCBERFZDDFH3P7JEVWSBY.jpg?auth=f2bdf31df34bb214c67e3c20be6b136ad875aa52f47a5add65eb4e371e43540c",
-   "date": "2026-11-14T23:47:48+00:00"
-  },
-  {
    "title": "Por orden del Gobierno, se inspeccionarán los taxis de la CDMX para que cumplan con la Revista Vehicular antes de fin de año",
    "link": "https://www.cronista.com/mexico/finanzas-economia/por-orden-del-gobierno-se-inspeccionaran-los-taxis-de-la-cdmx-para-que-cumplan-con-la-revista-vehicular-antes-de-fin-de-ano/",
    "source": "El Cronista",
@@ -146,60 +490,12 @@
    "date": "2026-11-14T23:46:00+00:00"
   },
   {
-   "title": "El papa León XIV fue recibido por miles de fieles en Zaña: “Comprendí mejor el evangelio gracias a la fe de ustedes”",
-   "link": "https://tn.com.ar/internacional/2026/11/14/el-papa-en-peru-leon-xiv-fue-recibido-por-miles-de-fieles-en-zana-y-homenajeo-a-santo-toribio-de-mogrovejo/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/OV7YYHK7BGBWVER72YXG3CTUDI.3rxVT?auth=e806e708e41dfa3fc0d2c5bb4f5d1543c2ab7f8fe225e8810f5606da227dfb92",
-   "date": "2026-11-14T23:44:21+00:00"
-  },
-  {
    "title": "Grupo de Narváez suma a Integra Capital como socio en la operación de los supermercados",
    "link": "https://www.cronista.com/negocios/grupo-de-narvaez-suma-a-integra-capital-como-socio-en-la-operacion-de-los-supermercados/",
    "source": "El Cronista",
    "cat": "economia",
    "image": "https://www.cronista.com/resizer/v2/ERY6NHT2HVEI7DVKTA3HB36ANA.jpeg?auth=40bdd3670d371f65af5170900c13a61d11a610fb7fdf6bfc9ba307f5bc6f4b81&smart=true&width=1200&height=900",
    "date": "2026-11-14T23:44:19+00:00"
-  },
-  {
-   "title": "Así es el nuevo Football Manager 27: más realismo, cambios en las tácticas y nuevas formas de jugar",
-   "link": "https://tn.com.ar/tecno/juegos/2026/11/14/asi-es-el-nuevo-football-manager-27-mas-realismo-cambios-en-las-tacticas-y-nuevas-formas-de-jugar/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/V24U55W375HVFAMK26XDD2QN5Q.png?auth=a953a4607527b4b817c94a65b93c55059a8e1b3438f309685af2f77524c8be4a",
-   "date": "2026-11-14T23:44:03+00:00"
-  },
-  {
-   "title": "Antes de irse al Manchester United, Pochettino disfrutó de una goleada 6-0 de Estados Unidos contra Haití",
-   "link": "https://www.ole.com.ar/futbol-internacional/goleada-estados-unidos-pochettino-haiti_0_FdWyg8Tkhb.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/qAjXINvRC_1200x630__1.jpg",
-   "date": "2026-11-14T23:42:56+00:00"
-  },
-  {
-   "title": "Villa, decisivo: golazo, asistencia y titularidad justificada en el Boca de lujo",
-   "link": "https://www.ole.com.ar/boca-juniors/sebastianvilla-boca-golazo-titularidad-banfield-rusorodriguez-mendoza_0_DIHAGTZ5ca.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/NDE1lynGg_1200x630__1.jpg",
-   "date": "2026-11-14T23:42:09+00:00"
-  },
-  {
-   "title": "Con varios titulares, Atlético Mineiro empató frente a Mirassol en su último partido antes de la final con Boca",
-   "link": "https://www.ole.com.ar/futbol-internacional/america/atletico-mineiro-brasileirao-salio-copa-sudamericana-boca-final-fecha_0_JhnwgcXUOm.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/2bf1-h77g_1200x630__1.jpg",
-   "date": "2026-11-14T23:40:10+00:00"
-  },
-  {
-   "title": "Arsenal le ganó a Comunicaciones 3 a 2 por la llave 3 de la Primera División B",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/14/comunicaciones-vs-arsenal-en-vivo-por-la-llave-3-de-la-primera-division-b-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/3KCVNID7EVAWJK76T6ZJNEF74A.jpg?auth=af6fcd5800d76f834a683830d148c593c105805c19b2bac43b06e9cc5dbd0c35",
-   "date": "2026-11-14T23:37:28+00:00"
   },
   {
    "title": "SpaceX logra por primera vez atrapar la parte superior del cohete Starship en su regreso a la Tierra",
@@ -218,30 +514,6 @@
    "date": "2026-11-14T23:31:03+00:00"
   },
   {
-   "title": "El mensaje silencioso de Ponzio en el ensayo ante Gimnasia",
-   "link": "https://www.ole.com.ar/river-plate/river-santiagoespindola-gimnasia-monumental-leonardoponzio-lanus-anibalmoreno-faustovera_0_2LiG0Cwrz4.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/A5gAYFe44_1200x630__1.jpg",
-   "date": "2026-11-14T23:30:04+00:00"
-  },
-  {
-   "title": "Colón se ilusiona: triunfazo para seguir soñando con el ascenso",
-   "link": "https://www.ole.com.ar/futbol-ascenso/colon-midland-ligaprofesional-primeranacional_0_NrMEevyGOF.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/rlhRPFVc7_1200x630__1.jpg",
-   "date": "2026-11-14T23:20:18+00:00"
-  },
-  {
-   "title": "La vida después de Messi y Cristiano",
-   "link": "https://www.ole.com.ar/opinion/seleccion-argentina-messi-cristiano-ronaldo_0_AxsyG1sZWp.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/5BoyPePhD_1200x630__1.jpg",
-   "date": "2026-11-14T23:15:58+00:00"
-  },
-  {
    "title": "Es oficial | La pensión por orfandad del IMSS se elimina directo a jóvenes de 16 a 25 años que dejen de estudiar o comiencen a trabajar y sean dados de alta en el Seguro Social",
    "link": "https://www.cronista.com/mexico/finanzas-economia/es-oficial-la-pension-por-orfandad-se-elimina-directo-a-jovenes-de-16-a-25-anos-que-dejen-de-estudiar-o-comiencen-a-trabajar-y-sean-dados-de-alta-en-el-seguro-social/",
    "source": "El Cronista",
@@ -250,36 +522,12 @@
    "date": "2026-11-14T23:11:00+00:00"
   },
   {
-   "title": "De estar en duda a volver a festejar: regresó el Ascacibar goleador a Boca",
-   "link": "https://www.ole.com.ar/boca-juniors/gol-ascacibar-banfield-copa-argentina_0_qfcnG0VCiE.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/T_Bq4jYzN_1200x630__1.jpg",
-   "date": "2026-11-14T23:10:55+00:00"
-  },
-  {
-   "title": "La Libertad Avanza ya tiene candidato en Misiones y tensiona con el gobernador Hugo Passalacqua",
-   "link": "https://www.ambito.com/politica/la-libertad-avanza-ya-tiene-candidato-misiones-adrian-nunez-se-lanzo-la-gobernacion-n6345322",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/1309666032a6aa01f5d144516b314b52/adjuntos/239/imagenes/043/771/0043771315/1200x675/smart/nunez-lla.png",
-   "date": "2026-11-14T23:10:00+00:00"
-  },
-  {
-   "title": "Milei confirmó que buscará la reelección en 2027 y reivindicó las ideas económicas de Belgrano",
-   "link": "https://perfil.com/politica/milei-confirmo-que-buscara-la-reeleccion-en-2027-y-reivindico-las-ideas-economicas-de-belgrano-aqo1g8u6Gwah",
+   "title": "Milei ratificó que buscará la reelección en 2027 y reivindicó las ideas económicas de Belgrano",
+   "link": "https://perfil.com/politica/milei-ratifico-que-buscara-la-reeleccion-en-2027-y-reivindico-las-ideas-economicas-de-belgrano-aqo1g8u6Gwah",
    "source": "Perfil",
    "cat": "argentina",
    "image": "https://media.perfil.com/prod/images/gm_preview/4310aefc99d1-1365-x-766-3.webp",
    "date": "2026-11-14T23:09:11+00:00"
-  },
-  {
-   "title": "Bronca en el Ascenso: los hinchas sufrieron fallas en LPF Play, la plataforma de la AFA para ver la definición de la Primera Nacional",
-   "link": "https://www.clarin.com/deportes/bronca-ascenso-hinchas-sufrieron-fallas-lpf-play-plataforma-afa-ver-definicion-primera-nacional_0_CUrLnzQTyz.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/m6vbpbLb6_1200x630__1.jpg",
-   "date": "2026-11-14T23:08:58+00:00"
   },
   {
    "title": "Boca goleó a Banfield y jugará la final de la Copa Argentina ante Platense",
@@ -288,54 +536,6 @@
    "cat": "argentina",
    "image": "https://media.ambito.com/p/7590c4c2249cefa45c580c6e1f82922b/adjuntos/239/imagenes/043/771/0043771345/1200x675/smart/boca-banfield.png",
    "date": "2026-11-14T23:08:00+00:00"
-  },
-  {
-   "title": "La genialidad de Paredes que valió la mitad del gol de Boca en Mendoza",
-   "link": "https://www.ole.com.ar/boca-juniors/leandroparedes-gol-boca-santiagoascacibar-mendoza-vascoarruabarrena-malvinas-messi-xeneize_0_WbHOI4LWdR.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/kIXUe8slq_1200x630__1.jpg",
-   "date": "2026-11-14T23:05:12+00:00"
-  },
-  {
-   "title": "Vecinos marcharon tras la explosión en Remedios de Escalada: exigen respuestas a Metrogas y alertan por el peligro en el barrio",
-   "link": "https://www.clarin.com/sociedad/vecinos-marcharon-explosion-remedios-escalada-exigen-respuestas-metrogas-alertan-peligro-barrio_0_I1mwjq0sMo.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/ofA1kiVoS_1200x630__1.jpg",
-   "date": "2026-11-14T23:03:43+00:00"
-  },
-  {
-   "title": "Quién ganó y quién perdió con Prevost y \nlas peleas por las medialunas y en la UCA",
-   "link": "https://www.clarin.com/opinion/gano-perdio-prevost-peleas-medialunas-uca_0_p3Fc0Z96iA.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/11/d3FBljoZ7_1200x630__1.jpg",
-   "date": "2026-11-14T23:02:52+00:00"
-  },
-  {
-   "title": "La Selección Sub 17 viajó a Qatar por el único Mundial que le falta a la Argentina",
-   "link": "https://www.ole.com.ar/seleccion/seleccion-sub-17-viaje-qatar-mundial-fixture_0_j9Itl0rxHR.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/14/G1dQ9AvIU_1200x630__1.jpg",
-   "date": "2026-11-14T23:01:40+00:00"
-  },
-  {
-   "title": "SpaceX hizo historia: capturó por primera vez una nave Starship que regresó del espacio",
-   "link": "https://tn.com.ar/tecno/novedades/2026/11/14/spacex-hizo-historia-capturo-por-primera-vez-una-nave-starship-despues-de-regresar-del-espacio/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/XAMT7QBWHDXQQBZHI6TEFRYF6U.MBIjIx?auth=a30610984ad764b815b99e7a60b57b3fdddb746538d35e03a26cfef7822af73e",
-   "date": "2026-11-14T23:01:34+00:00"
-  },
-  {
-   "title": "La burbujita española",
-   "link": "https://www.clarin.com/opinion/burbujita-espanola_0_LJZspPhyzp.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/pnIm3BkWA_1200x630__1.jpg",
-   "date": "2026-11-14T23:01:03+00:00"
   },
   {
    "title": "Fox Sports Argentina dejará de emitirse en Argentina en 2027: los motivos",
@@ -362,46 +562,6 @@
    "date": "2026-11-14T22:58:00+00:00"
   },
   {
-   "title": "Argentina consolida boom exportador, pero con menos empresas vendiendo afuera",
-   "link": "https://perfil.com/cordoba/argentina-consolida-boom-exportador-pero-con-menos-empresas-vendiendo-afuera-aRb7H0y7Vm0p",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/e9289383c84d-comex-puerto.jpg",
-   "date": "2026-11-14T22:58:00+00:00"
-  },
-  {
-   "title": "La Corte Suprema “corrigió” el criterio del TSJ de Córdoba sobre cómo actualizar indemnizaciones",
-   "link": "https://perfil.com/cordoba/la-corte-suprema-corrigio-el-criterio-del-tsj-de-cordoba-sobre-como-actualizar-indemnizaciones-a0BtO2n7gu7w",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/5e4b0e76e0a9-corte-suprema.webp",
-   "date": "2026-11-14T22:57:00+00:00"
-  },
-  {
-   "title": "Después del Papamóvil, Córdoba se sube al Rally y anda en Scaloneta",
-   "link": "https://perfil.com/deportes/despues-del-papamovil-cordoba-se-sube-al-rally-y-anda-en-scaloneta-apIES6I9EGqA",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/6390932cda69-rally-panal-llaryora.webp",
-   "date": "2026-11-14T22:56:00+00:00"
-  },
-  {
-   "title": "La tentación que sacude a Independiente: Necaxa sigue de cerca a Pérez Curci y aprieta las urgencias económicas",
-   "link": "https://www.ole.com.ar/independiente/independiente-mateoperezcurci-avellaneda-necaxa_0_mRXWBgEqKL.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2025/11/15/c_wAmjedM_1200x630__1.jpg",
-   "date": "2026-11-14T22:53:59+00:00"
-  },
-  {
-   "title": "Rafael Di Marco: “Las precipitaciones por encima de lo normal se van a extender hasta marzo”",
-   "link": "https://perfil.com/cordoba/las-precipitaciones-por-encima-de-lo-normal-se-van-a-extender-hasta-marzo-am3yi8G9ioKF",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/dd11be5baabf-cordoba-tormenta-en-calamuchita-20230322-1532944.jpg",
-   "date": "2026-11-14T22:53:00+00:00"
-  },
-  {
    "title": "\"Queda para el próximo\": Carlos Melconian descartó que el Gobierno pueda bajar la inflación",
    "link": "https://www.ambito.com/economia/queda-el-proximo-carlos-melconian-descarto-que-el-gobierno-pueda-bajar-la-inflacion-n6345314",
    "source": "Ámbito",
@@ -416,30 +576,6 @@
    "cat": "economia",
    "image": "https://media.ambito.com/p/5953a852c7376acd2e1ce76bba3e44b3/adjuntos/239/imagenes/043/322/0043322333/carlos-melconian.jpg",
    "date": "2026-11-14T22:51:00+00:00"
-  },
-  {
-   "title": "Insólito gol en contra del arquero de Comunicaciones en la Primera B: se olvidó de soltar la pelota y la mandó al fondo de la red",
-   "link": "https://www.clarin.com/deportes/insolito-gol-arquero-comunicaciones-primera-b-olvido-soltar-pelota-mando-fondo-red_0_pYD1vj7IBH.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/rSzbT9kOH_1200x630__1.jpg",
-   "date": "2026-11-14T22:41:53+00:00"
-  },
-  {
-   "title": "Milei enfatizó que buscará la reelección: “El objetivo para 2031 es comercializar con el 90% del planeta”",
-   "link": "https://www.cronista.com/economia-politica/milei-enfatizo-que-buscara-la-reeleccion-el-objetivo-para-2031-es-comercializar-con-el-90-del-planeta/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/TM7QMES2QZFQTARUQTN67ACTYY.jpeg?auth=fcc3ed96370d577fb022e7e76cbff0013dced3b4ac54dda258f6ee2a5045ee48&smart=true&width=1200&height=900",
-   "date": "2026-11-14T22:39:57+00:00"
-  },
-  {
-   "title": "SpaceX logra una histórica captura de nave espacial",
-   "link": "https://www.clarin.com/estados-unidos/spacex-logra-una-historica-captura-de-nave-espacial_0_aDg5fOvhzO.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
-   "date": "2026-11-14T22:30:10+00:00"
   },
   {
    "title": "Se aproxima un sábado de fuertes lluvias en México: prevén precipitaciones de hasta 50 mm, vientos fuertes y oleaje de hasta 5 metros",
@@ -450,14 +586,6 @@
    "date": "2026-11-14T22:30:00+00:00"
   },
   {
-   "title": "Cuba agradece a obispos católicos de EE.UU. \"facilitar la ayuda humanitaria\" hacia la isla",
-   "link": "https://www.clarin.com/estados-unidos/cuba-agradece-a-obispos-catolicos-de-ee-uu-facilitar-la-ayuda-humanitaria-hacia-la-isla_0_BEcWwpIunG.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
-   "date": "2026-11-14T22:20:09+00:00"
-  },
-  {
    "title": "En una muestra de Manuel Belgrano, Javier Milei ratificó que competirá por la reelección y prometió \"devolver u$s500 mil milllones\"",
    "link": "https://www.ambito.com/politica/en-medio-la-interna-libertaria-javier-milei-inaugurara-una-muestra-manuel-belgrano-la-casa-rosada-n6345287",
    "source": "Ámbito",
@@ -466,28 +594,12 @@
    "date": "2026-11-14T22:19:00+00:00"
   },
   {
-   "title": "La decisión que tomó La Joaqui tras su polémica separación de Luck Ra: la reacción de Tiago PZK",
-   "link": "https://www.clarin.com/fama/decision-tomo-joaqui-polemica-separacion-luck-ra-reaccion-tiago-pzk_0_Bw6pzILTmF.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/OaWkjJePu_1200x630__1.jpg",
-   "date": "2026-11-14T22:11:20+00:00"
-  },
-  {
-   "title": "Está confirmado: el transporte público en Miami-Dade aumenta a partir de esta fecha",
-   "link": "https://www.clarin.com/estados-unidos/confirmado-transporte-publico-miami-dade-aumenta-partir-fecha_0_a49YhHVJNq.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2021/07/02/tSlXjSL_K_1200x630__1.jpg",
-   "date": "2026-11-14T22:07:03+00:00"
-  },
-  {
-   "title": "Ni cinco de pelota",
-   "link": "https://www.clarin.com/opinion/pelota_0_ZLC8HXvmJn.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/14/dPXncVML0_1200x630__1.jpg",
-   "date": "2026-11-14T22:03:03+00:00"
+   "title": "El \"castigo\" argentino: el petróleo vuela, las empresas petroleras pierden valor",
+   "link": "https://www.clarin.com/economia/castigo-argentino-petroleo-vuela-empresas-petroleras-pierden-valor_0_fL3UaTAwuQ.html",
+   "source": "Clarín Economía",
+   "cat": "economia",
+   "image": "https://www.clarin.com/img/2026/10/29/tLVLtrMx3_1200x630__1.jpg",
+   "date": "2026-11-14T22:02:39+00:00"
   },
   {
    "title": "Superan los u$s22.000 millones los proyectos de inversión en San Juan: el impacto energético y del RIGI",
@@ -498,36 +610,12 @@
    "date": "2026-11-14T21:45:00+00:00"
   },
   {
-   "title": "El 41° Festival Internacional de Cine de Mar del Plata anunció sus películas ganadoras",
-   "link": "https://www.ambito.com/espectaculos/el-41-festival-internacional-cine-mar-del-plata-anuncio-sus-peliculas-ganadoras-n6345281",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/127fd3a22ebc1a2e138ee9271b64a2ed/adjuntos/239/imagenes/043/771/0043771314/1200x675/smart/festival-mar-del-plata-5.png",
-   "date": "2026-11-14T21:38:00+00:00"
-  },
-  {
-   "title": "El Festival de Cine de Mar del Plata cerró su 41.ª edición y premió a “The Night Arezou Disappeared” como Mejor Largometraje",
-   "link": "https://www.clarin.com/espectaculos/festival-cine-mar-plata-cerro-41-edicion-premio-the-night-arezou-disappeared-mejor-largometraje_0_EgIRkmViU6.html",
-   "source": "Clarín Espectáculos",
-   "cat": "espectaculos",
-   "image": "https://www.clarin.com/img/2026/11/14/rGQQZ4PS3_1200x630__1.jpg",
-   "date": "2026-11-14T21:31:02+00:00"
-  },
-  {
    "title": "\"Las cortinas se pegaron al techo\": cómo sobreviví al desastre de San Juanico, la explosión que dejó 650 muertos en México en 1984",
    "link": "https://www.bbc.com/mundo/articles/c93xe77lg73o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
    "cat": "mundo",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9d6/live/9b0f4940-5dda-11f1-a574-05510226f57f.jpg",
    "date": "2026-11-14T21:29:57+00:00"
-  },
-  {
-   "title": "Llegó el calor y vuelven las cucarachas: la verdad detrás del truco con limón y vinagre que todos usan",
-   "link": "https://www.cronista.com/informacion-gral/llego-el-calor-y-vuelven-las-cucarachas-la-verdad-detras-del-truco-con-limon-y-vinagre-que-todos-usan/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/UX6QMHSQOZERBPYRZSTTTJS2Z4.jpg?auth=22ff0772c6be53a175f95ba35c170aed615f6e1409daf1f11f5491e61325b83f&smart=true&width=1200&height=900",
-   "date": "2026-11-14T21:26:57+00:00"
   },
   {
    "title": "Sandra Pettovello advirtió por \"insistentes presiones y agresiones\", en el medio de la disputa con el gremio de Luis Barrionuevo",
@@ -538,20 +626,20 @@
    "date": "2026-11-14T21:15:00+00:00"
   },
   {
-   "title": "Por el Decreto 779/95, multarán a los conductores que nieguen a realizarse el test de alcoholemia o por drogas, y le restarán 10 puntos de la licencia de conducir",
-   "link": "https://www.cronista.com/informacion-gral/por-el-decreto-77995-multaran-a-los-conductores-que-nieguen-a-realizarse-el-test-de-alcoholemia-o-por-drogas-y-le-restaran-10-puntos-de-la-licencia-de-conducir/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/KRMWPHXASVGXVOKPXCHHF3ZT54.png?auth=d0b6871abd846ae9991079498f4074bb411741b9325eb71083a1fb85f983c842&smart=true&width=1200&height=900",
-   "date": "2026-11-14T21:00:00+00:00"
-  },
-  {
    "title": "Plazo fijo: cuánto se obtiene al invertir $1.500.000",
    "link": "https://www.ambito.com/economia/plazo-fijo-cuanto-se-obtiene-al-invertir-1500000-n6344958",
    "source": "Ámbito Economía",
    "cat": "economia",
    "image": "https://media.ambito.com/p/17998f515c23dd19887e7d422a9e2325/adjuntos/239/imagenes/043/733/0043733952/1200x675/1047x276:1067x296/plazo-fijo.jpg",
    "date": "2026-11-14T21:00:00+00:00"
+  },
+  {
+   "title": "Un jugador de Patronato chocó a un motociclista, se dio a la fuga y dio positivo en alcoholemia",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/14/un-jugador-de-patronato-choco-a-un-motociclista-se-dio-a-la-fuga-y-dio-positivo-en-alcoholemia/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/ZKNT2HDKRNFHTG2EQI4ZH5C3MI.jpg?auth=9518f9b529e5737bb111576014e8cb10194eb0cf13be84b4233b96135e75e803",
+   "date": "2026-11-14T20:37:02+00:00"
   },
   {
    "title": "Carne, chocolatines y gas: un ranking histórico de justificaciones por las cuales no bajan los precios",
@@ -640,6 +728,14 @@
    "cat": "economia",
    "image": "https://www.clarin.com/img/2020/07/16/SJu0WVEe9_1200x630__1.jpg",
    "date": "2026-11-14T14:17:19+00:00"
+  },
+  {
+   "title": "¿Cuánto crees que sabemos de la vida marina prehistórica? Un nuevo mapa sugiere que miramos solo una décima parte del tablero",
+   "link": "https://muyinteresante.okdiario.com/ciencia/vida-marina-prehistorica-mapa-fosiles.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/cuanto-crees-que-sabemos-de-la-vida.jpg",
+   "date": "2026-11-14T14:00:37+00:00"
   },
   {
    "title": "Zelensky asegura que EE.UU. propuso a Ucrania ceder el Donbás a Rusia a cambio de ingresar en la OTAN",
@@ -738,22 +834,6 @@
    "date": "2026-11-14T10:45:11+00:00"
   },
   {
-   "title": "Euro hoy en Nicaragua: precio y cotización de la divisa este sábado 14 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-nicaragua-precio-y-cotizacion-de-la-divisa-este-sabado-14-de-noviembre-de-2026_0_msRgd4oaSd.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2018/12/28/5LE22YAZM_1200x630__1.jpg",
-   "date": "2026-11-14T10:45:09+00:00"
-  },
-  {
-   "title": "Euro hoy en Panamá: precio y cotización de la divisa este sábado 14 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-sabado-14-de-noviembre-de-2026_0_XEN6ZnKy35.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2016/12/30/SyLMzgESe_1200x630.jpg",
-   "date": "2026-11-14T10:45:09+00:00"
-  },
-  {
    "title": "Arqueólogos resuelven un misterio de 200 años en Escocia: una pierna de bronce perteneció a una gigantesca estatua imperial bañada en oro",
    "link": "https://muyinteresante.okdiario.com/historia/estatua-dorada-emperador-romano-antonino-pio-escocia.html",
    "source": "Muy Interesante",
@@ -850,6 +930,14 @@
    "date": "2026-11-14T03:06:55+00:00"
   },
   {
+   "title": "Para aprobar la ley de biocombustibles aliados le piden flexibilidad al Gobierno, que observa el posible impacto en el año electoral",
+   "link": "https://www.ambito.com/politica/para-aprobar-la-ley-biocombustibles-aliados-le-piden-flexibilidad-al-gobierno-que-observa-el-posible-impacto-el-ano-electoral-n6345167",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/8724483c6dd613d9291a13f75ab03bd8/adjuntos/239/imagenes/043/770/0043770266/1200x675/smart/refineria-biocombustibles-san-lorenzo.avif",
+   "date": "2026-11-14T03:00:00+00:00"
+  },
+  {
    "title": "\"Milagro en el Misisipi\": rescatan a todos los pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna",
    "link": "https://www.bbc.com/mundo/articles/c804wpyd29wro?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -938,12 +1026,12 @@
    "date": "2026-11-13T19:16:00+00:00"
   },
   {
-   "title": "Generación sin casa propia: se sumaron 600.000 hogares inquilinos en la última década",
-   "link": "https://www.ambito.com/economia/generacion-casa-propia-se-sumaron-600000-hogares-inquilinos-la-ultima-decada-n6345015",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/d793fd41d97e5815878b24a17e90eb52/adjuntos/239/imagenes/043/713/0043713775/1200x675/869x548:889x568/mudanza-alquileres-desalojo-propiedades.png",
-   "date": "2026-11-13T18:33:00+00:00"
+   "title": "¿No le alcanza con conquistar la música? Rosalía ahora va por el cine de la mano de Javier Bardem",
+   "link": "https://www.clarin.com/espectaculos/alcanza-conquistar-musica-rosalia-ahora-va-cine-mano-javier-bardem_0_Shp3P9MeGN.html",
+   "source": "Clarín Espectáculos",
+   "cat": "espectaculos",
+   "image": "https://www.clarin.com/img/2026/11/13/Iq2sOC7HL_1200x630__1.jpg",
+   "date": "2026-11-13T16:56:58+00:00"
   },
   {
    "title": "El Huawei Watch 5 se desploma de precio antes del Black Friday y sacude la gama media",
@@ -952,14 +1040,6 @@
    "cat": "ciencia",
    "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2025/04/Huawei-Watch-GT-5-Pro-rebajado-og.jpg",
    "date": "2026-11-13T16:27:52+00:00"
-  },
-  {
-   "title": "Viernes 13: ¿cuánto sabes de verdad sobre su supuesta mala suerte?",
-   "link": "https://muyinteresante.okdiario.com/curiosidades/supersticion-viernes-13.html",
-   "source": "Muy Interesante",
-   "cat": "ciencia",
-   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/viernes-13-cuanto-sabes-de-verdad-sobre.jpg",
-   "date": "2026-11-13T15:55:59+00:00"
   }
  ]
 }
