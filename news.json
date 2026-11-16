@@ -1,221 +1,517 @@
 {
- "updated": "2026-11-16T18:18:24.303303+00:00",
+ "updated": "2026-11-16T19:26:02.244840+00:00",
  "items": [
+  {
+   "title": "Fixture y resultados de la Copa Potrero 2026",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17506367/copa-potrero-2026-fixture-calendario-resultados-partidos",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745508_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T20:01:29+00:00"
+  },
+  {
+   "title": "Copa Potrero 2026 ¡EN VIVO!: los partidos de hoy",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17513919/copa-potrero-2026-en-vivo-donde-ver-partidos-de-hoy-streaming",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745568_1279x720_16%2D9.jpg",
+   "date": "2026-11-16T20:01:29+00:00"
+  },
+  {
+   "title": "Renunció el convencional de Bariloche que reivindicó la dictadura de Videla",
+   "link": "https://www.lanacion.com.ar/politica/renuncio-el-convencional-de-bariloche-que-reivindico-la-dictadura-de-videla-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/6D4NTMUXGRFR3OXJD5CL54SBSM.png?auth=0db50f94d951d75b7f13d455c2b066ee3191a853356a799e1f4d5bf7b04c505c&smart=true&width=686&height=386",
+   "date": "2026-11-16T19:25:19+00:00"
+  },
+  {
+   "title": "UEFA Nations League, en vivo",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/QVZ44JOLYZDZHCL7J3S4KXEJ2Q.JPG?auth=aa30937d7d9d9bf4dea3576b3d22c2caadd2906d9630b9b60c20adc896f0b352&smart=true&width=4338&height=2892",
+   "date": "2026-11-16T19:24:46+00:00"
+  },
+  {
+   "title": "El fenómeno de El Niño sobre América Latina acelera las conversaciones sobre la financiación climática",
+   "link": "https://perfil.com/ciencia-y-tecnologia/el-nino-acelera-las-conversaciones-sobre-las-finanzas-climaticas-a50-bgd-aiLem9X810wQ",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/0d5a633054a9-proyecto-nuevo-2026-11-10t170104963.webp",
+   "date": "2026-11-16T19:21:47+00:00"
+  },
+  {
+   "title": "Lionel Scaloni confirmó que hará \"cuatro o cinco cambios\" para el amistoso ante Costa Rica",
+   "link": "https://perfil.com/deportes/lionel-scaloni-confirmo-que-hara-cuatro-o-cinco-cambios-para-el-amistoso-ante-costa-rica-aARaY3H4quJS",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/af290ca1f885-mixcollage-12-nov-2026-06-27-pm-2679.webp",
+   "date": "2026-11-16T19:21:45+00:00"
+  },
+  {
+   "title": "La inesperada campaña para restituir al CEO de Nvidia que ya reúne más de 180.000 firmas y el apoyo de figuras de peso",
+   "link": "https://www.lanacion.com.ar/el-mundo/la-inesperada-campana-para-restituir-al-ceo-de-nvidia-que-ya-reune-mas-de-180000-firmas-y-el-apoyo-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/6TV5Y35E5FGUVHW5HRPEVBJK24.JPG?auth=b70f877054d52d7f3ee224c6c6cb6fb63fb29955f4650abbe185c67daa451707&smart=true&width=3884&height=2590",
+   "date": "2026-11-16T19:21:18+00:00"
+  },
+  {
+   "title": "El río Paraná superó el nivel de evacuación en Santa Fe y anticipan focos de precipitaciones de 200 milímetros",
+   "link": "https://perfil.com/clima/el-rio-parana-supero-el-nivel-de-evacuacion-en-santa-fe-a50-y-anticipan-focos-de-precipitaciones-de-200-milimetros-a03Af4I6JcNb",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/b320169069e2-proyecto-nuevo-2026-10-21t151853466.webp",
+   "date": "2026-11-16T19:20:41+00:00"
+  },
+  {
+   "title": "Presidente de la UIA: “En el 2027 hay que hacer un debate profundo sobre el rumbo del país sin que las discusiones caigan en el barro”",
+   "link": "https://perfil.com/modo-fontevecchia/presidente-de-la-uia-en-el-2027-hay-que-hacer-un-debate-profundo-sobre-el-rumbo-del-pais-sin-que-las-discusiones-caigan-en-el-barro-aq9mb9d4DaRs",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f54442a96adf-martin-rapallini1.webp",
+   "date": "2026-11-16T19:20:27+00:00"
+  },
+  {
+   "title": "Las denuncias cruzadas de Wanda Nara y La China Suárez en la Justicia: bots en Twitter y amenazas",
+   "link": "https://perfil.com/entretenimiento/las-denuncias-cruzadas-de-wanda-nara-y-la-china-suarez-en-la-justicia-bots-en-twitter-y-amenazas-an9cU5c3L8BP",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f03153d2b084-j8.webp",
+   "date": "2026-11-16T19:20:07+00:00"
+  },
+  {
+   "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
+   "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/RIXF5FYGWRDCJI5DEY2FV4NBWE.png?auth=4c484207044b08a445131ed2bc0f086433cc2ed17da5c5481e24da6159eaefcc&smart=true&width=2000&height=1333",
+   "date": "2026-11-16T19:20:00+00:00"
+  },
+  {
+   "title": "De Crepúsculo a 007: el radical giro de Robert Pattinson para convertirse en el nuevo James Bond",
+   "link": "https://perfil.com/arte-cultura/robert-pattinson-es-el-nuevo-james-bond-todo-sobre-su-llegada-a-la-saga-007-a50-sacm-aKOwY7B7ThCl",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/058458454e46-robert-pattinson2.webp",
+   "date": "2026-11-16T19:19:58+00:00"
+  },
+  {
+   "title": "A $4 million missile to stop a $35,000 drone: What the Iran war’s weapons cost the US and its allies",
+   "link": "https://www.cronista.com/en/today/a-4-million-missile-to-stop-a-35000-drone-what-the-iran-wars-weapons-cost-the-us-and-its-allies/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/B5XDFXYYXJEXRCRAX6AEGJTZKQ.jpg?auth=d93c8526ef2b1689e9d5231e6e0a7342d3a884c1f80216a847ca8c5247b2a49d&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:17:47+00:00"
+  },
+  {
+   "title": "Hugo Vezzetti: \"El proyecto de Milei juntó a la elite conservadora y al autoritarismo plebeyo del peronismo\"",
+   "link": "https://perfil.com/modo-fontevecchia/hugo-vezzetti-el-proyecto-de-milei-junto-a-la-elite-conservadora-y-al-autoritarismo-plebeyo-del-peronismo-ajb5S7U1oZkA",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/b4d1da4f76cf-hugo-vezzetti-1692466.jpg",
+   "date": "2026-11-16T19:17:16+00:00"
+  },
+  {
+   "title": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+   "link": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-en-vivo-el-rio-parana-sigue-creciendo-y-supero-el-nivel-de-evacuacion-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/RBYLIIAH4ZEO3JXQP6NWPKL64I.png?auth=8baf680ac209d93fb9f93ffd51096e2a407a42b82854be969d869eaafb5b1775&smart=true&width=1536&height=1024",
+   "date": "2026-11-16T19:16:23+00:00"
+  },
+  {
+   "title": "Scaloni prepara cambios en la Selección para enfrentar a Costa Rica: la probable formación y las novedades que analiza",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/16/scaloni-prepara-cambios-en-la-seleccion-para-enfrentar-a-costa-rica-la-probable-formacion-y-las-novedades-que-analiza/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/PN6GNGFPPJAKVLPWXH7OLPZMAY.jfif?auth=4d50f9e3bc2a714e6a48650332908760f30f82ab2dc1fc74d771f676cc9b13b5",
+   "date": "2026-11-16T19:15:06+00:00"
+  },
+  {
+   "title": "La vida de Oussama Aboughazale, el padrastro turco de Benjamín Vicuña, que es dueño de una de las fortunas más grandes de Chile",
+   "link": "https://perfil.com/entretenimiento/la-vida-de-oussama-aboughazale-el-padrastro-turco-de-benjamin-vicuna-que-es-dueno-de-una-de-las-fortunas-mas-grandes-de-chile-at8yR5K6HkB9",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f64f7f6cc01f-benjamin-vicuna-isabel-luco-morande-y-oussama-aboughazale-3.webp",
+   "date": "2026-11-16T19:14:43+00:00"
+  },
+  {
+   "title": "They’re building a massive desalination plant in a Latin American country: It will turn seawater into drinking water and supply nearly 1 million people",
+   "link": "https://www.cronista.com/en/today/theyre-building-a-massive-desalination-plant-in-a-latin-american-country-it-will-turn-seawater-into-drinking-water-and-supply-nearly-1-million-people/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/EE4TFBKJ6BFT3C4UKLDQ4GIHGE.png?auth=d2af473593745649af6882be4e014e0d514b26c547b7aee998347fe61f1b12d8&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:14:38+00:00"
+  },
+  {
+   "title": "Lionel Scaloni, DT de la selección: “Cuando las papas quemen, la gente va a estar”",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-dt-de-la-seleccion-cuando-las-papas-quemen-la-gente-va-a-estar-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/H4VLMZ23SRA65PVY473Q5DNRLI.JPG?auth=b83e5c974442eb248d3182e207b0ec341df41af199cedff7006feb087143155e&smart=true&width=2000&height=1333",
+   "date": "2026-11-16T19:14:30+00:00"
+  },
+  {
+   "title": "Final de la Copa Libertadores 2026: fecha, horario, sede y todo lo que hay que saber",
+   "link": "https://www.lanacion.com.ar/deportes/futbol/final-de-la-copa-libertadores-2026-fecha-horario-sede-y-todo-lo-que-hay-que-saber-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/YCHOFXKVQZAOXFPH3SCUBZLF2M.jpg?auth=9ec4c801f96efad7a06da751f4210a3548ab5f39ebdde6748ed56db8e939faf9&smart=true&width=1422&height=1066",
+   "date": "2026-11-16T19:14:14+00:00"
+  },
+  {
+   "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+   "link": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Mundo",
+   "cat": "mundo",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4abe/live/14b32e40-e1ea-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-16T19:14:07+00:00"
+  },
+  {
+   "title": "Elecciones del 29-N: qué proponen PP, Vox, PSOE y Frente Amplio para comprar la primera vivienda y cuánto plantean limitar el alquiler",
+   "link": "https://www.cronista.com/espana/politica-es/elecciones-del-29-n-que-proponen-pp-vox-psoe-y-frente-amplio-para-comprar-la-primera-vivienda-y-cuanto-plantean-limitar-el-alquiler/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/5EKJ6Z7YQBBCDG2GVIEA3LI2G4.jpg?auth=bd504777c7683560ca38fcc66e1203af4cf2f19d5190b131c00ef3b678f785a8&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:13:14+00:00"
+  },
+  {
+   "title": "¿Las plantas aromáticas alejan a las ratas del jardín?: qué recomienda una universidad para prevenir su presencia",
+   "link": "https://www.lanacion.com.ar/lifestyle/las-plantas-aromaticas-alejan-a-las-ratas-del-jardin-que-recomienda-una-universidad-para-prevenir-su-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/LFVTCIV4PZE67PPLTGUBJUVV2Y.jpg?auth=50499f6744970e9f94df57f1a5b6d0a1191505f460212a320b78d7d63830fba8&smart=true&width=2000&height=1333",
+   "date": "2026-11-16T19:13:10+00:00"
+  },
+  {
+   "title": "Las cinco empresas que dominan la inteligencia artificial caen en Wall Street: qué preocupa al mercado",
+   "link": "https://www.lanacion.com.ar/economia/IA/las-cinco-empresas-que-dominan-la-inteligencia-artificial-caen-en-wall-street-que-preocupa-al-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/KUWLGIAD35BB5EHCRTRXR3EDBE.JPG?auth=5e4e21a7285e09908c9d7a5d5a5ec1426f5a99cc1138848f575759ebff1098fd&smart=true&width=7862&height=5241",
+   "date": "2026-11-16T19:12:55+00:00"
+  },
+  {
+   "title": "Nuevos CEDEAR: cuáles son los cuatro instrumentos que llegan a BYMA y en qué mercados hot permiten invertir",
+   "link": "https://www.cronista.com/finanzas-mercados/nuevos-cedear-cuales-son-los-4-instrumentos-que-llegan-a-byma-y-en-que-mercados-hot-permiten-invertir/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/Z3WI6H6PSNHYLDIY3FIA5NHSUI.jpg?auth=77f727e6d3d800eaf11d46c86d6b784950459175670f65300745f9f67eb28cdf&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:12:43+00:00"
+  },
+  {
+   "title": "El dólar oficial subió $5, cerró a $1575 en el Banco Nación y marcó un nuevo máximo",
+   "link": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/WPLAYW6OG5H3HCWLD67LSZ3KK4.jpg?auth=98dce841a26138b0682eee16e62ede97d55ddb22608f2ff30c948b44c79b9bea",
+   "date": "2026-11-16T19:12:34+00:00"
+  },
+  {
+   "title": "Un clan semillero compró hectáreas VIP en la Patagonia y ya suma 60.000 a su “laboratorio” agro",
+   "link": "https://www.cronista.com/negocios/un-clan-semillero-compro-hectareas-vip-en-la-patagonia-y-ya-suma-60000-a-su-laboratorio-agro/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/WA5ARY7KA5GMBLW7LUKX5JWALM.jpg?auth=12701379e4b114948558c25860ea9c9ee3fcd97a0952fe84a6f0f544c3ccd0ac&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:12:05+00:00"
+  },
+  {
+   "title": "Nicolás Tagliafico suena como refuerzo de Boca para 2027: qué se sabe del interés de Riquelme",
+   "link": "https://perfil.com/deportes/nicolas-tagliafico-suena-como-refuerzo-de-boca-para-2027-que-se-sabe-del-interes-de-riquelme-ajedX0S0A2GW",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/f178c80c0da8-nicolas-tagliafico-2259257.webp",
+   "date": "2026-11-16T19:10:09+00:00"
+  },
+  {
+   "title": "RIGI: la estrategia del Gobierno para que el boom de Vaca Muerta derrame",
+   "link": "https://www.lanacion.com.ar/economia/rigi-la-estrategia-del-gobierno-para-que-el-boom-de-vaca-muerta-derrame-nid16112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/CXUC4MHKFJHRJH4MMNUCYPEJRE.png?auth=3bf5206f3936e963a04f06bca7c2a2123660c7a356613d42ce615e911d52d495&smart=true&width=837&height=468",
+   "date": "2026-11-16T19:09:22+00:00"
+  },
+  {
+   "title": "¿Qué significan las señales PIV y PSV y por qué es importante prestarles atención en las carreteras?",
+   "link": "https://www.cronista.com/mexico/actualidad-mx/que-significan-las-senales-piv-y-psv-y-por-que-es-importante-prestarles-atencion-en-las-carreteras/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/DEYBWQ3S7VFSVHKCS6PTNUJFA4.jpeg?auth=cff7959eabd5a2ca433eef89349c8cc96c950493513158b98728ae035dd3379d&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:08:42+00:00"
+  },
+  {
+   "title": "Tras la suspensión de vuelos, Estados Unidos empieza a normalizar sus operaciones aéreas",
+   "link": "https://tn.com.ar/internacional/2026/11/16/tras-la-suspension-de-vuelos-estados-unidos-empieza-a-normalizar-sus-operaciones-aereas/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/ZVPACXVR3NH2XLCROTSROSSDVY.jpg?auth=36c3f201f92e259a82caf3bfe993af312c4d793015b72ecdfe97799ec3be5300",
+   "date": "2026-11-16T19:08:39+00:00"
+  },
+  {
+   "title": "APEC: México, junto a Chile y Perú, buscan ampliar sus mercados en Asia mientras mantienen el vínculo con EE.UU.",
+   "link": "https://www.cronista.com/mexico/actualidad-mx/apec-mexico-junto-a-chile-y-peru-buscan-ampliar-sus-mercados-en-asia-mientras-mantienen-el-vinculo-con-eeuu/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/INLXSGUOXFDHVCWU2YDGPXMYJE.png?auth=57ca845208a0058add486a17c22c292f82baf7793a58cc8557458d799fad619d&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:07:50+00:00"
+  },
+  {
+   "title": "Tras 30 años, cerró una histórica fábrica en San Luis y 61 empleados quedaron desvinculados",
+   "link": "https://www.cronista.com/informacion-gral/tras-30-anos-cerro-una-historica-fabrica-en-san-luis-y-61-empleados-quedaron-desvinculados/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/OWNUYJT3TBEMZLE4GCHJGYSRXE.jpg?auth=6e1cb496d4549817009689512e55dbcbba4cf293a5e26e0caf1d708701c624c9&smart=true&width=1200&height=900",
+   "date": "2026-11-16T19:06:31+00:00"
+  },
+  {
+   "title": "Grecia vs Serbia en vivo por la fase de grupos de la UEFA Nations League: hora, dónde ver y formaciones",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/16/grecia-vs-serbia-en-vivo-por-la-fase-de-grupos-de-la-uefa-nations-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/DHYXIM4ADST6EQDPEE6EEE6DCQ.C0r?auth=2d85fe444d85a615338089088e93bdcf34f2133a5e27e3da4aed728898d4dabf",
+   "date": "2026-11-16T19:06:27+00:00"
+  },
+  {
+   "title": "Scaloni en conferencia: \"Cuando las papas quemen, la gente va a estar\"",
+   "link": "https://www.ole.com.ar/seleccion/scaloni-conferencia-previa-costa-rica_0_eapf93L1EY.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/13/5PugNjNqW_1200x630__1.jpg",
+   "date": "2026-11-16T19:06:18+00:00"
+  },
+  {
+   "title": "Capitanich: \"Chaco está entre las provincias más castigadas\"",
+   "link": "https://perfil.com/nea/capitanich-chaco-esta-entre-las-provincias-mas-castigadas-aaBQb4u86MTt",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/09e4d2e968f0-hqwnjhgwgaakmk3.webp",
+   "date": "2026-11-16T19:05:55+00:00"
+  },
+  {
+   "title": "Carne vacuna: Argentina se encamina a cerrar 2026 con el consumo más bajo de su historia",
+   "link": "https://www.ambito.com/economia/carne-vacuna-argentina-se-encamina-cerrar-2026-el-consumo-mas-su-historia-n6345720",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/2fb4264c464ecd886b15b92084972a3f/adjuntos/239/imagenes/041/606/0041606995/carne-carniceria.jpg",
+   "date": "2026-11-16T19:05:00+00:00"
+  },
+  {
+   "title": "Carne vacuna: Argentina se encamina a cerrar 2026 con el consumo más bajo de su historia",
+   "link": "https://www.ambito.com/economia/carne-vacuna-argentina-se-encamina-cerrar-2026-el-consumo-mas-su-historia-n6345720",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/2fb4264c464ecd886b15b92084972a3f/adjuntos/239/imagenes/041/606/0041606995/carne-carniceria.jpg",
+   "date": "2026-11-16T19:05:00+00:00"
+  },
+  {
+   "title": "Terminó la gira del Papa por Sudamérica y en minutos despega el avión rumbo a Italia",
+   "link": "https://tn.com.ar/internacional/2026/11/17/tras-visitar-tres-paises-el-papa-leon-xiv-cierra-su-historica-gira-en-sudamerica-con-una-misa-en-lima/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/OXSM45VECZGNFBAT5OSHW65QY4.jpg?auth=19e10dbd6847c601cc9958803117350b10e8419667cf9cb404fed610310f73f4",
+   "date": "2026-11-16T19:00:45+00:00"
+  },
+  {
+   "title": "Juan Felipe Salguero, divulgador: “Podés tener 5.000 seguidores, pero es difícil tener más de 20 amigos”",
+   "link": "https://tn.com.ar/sociedad/2026/11/16/juan-felipe-salguero-divulgador-podes-tener-5000-seguidores-pero-es-dificil-tener-mas-de-20-amigos/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/Z2WKO742CFHZDCMSBLSZTTRSPA.png?auth=f02483fee4a059eeda977d39b58898250496025b90326ff7aef74255b0ccc1c5",
+   "date": "2026-11-16T19:00:44+00:00"
+  },
+  {
+   "title": "\"Traigan a Jensen de vuelta\": la campaña de los millonarios tecnológicos a favor del regreso de Huang a Nvidia (y qué opina Trump)",
+   "link": "https://www.bbc.com/mundo/articles/cm4gnx691zp5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Mundo",
+   "cat": "mundo",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "date": "2026-11-16T18:57:49+00:00"
+  },
+  {
+   "title": "Un ex Racing atendió a Milito como dirigente: \"Le falta tacto con el jugador\"",
+   "link": "https://www.ole.com.ar/racing/ex-racing-liquido-diego-milito-dirigente-presidente-manager-maxi-cuadra-dijo_0_QUQe9ICh8k.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2025/03/27/jZiCseqfV_1200x630__1.jpg",
+   "date": "2026-11-16T18:51:44+00:00"
+  },
+  {
+   "title": "El abogado de la China Suárez confirmó que pedirá una perimetral contra Wanda Nara: los detalles de la presentación judicial",
+   "link": "https://tn.com.ar/show/famosos/2026/11/16/el-abogado-de-la-china-suarez-confirmo-que-pedira-una-perimetral-contra-wanda-nara-los-detalles-de-la-presentacion-judicial/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/IUBSR6GREJBGXFRBDMNBTQJWC4.jpg?auth=e152a9b3a3e9e2bb3f82079ca84c30a3dc8322d5601ab86d5e0e9f067101c023",
+   "date": "2026-11-16T18:51:03+00:00"
+  },
+  {
+   "title": "Newsan vuelve a salir de compras y se queda con las empresas detrás de Vanish y Procenex",
+   "link": "https://www.ambito.com/negocios/newsan-vuelve-salir-compras-y-se-queda-las-empresas-detras-vanish-y-procenex-n6345801",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/2369fdb8c5a8fedfa49ec6702d52c207/adjuntos/239/imagenes/042/428/0042428389/1200x675/smart/newsanjpg.jpg",
+   "date": "2026-11-16T18:51:00+00:00"
+  },
+  {
+   "title": "F1 en Las Vegas: días, horarios y cómo ver a Franco Colapinto por TV",
+   "link": "https://www.ole.com.ar/autos/gp-gran-premio-vegas-formula-1-f1-dias-horarios-ver-franco-colapinto-tv_0_eN4nplkzmL.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2025/11/24/NqkioszNO_1200x630__1.jpg",
+   "date": "2026-11-16T18:44:29+00:00"
+  },
+  {
+   "title": "Sudamericano de Fútbol Amateur: la voz de los que ya vivieron la experiencia",
+   "link": "https://www.ole.com.ar/futbol-internacional/sudamericano-futbol-amateur-solanas-punta_0_6CbK3hjQKY.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2024/10/09/UlR1e_ZYF_1200x630__1.jpg",
+   "date": "2026-11-16T18:42:16+00:00"
+  },
+  {
+   "title": "Reforma electoral: cómo es el sistema de listas colectoras que negocia el Gobierno con sus aliados para suspender las PASO",
+   "link": "https://tn.com.ar/politica/2026/11/16/reforma-electoral-como-es-el-sistema-de-listas-colectoras-que-negocia-el-gobierno-con-sus-aliados-para-suspender-las-paso/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/NICDZWR4WRDMRED5DY4GOIMJOA.jpg?auth=0d5d2d2a4e7232edf807a7c133667c0a49e8a21459b337a6d761549cf4d86c6c",
+   "date": "2026-11-16T18:42:00+00:00"
+  },
+  {
+   "title": "Las 3 plantas que perfuman tu balcón todo el año: soportan el calor y son fáciles de cuidar",
+   "link": "https://tn.com.ar/sociedad/jardineria/2026/11/16/las-3-plantas-que-perfuman-tu-balcon-todo-el-ano-soportan-el-calor-y-son-faciles-de-cuidar/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/3Q4UKOLZ3RASXLOT27DPEZRKAE.jpg?auth=0d3cd1af4eafdc1de2b26c9626310cef48d7679920a69d1741743f5b13b6d548",
+   "date": "2026-11-16T18:40:49+00:00"
+  },
+  {
+   "title": "El dólar oficial extendió las subas y quebró un nuevo récord, mientras que el blue alcanza $1.600",
+   "link": "https://www.ambito.com/finanzas/dolar-el-mercado-pone-la-lupa-la-brecha-cambiaria-la-suba-del-blue-y-la-baja-del-oficial-n6345542",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/136394f82bd75150d2496967b86dd991/adjuntos/239/imagenes/043/560/0043560256/1200x675/2322x1480:2342x1500/dolar-blue.jpg",
+   "date": "2026-11-16T18:36:00+00:00"
+  },
+  {
+   "title": "Conmoción en La Plata: encontraron muerto a un astrónomo de 48 años en el planetario",
+   "link": "https://tn.com.ar/policiales/2026/11/16/encontraron-muerto-a-un-astronomo-de-48-anos-en-el-planetario-de-la-plata-investigan-si-se-cayo-del-techo-mientras-trabajaba/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/DR6WYBPNYZCBTMM6Z3N75OS2CM.png?auth=1017ade7315e31073b37837fab03de53ce9319a024a8ba45a5ccc5d345bacb63",
+   "date": "2026-11-16T18:34:43+00:00"
+  },
   {
    "title": "El riesgo país sube hasta los 840 puntos básicos y los ADRs se hunden hasta casi 7%",
    "link": "https://www.ambito.com/finanzas/el-riesgo-pais-retoma-las-subas-una-nueva-caida-los-bonos-dolares-n6345672",
    "source": "Ámbito",
    "cat": "argentina",
    "image": "https://media.ambito.com/p/e29a9dc3d862f94c32e08ca96a2c1304/adjuntos/239/imagenes/043/716/0043716702/1200x675/smart/argentina-riesgo-pais-bonos.jpg",
-   "date": "2026-11-16T18:14:00+00:00"
+   "date": "2026-11-16T18:32:00+00:00"
   },
   {
-   "title": "Cinco países de la UE propusieron abrir en Ruanda un centro para migrantes expulsados de Europa",
-   "link": "https://tn.com.ar/internacional/2026/11/16/cinco-paises-de-la-ue-propusieron-abrir-en-ruanda-un-centro-para-migrantes-expulsados-de-europa/",
-   "source": "TN",
+   "title": "La UEFA eligió a un francés para ir por Gianni Infantino en la FIFA",
+   "link": "https://www.ole.com.ar/informacion-general/gianni-infantino-uefa-philippe-diallo-fifa_0_w4r2b5EODS.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/16/cAEoX2q6c_1200x630__1.jpg",
+   "date": "2026-11-16T18:28:02+00:00"
+  },
+  {
+   "title": "Paredes se suma a la despedida de Carlos Tevez: los invitados confirmados",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17502117/carlos-tevez-despedida-boca-invitados-figuras-la-bombonera",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2Fr1744114_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T18:23:25+00:00"
+  },
+  {
+   "title": "Scaloni mueve la formación de Argentina para enfrentar a Costa Rica",
+   "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17522786/la-formacion-de-argentina-vs-costa-rica",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0915%2Fr1717212_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T18:22:14+00:00"
+  },
+  {
+   "title": "Así se prepara Dibu Martínez para volver al arco de la Selección Argentina",
+   "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17522828/emiliano-martinez-vuelta-seleccion-argentina-entrenamiento-ezeiza-costa-rica",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746649_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T18:22:14+00:00"
+  },
+  {
+   "title": "El LEGO Technic McLaren MCL39 de Fórmula 1 se desploma a mínimo histórico antes del Black Friday",
+   "link": "https://muyinteresante.okdiario.com/bazar/el-lego-technic-mclaren-mcl39-de-formula-1-se-desploma-a-minimo-historico-antes-del-black-friday.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/04/LEGO-McLaren-MCL39-F1-rebajado-og.jpg",
+   "date": "2026-11-16T18:12:23+00:00"
+  },
+  {
+   "title": "Los dos jugadores que le ponen suspenso al equipo de Boca para la final",
+   "link": "https://www.ole.com.ar/boca-juniors/boca-atleticomineiro-rodrigobattaglia-lautaroblanco-leandroparedes-barranquilla_0_Lju2sM3klk.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/07/ZY_DzqAnn_1200x630__1.jpg",
+   "date": "2026-11-16T18:11:29+00:00"
+  },
+  {
+   "title": "El papa León XIV fue golpeado en un ojo con un decenario cuando ib a dar su última misa en Perú",
+   "link": "https://www.clarin.com/mundo/papa-leon-xiv-golpeado-ojo-decenario-ib-dar-ultima-misa-peru_0_4hNAUly7Gm.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/SYQ5RZIMHFFHPHWGSS76EBFXII.jpg?auth=7480ad5d0ce0ccd91fac3ce71830978a849a891b88e6231dd3cdbad2759b09ec",
-   "date": "2026-11-16T18:12:54+00:00"
+   "image": "https://www.clarin.com/img/2026/11/16/h1q4jhLrB_1200x630__1.jpg",
+   "date": "2026-11-16T18:08:04+00:00"
   },
   {
-   "title": "Under USCIS rules, the United States can block visas for 3 or 10 years for foreigners who overstay their authorized time in the country, among other requirements",
-   "link": "https://www.cronista.com/en/today/under-uscis-rules-the-united-states-can-block-visas-for-3-or-10-years-for-foreigners-who-overstay-their-authorized-time-in-the-country-among-other-requirements/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/466AJBK7NNCRJBTBPTBGEOHSRY.jpg?auth=d14724c965ef0062662487eaf61ed1f68bf27fd429e9a037d9d3b06df2881a78&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:11:53+00:00"
-  },
-  {
-   "title": "El papa León XIV recibió el golpe de un objeto mientras iba en el papamóvil en Perú",
-   "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-recibio-el-golpe-de-un-objeto-mientras-iba-en-el-papamovil-en-peru-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SIR2DJIJJBEYDPYZUAUHFB5254.jpg?auth=a5f7bc8ecb5b15aac23b04ab35023d6d55659656330dca9a4fe3b0e6468320af&smart=true&width=2000&height=1333",
-   "date": "2026-11-16T18:11:26+00:00"
-  },
-  {
-   "title": "Por norma, instalar un aire acondicionado de esta manera en balcones y fachadas está prohibido y pueden obligarte a retirarlo",
-   "link": "https://www.cronista.com/informacion-gral/por-norma-instalar-un-aire-acondicionado-de-esta-manera-en-balcones-y-fachadas-esta-prohibido-y-pueden-obligarte-a-retirarlo/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/A4Q5MD5HWBBX3DDNK2JCSG5URM.png?auth=dab88d2456399815dd4789fb524b16c32f0b0f2f1147c07d7776994ed404c657&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:10:22+00:00"
-  },
-  {
-   "title": "Carné de conducir a los 80 años: la vigencia sigue siendo de 5 años y no hay límite de edad, de acuerdo a la Dirección General de Tráfico",
-   "link": "https://www.cronista.com/espana/actualidad-es/carne-de-conducir-a-los-80-anos-la-vigencia-sigue-siendo-de-5-anos-y-no-hay-limite-de-edad-de-acuerdo-a-la-direccion-general-de-trafico/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/AFKJQTMS5RFETOW46XKDOYO4MA.jpg?auth=d2166f087fa9ee14cdb09460269f56309b4a0013e75fcf7e25d760b78e79e54a&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:09:24+00:00"
-  },
-  {
-   "title": "El Gobierno obtuvo un superávit de $1,58 billones en octubre y acumula un saldo positivo de 0,4% del PBI en el año",
-   "link": "https://www.lanacion.com.ar/economia/el-gobierno-obtuvo-un-superavit-de-158-billones-en-octubre-y-acumula-un-saldo-positivo-de-04-del-pbi-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SXN67S7U7ZHIRELYKY4EBUZG3Q.jpeg?auth=7566d8d1523df390b43df506b7114bf7cff17ea7b50bc198ae8c0f85399ac6b5&smart=true&width=2876&height=2136",
-   "date": "2026-11-16T18:08:58+00:00"
-  },
-  {
-   "title": "El dólar oficial sube $5, se vende a $1575 y marca un nuevo máximo",
-   "link": "https://tn.com.ar/economia/2026/11/16/dolar-oficial-hoy-y-dolar-blue-a-cuanto-cotizan-este-lunes-16-de-noviembre/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/WPLAYW6OG5H3HCWLD67LSZ3KK4.jpg?auth=98dce841a26138b0682eee16e62ede97d55ddb22608f2ff30c948b44c79b9bea",
-   "date": "2026-11-16T18:08:34+00:00"
-  },
-  {
-   "title": "Mateo Tormos, mecánico: “Las baterías que están a menos del 50%, cuando viene el frío, se rompen y nos dejan tirados”",
-   "link": "https://www.cronista.com/mexico/actualidad-mx/mateo-tormos-mecanico-las-baterias-que-estan-a-menos-del-50-cuando-viene-el-frio-se-rompen-y-nos-dejan-tirados/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/5OSPMSLCOBBT3M4JDKWNSHRKKY.jpg?auth=d48c241045fb641204135593eda6a50647b7244f60200c7a93eb5f930bd050d4&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:08:33+00:00"
-  },
-  {
-   "title": "Por orden del artículo 61 de la LFT, los empleados de noche no deben trabajar más de 7 horas al día y todos tienen derecho al pago de horas extras",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/por-orden-del-articulo-61-de-la-lft-los-empleados-de-noche-no-deben-trabajar-mas-de-7-horas-al-dia-y-todos-tienen-derecho-al-pago-de-horas-extras/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/S77TKKIXCJEE5I2L5NFYTJKGMA.jpg?auth=33feed98a091b32aab10fd24644bd0447e3dbd26ad7fbdf0782298f0eaf06c5f&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:08:11+00:00"
-  },
-  {
-   "title": "Dólar hoy y dólar blue hoy: cuál es la cotización del lunes 16 de noviembre minuto a minuto",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-hoy-y-dolar-blue-hoy-cual-es-la-cotizacion-del-lunes-16-de-noviembre-minuto-a-minuto/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/HNQHJKVG5NEIVNHG4VOMCLMBRQ.jpg?auth=e91d39210e8621e0b6686a0324c2d5db70044c5d965efe3c76eb8d24f834ac67&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:08:05+00:00"
-  },
-  {
-   "title": "Pera: la fruta que ayuda a regular la digestión y extender la sensación de saciedad",
-   "link": "https://www.lanacion.com.ar/salud/pera-la-fruta-que-ayuda-a-regular-la-digestion-y-extender-la-sensacion-de-saciedad-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/QEIOKKF7VZC7FLMDI4NWJOOKDI.png?auth=5512d7b2e9d88a00582f50f58b7c4e330819abb55cbce74730f8189962e9139b&smart=true&width=1408&height=768",
-   "date": "2026-11-16T18:08:00+00:00"
-  },
-  {
-   "title": "Para el BCRA es clave transformar el ahorro en inversión y productividad",
-   "link": "https://www.cronista.com/finanzas-mercados/para-el-bcra-es-clave-transformar-el-ahorro-en-inversion-y-productividad/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/F6RBBFFWRZDTVNI6OT3QKNE4UE.jpg?auth=1244d8c562529072eba4e413606f00ab5a9b951dad69c539b2b67fe1da066d7d&smart=true&width=1200&height=900",
-   "date": "2026-11-16T18:07:57+00:00"
-  },
-  {
-   "title": "Silvia Bentolila, especialista en emergencias: “Los primeros 30 días son importantes para prevenir secuelas traumáticas”",
-   "link": "https://tn.com.ar/sociedad/2026/11/16/silvia-bentolila-especialista-en-emergencias-los-primeros-30-dias-son-importantes-para-prevenir-secuelas-traumaticas/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/47QKT6CR6BGY5LG6CXZULX3IJM.png?auth=6d07ce9698e74ef34267450910ec0069aba8c31059195b72598deacdd1288fb3",
-   "date": "2026-11-16T18:06:51+00:00"
-  },
-  {
-   "title": "El papa León XIV cerró su histórica gira latinoamericana con un baño de multitudes y un mensaje contundente",
-   "link": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-cerro-su-historica-gira-latinoamericana-con-un-bano-de-multitudes-y-un-mensaje-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SY4RVHFABZHY5MZN46O2T5OTLU.JPG?auth=1abc93bf75aa8b862a9a7407348c5cccdc7f332d845bd1ff38bc7487add7034e&smart=true&width=5161&height=3440",
-   "date": "2026-11-16T18:06:19+00:00"
-  },
-  {
-   "title": "Ana Ibáñez, neurocientífica sobre la concentración: “Es fundamental entrenar al cerebro en la capacidad de mantener el foco en una tarea específica”",
-   "link": "https://www.lanacion.com.ar/salud/ana-ibanez-neurocientifica-sobre-la-concentracion-es-fundamental-entrenar-al-cerebro-en-la-capacidad-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/CEQEYJHBNRFCVPLNVQMWDCOL6U.JPG?auth=9e565aaf80f49b2f09640eecbe0eae4dcb40e7df090e3a5ba4f202fa5a681747&smart=true&width=3000&height=1962",
-   "date": "2026-11-16T18:06:00+00:00"
-  },
-  {
-   "title": "Javier Milei y sus medidas, en vivo: Luis Caputo: “Entramos a 2027 más fortalecidos que nunca, más calmo de lo que muchos predicen”",
-   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-kicillof-acuso-al-presidente-de-adulterar-la-historia-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/GQRT3DNEMFC4FEBPFFOF556CFI.jpeg?auth=d21658c2a962893f04a6ce6710ed9a0da78418be8132dc5bc41bc2cdfbe07906&smart=true&width=1280&height=956",
-   "date": "2026-11-16T18:05:55+00:00"
-  },
-  {
-   "title": "Instalaron una “llave de paso” para impedir que la basura llegue al Río de la Plata",
-   "link": "https://www.lanacion.com.ar/sociedad/instalaron-una-llave-de-paso-para-impedir-que-la-basura-llegue-al-rio-de-la-plata-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/J254EPQ47REXRGSYR532IYJX6Y.jpeg?auth=a5f9c6db9790ead658b408d533d6c1805ee249da6816714f75169218e9ecbffe&smart=true&width=1040&height=694",
-   "date": "2026-11-16T18:05:11+00:00"
-  },
-  {
-   "title": "Eva de Dominici y Marta Fort desfilaron en el show de María Becerra con estilos naked y los fans enloquecieron",
-   "link": "https://tn.com.ar/estilo/moda/2026/11/16/eva-de-dominici-y-marta-fort-desfilaron-en-el-show-de-maria-becerra-con-estilos-naked-y-los-fans-enloquecieron/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/FH5QJQ3XFNG5ZJXSRMJ3KH63RA.jpg?auth=48657ac642fc5415011a07c14b2e0d33121aab02296e927dd01bbd5eaa551085",
-   "date": "2026-11-16T18:04:17+00:00"
+   "title": "Las aves de ciudad huyen antes de las mujeres: un metro de miedo sin explicación",
+   "link": "https://muyinteresante.okdiario.com/ciencia/aves-urbanas-mujeres.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/las-aves-de-ciudad-huyen-antes-de-las.jpg",
+   "date": "2026-11-16T18:04:15+00:00"
   },
   {
    "title": "El superávit primario alcanzó $1,9 billones en octubre y acumuló 1,4% del PBI, en línea con la meta del FMI",
    "link": "https://www.ambito.com/el-superavit-primario-alcanzo-19-billones-octubre-y-acumulo-14-del-pbi-linea-la-meta-del-fmi-n6345789",
    "source": "Ámbito",
    "cat": "argentina",
-   "image": "https://www.ambito.com/css-custom/239/images/ogimage-239.png",
-   "date": "2026-11-16T18:04:13+00:00"
+   "image": "https://media.ambito.com/p/761ab40f3c3c79e4251d7fdcf8b7c3fc/adjuntos/239/imagenes/043/685/0043685664/ministerio-economia-mecon.jpg",
+   "date": "2026-11-16T18:04:00+00:00"
   },
   {
-   "title": "Robo piraña en Quilmes: al menos diez jóvenes entraron a una heladería y asaltaron a los clientes en menos de 30 segundos",
-   "link": "https://tn.com.ar/policiales/2026/11/16/robo-pirana-en-quilmes-al-menos-diez-jovenes-entraron-a-una-heladeria-y-asaltaron-a-los-clientes-en-menos-de-30-segundos/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/https%3A%2F%2Fthumbs.vodgc.net%2F1-14-4f9e22a4bacc1794851285975-1794851320.jpg?auth=1140216344c9754f5320128b6e3c1962cbf86352773cf1d6efaefd9de58f9641&width=1023",
-   "date": "2026-11-16T18:03:27+00:00"
+   "title": "El superávit primario alcanzó $1,9 billones en octubre y acumuló 1,4% del PBI, en línea con la meta del FMI",
+   "link": "https://www.ambito.com/el-superavit-primario-alcanzo-19-billones-octubre-y-acumulo-14-del-pbi-linea-la-meta-del-fmi-n6345789",
+   "source": "Ámbito Economía",
+   "cat": "economia",
+   "image": "https://media.ambito.com/p/761ab40f3c3c79e4251d7fdcf8b7c3fc/adjuntos/239/imagenes/043/685/0043685664/ministerio-economia-mecon.jpg",
+   "date": "2026-11-16T18:04:00+00:00"
   },
   {
-   "title": "Papa León XIV en Perú, EN VIVO: las últimas actividades antes del fin del viaje, minuto a minuto",
-   "link": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/",
-   "source": "La Nación",
+   "title": "Susan y Michael Dell compraron un departamento de lujo de 382 metros cuadrados por 10,9 millones de dólares en Boston; ahora la pareja de millonarios lo vende en una subasta privada",
+   "link": "https://www.clarin.com/estados-unidos/susan-michael-dell-compraron-departamento-lujo-382-metros-cuadrados-109-millones-dolares-boston-ahora-pareja-millonarios-vende-subasta-privada_0_318KiutZgc.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/SW42TSF25JFZRI62YB5GRBB57I.JPG?auth=c022e8338bf1e58afd6e7f195c4be0d648d09a4fd3e1855a0925e592c68fd2d2&smart=true&width=7335&height=4890",
-   "date": "2026-11-16T18:00:24+00:00"
+   "image": "https://www.clarin.com/img/2026/10/02/NNITj9Fxn_1200x630__1.jpg",
+   "date": "2026-11-16T18:03:28+00:00"
   },
   {
-   "title": "Valentín Yankelevich disfrutó de un viaje muy especial por Maranello, la cuidad de Ferrari",
-   "link": "https://www.lanacion.com.ar/espectaculos/valentin-yankelevich-disfruto-un-viaje-muy-especial-en-la-ciudad-de-ferrari-nid16112026/",
-   "source": "La Nación",
+   "title": "EEUU bloquea acceso indirecto de China a chips de IA estadounidenses",
+   "link": "https://www.clarin.com/estados-unidos/eeuu-bloquea-acceso-indirecto-de-china-a-chips-de-ia-estadounidenses_0_bnUL8FLwBK.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/JRRYF5DBUJC7DNL4ZUU4BAOX5Y.png?auth=27fe49dc13a50e6ccee9c0ebea70c344aaa2b17bc3a18c3c294771dbbb6d6b3c&smart=true&width=2000&height=1333",
-   "date": "2026-11-16T18:00:24+00:00"
+   "image": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
+   "date": "2026-11-16T18:00:16+00:00"
   },
   {
-   "title": "Candela Arizaga se vistió de novia en el desfile de La Jaula de la Moda: ¿se casa con Facundo Moyano?",
-   "link": "https://tn.com.ar/estilo/2026/11/16/candela-arizaga-se-vistio-de-novia-en-el-desfile-de-la-jaula-de-la-moda-se-casa-con-facundo-moyano/",
-   "source": "TN",
+   "title": "La psicología dice que las personas que aún ponen la mesa correctamente cuando comen solas no son quisquillosas, sino que se niegan a que vivir solas haga que su vida sea más pequeña",
+   "link": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-ponen-mesa-correctamente-comen-solas-quisquillosas-niegan-vivir-solas-haga-vida-pequena_0_YCU4OZ9wDi.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/WARCDQ3LJ5EKJDIBOOOMDHLD24.png?auth=eecdc739fdf25b5daffa1941e4ff3a251898fbb7d00d1fc55d1f9e445568f9e3",
-   "date": "2026-11-16T18:00:18+00:00"
-  },
-  {
-   "title": "Christina Koch, astronauta de Artemis II: qué dijo sobre la repercusión de la misión en la Tierra",
-   "link": "https://www.lanacion.com.ar/el-mundo/christina-koch-astronauta-de-artemis-ii-que-dijo-sobre-la-repercusion-de-la-mision-en-la-tierra-nid16112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/YNE74CSY7JCF7DVFSPNWJCWFJE.jpg?auth=c511ce372b7e121c1d8ab11c341de098244a0a349f99ca741527d149b60f82d3&smart=true&width=7475&height=4983",
-   "date": "2026-11-16T18:00:00+00:00"
-  },
-  {
-   "title": "Multiples ataques armados en el sur de Brasil: al menos ocho muertos y varios heridos",
-   "link": "https://perfil.com/internacional/multiples-ataques-armados-en-el-sur-de-brasil-al-menos-ocho-muertos-y-varios-heridos-ac4m18H1iObQ",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/d327c4742448-alvorada-brasil.webp",
-   "date": "2026-11-16T17:56:16+00:00"
-  },
-  {
-   "title": "El Banco Central siguió el recorrido de otros US$15 millones y detectó nuevas maniobras con el dólar blue",
-   "link": "https://perfil.com/economia/el-banco-central-siguio-el-recorrido-de-otros-us15-millones-y-detecto-nuevas-maniobras-con-el-dolar-blue-aifAN7n6xPt5",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/feb0ac7d70df-proyecto-nuevo-2026-11-03t114830337.webp",
-   "date": "2026-11-16T17:55:47+00:00"
+   "image": "https://www.clarin.com/img/2026/11/16/pUO29P7Ut_1200x630__1.jpg",
+   "date": "2026-11-16T17:57:28+00:00"
   },
   {
    "title": "Gallardo y un nuevo amistoso con Ecuador: la joyita que la rompió en una práctica, los elogios de un histórico arquero de la LigaPro y el posible 11",
@@ -226,28 +522,20 @@
    "date": "2026-11-16T17:54:45+00:00"
   },
   {
+   "title": "Maniobras con el dólar: el BCRA multó a otra casa de cambios que participó del circuito ilegal con el blue",
+   "link": "https://www.clarin.com/economia/maniobras-dolar-bcra-multo-casa-cambios-participo-circuito-ilegal-blue_0_Gz56ssT0bi.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2025/09/19/0hwMv4xdU_1200x630__1.jpg",
+   "date": "2026-11-16T17:54:15+00:00"
+  },
+  {
    "title": "El polémico acuerdo al que llegó la CD de Independiente a un mes de las elecciones",
    "link": "https://www.ole.com.ar/independiente/independiente-santiagolopez-tigre-avellaneda-elecciones_0_mgjPG4LRvW.html",
    "source": "Olé",
    "cat": "deportes",
    "image": "https://www.ole.com.ar/images/2026/11/16/GBL3KTcZE_1200x630__1.jpg",
    "date": "2026-11-16T17:53:30+00:00"
-  },
-  {
-   "title": "A pocos metros del impacto: el dramático relato de un testigo de la muerte de Abel Núñez",
-   "link": "https://perfil.com/deportes/a-pocos-metros-del-impacto-el-dramatico-relato-de-un-testigo-de-la-muerte-de-abel-nunez-aVVOE3W0N7j2",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/1c9584f63ba9-abel-nunez-2365137.webp",
-   "date": "2026-11-16T17:53:21+00:00"
-  },
-  {
-   "title": "USBA, la universidad de Perfil, firmó un acuerdo único de reconocimiento académico con España",
-   "link": "https://perfil.com/sociedad/usba-la-universidad-de-perfil-firmo-un-acuerdo-unico-de-reconocimiento-academico-con-espana-a2io70U3r73o",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/c243d8c6b22f-se-inaugura-en-barracas-el-edificio-perfil-california-la-mayor-redaccion-multime.jpg",
-   "date": "2026-11-16T17:50:21+00:00"
   },
   {
    "title": "Santiago Bausili reconoció que la estabilidad no alcanza para crecer",
@@ -290,14 +578,6 @@
    "date": "2026-11-16T17:42:03+00:00"
   },
   {
-   "title": "El Gobierno volvió a registrar superávit fiscal en octubre y se encamina a cumplir con la meta pactada con el FMI",
-   "link": "https://tn.com.ar/economia/2026/11/16/el-gobierno-volvio-a-registrar-superavit-fiscal-en-octubre-y-se-encamina-a-cumplir-con-la-meta-pactada-con-el-fmi/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/V2XEITG2HJASLPDB7FQJQ6XCNY.jpg?auth=0ef0922b7bde0bf371161f25d2b124f0cc77581af76a3a2e994b036c6b7b0e46",
-   "date": "2026-11-16T17:41:14+00:00"
-  },
-  {
    "title": "Por qué hay tres jugadores de Racing que no pudieron empezar las vacaciones",
    "link": "https://www.ole.com.ar/racing/racing-carboni-forneris-cordoba_0_3hMlz24fAF.html",
    "source": "Olé",
@@ -306,52 +586,44 @@
    "date": "2026-11-16T17:40:49+00:00"
   },
   {
-   "title": "Quiénes son los citados de Costa Rica para enfrentar a la Selección Argentina y el posible equipo",
-   "link": "https://www.ole.com.ar/seleccion/costa-rica-seleccion-argentina-citados-amistoso_0_3B9rqCO6it.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2025/10/14/uFVO3Lecm_1200x630__1.jpg",
-   "date": "2026-11-16T17:37:17+00:00"
-  },
-  {
-   "title": "Murió la hermana de Liliana Parodi, Claudia: la conmovedora publicación que le dedicó",
-   "link": "https://perfil.com/entretenimiento/murio-la-hermana-de-liliana-parodi-claudia-la-conmovedora-publicacion-que-le-dedico-aE4Cm7i0zW35",
-   "source": "Perfil",
+   "title": "\"La única costumbre que hay que enseñar a los niños es que no se sometan a costumbres\", Jean-Jacques Rousseau",
+   "link": "https://www.clarin.com/internacional/unica-costumbre-ensenar-ninos-sometan-costumbres-jean-jacques-rousseau_0_reszFlOT7P.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/31728b33c203-liliana-parodi-y-su-hermana-claudia.webp",
-   "date": "2026-11-16T17:37:10+00:00"
+   "image": "https://www.clarin.com/img/2022/04/18/JxDsxqenn_1200x630__1.jpg",
+   "date": "2026-11-16T17:39:28+00:00"
   },
   {
-   "title": "El Gobierno y Toyota anunciaron una inversión de más de u$s1.300 millones para construir una nueva planta en Zárate",
-   "link": "https://perfil.com/economia/el-gobierno-y-toyota-anunciaron-una-inversion-de-mas-de-us1.300-millones-a40-ajPr30E9aiWp",
-   "source": "Perfil",
+   "title": "El Gobierno tuvo superávit en octubre y quedó más cerca de cumplir la meta fiscal con el FMI",
+   "link": "https://www.clarin.com/economia/gobierno-superavit-octubre-quedo-cerca-cumplir-meta-fiscal-fmi_0_JjEDmFaG2e.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/29e7923bca35-img-20261116-wa0014.webp",
-   "date": "2026-11-16T17:36:42+00:00"
+   "image": "https://www.clarin.com/img/2024/09/16/Pc1nv4kzA_1200x630__1.jpg",
+   "date": "2026-11-16T17:35:43+00:00"
   },
   {
-   "title": "Las dos novedades con respecto a los lesionados de River",
-   "link": "https://www.ole.com.ar/river-plate/river-clausura-lanus-lesionados-vera-meza-moreno-avances-recuperacion-progreso-novedades-noticia_0_k5Cglsa8ez.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/12/irPeSrCpf_1200x630__1.jpg",
-   "date": "2026-11-16T17:36:35+00:00"
-  },
-  {
-   "title": "“Hay que simplificarle la vida al vecino”: el cambio en la prioridad de paso que buscan aplicar en Córdoba",
-   "link": "https://perfil.com/cordoba/hay-que-simplificarle-la-vida-al-vecino-el-cambio-en-la-prioridad-de-paso-que-buscan-aplicar-en-cordoba-ann451C1s8S9",
-   "source": "Perfil",
+   "title": "Feliz y emocionado, León XIV cerró su gira sudamericana con una multitudinaria misa en Lima y superó una prueba de fuego para su salud",
+   "link": "https://www.clarin.com/mundo/feliz-emocionado-leon-xiv-cerro-gira-sudamericana-multitudinaria-misa-lima-supero-prueba-fuego-salud_0_4wuJyWVjsl.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/6beba8355c53-images.webp",
-   "date": "2026-11-16T17:33:46+00:00"
+   "image": "https://www.clarin.com/img/2026/11/16/9Et2wRgtd_1200x630__1.jpg",
+   "date": "2026-11-16T17:34:25+00:00"
   },
   {
-   "title": "El arbitraje argentino volvió al centro de la escena con varias polémicas en definiciones del Ascenso",
-   "link": "https://perfil.com/deportes/el-arbitraje-argentino-volvio-al-centro-de-la-escena-con-varias-polemicas-en-definiciones-del-ascenso-aZ9tU4l7Vdsy",
-   "source": "Perfil",
+   "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, lunes 16 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-lunes-16-noviembre_0_NyERUUZMX2.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/da119d17d9d2-mixcollage-16-nov-2026-02-20-pm-7849.webp",
-   "date": "2026-11-16T17:31:16+00:00"
+   "image": "https://www.clarin.com/img/2020/09/07/y1xcDRv4y_1200x630__1.jpg",
+   "date": "2026-11-16T17:33:00+00:00"
+  },
+  {
+   "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, lunes 16 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-lunes-16-noviembre_0_3iGFdlDxim.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/09/07/M4VJWcr6c_1200x630__1.jpg",
+   "date": "2026-11-16T17:32:00+00:00"
   },
   {
    "title": "El negocio millonario de Vaca Muerta: tres petroleras dispararon sus ganancias operativas y una lideró en eficiencia",
@@ -362,164 +634,44 @@
    "date": "2026-11-16T17:31:00+00:00"
   },
   {
-   "title": "Apuestas online: disputa entre Kicillof y La Cámpora por los fondos de un proyecto contra la ludopatía",
-   "link": "https://perfil.com/politica/apuestas-online-disputa-entre-kicillof-y-la-campora-por-los-fondos-de-un-proyecto-contra-la-ludopatia-aTnuX0N7HCyr",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/ccf92c49e44c-facundo-tignanelli-2257717.webp",
-   "date": "2026-11-16T17:29:59+00:00"
-  },
-  {
-   "title": "Mariano Gorodisch explicó cómo es el nuevo plazo fijo que rinde un 50% más",
-   "link": "https://perfil.com/canal-e/mariano-gorodisch-explico-como-es-el-nuevo-plazo-fijo-que-rinde-un-50-mas-aEJCT7k3HEge",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/04044b47468f-0.webp",
-   "date": "2026-11-16T17:29:53+00:00"
-  },
-  {
-   "title": "Ante un millón y medio de personas, el papa León XIV brindó en Lima la última misa de su gira por Sudamérica: “Los llevaré siempre conmigo”",
-   "link": "https://tn.com.ar/internacional/2026/11/17/tras-visitar-tres-paises-el-papa-leon-xiv-cierra-su-historica-gira-en-sudamerica-con-una-misa-en-lima/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/OXSM45VECZGNFBAT5OSHW65QY4.jpg?auth=19e10dbd6847c601cc9958803117350b10e8419667cf9cb404fed610310f73f4",
-   "date": "2026-11-16T17:29:04+00:00"
-  },
-  {
-   "title": "Atlético Mineiro, entre las dudas y las bajas para la final con Boca",
-   "link": "https://www.ole.com.ar/boca-juniors/atletico-mineiro-dudas-bajas-final-boca_0_fOEOO31kYf.html",
-   "source": "Olé",
+   "title": "ATP Finals: Alcaraz aplastó a Tiafoe en Turín",
+   "link": "https://www.espn.com.ar/tenis/nota/_/id/17522411/exhibicion-total-de-carlos-alcaraz-en-su-estreno-en-las-atp-finals-aplasto-a-frances-tiafoe-en-turin",
+   "source": "ESPN",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/16/7yvQODSBd_1200x630__1.jpg",
-   "date": "2026-11-16T17:21:47+00:00"
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746605_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T16:56:27+00:00"
   },
   {
-   "title": "Anthropic debuta en Wall Street: qué lugar ocuparía entre las 10 mayores salidas a bolsa de la historia",
-   "link": "https://www.ambito.com/finanzas/anthropic-debuta-wall-street-que-lugar-ocuparia-las-10-mayores-salidas-bolsa-la-historia-n6345749",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/e8888b60bee01a0c7e07db714c2cec7b/adjuntos/239/imagenes/043/079/0043079899/1200x675/1115x437:1135x457/wall-street.jpg",
-   "date": "2026-11-16T17:17:00+00:00"
-  },
-  {
-   "title": "Bancarios acordaron un aumento del 2,2%: en cuánto quedaron los salarios",
-   "link": "https://www.ambito.com/politica/bancarios-acordaron-un-aumento-del-22-cuanto-quedaron-los-salarios-n6345756",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/10ea1e917750a11092e834b6a683e12e/adjuntos/239/imagenes/041/613/0041613156/sergio-omar-palazzo-miembro-la-camara-diputados-argentina.jpg",
-   "date": "2026-11-16T17:15:00+00:00"
-  },
-  {
-   "title": "Una rareza: Venezuela juega en Rusia con entradas agotadas",
-   "link": "https://www.ole.com.ar/futbol-internacional/rusia-venezuela-amistoso-fecha-fifa-krasnodar_0_qQrMFip7CG.html",
-   "source": "Olé",
+   "title": "¡Godoy Cruz venció a Tristán y es de Primera!",
+   "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17506483/godoy-cruz-vs-tristan-suarez-primera-nacional-final-ascenso-equipo-fecha-hora-tv-en-vivo",
+   "source": "ESPN",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/16/FSKzSTyJ8_1200x630__1.jpg",
-   "date": "2026-11-16T17:10:26+00:00"
+   "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746420_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T16:56:27+00:00"
   },
   {
-   "title": "El riesgo país opera en 840 puntos, mientras las acciones argentinas en Wall Street caen más de 5%",
-   "link": "https://tn.com.ar/economia/2026/11/16/el-riesgo-pais-vuelve-a-subir-y-se-acerca-a-los-840-puntos-como-operan-el-dolar-y-las-acciones-argentinas-en-wall-street/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/7DDSMNCZCJATREEADAVONCS6HQ.jpg?auth=768558736920e0eb2ed70c6fde2bce2f8af2782863f189c797965d1221c2dcf8",
-   "date": "2026-11-16T16:59:50+00:00"
-  },
-  {
-   "title": "Crecida del Paraná: por el Niño, el río alcanzó su nivel más alto en casi 30 años para esta época en Rosario",
-   "link": "https://www.clarin.com/rural/crecida-parana-nino-rio-alcanzo-nivel-alto-30-anos-epoca-rosario_0_iKKYHBKVhE.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2025/10/16/nR7eLIfI9_1200x630__1.jpg",
-   "date": "2026-11-16T16:48:05+00:00"
-  },
-  {
-   "title": "Gladys La Bomba Tucumana habló de la muerte de su sobrino de 12 años y contó cómo fue el accidente",
-   "link": "https://www.clarin.com/fama/gladys-bomba-tucumana-hablo-muerte-sobrino-12-anos-conto-accidente_0_w4hmPYZA0B.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/16/T5xNigEnL_1200x630__1.jpg",
-   "date": "2026-11-16T16:47:16+00:00"
-  },
-  {
-   "title": "Norberto Marcos sigue internado en terapia intensiva por una neumonía: cómo evoluciona su salud",
-   "link": "https://www.clarin.com/fama/norberto-marcos-sigue-internado-terapia-intensiva-neumonia-evoluciona-salud_0_Bv02DnPlDI.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2023/11/30/NeHNufxOr_1200x630__1.jpg",
-   "date": "2026-11-16T16:45:31+00:00"
-  },
-  {
-   "title": "Adiós al portallaves de pared: la alternativa que gana lugar en las casas y ayuda a mantener el orden",
-   "link": "https://www.clarin.com/informacion-general/adios-portallaves-pared-alternativa-gana-lugar-casas-ayuda-mantener-orden_0_Iyjx2mHoqr.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/16/pkPaVASqE_1200x630__1.jpg",
-   "date": "2026-11-16T16:40:55+00:00"
-  },
-  {
-   "title": "Estadounidense acusada de matar a sus tres hijos enfrentará nuevo juicio en marzo",
-   "link": "https://www.clarin.com/estados-unidos/estadounidense-acusada-de-matar-a-sus-tres-hijos-enfrentara-nuevo-juicio-en-marzo_0_eXyypETdf1.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/09/03/opG8cy99-_1200x630__1.jpg",
-   "date": "2026-11-16T16:40:07+00:00"
-  },
-  {
-   "title": "Ante el avance de la Inteligencia Artificial: con el miedo no se juega",
-   "link": "https://www.clarin.com/opinion/avance-inteligencia-artificial-miedo-juega_0_Ulk1BRB9PO.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2019/03/19/4I0fjrSUh_1200x630__1.jpg",
-   "date": "2026-11-16T16:38:49+00:00"
-  },
-  {
-   "title": "John Locke, filósofo británico, sobre la educación: \"Nueve de cada diez personas son lo que son, buenas o malas, útiles o no, debido a su educación\"",
-   "link": "https://www.clarin.com/internacional/john-locke-filosofo-britanico-educacion-personas-buenas-malas-utiles-debido-educacion_0_kCVn7o1mTV.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/07/23/tc517OMgF_1200x630__1.jpg",
-   "date": "2026-11-16T16:37:27+00:00"
-  },
-  {
-   "title": "El elogio top de Gustavo Alfaro para Japón: \"Está entre las diez mejores selecciones del mundo\"",
-   "link": "https://www.ole.com.ar/futbol-internacional/america/gustavo-alfaro-paraguay-japon-fecha-fifa-amistoso_0_pyEifCTwzA.html",
-   "source": "Olé",
+   "title": "Zeballos dio el primer paso en las ATP Finals",
+   "link": "https://www.espn.com.ar/tenis/nota/_/id/17522286/horacio-zeballos-dio-el-primer-paso-en-las-atp-finals-en-busca-de-un-titulo-inedito-granollers",
+   "source": "ESPN",
    "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/16/ig45T4vkf_1200x630__1.jpg",
-   "date": "2026-11-16T16:36:39+00:00"
+   "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746598_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T16:56:27+00:00"
   },
   {
-   "title": "Klopp liquidó a Infantino: \"Nunca pensamos que las cosas pudieran empeorar después de Blatter y alguien lo logró\"",
-   "link": "https://www.ole.com.ar/futbol-internacional/jurgen-klopp-dijo-gianni-infantino-blatter-conferencia-prensa_0_9KuQ7VBebt.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/16/QXvHLUpbn_1200x630__1.jpg",
-   "date": "2026-11-16T16:30:29+00:00"
+   "title": "El Gobierno abrió un plan de retiros voluntarios en el Instituto Nacional de Vitivinicultura",
+   "link": "https://www.clarin.com/rural/gobierno-abrio-plan-retiros-voluntarios-instituto-nacional-vitivinicultura_0_RoM7hWqpFC.html",
+   "source": "Clarín Economía",
+   "cat": "economia",
+   "image": "https://www.clarin.com/img/2020/01/27/6ZxXag0l_1200x630__1.jpg",
+   "date": "2026-11-16T16:14:03+00:00"
   },
   {
-   "title": "La UEFA desafía a Gianni Infantino: eligió al francés Philippe Diallo como candidato para presidir la FIFA",
-   "link": "https://www.clarin.com/deportes/uefa-desafia-gianni-infantino-eligio-frances-philippe-diallo-candidato-presidir-fifa_0_yyMswep76y.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/16/1uuEw4cW4_1200x630__1.jpg",
-   "date": "2026-11-16T16:23:39+00:00"
-  },
-  {
-   "title": "La aldea de Huelva con solo 23 habitantes que tiene nombre de diente, una capilla hecha por vecinos y antiguos molinos",
-   "link": "https://www.clarin.com/internacional/aldea-huelva-solo-23-habitantes-nombre-diente-capilla-hecha-vecinos-antiguos-molinos_0_jYAugCmbCp.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/11/IclfFZaOIY_1200x630__1.jpg",
-   "date": "2026-11-16T16:15:47+00:00"
-  },
-  {
-   "title": "La isla de Canadá sin autos ni Internet donde los turistas pueden dormir en edificios históricos y viajar al pasado",
-   "link": "https://www.clarin.com/internacional/isla-canada-autos-internet-turistas-pueden-dormir-edificios-historicos-viajar-pasado_0_3x0tWYa6ks.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/05/B2oyIKRNe_1200x630__1.jpg",
-   "date": "2026-11-16T16:14:17+00:00"
+   "title": "Según la UCA, los índices de pobreza no habrían mejorado durante el gobierno de Milei si se actualizara la medición oficial",
+   "link": "https://www.clarin.com/economia/uca-indices-pobreza-mejorado-gobierno-milei-actualizara-medicion-oficial_0_RSBHEdEFzK.html",
+   "source": "Clarín Economía",
+   "cat": "economia",
+   "image": "https://www.clarin.com/img/2026/09/25/JrLGXgf_r_1200x630__1.jpg",
+   "date": "2026-11-16T16:13:20+00:00"
   },
   {
    "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
@@ -530,20 +682,36 @@
    "date": "2026-11-16T15:46:18+00:00"
   },
   {
-   "title": "El Gobierno mueve piezas clave del RIGI: qué cambia en compre local y acceso a dólares",
-   "link": "https://www.cronista.com/economia-politica/el-gobierno-mueve-piezas-clave-del-rigi-que-cambia-en-compre-local-y-acceso-a-dolares/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/LEZS7FS7KJDCJI22TDNLZHIPPU.jpg?auth=44fbbaf7f84672a2ef1fe9bb840b8c9541b0587dac8fd31fbadddbd92a93289b&smart=true&width=1200&height=900",
-   "date": "2026-11-16T15:45:30+00:00"
-  },
-  {
    "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
    "link": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
    "cat": "mundo",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8cc/live/fd1bfeb0-e1d5-11f1-b8c8-67fa35f5afdb.jpg",
    "date": "2026-11-16T15:44:22+00:00"
+  },
+  {
+   "title": "Cómo será el cronograma de Boca antes de la final de la CONMEBOL Sudamericana",
+   "link": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17522403/boca-cronograma-final-conmebol-sudamericana",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746596_1144x644_16%2D9.jpg",
+   "date": "2026-11-16T15:43:54+00:00"
+  },
+  {
+   "title": "Boca enfrenta a Mineiro en la gran final de la Copa Sudamericana 2026",
+   "link": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17522209/atletico-mineiro-vs-boca-final-copa-sudamericana-2026-equipo-fecha-hora-y-tv-en-vivo",
+   "source": "ESPN",
+   "cat": "deportes",
+   "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746563_1296x729_16%2D9.jpg",
+   "date": "2026-11-16T15:43:54+00:00"
+  },
+  {
+   "title": "A partir de tres asistentes de IA, se te fríe el cerebro",
+   "link": "https://www.clarin.com/economia/partir-asistentes-ia-frie-cerebro_0_nRMT3PGX6n.html",
+   "source": "Clarín Economía",
+   "cat": "economia",
+   "image": "https://www.clarin.com/img/2026/11/16/X_3YpCGI-_1200x630__1.jpg",
+   "date": "2026-11-16T15:43:30+00:00"
   },
   {
    "title": "Se reanuda el debate por la reforma política, con cambios de último momento para contentar a los gobernadores",
@@ -582,8 +750,16 @@
    "link": "https://www.clarin.com/economia/destruccion-creativa-presidente-bcra-defendio-reformas-economicas-dijo-haran-aumentar-inversion_0_7r3xuVgLkv.html",
    "source": "Clarín Economía",
    "cat": "economia",
-   "image": "https://www.clarin.com/img/2026/11/16/XAbf4LjRC_1200x630__1.jpg",
+   "image": "https://www.clarin.com/img/2026/11/16/__lw07c6E_1200x630__1.jpg",
    "date": "2026-11-16T14:07:24+00:00"
+  },
+  {
+   "title": "Son estadounidenses, tienen dos motores y pueden transportar hasta 12 soldados: así son los helicópteros Black Hawk que busca incorporar México",
+   "link": "https://www.cronista.com/mexico/actualidad-mx/son-estadounidenses-tienen-dos-motores-y-pueden-transportar-hasta-12-soldados-asi-son-los-helicopteros-black-hawk-que-busca-incorporar-mexico/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/OU5NTGDEWVB35HB44C6FKDGNP4.jpg?auth=ac45d068a3e336dc3a9c0b15e9147f3e0aa90edadbba21b60a3d8c99de0c1f66&smart=true&width=1200&height=900",
+   "date": "2026-11-16T14:02:33+00:00"
   },
   {
    "title": "Entrenamientos sin descanso y shows a pesar de las lesiones: las polémicas condiciones laborales de la industria del K-pop",
@@ -600,14 +776,6 @@
    "cat": "ciencia",
    "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/el-misterio-de-dos-figuras-humanas-de-7.jpg",
    "date": "2026-11-16T13:34:37+00:00"
-  },
-  {
-   "title": "Luis Caputo: \"Entramos a 2027 más fortalecidos que nunca, espero un año más calmo de lo que muchos predicen\"",
-   "link": "https://www.ambito.com/economia/luis-caputo-entramos-2027-mas-fortalecidos-que-nunca-espero-un-ano-mas-calmo-lo-que-muchos-predicen-n6345590",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/2f6b4b9e31e1607d0a76f46bb300a86c/adjuntos/239/imagenes/043/744/0043744646/1200x675/1157x594:1177x614/luis-caputo-uia-2026-7.jpeg",
-   "date": "2026-11-16T13:10:00+00:00"
   },
   {
    "title": "Luis Caputo: \"Entramos a 2027 más fortalecidos que nunca, espero un año más calmo de lo que muchos predicen\"",
@@ -714,14 +882,6 @@
    "date": "2026-11-16T11:53:15+00:00"
   },
   {
-   "title": "Jojo, el gorila que lleva 11 años solo tras la muerte de su familia y para el que los científicos buscan compañía",
-   "link": "https://www.bbc.com/mundo/articles/cmx2xn9gy40ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Mundo",
-   "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e93/live/a50b98a0-e042-11f1-88e1-eb4e155225b3.png",
-   "date": "2026-11-16T11:36:19+00:00"
-  },
-  {
    "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
    "link": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -736,14 +896,6 @@
    "cat": "ciencia",
    "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/Diseno-sin-titulo44-og.jpg",
    "date": "2026-11-16T11:07:37+00:00"
-  },
-  {
-   "title": "Por qué mucha de la fibra que necesita tu cuerpo termina en el bote de basura (y cómo aprovecharla mejor en tus comidas)",
-   "link": "https://www.bbc.com/mundo/articles/cm3wg64y183wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Mundo",
-   "cat": "mundo",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff14/live/c93d0290-d435-11f1-9ba3-e16b46d57ce6.jpg",
-   "date": "2026-11-16T10:48:16+00:00"
   },
   {
    "title": "Euro hoy en Panamá: precio y cotización de la divisa este lunes 16 de noviembre de 2026",
@@ -770,30 +922,6 @@
    "date": "2026-11-16T10:45:10+00:00"
   },
   {
-   "title": "Euro hoy en Chile: precio y cotización de la divisa este lunes 16 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-chile-precio-y-cotizacion-de-la-divisa-este-lunes-16-de-noviembre-de-2026_0_j6wGZgFRQF.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2020/10/07/V8Hxgsjgi_1200x630__1.jpg",
-   "date": "2026-11-16T10:45:10+00:00"
-  },
-  {
-   "title": "Euro hoy en Paraguay: precio y cotización de la divisa este lunes 16 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-lunes-16-de-noviembre-de-2026_0_Q5S4vwpfxA.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2018/08/29/B1sEYYBv7_1200x630__1.jpg",
-   "date": "2026-11-16T10:45:09+00:00"
-  },
-  {
-   "title": "Euro hoy en Uruguay: precio y cotización de la divisa este lunes 16 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-lunes-16-de-noviembre-de-2026_0_v923dcF0xY.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2021/11/23/DMEZ4i0la_1200x630__1.jpg",
-   "date": "2026-11-16T10:45:09+00:00"
-  },
-  {
    "title": "Con un mensaje a sus víctimas, Gérard Depardieu asumió la condena por agresión sexual: \"Pertenecí a un mundo que ha desaparecido\"",
    "link": "https://www.clarin.com/espectaculos/mensaje-victimas-gerard-depardieu-asumio-condena-agresion-sexual-perteneci-mundo-desaparecido_0_7YIKzKuL2t.html",
    "source": "Clarín Espectáculos",
@@ -816,22 +944,6 @@
    "cat": "espectaculos",
    "image": "https://www.clarin.com/img/2023/06/27/VTHGZHS4Y_1200x630__1.jpg",
    "date": "2026-11-16T10:15:03+00:00"
-  },
-  {
-   "title": "Increíble descubrimiento en Israel: arqueólogos encuentran bajo una ciudad de hace 2.000 años un laberinto para escapar de los romanos",
-   "link": "https://muyinteresante.okdiario.com/historia/tuneles-subterraneos-2000-anos-israel-rebeldes-romanos.html",
-   "source": "Muy Interesante",
-   "cat": "ciencia",
-   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/increible-descubrimiento-en-israel.jpg",
-   "date": "2026-11-16T10:03:59+00:00"
-  },
-  {
-   "title": "La NASA descubre un sorprendente parecido entre el Pacífico de 1997 y el de 2026: podría estar gestándose un El Niño histórico",
-   "link": "https://muyinteresante.okdiario.com/naturaleza/el-nino-2026-1997.html",
-   "source": "Muy Interesante",
-   "cat": "ciencia",
-   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/la-nasa-descubre-un-sorprendente.jpg",
-   "date": "2026-11-16T10:01:04+00:00"
   },
   {
    "title": "\"Dame Hombro\", la historia detrás del fenómeno mundial: improvisación callejera, IA y explosión en redes sociales",
@@ -864,14 +976,6 @@
    "cat": "mundo",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dad0/live/f7f6d720-cccc-11f1-951b-8fbc7a9ea030.jpg",
    "date": "2026-11-16T04:04:27+00:00"
-  },
-  {
-   "title": "Se dispara el dólar blue: sube $ 20 en la primera rueda de la semana y alcanza su máximo histórico",
-   "link": "https://www.cronista.com/finanzas-mercados/dolar-blue-hoy-a-cuanto-cotiza-este-lunes-16-de-noviembre-con-el-mep-y-el-ccl/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/SFJIX37SYREJLFELKBIIUMYW3U.jpg?auth=dbc44b15a0065680a2e0232f8ef686920d63d802c692b2589492d5185481c0d0&smart=true&width=1200&height=900",
-   "date": "2026-11-16T03:01:00+00:00"
   },
   {
    "title": "Wall Street sufrió por Nvidia, la inflación y las tasas largas, pero ya está lista para retomar los récords de la mano de Anthropic",
@@ -936,30 +1040,6 @@
    "cat": "economia",
    "image": "https://media.ambito.com/p/00361fd00241e0f65d2430e2b98eb42d/adjuntos/239/imagenes/043/694/0043694732/1200x675/637x328:657x348/empleo-informal.jpg",
    "date": "2026-11-15T03:00:00+00:00"
-  },
-  {
-   "title": "Santiago Migone, exfuncionario de Javier Milei: “A principios de año, nadie vio venir el estancamiento actual”",
-   "link": "https://www.ambito.com/economia/santiago-migone-exfuncionario-javier-milei-a-principios-ano-nadie-vio-venir-el-estancamiento-actual-n6345246",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/122858350c3a8a172a6eec85637134ae/adjuntos/239/imagenes/043/767/0043767842/santiago-migone-06.jpg",
-   "date": "2026-11-15T03:00:00+00:00"
-  },
-  {
-   "title": "Exportaciones: en lo que va del 2026, el petróleo destronó a la soja como principal producto",
-   "link": "https://www.ambito.com/economia/exportaciones-lo-que-va-del-2026-el-petroleo-destrono-la-soja-como-principal-producto-n6345334",
-   "source": "Ámbito Economía",
-   "cat": "economia",
-   "image": "https://media.ambito.com/p/be578315f4e963960ad6cb1eddfd76c8/adjuntos/239/imagenes/043/742/0043742679/1200x675/2817x1707:2837x1727/petroleo.jpg",
-   "date": "2026-11-15T01:39:00+00:00"
-  },
-  {
-   "title": "Ramos Mejía: engañaron a una jubilada de 86 años con el “cuento de la quiniela” y le robaron US$72.000",
-   "link": "https://tn.com.ar/policiales/2026/11/13/ramos-mejia-enganaron-a-una-jubilada-de-86-anos-con-el-cuento-de-la-quiniela-le-robaron-us72000-y-quedo-en-coma/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/FP4LBHWVVREUXLHGYPY3NFUYCI.jpg?auth=0b6b05c9e5ee90ae936a5cc14dc450c75dd910a8917f0cd8f92a8ca22f2d4fdf",
-   "date": "2026-11-13T06:48:39+00:00"
   }
  ]
 }
