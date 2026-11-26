@@ -1,136 +1,432 @@
 {
- "updated": "2026-11-26T21:41:56.120430+00:00",
+ "updated": "2026-11-26T22:44:18.611575+00:00",
  "items": [
-  {
-   "title": "En vivo - NEC vs. Stade Rennes: 2 - 1, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/nec-vs-stade-rennes-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/JPYKOFYPDNED5LRXN5ZAGM5FTM.jpg?auth=58f65fd7ec4530a01563505c240f7bc3d9508d82048268c30061f2fb114f0e47",
-   "date": "2026-11-26T21:39:28+00:00"
-  },
-  {
-   "title": "En vivo - Ferencváros vs. Celje: 0 - 0, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/ferencvaros-vs-celje-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/IXNMWBMVQFDBZIMKOHTVVTY5EM.jpg?auth=661ae3084187093b713af061d90a6521b55a133edfed0f6014d5ac48f8a1be47",
-   "date": "2026-11-26T21:39:28+00:00"
-  },
-  {
-   "title": "En vivo - Sparta Praga vs. AZ Alkmaar: 2 - 3, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/sparta-praga-vs-az-alkmaar-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/J3QD3OTVJRGQZAOZBEWJMG2IH4.jpg?auth=bb204f3698f80e1dba315f41453385a47ebbe157dc4dcdcc2f83683752732051",
-   "date": "2026-11-26T21:39:27+00:00"
-  },
-  {
-   "title": "En vivo - Lyon vs. Lillestrom SK: 0 - 0, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/lyon-vs-lillestrom-sk-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/2NGDW6HXCN43ILEPXAXZJNZTDI.jpg?auth=3e1d27e3eb6ce07f28ae007734204351c8435d5f5cb2560838885550ccd70589",
-   "date": "2026-11-26T21:39:27+00:00"
-  },
-  {
-   "title": "El BCRA ampliará la supervisión sobre los proveedores no financieros de crédito",
-   "link": "https://www.lanacion.com.ar/economia/el-bcra-ampliara-la-supervision-sobre-los-proveedores-no-financieros-de-credito-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/BZAU4675PRDKDBVSRJJO24F7DI.jpg?auth=1cc707b06118977b71835ffced96a2d354a25bd5e2b71b33b74ef9b0153529d1&smart=true&width=2000&height=1333",
-   "date": "2026-11-26T21:38:55+00:00"
-  },
-  {
-   "title": "En vivo - Torreense vs. Celtic: 1 - 1, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/torreense-vs-celtic-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/CXITQ5IAIVHCLITX5HWGTOA24U.jpg?auth=f5bae226dd8681ca1a693928240435efe9863ffc1e196400856326e9e73f00f3",
-   "date": "2026-11-26T21:38:28+00:00"
-  },
-  {
-   "title": "En vivo - Sunderland vs. Jagiellonia: 1 - 1, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/sunderland-vs-jagiellonia-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/FYZ7MEGE6GLKEYXV2O6FOVFKPI.Hoi?auth=9fd3a4bd892df7e319823debad7264fceffb73d8169f631c3da0cb4629fe2c64",
-   "date": "2026-11-26T21:38:28+00:00"
-  },
-  {
-   "title": "Javier Milei y sus medidas, EN VIVO: en medio de una jornada caliente en el Congreso, el Presidente se reunió con su par en Asunción",
-   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contras-las-operetas-de-la-oposicion-y-dijo-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/FHUHORQQQFFZDNYU7EALXSNJXI.jpg?auth=542842591d2c58cb0983f958a0b4a46e1d4a30967b0dd5ab784b0db606fa8bcc&smart=true&width=2000&height=1333",
-   "date": "2026-11-26T21:37:49+00:00"
-  },
   {
    "title": "Elecciones España 2026, EN VIVO: comenzó el último debate presidencial, las últimas encuestas y las noticias del 29-N",
    "link": "https://www.lanacion.com.ar/el-mundo/elecciones-espana-2026-en-vivo-que-dicen-las-encuestas-y-las-ultimas-noticias-hoy-nid26112026/",
    "source": "La Nación",
    "cat": "argentina",
    "image": "https://resizer.glanacion.com/resizer/v2/RMK7VTR7J5CD5EGWAIR5ERHVYQ.png?auth=131d067870848689783bace6104e58b1636efdddc208af4820425e8b7e9532c6&smart=true&width=772&height=465",
-   "date": "2026-11-26T21:37:43+00:00"
+   "date": "2026-11-26T22:41:32+00:00"
   },
   {
-   "title": "En vivo - OFI Creta vs. Anderlecht: 1 - 2, por la fecha 5 de la UEFA Europa League",
+   "title": "Citaron a indagatoria y allanaron a un exfuncionario de Salud por una “pluralidad de planes delictivos” en el PAMI",
+   "link": "https://www.lanacion.com.ar/politica/citaron-a-indagatoria-y-allanaron-a-un-exfuncionario-de-salud-por-una-pluralidad-de-planes-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/G6IAAFXLMVDPFGDFUWHPMNTOPA.jpeg?auth=a13bfb2329cdc83b5032bc227ab3efac370312c6f0e91119ff70e3be54d4706d&smart=true&width=1280&height=960",
+   "date": "2026-11-26T22:40:53+00:00"
+  },
+  {
+   "title": "Investigadores aseguran que podría existir otro Monte Everest debajo del hielo antártico",
+   "link": "https://www.lanacion.com.ar/ciencia/investigadores-aseguran-que-podria-existir-otro-monte-everest-debajo-del-hielo-antartico-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/JTQTJBTPUNDXFEWRMD6UYZHI24?auth=b5b76b1a0733370671710a23ecc04a9cfd5fb54323b83aa9f353a3f5728fb349&smart=true&width=2048&height=1366",
+   "date": "2026-11-26T22:37:51+00:00"
+  },
+  {
+   "title": "El Senado dejó vigente solo el debate presidencial obligatorio en la instancia de balotaje",
+   "link": "https://www.lanacion.com.ar/politica/el-senado-dejo-vigente-solo-el-debate-presidencial-obligatorio-en-la-instancia-de-balotaje-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/QMDHODC2VBCOLHLNYAI76SIY4A.JPG?auth=eb4e297014d516a2a4da82b304e9a598eeab0053f434f9517b5d90927bd31072&smart=true&width=2500&height=1667",
+   "date": "2026-11-26T22:35:59+00:00"
+  },
+  {
+   "title": "Debate a cuatro del 29N: Sánchez exige a Feijóo que pida la dimisión de Ayuso y Colau cuestiona un pacto entre el PP y Vox",
+   "link": "https://www.cronista.com/espana/politica-es/debate-a-cuatro-del-29n-sanchez-exige-a-feijoo-que-pida-la-dimision-de-ayuso-y-colau-cuestiona-un-pacto-entre-el-pp-y-vox/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/62PS5Y5MIJBCJPWOXBSC73JSXI.jpg?auth=410aef1576cfec00e4396e4c4b1b6fb221b4b27274241fd36c58dc9abec90b96&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:33:47+00:00"
+  },
+  {
+   "title": "Elecciones en España: hubo críticas a la gestión de Milei en el último debate entre los cuatro candidatos a jefe de gobierno",
+   "link": "https://tn.com.ar/internacional/2026/11/26/elecciones-en-espana-hubo-criticas-a-la-gestion-de-milei-en-el-ultimo-debate-entre-los-cuatro-candidatos-a-jefe-de-gobierno/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/XOVLWQ76XBEANHC3WQNRAUMTYE.jpg?auth=7bbdb637854bcebb7636852f5a4a4d7eaa1eea57c2be09e31c46f6efd4fb26e4",
+   "date": "2026-11-26T22:33:20+00:00"
+  },
+  {
+   "title": "Es oficial: el Senado aprobó la suspensión de las PASO para las elecciones de Argentina 2027",
+   "link": "https://www.lanacion.com.ar/politica/es-oficial-el-senado-aprobo-la-suspension-de-las-paso-para-las-elecciones-de-argentina-2027-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/25MBPNTURVC7XDRWBATT5SS3P4.jpg?auth=b2ac782d88e015da873ac4bee61ed5e6f2e589c13bd69f74ff98308f9525def7&smart=true&width=2000&height=1333",
+   "date": "2026-11-26T22:33:17+00:00"
+  },
+  {
+   "title": "Lula eligió a Luiz Carlos Trabuco como ministro de Economía y los mercados lo reciben con entusiasmo",
+   "link": "https://www.lanacion.com.ar/el-mundo/lula-analiza-nombrar-a-luiz-carlos-trabuco-como-ministro-de-economia-y-los-mercados-lo-reciben-con-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/67JRPJXCT5GQ7CKJDX67IOAOD4.jpg?auth=b081c6479b35ab25f3c82610e9c7b495f6f9476c084f5cae53aad45bbc66183b&smart=true&width=678&height=452",
+   "date": "2026-11-26T22:33:01+00:00"
+  },
+  {
+   "title": "Por la Ley 24.449: estos son los 6 casos en los que el seguro puede negarse a cubrirte aunque pagues y estés al día",
+   "link": "https://www.cronista.com/informacion-gral/por-la-ley-24449-estos-son-los-6-casos-en-los-que-el-seguro-puede-negarse-a-cubrirte-aunque-pagues-y-estes-al-dia/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/4BLDMMFDKNFTJDTYDJ5KKNDPIA.jpg?auth=6ecc8de7bcc6fc53abbc64b689caf5000a6a9e166a7a300e21f3f60d1789a004&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:33:00+00:00"
+  },
+  {
+   "title": "Nora Colosimo apuntó sin filtro contra la China Suárez: “Me parece nefasto todo lo que hace esa mujer”",
+   "link": "https://www.lanacion.com.ar/espectaculos/nora-colosimo-apunto-sin-filtro-contra-la-china-suarez-me-parece-nefasto-todo-lo-que-hace-esa-mujer-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/TJ3VBXPP35CPHNB3IHXWPOFJGU.jpg?auth=342ccea276bde69fa18a88bd4cc4f4f9008f7aa30092ac8d6dc68e308e29cc8e&smart=true&width=2000&height=1333",
+   "date": "2026-11-26T22:32:32+00:00"
+  },
+  {
+   "title": "Tras haber aprobado la reforma del Banco Central, Diputados debate el Presupuesto 2027 en medio de fuertes cruces",
+   "link": "https://tn.com.ar/politica/2026/11/26/diputados-el-gobierno-reunio-quorum-para-debatir-el-presupuesto-2027-y-la-reforma-del-banco-central/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/RFDOR6FBBZFJBEWJ3C5MPG6W2Q.jpg?auth=a860ace9dd89c8fd68577537cb965824c156a283a7592b648910f11d878930ad",
+   "date": "2026-11-26T22:32:03+00:00"
+  },
+  {
+   "title": "Cleaning your TV screen with a coffee filter: Why experts recommend it and what damage it helps avoid compared with regular cloths",
+   "link": "https://www.cronista.com/en/lifestyle/cleaning-your-tv-screen-with-a-coffee-filter-why-experts-recommend-it-and-what-damage-it-helps-avoid-compared-with-regular-cloths/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/OEUVJDJFL5BZFNDIV4CUSSIDJ4.png?auth=17038aeb9a028c42b84e8a7259763e9ee05c6a9b333a4ce4ce964ce9c7807f6b&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:32:00+00:00"
+  },
+  {
+   "title": "Abusó de su prima de 8 años y la quemó viva: fue condenado a prisión perpetua",
+   "link": "https://www.perfil.com/sociedad/abuso-de-su-prima-de-8-anos-y-la-quemo-viva-fue-condenado-a-prision-perpetua-auqgU0e3OpHe",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/8bc9a1d1a98f-proyecto-nuevo-2026-11-26t155556098.webp",
+   "date": "2026-11-26T22:31:14+00:00"
+  },
+  {
+   "title": "Maypi Delgado contó cómo le explicó a su hija de 3 años la muerte de su papá y reveló su reacción: “Se quedó en paz”",
+   "link": "https://tn.com.ar/show/famosos/2026/11/26/maypi-delgado-conto-como-le-explico-a-su-hija-de-3-anos-la-muerte-de-su-papa-y-revelo-su-reaccion-se-quedo-en-paz/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/JXK4YW3WYNBC5G55RU7X3UGHKM.png?auth=dad8d3ac436b3543af2c839221d97857bc6c44348339a66993cf584241c7fb47",
+   "date": "2026-11-26T22:29:26+00:00"
+  },
+  {
+   "title": "Mayans insinuó que el Gobierno busca suspender las PASO para “eliminar” una eventual candidatura de Patricia Bullrich",
+   "link": "https://www.lanacion.com.ar/politica/mayans-insinuo-que-el-gobierno-busca-suspender-las-paso-para-eliminar-una-eventual-candidatura-de-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/XGXEC3L3TVENHGOUTZY27QRTWE.jpg?auth=6b190da591b19583ba481ada2d579f59305ccddc6512fec96bff641df0544ee2&smart=true&width=1055&height=698",
+   "date": "2026-11-26T22:28:15+00:00"
+  },
+  {
+   "title": "Javier Milei y sus medidas, EN VIVO: el Presidente se reunió con su par de Asunción y el Senado le dio media sanción a la suspensión de las PASO",
+   "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contras-las-operetas-de-la-oposicion-y-dijo-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/FHUHORQQQFFZDNYU7EALXSNJXI.jpg?auth=542842591d2c58cb0983f958a0b4a46e1d4a30967b0dd5ab784b0db606fa8bcc&smart=true&width=2000&height=1333",
+   "date": "2026-11-26T22:27:13+00:00"
+  },
+  {
+   "title": "Anderlecht le ganó a OFI Creta 3 a 1 por la fecha 5 de la UEFA Europa League",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/26/ofi-creta-vs-anderlecht-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/MGQDUEIIEQN6HHVUDREBHIQAHE.hSZ?auth=a25c82123e7969689ea7dc86d611610adfd47276ec25d7ba379ff30fde273cb6",
-   "date": "2026-11-26T21:37:28+00:00"
+   "date": "2026-11-26T22:26:27+00:00"
   },
   {
-   "title": "En vivo - Crystal Palace vs. Real Sociedad: 1 - 1, por la fecha 5 de la UEFA Europa League",
+   "title": "Qué es la Reforma Electoral de Javier Milei que aprobó el Senado y cuáles son los principales puntos",
+   "link": "https://www.lanacion.com.ar/politica/que-es-la-reforma-electoral-de-javier-milei-que-aprobo-el-senado-y-cuales-son-los-principales-puntos-nid26112026/",
+   "source": "La Nación",
+   "cat": "argentina",
+   "image": "https://resizer.glanacion.com/resizer/v2/3EQXWMFWFFHNNE3HGXLOSVEJT4.jpg?auth=192c87b445ce2012b297d1de8b7d29148d5afa59c7c17f0eabec234e8ff341be&smart=true&width=2500&height=1667",
+   "date": "2026-11-26T22:25:53+00:00"
+  },
+  {
+   "title": "Crystal Palace le ganó a Real Sociedad 2 a 1 por la fecha 5 de la UEFA Europa League",
    "link": "https://tn.com.ar/deportes/futbol/2026/11/26/crystal-palace-vs-real-sociedad-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
    "source": "TN",
    "cat": "argentina",
    "image": "https://tn.com.ar/resizer/v2/INXRR3WTQ2HXZT6KAW4KXDFKO4.5rP?auth=aba56baa49570cb635bdf4d61df7d750cc37ed7c3863e6641b9278e460839de6",
-   "date": "2026-11-26T21:37:28+00:00"
+   "date": "2026-11-26T22:25:43+00:00"
   },
   {
-   "title": "En vivo - Hoffenheim vs. Sturm Graz: 1 - 1, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/hoffenheim-vs-sturm-graz-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/QAT2CKTGIZEJVCJ66V4A6VA5CI.tjh?auth=9bc9c1a9b533864cc64ea9c5589b2779298d64925a791e9089cf555657dd2e85",
-   "date": "2026-11-26T21:37:28+00:00"
-  },
-  {
-   "title": "En vivo - Juventus vs. Omonia: 4 - 1, por la fecha 5 de la UEFA Europa League",
-   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/juventus-vs-omonia-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
-   "source": "TN",
-   "cat": "argentina",
-   "image": "https://tn.com.ar/resizer/v2/CVYAF2KHPHEDGBE746SSZMJCDY.7SV5?auth=411a4e38fa5d8a3150ddf9be21a255d1be642b98932dbb2f228c174ed497bdd6",
-   "date": "2026-11-26T21:37:28+00:00"
-  },
-  {
-   "title": "Leonardo Ponzio se juega la permanencia en River e igual toma dos decisiones fuertes para enfrentar a Instituto",
-   "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/leonardo-ponzio-se-juega-la-permanencia-en-river-e-igual-toma-dos-decisiones-fuertes-para-enfrentar-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/G5PQMZO2AZAXBIQYHRRPW47NRI.jpg?auth=03d3a0ae44d8e8cd4203619de0f9fd7aaddb8ae46a8afa986745127af47aed95&smart=true&width=2000&height=1333",
-   "date": "2026-11-26T21:37:05+00:00"
-  },
-  {
-   "title": "Julieta Prandi habló sobre la denuncia de su excuñada: “Estoy acostumbrada a la otra parte, a los manotazos de ahogado”",
-   "link": "https://www.lanacion.com.ar/espectaculos/julieta-prandi-hablo-sobre-la-denuncia-de-su-excunada-estoy-acostumbrada-a-la-otra-parte-a-los-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/NF4OWSROWVHUFDAJRSAVZQRJZI.jpg?auth=b6f44623a7cc93c4ffc62b1c8a853878115c278d5cacf62ce47cdba0930f6bf7&smart=true&width=2000&height=1333",
-   "date": "2026-11-26T21:31:44+00:00"
-  },
-  {
-   "title": "Lionel Messi vuelve a Argentina para jugar en Boca y River con un mes de diferencia",
-   "link": "https://www.perfil.com/deportes/lionel-messi-vuelve-a-argentina-para-jugar-en-boca-y-river-con-un-mes-de-diferencia-a6PEo9b6it14",
+   "title": "RDEco: un empresario pyme cuestionó la reforma laboral y aseguró que está pensada para facilitar los despidos",
+   "link": "https://www.perfil.com/mas-perfil/rdeco-un-empresario-pyme-cuestiono-la-reforma-laboral-y-aseguro-que-esta-pensada-para-facilitar-los-despidos-abE9R9t2DGVD",
    "source": "Perfil",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/734b938bbad4-lionel-messi-en-su-despedida-de-la-seleccion-argentina-2342781.webp",
-   "date": "2026-11-26T21:31:12+00:00"
+   "image": "https://media.perfil.com/prod/images/gm_preview/68e97c4c5537-0.webp",
+   "date": "2026-11-26T22:24:52+00:00"
   },
   {
-   "title": "El MSCI Merval subió por tercera rueda gracias a las energéticas y sin la referencia de Wall Street",
+   "title": "La AGN volvió a cuestionar al Banco Central por el manejo del oro y aseguró que envió mil lingotes a Inglaterra",
+   "link": "https://tn.com.ar/economia/2026/11/26/la-agn-volvio-a-cuestionar-al-banco-central-por-el-manejo-del-oro-y-aseguro-que-envio-mil-lingotes-a-inglaterra/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/3LVH7VOM4NCPVL57VKDJ4KMMVI.jpg?auth=5e5755b6ad471abaf91147eee76a4a75cba2576e347fb5630c64132321a1309f",
+   "date": "2026-11-26T22:24:29+00:00"
+  },
+  {
+   "title": "Sunderland empató con Jagiellonia 1 a 1 por la fecha 5 de la UEFA Europa League",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/sunderland-vs-jagiellonia-en-vivo-por-la-fecha-5-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/FYZ7MEGE6GLKEYXV2O6FOVFKPI.Hoi?auth=9fd3a4bd892df7e319823debad7264fceffb73d8169f631c3da0cb4629fe2c64",
+   "date": "2026-11-26T22:23:41+00:00"
+  },
+  {
+   "title": "Gérard Depardieu irá a juicio acusado de violar a la actriz Charlotte Arnould",
+   "link": "https://www.perfil.com/internacional/gerard-depardieu-ira-a-juicio-acusado-de-violar-a-la-actriz-charlotte-arnould-antb55A6xqgi",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/e12fc092441c-proyecto-nuevo-2026-11-26t151215854.webp",
+   "date": "2026-11-26T22:22:29+00:00"
+  },
+  {
+   "title": "Una estancia ganadera de Corrientes tenía 11.400 hectáreas en 1997: 21 años después, es un refugio para especies en extinción",
+   "link": "https://tn.com.ar/sociedad/2026/11/26/una-estancia-ganadera-de-corrientes-tenia-11400-hectareas-en-1997-21-anos-despues-es-un-refugio-para-especies-en-extincion/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/WNYGAAPZXBHVZI4ZUV5AVGRE7E.png?auth=d6fdab13ec1c8a1a58108356aa78b3677e8a82c6eacbe470d2e5f5568f64a7c1",
+   "date": "2026-11-26T22:21:00+00:00"
+  },
+  {
+   "title": "La historia de David Correa da Fonseca, el futbolista de Vasco da Gama que fue detenido en pleno entrenamiento",
+   "link": "https://tn.com.ar/deportes/futbol/2026/11/26/quien-es-david-correa-da-fonseca-el-futbolista-de-vasco-da-gama-que-fue-detenido-en-pleno-entrenamiento/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/4DT7BHVVZZELBJMD2JIUYC3QJY.jpg?auth=599a3fac259915c20b860c5437263ad1012a21fc8bf618b419a3c51238e6bc59",
+   "date": "2026-11-26T22:18:38+00:00"
+  },
+  {
+   "title": "RDEsc: Martín Sancia Kawamichi convirtió su experiencia en Paraguay en una novela atravesada por el guaraní",
+   "link": "https://www.perfil.com/mas-perfil/rdesc-martin-sancia-kawamichi-convirtio-su-experiencia-en-paraguay-en-una-novela-atravesada-por-el-guarani-asNPU9T3XDSI",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/5d86fe958a30-martin-sancia-kawamichi-en-ronda-de-escritores.webp",
+   "date": "2026-11-26T22:17:23+00:00"
+  },
+  {
+   "title": "Quién era la empresaria entrerriana de 36 años que murió ahogada en una playa en Uruguay",
+   "link": "https://www.perfil.com/sociedad/quien-era-la-empresaria-entrerriana-de-36-anos-que-murio-ahogada-en-una-playa-en-uruguay-aiVXr6c2tFRi",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/74f1fffe3315-proyecto-nuevo-2026-11-26t151428244.webp",
+   "date": "2026-11-26T22:17:14+00:00"
+  },
+  {
+   "title": "Perder o vetar: la pelea por las Universidades que amenaza con caer una parte del Presupuesto",
+   "link": "https://www.cronista.com/economia-politica/presupuesto-2027-y-carta-organica-del-bcra-los-puntos-centrales-que-traban-la-sesion-en-diputados/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/KAQS5IJYOJGGFCM7Y27YVUBSOI.jpg?auth=ea9b353a7efc73565501ab10880806ec00ba12b81ff5e14da574a9a02b7f52e9&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:16:57+00:00"
+  },
+  {
+   "title": "Fue una estrella de la TV argentina, pero renegaba de la fama, dejó todo y ahora trabaja de traductora: la nueva vida de Andrea Barbieri",
+   "link": "https://www.perfil.com/entretenimiento/fue-una-estrella-de-la-tv-argentina-pero-renegaba-de-la-fama-dejo-todo-y-ahora-trabaja-de-traductora-la-nueva-vida-de-andrea-barbieri-azajB2S4rXO8",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/ff4028890ab9-andrea-barbieri-5.webp",
+   "date": "2026-11-26T22:14:15+00:00"
+  },
+  {
+   "title": "RDEsc: Mirta Pérez Rey explora el vínculo entre la gastronomía, la memoria y la identidad familiar",
+   "link": "https://www.perfil.com/mas-perfil/rdesc-mirta-perez-rey-explora-el-vinculo-entre-la-gastronomia-la-memoria-y-la-identidad-familiar-a5GbM2H9D7ha",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/991113735bb8-mirta-perez-rey-en-ronda-de-escritores.webp",
+   "date": "2026-11-26T22:14:14+00:00"
+  },
+  {
+   "title": "Nueva ley universitaria | La UAEMéx le dice adiós al viejo modelo y agrega más control del poder tras las protestas de 2025",
+   "link": "https://www.cronista.com/mexico/actualidad-mx/nueva-ley-universitaria-la-uaemex-le-dice-adios-al-viejo-modelo-y-agrega-mas-control-del-poder-tras-las-protestas-de-2025/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/E5ROOSJQTVDH7FA4YHBTDEPT5Q.jpg?auth=151b7440484b133b7a3373d35fedd2a816191296c96c2e35c31b0a233fc6adb7&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:14:00+00:00"
+  },
+  {
+   "title": "Buying olive oil in a clear bottle or a dark one: Why packaging affects how it keeps and tastes",
+   "link": "https://www.cronista.com/en/lifestyle/buying-olive-oil-in-a-clear-bottle-or-a-dark-one-why-packaging-affects-how-it-keeps-and-tastes/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/MXJZRFJXSBEO5FFECDXD6IKDWQ.png?auth=8eb9386174c262161d63b63bc78d5bfdef7a056701124301750276b8e531ae15&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:13:00+00:00"
+  },
+  {
+   "title": "RDEsc: Nicolás Freibrun analiza la dimensión política de Borges más allá de sus declaraciones públicas",
+   "link": "https://www.perfil.com/mas-perfil/rdesc-nicolas-freibrun-analiza-la-dimension-politica-de-borges-mas-alla-de-sus-declaraciones-publicas-athCe9W8s2Mx",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/ff9c686ba44c-nicolas-freibrun-en-ronda-de-escritores.webp",
+   "date": "2026-11-26T22:11:08+00:00"
+  },
+  {
+   "title": "José Mayans aseguró que el Gobierno suspende las PASO para \"eliminar\" una interna con Bullrich: \"Fuera Patricia\"",
+   "link": "https://www.ambito.com/politica/jose-mayans-aseguro-que-el-gobierno-suspende-las-paso-eliminar-una-interna-bullrich-fuera-patricia-n6349854",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/4a2832d3936bb76c1fcd123a663ecc5b/adjuntos/239/imagenes/043/800/0043800212/1200x675/smart/jose-mayans-paso.jpg",
+   "date": "2026-11-26T22:11:00+00:00"
+  },
+  {
+   "title": "El ambicioso plan de Elon Musk y Donald Trump para llenar el espacio con un millón de satélites de IA",
+   "link": "https://www.perfil.com/internacional/space-x-recibio-autorizacion-para-lanzar-un-millon-de-satelites-de-ia-a50-bgd-afbEe8e1NBPm",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/46b13f006a45-mixcollage-26-nov-2026-04-21-pm-6605.webp",
+   "date": "2026-11-26T22:10:35+00:00"
+  },
+  {
+   "title": "Rafecas unificó la causa por la mansión de Pilar con una denuncia contra Federico Beligoy",
+   "link": "https://www.cronista.com/economia-politica/afa-rafecas-unifico-la-causa-por-la-mansion-de-pilar-con-una-denuncia-contra-federico-beligoy/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/H7GSWQJ3R5HRNOGREJ7ZZFATCI.jpg?auth=5eac8ba1d3af0dba79c4dd7c3fdfdc0f5afa7e7411ed291852320cd314b822e2&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:09:51+00:00"
+  },
+  {
+   "title": "Julio Gambina en RDEco: “La palabra ajuste no tiene que asustar, el tema es a quién ajustás”",
+   "link": "https://www.perfil.com/mas-perfil/julio-gambina-en-rdeco-la-palabra-ajuste-no-tiene-que-asustar-el-tema-es-a-quien-ajustas-aalC25O96qpi",
+   "source": "Perfil",
+   "cat": "argentina",
+   "image": "https://media.perfil.com/prod/images/gm_preview/629fc812402b-julio-gambina-1717056.jpg",
+   "date": "2026-11-26T22:07:59+00:00"
+  },
+  {
+   "title": "La Reserva de Boca le ganó a Vélez, se metió en semifinales y festejó como la Primera",
+   "link": "https://www.ole.com.ar/boca-juniors/reserva-boca-gano-velez-metio-semifinales_0_JoP5UaaYMr.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/26/5Fuj-HMb4_1200x630__1.jpg",
+   "date": "2026-11-26T22:07:56+00:00"
+  },
+  {
+   "title": "Mayans agitó la interna libertaria y dijo que buscan eliminar las PASO para bajar a Bullrich: “Mide más que el Presidente”",
+   "link": "https://www.cronista.com/economia-politica/mayans-agito-la-interna-libertaria-y-dijo-que-buscan-eliminar-las-paso-para-bajar-a-bullrich-mide-mas-que-el-presidente/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/2ZBKLMRVNZFTFGMEWNNDYC3LRM.jpg?auth=332746a8c2fcfa29c91e0261ec3a9bd536bb0faf1a42c033e6f1aa15267606fc&smart=true&width=1200&height=900",
+   "date": "2026-11-26T22:05:49+00:00"
+  },
+  {
+   "title": "El fallo del Tribunal de Disciplina tras los incidentes en Gimnasia - Newell's",
+   "link": "https://www.ole.com.ar/futbol-primera/sanciones-tribunal-disciplina-newells-gimnasia_0_0DAECqVeKe.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/23/IUx7UAXs7_1200x630__1.jpg",
+   "date": "2026-11-26T22:03:19+00:00"
+  },
+  {
+   "title": "El Senado aprobó la reforma electoral que incluye la suspensión de las PASO de 2027",
+   "link": "https://tn.com.ar/politica/2026/11/26/en-la-previa-a-la-sesion-en-el-senado-santilli-anticipo-que-el-gobierno-tiene-los-votos-asegurados-para-suspender-las-paso/",
+   "source": "TN",
+   "cat": "argentina",
+   "image": "https://tn.com.ar/resizer/v2/TCZWPHCBTBA3NPNNZGTDE5ZJNE.jpg?auth=0113af0eb93f733d9d96dd1825b9c72c3015e25d4c0d0f194ab7b39e321dc0e7",
+   "date": "2026-11-26T22:00:35+00:00"
+  },
+  {
+   "title": "El posible 11 de River ante Instituto por los cuartos de final del Clausura",
+   "link": "https://www.ole.com.ar/river-plate/river-instituto-torneoclausura-leonardoponzio-marcosacuna-lucasbeltran-gonzalomontiel-lautarorivero_0_Uosk0Jqqhq.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/12/In4pF0Bal_1200x630__1.jpg",
+   "date": "2026-11-26T21:58:49+00:00"
+  },
+  {
+   "title": "El Gobierno logró un triunfo en el Senado: aprobó la suspensión de las PASO y Ficha Limpia",
+   "link": "https://www.ambito.com/politica/el-senado-vuelve-sesionar-aprobar-y-girar-diputados-la-eliminacion-las-paso-n6349308",
+   "source": "Ámbito",
+   "cat": "argentina",
+   "image": "https://media.ambito.com/p/fd56ee504879ade762edbf8221e01834/adjuntos/239/imagenes/043/800/0043800188/1200x675/smart/bullrich-senado.jpg",
+   "date": "2026-11-26T21:58:00+00:00"
+  },
+  {
+   "title": "Oro del BCRA: la AGN aprobó una auditoría con hallazgos que complican al Central",
+   "link": "https://www.cronista.com/economia-politica/oro-del-bcra-la-agn-aprobo-una-auditoria-con-hallazgos-que-complican-al-central/",
+   "source": "El Cronista",
+   "cat": "economia",
+   "image": "https://www.cronista.com/resizer/v2/ZVNAXYIJURF3HGAEWTMJ6SKFTU.png?auth=32717c5aa9b95cac097b514089494efcf155af98ac9878f9eab48bb76a52be36&smart=true&width=1200&height=900",
+   "date": "2026-11-26T21:57:47+00:00"
+  },
+  {
+   "title": "El secreto del vestuario de Gimnasia para soñar en grande: por qué Nacho Fernández cambió la cabeza del Lobo",
+   "link": "https://www.ole.com.ar/futbol-primera/nacho-fernandez-gimnasia-river-boca-clausura_0_QYn8JynGAc.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/10/24/TfAl862s5_1200x630__1.jpg",
+   "date": "2026-11-26T21:57:24+00:00"
+  },
+  {
+   "title": "Tras hacer historia en la Primera C, Gabriel Torres asume en San Miguel para liderar la reconstrucción",
+   "link": "https://www.ole.com.ar/futbol-ascenso/primera-nacional-b-san-miguel-peter-torres-ascenso_0_B9Rirp7ClU.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2023/03/07/x9IerzasP_1200x630__1.jpg",
+   "date": "2026-11-26T21:45:11+00:00"
+  },
+  {
+   "title": "Video: el golazo para el Ajax de una víctima del Dibu Martínez",
+   "link": "https://www.ole.com.ar/futbol-internacional/champions/stevenberghuis-ajax-dibumartinez-championsleague-paisesbajos-thun_0_YrwL2IdQRf.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2026/11/26/M-94ldsK-_1200x630__1.jpg",
+   "date": "2026-11-26T21:42:24+00:00"
+  },
+  {
+   "title": "Ucrania no tiene intención de extender la guerra con Rusia a Libia, afirma canciller",
+   "link": "https://www.clarin.com/estados-unidos/ucrania-no-tiene-intencion-de-extender-la-guerra-con-rusia-a-libia-afirma-canciller_0_RGK2o8c6nW.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
+   "date": "2026-11-26T21:40:04+00:00"
+  },
+  {
+   "title": "Presupuesto: el Gobierno desconoce los acuerdos, niega los fondos a discapacidad y se tensa el debate por las universidades",
+   "link": "https://www.clarin.com/politica/presupuesto-gobierno-desconoce-acuerdos-niega-fondos-discapacidad-tensa-debate-universidades_0_U1Fnp1TPvv.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/26/vfTpA6pNC_1200x630__1.jpg",
+   "date": "2026-11-26T21:38:12+00:00"
+  },
+  {
+   "title": "De su pasado en La Champions Liga a ser una pieza fundamental en Estudiantes: la historia de Ezequiel Piovi",
+   "link": "https://www.ole.com.ar/estudiantes/ezequiel-piovi-estudiantes-plata-copa-libertaores-palmeiras_0_blU9CvbjbL.html",
+   "source": "Olé",
+   "cat": "deportes",
+   "image": "https://www.ole.com.ar/images/2025/04/08/ACyX0uTrN_1200x630__1.jpg",
+   "date": "2026-11-26T21:37:02+00:00"
+  },
+  {
+   "title": "Brian Cox, físico británico: “El ritmo al que adquirimos conocimiento aumenta e, históricamente, cuanto más comprendemos la naturaleza, mejor es nuestra vida”",
+   "link": "https://www.clarin.com/internacional/brian-cox-fisico-britanico-ritmo-adquirimos-conocimiento-aumenta-historicamente-comprendemos-naturaleza-mejor-vida_0_HwrCD0BZmr.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/11/26/KrbyL-C03_1200x630__1.jpg",
+   "date": "2026-11-26T21:35:53+00:00"
+  },
+  {
+   "title": "Quiniela de la Provincia: resultado del sorteo de la Vespertina de hoy, jueves 26 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-vespertina-hoy-jueves-26-noviembre_0_n0jgDs5fLd.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2020/06/26/9qaFf5P9k_1200x630__1.jpg",
+   "date": "2026-11-26T21:35:51+00:00"
+  },
+  {
+   "title": "\"No sentían un afecto especial por Loan\": el \"abogado del diablo\" habló de un \"pacto de silencio\" de la familia del nene",
+   "link": "https://www.clarin.com/policiales/sentian-afecto-especial-loan-abogado-diablo-hablo-pacto-silencio-familia-nene_0_zDPFB0Flqj.html",
+   "source": "Clarín",
+   "cat": "argentina",
+   "image": "https://www.clarin.com/img/2026/05/05/NpFhyxXa0_1200x630__1.jpg",
+   "date": "2026-11-26T21:30:12+00:00"
+  },
+  {
+   "title": "El MSCI Merval subió por tercera rueda gracias a las energéticas, aunque sin la referencia de Wall Street",
    "link": "https://www.ambito.com/finanzas/el-msci-merval-avanza-06-dolares-una-rueda-la-referencia-eeuu-n6349630",
    "source": "Ámbito",
    "cat": "argentina",
@@ -138,60 +434,44 @@
    "date": "2026-11-26T21:30:00+00:00"
   },
   {
-   "title": "Qué significa la señal de tránsito blanca con una persona tachada y por qué es importante cumplirla",
-   "link": "https://www.cronista.com/informacion-gral/que-significa-la-senal-de-transito-blanca-con-una-persona-tachada-y-por-que-es-importante-cumplirla/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/NKWV22WLBRFAZMHA37ZQNX22UY.jpg?auth=7e416f80b78eaca563bc36ce1688506f2d313df22222abce7de69205e46293d5&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:30:00+00:00"
-  },
-  {
-   "title": "“¡Se llevaron a papá!”: condenaron a los tres acusados del secuestro extorsivo de un empresario al que liberaron en el Bajo Flores",
-   "link": "https://www.lanacion.com.ar/seguridad/se-llevaron-a-papa-condenaron-a-los-tres-acusados-del-secuestro-extorsivo-de-un-empresario-nid26112026/",
-   "source": "La Nación",
+   "title": "Reforma electoral: qué senadores votaron a favor y cuáles en contra del proyecto que elimina las PASO",
+   "link": "https://www.clarin.com/politica/reforma-electoral-senadores-votaron-favor-proyecto-elimina-paso_0_MQ9o7IZC9p.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/Y2RZC5YV5JBUNBIHQ2NPXLQOPA.jpg?auth=1c9d09045519562b68df88be8edb12db2bb2643249250b4b57c867205fc940fa&smart=true&width=1013&height=675",
-   "date": "2026-11-26T21:27:24+00:00"
+   "image": "https://www.clarin.com/img/2026/11/26/82LRjiboc_1200x630__1.jpg",
+   "date": "2026-11-26T21:27:22+00:00"
   },
   {
-   "title": "Mezclar cáscaras de naranja con vinagre: cómo preparar un limpiador casero y para qué sirve",
-   "link": "https://www.cronista.com/informacion-gral/mezclar-cascaras-de-naranja-con-vinagre-como-preparar-un-limpiador-casero-y-para-que-sirve/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/ONCGJP46EFGM7ID6EVZPPKTTF4.png?auth=3cc8bc199fd32f7ff3774b7eaf649440bdeb63fc225992a0517ea6db6c94951e&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:27:00+00:00"
-  },
-  {
-   "title": "“Es un serrucho con pendiente negativa”: en RDEco analizaron la evolución de la actividad económica",
-   "link": "https://www.perfil.com/mas-perfil/es-un-serrucho-con-pendiente-negativa-en-rdeco-analizaron-la-evolucion-de-la-actividad-economica-afrCw8Y89nP2",
-   "source": "Perfil",
+   "title": "Escándalo en la Europa League: un equipo turco se negó a saludar a uno de Israel, sus hinchas mostraron una bandera de Palestina y la Policía reprimió",
+   "link": "https://www.clarin.com/deportes/escandalo-europa-league-equipo-turco-nego-saludar-israel-hinchas-mostraron-bandera-palestina-policia-reprimio_0_a5aNVecQRr.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/3ef0b2a5f0ef-pesos-argentinos-2327731.webp",
-   "date": "2026-11-26T21:25:58+00:00"
+   "image": "https://www.clarin.com/img/2026/11/26/ks4Ay5FGr_1200x630__1.jpg",
+   "date": "2026-11-26T21:26:03+00:00"
   },
   {
-   "title": "Milei perdió otra vez en la Justicia contra el periodista Ari Lijalad: Casación rechazó llevar a la Corte su denuncia por calumnias e injurias",
-   "link": "https://www.perfil.com/politica/nuevo-reves-judicial-para-milei-casacion-rechazo-llevar-a-la-corte-su-denuncia-contra-el-periodista-ari-lijalad-aCStH7d90l8y",
-   "source": "Perfil",
+   "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, jueves 26 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-jueves-26-noviembre_0_j7BlCIiH0p.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/a7c7faa0e033-ari-lijalad-y-javier-milei.webp",
-   "date": "2026-11-26T21:25:44+00:00"
+   "image": "https://www.clarin.com/img/2020/09/07/y1xcDRv4y_1200x630__1.jpg",
+   "date": "2026-11-26T21:25:41+00:00"
   },
   {
-   "title": "Tras el envío de 1000 lingotes, el Banco Central pasó a tener un tercio de su oro en el exterior",
-   "link": "https://www.lanacion.com.ar/economia/tras-el-envio-de-1000-lingotes-el-banco-central-paso-a-tener-casi-un-tercio-de-su-oro-en-el-exterior-nid26112026/",
-   "source": "La Nación",
+   "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, jueves 26 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-jueves-26-noviembre_0_28ej6PKDL1.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/LQSYEMPAJVHLJDRYP26Q2PQFKA.jpg?auth=6a84123faa03430be699bad3022dc09a12d54e71fc6629a3074938b68527b424&smart=true&width=2000&height=1334",
-   "date": "2026-11-26T21:25:21+00:00"
+   "image": "https://www.clarin.com/img/2020/09/07/KwJToH8X1_1200x630__1.jpg",
+   "date": "2026-11-26T21:25:40+00:00"
   },
   {
-   "title": "La CGT marchó por la crisis de las obras sociales, elevó el tono contra el Gobierno y pidió renuncias",
-   "link": "https://www.lanacion.com.ar/politica/la-cgt-marcho-por-la-crisis-de-las-obras-sociales-elevo-el-tono-contra-el-gobierno-y-pidio-renuncias-nid26112026/",
-   "source": "La Nación",
+   "title": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, jueves 26 de noviembre",
+   "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-vespertina-hoy-jueves-26-noviembre_0_ps9obj6Qyx.html",
+   "source": "Clarín",
    "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/KM57BS3POVBYPFJVA5YNMVCD5I.jpg?auth=4dc3e8d83a0178e6efb745b242bc5462a935cfd75b5e5a90b301adf3a91fc84f&smart=true&width=2825&height=1800",
-   "date": "2026-11-26T21:24:56+00:00"
+   "image": "https://www.clarin.com/img/2022/06/08/U1XBZuQ4w_1200x630__1.jpg",
+   "date": "2026-11-26T21:25:39+00:00"
   },
   {
    "title": "Se definieron los semifinalistas de la Copa Davis: quiénes clasificaron y cuándo juegan",
@@ -202,84 +482,12 @@
    "date": "2026-11-26T21:24:30+00:00"
   },
   {
-   "title": "Un coloso del “crushing” busca una segunda oportunidad con u$s 100 millones",
-   "link": "https://www.cronista.com/negocios/un-coloso-del-crushing-busca-una-segunda-oportunidad-con-us-100-millones/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/D77W33VVMZANLNZL7HYRIJVQNA.jpg?auth=fef315080c541477f49cad31dd1cd77d56e7e2f8eb4a6d71308814dcb42357ce&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:23:50+00:00"
-  },
-  {
-   "title": "Mayans insinuó que el Gobierno busca suspender las PASO para “eliminar” una eventual candidatura de Patricia Bullrich",
-   "link": "https://www.lanacion.com.ar/politica/mayans-insinuo-que-el-gobierno-busca-suspender-las-paso-para-eliminar-una-eventual-candidatura-de-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/XGXEC3L3TVENHGOUTZY27QRTWE.jpg?auth=6b190da591b19583ba481ada2d579f59305ccddc6512fec96bff641df0544ee2&smart=true&width=1055&height=698",
-   "date": "2026-11-26T21:23:13+00:00"
-  },
-  {
-   "title": "Anthropic aterrizara en la Bolsa Mexicana de Valores tras su histórico debut en Nasdaq",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/anthropic-aterrizara-en-la-bolsa-mexicana-de-valores-tras-su-historico-debut-en-nasdaq/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/YSJS4PXKMJBJTPSMLEAOYQOFR4.jpg?auth=5f49de9777b2fadece1a9ffcddb061be99ab46bdb5dada6a07da8950d90ff1c9&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:20:25+00:00"
-  },
-  {
-   "title": "Se viene un feriado el jueves 3 de diciembre: estos trabajadores tendrán un día más de descanso en este partido de la provincia de Buenos Aires",
-   "link": "https://www.cronista.com/informacion-gral/se-viene-un-feriado-el-jueves-3-de-diciembre-estos-trabajadores-tendran-un-dia-mas-de-descanso-en-este-partido-de-la-provincia-de-buenos-aires/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/FNUG3KUPLBALDIAAAGA4VA6SUM.jpg?auth=e61cbe3c1a19577d41c36bae17a2e90c93bfaf0e0373c1e3c325af8332b154e5&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:20:14+00:00"
-  },
-  {
-   "title": "El Gobierno renovó toda la deuda en pesos que le vence a fin de mes",
-   "link": "https://www.lanacion.com.ar/autos/el-gobierno-renovo-toda-la-deuda-en-pesos-que-le-vence-a-fin-de-mes-nid26112026/",
-   "source": "La Nación",
-   "cat": "argentina",
-   "image": "https://resizer.glanacion.com/resizer/v2/4WWUHKGQGZHNPDTHRU7FT2AA4M.jpg?auth=c8f1814078b56eecd34e425623d118f53915ca8b676b419b58dbfd81579a1cca&smart=true&width=2000&height=1333",
-   "date": "2026-11-26T21:19:43+00:00"
-  },
-  {
-   "title": "Subtes y colectivos más baratos: Cuenta DNI devuelve hasta $8.000 por mes si pagás de esta manera",
-   "link": "https://www.cronista.com/informacion-gral/subtes-y-colectivos-mas-baratos-cuenta-dni-devuelve-hasta-8000-por-mes-si-pagas-de-esta-manera/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/UWLV3DALXFGLNPEQYF4CUHPFPQ.jpg?auth=0e7d7e8a4b4ca4bd38bea213bc2ec94a2e48c5ef5fb5e7557bc42df56853a082&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:19:29+00:00"
-  },
-  {
    "title": "El Gobierno reformó la Carta Orgánica del Banco Central en Diputados y va por el Presupuesto 2027",
    "link": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417",
    "source": "Ámbito",
    "cat": "argentina",
-   "image": "https://media.ambito.com/p/4e198518159c6aadd799df4bf330ca8a/adjuntos/239/imagenes/043/798/0043798918/1200x675/smart/homenaje-minuto-silencio-sesion-diputados.jpg",
+   "image": "https://i.ytimg.com/vi/4jImQpFHuCo/maxresdefault.jpg",
    "date": "2026-11-26T21:18:00+00:00"
-  },
-  {
-   "title": "RDC: La izquierda del PT cuestiona el giro económico de Lula y su posible ministro de Hacienda",
-   "link": "https://www.perfil.com/mas-perfil/rdc-la-izquierda-del-pt-cuestiona-el-giro-economico-de-lula-y-su-posible-ministro-de-hacienda-aeiFe7p2oupL",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/2baeecda12d6-22112026lulaafpg.webp",
-   "date": "2026-11-26T21:17:35+00:00"
-  },
-  {
-   "title": "El Senado aprobó pliegos de jueces y citó para la comisión de Acuerdos a magistrados con competencia electoral",
-   "link": "https://www.perfil.com/politica/el-senado-aprobo-pliegos-de-jueces-y-cito-para-la-comision-de-acuerdos-a-magistrados-con-competencia-electoral-ad98e0S6MlcE",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/024e69eaf2ca-proyecto-nuevo-2026-11-26t133615828.webp",
-   "date": "2026-11-26T21:17:30+00:00"
-  },
-  {
-   "title": "Roche apuesta por inteligencia artificial para anticipar complicaciones de diabetes en México",
-   "link": "https://www.cronista.com/mexico/finanzas-economia/roche-apuesta-por-inteligencia-artificial-para-anticipar-complicaciones-de-diabetes-en-mexico/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/QC5VEWC3NJBAFH4XEEYWLDVAKU.jpg?auth=80e35623934fc506ac7a2a6bc749236209785226ab4730433d46375e777e9b5e&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:16:06+00:00"
   },
   {
    "title": "Los ex Boca que buscarán dar el golpe con Gimnasia",
@@ -306,54 +514,6 @@
    "date": "2026-11-26T21:12:00+00:00"
   },
   {
-   "title": "Un juez federal unificó las causas contra Beligoy y por la mansión de Pilar",
-   "link": "https://www.ole.com.ar/informacion-general/danielrafecas-federicobeligoy-lavadodedinero-mansiondepilar-pablotoviggino-facundodelgaiso_0_iwF917jNzS.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/26/0v6bZhh0c_1200x630__1.jpg",
-   "date": "2026-11-26T21:11:03+00:00"
-  },
-  {
-   "title": "Columbus Crew vs. Inter Miami, por los playoffs de la MLS 2026: día, hora, formaciones y dónde ver en vivo",
-   "link": "https://www.ole.com.ar/futbol-internacional/mls/columbus-crew-vs-inter-miami-partido-playoffs-mls-2026-dia-horario-formaciones-tv_0_BkuW8PQCY0.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/25/AeUFECOFm_1200x630__1.jpg",
-   "date": "2026-11-26T21:09:55+00:00"
-  },
-  {
-   "title": "La Legislatura bonaerense avanzó con una ley para regular el negocio de las apuestas online",
-   "link": "https://www.perfil.com/politica/la-legislatura-bonaerense-avanzo-con-una-ley-para-regular-el-negocio-de-las-apuestas-online-awB8q8q2lbn2",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/e9c15535eb66-1219-legislatura-bonaerense.jpg",
-   "date": "2026-11-26T21:08:54+00:00"
-  },
-  {
-   "title": "El BCRA cambió las reglas para proveedores no financieros de crédito y elevó umbrales exigidos",
-   "link": "https://www.cronista.com/finanzas-mercados/el-bcra-cambio-las-reglas-para-proveedores-no-financieros-de-credito-y-elevo-el-umbral-exigido/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/2K4XHEDGINAVNLFMX6YZEB7QGA.jpg?auth=5c3928b4eefed12fb66bd2057bf3164954db515b21a65a2bc2b48906625ffe82&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:05:09+00:00"
-  },
-  {
-   "title": "Sorpresa en Copa Davis: Gran Bretaña bajó a la Alemania de Zverev y España avanzó sin la necesidad de Alcaraz",
-   "link": "https://www.perfil.com/deportes/copa-davis-2026-espana-paso-a-semifinales-sin-alcaraz-y-gran-bretana-elimino-a-la-alemania-de-zverev-aoueF3d2q62X",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/6357ce60ebf6-mixcollage-26-nov-2026-06-00-pm-1290.webp",
-   "date": "2026-11-26T21:04:52+00:00"
-  },
-  {
-   "title": "Por orden de la Ley 11.382, podrán multar y arrestar hasta 30 días a las personas que tiren basura en las calles y en lugares no habilitados de la Provincia de Buenos Aires",
-   "link": "https://www.cronista.com/informacion-gral/por-orden-de-la-ley-11382-podran-multar-y-arrestar-hasta-30-dias-a-las-personas-que-tiren-basura-en-las-calles-y-en-lugares-no-habilitados-de-la-provincia-de-buenos-aires/",
-   "source": "El Cronista",
-   "cat": "economia",
-   "image": "https://www.cronista.com/resizer/v2/VL3YRBXT55FHNGO5GZ2CTTXHL4.jpg?auth=3d39ed10eb6107542a68b16943ccb661460f2d4c1c604f6fa704d6228fca562b&smart=true&width=1200&height=900",
-   "date": "2026-11-26T21:03:00+00:00"
-  },
-  {
    "title": "Neuquén: Rolando Figueroa blinda su alianza con el PRO mientras LLA y el PJ no encuentran candidato",
    "link": "https://www.ambito.com/ambito-nacional/neuquen-rolando-figueroa-blinda-su-alianza-el-pro-mientras-lla-y-el-pj-no-encuentran-candidato-n6349771",
    "source": "Ámbito",
@@ -370,46 +530,6 @@
    "date": "2026-11-26T21:00:00+00:00"
   },
   {
-   "title": "All Boys se quedó sin técnico y comenzó la renovación para 2027",
-   "link": "https://www.ole.com.ar/futbol-ascenso/allboys-fabiannardozza-primeranacional-descenso-floresta_0_CFUGRYipeu.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2024/05/20/25QyF6PC4_1200x630__1.jpg",
-   "date": "2026-11-26T20:57:43+00:00"
-  },
-  {
-   "title": "RDC: Elon Musk recibió autorización para desplegar hasta un millón de satélites y crear centros de datos en el espacio",
-   "link": "https://www.perfil.com/mas-perfil/rdc-elon-musk-recibio-autorizacion-para-desplegar-hasta-un-millon-de-satelites-y-crear-centros-de-datos-en-el-espacio-aQ6mH3y3OImH",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/e10047f819fe-elon-musk-2296755.webp",
-   "date": "2026-11-26T20:54:29+00:00"
-  },
-  {
-   "title": "Los Pumas 7's en Dubai: cuándo y por dónde ver su debut en el Circuito Mundial",
-   "link": "https://www.ole.com.ar/rugby/juegan-pumas-7-7s-circuito-mundial-dubai-dias-horarios-ver-tv_0_jk1Dx8Mtcp.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/10/Iop-JV0uP_1200x630__1.jpg",
-   "date": "2026-11-26T20:50:54+00:00"
-  },
-  {
-   "title": "RDC: organizaciones feministas reclaman presupuesto para combatir la violencia contra las mujeres en Francia",
-   "link": "https://www.perfil.com/mas-perfil/rdc-organizaciones-feministas-reclaman-presupuesto-para-combatir-la-violencia-contra-las-mujeres-en-francia-ac1Zv0E2RfaJ",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/7091ade0b2a0-feminismo-2-372x255.png",
-   "date": "2026-11-26T20:50:46+00:00"
-  },
-  {
-   "title": "Wanda Nara se presentó en la causa que le inició la China Suárez en su contra por amenazas",
-   "link": "https://www.perfil.com/entretenimiento/wanda-nara-se-presento-en-la-causa-que-le-inicio-la-china-suarez-en-su-contra-por-amenazas-aW74n4C7v4ol",
-   "source": "Perfil",
-   "cat": "argentina",
-   "image": "https://media.perfil.com/prod/images/gm_preview/b7dbb4abefa0-texto-del-parrafo-50.webp",
-   "date": "2026-11-26T20:49:10+00:00"
-  },
-  {
    "title": "Subte F: un consorcio chino-argentino presentó la oferta más baja y sacó ventaja para quedarse con la obra",
    "link": "https://www.ambito.com/informacion-general/subte-f-un-gigante-chino-y-tres-firmas-locales-presentaron-las-ofertas-mas-bajas-y-se-disputan-la-obra-n6349763",
    "source": "Ámbito",
@@ -418,108 +538,12 @@
    "date": "2026-11-26T20:46:00+00:00"
   },
   {
-   "title": "De Messi a Buffon: el uno por uno de las estrellas que ya fueron confirmadas para la despedida de Tevez",
-   "link": "https://www.ole.com.ar/boca-juniors/figuras-despedida-carlos-tevez_0_VbZ1wphUiK.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/26/vd8NoxZ1O_1200x630__1.jpg",
-   "date": "2026-11-26T20:42:53+00:00"
-  },
-  {
-   "title": "¿Mete mano? El ensayo de Jadson Viera en Independiente de cara al duelo ante Vélez",
-   "link": "https://www.ole.com.ar/independiente/independiente-jadson-viera-posible-equipo-formacion-velez-cuartos-final_0_yC6NVilPrQ.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/10/25/wJL9lnDd2_1200x630__1.jpg",
-   "date": "2026-11-26T20:40:10+00:00"
-  },
-  {
-   "title": "El dolor del Inter Miami antes del partido clave frente al Columbus Crew por los playoffs de la MLS",
-   "link": "https://www.ole.com.ar/futbol-internacional/mls/duro-momento-inter-miami-mls-playoffs-columbus-crew-tadeo-allende-mensaje-club_0_goPQzbexMy.html",
-   "source": "Olé",
-   "cat": "deportes",
-   "image": "https://www.ole.com.ar/images/2026/11/26/CkcWinO2p_1200x630__1.jpg",
-   "date": "2026-11-26T20:38:20+00:00"
-  },
-  {
-   "title": "Para la Justicia, no hubo \"encubrimiento\" en la decisión de los diputados bonaerenses de archivar los pedidos de informes por la causa Chocolate",
-   "link": "https://www.clarin.com/politica/justicia-encubrimiento-decision-diputados-bonaerenses-archivar-pedidos-informes-causa-chocolate_0_IXjzAOAQip.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2023/09/21/AcPG9_A_5_1200x630__1.jpg",
-   "date": "2026-11-26T20:37:00+00:00"
-  },
-  {
-   "title": "EEUU acusa de hurto al español detenido por ICE y le ofrece una salida voluntaria del país",
-   "link": "https://www.clarin.com/estados-unidos/eeuu-acusa-de-hurto-al-espanol-detenido-por-ice-y-le-ofrece-una-salida-voluntaria-del-pais_0_au77sanfj0.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/08/27/ulrSZN4Sn_1200x630__1.jpg",
-   "date": "2026-11-26T20:30:25+00:00"
-  },
-  {
-   "title": "Graciela Borges recibió el primer Premio Lumiton en el Festival Vicente López Ciudad del Cine",
-   "link": "https://www.clarin.com/zonales/graciela-borges-recibio-primer-premio-lumiton-festival-vicente-lopez-ciudad-cine_0_7ZfuXfbOxo.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/24/At6NHzxgz_1200x630__1.jpg",
-   "date": "2026-11-26T20:26:27+00:00"
-  },
-  {
    "title": "Pagos digitales: cuáles son los aspectos que más valoran los argentinos a la hora de comprar online",
    "link": "https://www.ambito.com/economia/pagos-digitales-cuales-son-los-aspectos-que-mas-valoran-los-argentinos-la-hora-comprar-online-n6349650",
    "source": "Ámbito Economía",
    "cat": "economia",
    "image": "https://media.ambito.com/p/9f58251f9938082ec80273edd203eb45/adjuntos/239/imagenes/043/578/0043578009/1200x675/736x652:756x672/jugueterias-y-compras-digitales-online.jpg",
    "date": "2026-11-26T20:25:00+00:00"
-  },
-  {
-   "title": "El Día de la Amistad Argentino-Brasileña",
-   "link": "https://www.clarin.com/opinion/dia-amistad-argentino-brasilena_0_Ge66fJXDsM.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2022/11/29/xYEgDlB8v_1200x630__1.jpg",
-   "date": "2026-11-26T20:24:41+00:00"
-  },
-  {
-   "title": "Avanza la venta de más terrenos alrededor del Parque de la Costa",
-   "link": "https://www.clarin.com/zonales/avanza-venta-terrenos-alrededor-parque-costa_0_pWWLHfyJo1.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2021/03/24/0c4Xnq9Bl_1200x630__1.jpg",
-   "date": "2026-11-26T20:23:17+00:00"
-  },
-  {
-   "title": "Nvidia se acerca al \"cruce de la muerte\": qué implica la señal que enciende las alertas en Wall Street",
-   "link": "https://www.ambito.com/finanzas/nvidia-se-acerca-al-cruce-la-muerte-que-implica-la-senal-que-enciende-las-alertas-wall-street-n6349775",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://media.ambito.com/p/123f568360d64e4829554be9f6fa9b1b/adjuntos/239/imagenes/043/764/0043764302/1200x675/781x418:801x438/nvidia-1500-x-1000.png",
-   "date": "2026-11-26T20:13:00+00:00"
-  },
-  {
-   "title": "Entre el voto castigo y las preferencias ideológicas",
-   "link": "https://www.clarin.com/opinion/voto-castigo-preferencias-ideologicas_0_SlZrSpb5lF.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/26/5xfWrDArS_1200x630__1.jpg",
-   "date": "2026-11-26T20:09:15+00:00"
-  },
-  {
-   "title": "\"Tener una voz que incida en políticas públicas\": el desafío de García Cuerva al frente de la pastoral carcelaria del Vaticano",
-   "link": "https://www.clarin.com/politica/tener-voz-incida-politicas-publicas-desafio-garcia-cuerva-frente-pastoral-carcelaria-vaticano_0_eCaMrAdCvk.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/26/p7WUnQyod_1200x630__1.jpg",
-   "date": "2026-11-26T20:06:38+00:00"
-  },
-  {
-   "title": "La otra cara de \"El fantasma\" de la vanguardia de Buenos Aires",
-   "link": "https://www.clarin.com/revista-n/cara-fantasma-vanguardia-buenos-aires_0_mhmkdes7Rz.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/19/ud6JJu-5S_1200x630__1.jpg",
-   "date": "2026-11-26T20:05:11+00:00"
   },
   {
    "title": "El dólar blue bajó por primera vez en 10 ruedas, pero se mantuvo en los $1.700",
@@ -532,18 +556,10 @@
   {
    "title": "\"Estamos saliendo del estancamiento\": la cosecha de granos récord trae un aluvión de dólares a la Argentina",
    "link": "https://www.clarin.com/rural/saliendo-estancamiento-cosecha-granos-record-trae-aluvion-dolares-argentina_0_mjnLdIjqyP.html",
-   "source": "Clarín",
-   "cat": "argentina",
+   "source": "Clarín Economía",
+   "cat": "economia",
    "image": "https://www.clarin.com/img/2026/07/03/dYiL5a9GJ_1200x630__1.jpg",
    "date": "2026-11-26T19:58:02+00:00"
-  },
-  {
-   "title": "Zverev, el número 1 del mundo, y una temprana despedida de la Copa Davis: Gran Bretaña sacó a Alemania y jugará con España",
-   "link": "https://www.clarin.com/deportes/zverev-numero-1-mundo-temprana-despedida-copa-davis-gran-bretana-saco-alemania_0_8Kpw0JI4m3.html",
-   "source": "Clarín",
-   "cat": "argentina",
-   "image": "https://www.clarin.com/img/2026/11/26/aB9JVstki_1200x630__1.jpg",
-   "date": "2026-11-26T19:54:23+00:00"
   },
   {
    "title": "Amazon remata noviembre con una nueva rebaja en el Kindle Paperwhite que lo deja a precio mínimo",
@@ -746,6 +762,14 @@
    "date": "2026-11-26T15:35:00+00:00"
   },
   {
+   "title": "Científicos realizan un hallazgo en las profundidades de la fosa de las Marianas que podría ayudar a resolver el misterio del abismo Challenger",
+   "link": "https://muyinteresante.okdiario.com/naturaleza/descubrimiento-erupcion-volcanica-fosa-marianas-6000-metros.html",
+   "source": "Muy Interesante",
+   "cat": "ciencia",
+   "image": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/11/cientificos-realizan-un-hallazgo-sin-og.jpg",
+   "date": "2026-11-26T15:34:07+00:00"
+  },
+  {
    "title": "El poco conocido origen mexicano del pavo que se come en Acción de Gracias en Estados Unidos",
    "link": "https://www.bbc.com/mundo/articles/cyv7r0m6g14o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Mundo",
@@ -768,14 +792,6 @@
    "cat": "economia",
    "image": "https://media.ambito.com/p/b59bbd08fec8400ee3b1a32615e61da4/adjuntos/239/imagenes/037/533/0037533366/1200x675/smart/metalurgicosjpg.jpg",
    "date": "2026-11-26T15:22:00+00:00"
-  },
-  {
-   "title": "El Gobierno logró un triunfo en el Senado: aprobó la suspensión de las PASO y Ficha Limpia",
-   "link": "https://www.ambito.com/politica/el-senado-vuelve-sesionar-aprobar-y-girar-diputados-la-eliminacion-las-paso-n6349308",
-   "source": "Ámbito",
-   "cat": "argentina",
-   "image": "https://i.ytimg.com/vi/UF7HFiHD5bk/maxresdefault.jpg",
-   "date": "2026-11-26T15:04:00+00:00"
   },
   {
    "title": "Ariana Grande se defendió de las críticas a su cuerpo y explicó el verdadero significado de su polémico videoclip",
@@ -880,14 +896,6 @@
    "cat": "economia",
    "image": "https://www.clarin.com/img/2011/04/11/BklX7NkNe_1200x630.jpg",
    "date": "2026-11-26T10:45:17+00:00"
-  },
-  {
-   "title": "Euro hoy en Panamá: precio y cotización de la divisa este jueves 26 de noviembre de 2026",
-   "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-jueves-26-de-noviembre-de-2026_0_KKaGwrX8Ay.html",
-   "source": "Clarín Economía",
-   "cat": "economia",
-   "image": "https://www.clarin.com/img/2018/08/29/B1sEYYBv7_1200x630__1.jpg",
-   "date": "2026-11-26T10:45:16+00:00"
   },
   {
    "title": "Por qué nuestros cerebros no están preparados para hacer varias tareas a la vez (aunque creas que lo haces bien)",
